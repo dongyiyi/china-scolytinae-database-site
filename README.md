@@ -1,6 +1,8 @@
 # China Scolytinae & Platypodinae Database — Public Website
 
-This repository contains the **public deployment artifact** for the China Scolytinae & Platypodinae Database website.
+**[Visit the live database](https://dongyiyi.github.io/china-scolytinae-database-site/)**
+
+This repository contains the **public deployment artifact** for the China Scolytinae & Platypodinae Database website. The repository itself is not the primary user interface; the live database is available at the link above.
 
 The authoritative source repository and curation infrastructure are maintained separately and remain private. Files in this repository are generated only after the public website build passes schema classification, content-preservation checks, and internal-identifier leakage checks.
 
@@ -12,6 +14,6 @@ It intentionally does **not** contain internal curation SOPs, QA ledgers, migrat
 
 ## Feedback
 
-Corrections and source-backed feedback should be submitted through the separate public issue tracker: `dongyiyi/china-scolytinae-database-feedback`.
+Corrections and source-backed feedback should be submitted through the **[public issue tracker](https://github.com/dongyiyi/china-scolytinae-database-feedback/issues)**.
 
 The contents of this repository should be treated as generated publication output rather than the authoritative editing source.
