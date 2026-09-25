@@ -1,4 +1,5 @@
 const citeApp=document.querySelector('#app');
+const DATABASE_URL='https://dongyiyi.github.io/china-scolytinae-database-site/';
 
 function renderCitePage(){
   const route=(location.hash.slice(1)||'/').split('?')[0];
@@ -12,8 +13,7 @@ function renderCitePage(){
 <section class="grid cite-page">
   <article class="card full">
     <h2>How to cite this database</h2>
-    <div class="citation-box"><strong>Dong, Y. 2026.</strong> <em>China Scolytinae &amp; Platypodinae Database.</em></div>
-    <p class="notice">The permanent website URL will be added upon public release. When citing the public database, include the date on which you accessed it.</p>
+    <div class="citation-box"><strong>Dong, Y. 2026.</strong> <em>China Scolytinae &amp; Platypodinae Database.</em> <a href="${DATABASE_URL}" target="_blank" rel="noopener">${DATABASE_URL}</a>. Accessed [date].</div>
   </article>
 
   <article class="card full">
