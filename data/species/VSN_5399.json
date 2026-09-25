@@ -1,0 +1,154 @@
+{
+  "vsn": "VSN_5399",
+  "scientific_name": "Scolytoplatypus brahma",
+  "authorship": "Blandford, 1898",
+  "chinese_name": "",
+  "genus": "Scolytoplatypus",
+  "subfamily": "Scolytinae",
+  "tribe": "Scolytoplatypodini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "云南",
+    "narrative": "Liao et al. (2022) provides the first China records of Scolytoplatypus brahma from multiple localities in Yunnan."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Cryptocarya wightiana"
+    },
+    {
+      "scientific_name": "Ilex dipyrena"
+    },
+    {
+      "scientific_name": "Swietenia mahagoni"
+    },
+    {
+      "scientific_name": "Erythrina subumbrans"
+    },
+    {
+      "scientific_name": "Hevea brasiliensis"
+    },
+    {
+      "scientific_name": "Theobroma cacao"
+    },
+    {
+      "scientific_name": "Vernonia arborea"
+    }
+  ],
+  "host_note": "The listed hosts are literature/global biological host records summarized by the source, not direct host labels from the Yunnan specimens. This evidence provenance is retained in the profile.",
+  "taxonomy_summary": "The current accepted identity is Scolytoplatypus brahma Blandford, 1898.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1904",
+      "event": "Synonym",
+      "name": "Scolytoplatypus hamatus",
+      "authorship": "Hagedorn, 1904",
+      "note": "Published name currently treated as a synonym; original-description p. 260.",
+      "reference_ids": [
+        "orig_4e8d85752257",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1935",
+      "event": "Synonym",
+      "name": "Scolytoplatypus paucegranulatus",
+      "authorship": "Eggers, 1935",
+      "note": "Published name currently treated as a synonym; original-description p. 242.",
+      "reference_ids": [
+        "orig_74290a5969db",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1943",
+      "event": "Synonym",
+      "name": "Scolytoplatypus hirsutus",
+      "authorship": "Blackman, 1943",
+      "note": "Published name currently treated as a synonym; original-description p. 124.",
+      "reference_ids": [
+        "orig_f69fd5676e6f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1898",
+      "event": "Current accepted",
+      "name": "Scolytoplatypus brahma",
+      "authorship": "Blandford, 1898",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_3ae896338940",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The 2022 source uses Scolytoplatypus brahma Blandford, 1898, mapping directly to VSN_5399.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_liaoetal2022_scolytoplatypuschina",
+      "label": "Liao et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Liao, S., Lai, S., Beaver, R.A., Gebhardt, H. & Wang, J. (2022). New species and new records of Scolytoplatypus Schaufuss (Curculionidae, Scolytinae) from China, and resurrection of Scolytoplatypus sinensis (Tsai & Huang, 1965) as a distinct species. ZooKeys 1082: 27–50.",
+      "doi": "10.3897/zookeys.1082.77637"
+    },
+    {
+      "id": "orig_3ae896338940",
+      "label": "Blandford, 1898b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1898b). On some Oriental Scolytidae of economic importance, with descriptions of five new species. Transactions of the Entomological Society of London 1898: 423–430."
+    },
+    {
+      "id": "orig_4e8d85752257",
+      "label": "Hagedorn, 1904c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hagedorn, J.M. (1904c). Ein neuer Scolytoplatypus aus Java 21: 260-263. Insekten-Börse 21: 260–263."
+    },
+    {
+      "id": "orig_74290a5969db",
+      "label": "Eggers, 1935a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1935a). Funf neue Arten der Gattung Scolytoplatypus (Col. Ipidae) aus dem indomalayischen Gebiet. Entomologische Blätter 31: 240–245."
+    },
+    {
+      "id": "orig_f69fd5676e6f",
+      "label": "Blackman, 1943b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blackman, M.W. (1943b). New species of Scolytoplatypus Schaufuss from Malaysia (Coleoptera; Scolytoidea). Proceedings of the Entomological Society of Washington 45: 121–126."
+    }
+  ]
+}

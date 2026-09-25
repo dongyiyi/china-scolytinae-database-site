@@ -1,0 +1,128 @@
+{
+  "vsn": "VSN_2561",
+  "scientific_name": "Eidophelus imitans",
+  "authorship": "Eichhoff, 1876",
+  "chinese_name": "",
+  "genus": "Eidophelus",
+  "subfamily": "Scolytinae",
+  "tribe": "Ernoporini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾",
+    "narrative": "Accepted for Taiwan from Beaver & Liu (2010). No mainland China occurrence is promoted from this source record."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Toxicodendron trichocarpum"
+    },
+    {
+      "scientific_name": "Celastrus articulata"
+    },
+    {
+      "scientific_name": "Quercus acutissima"
+    },
+    {
+      "scientific_name": "Phellodendron sachalinensis"
+    }
+  ],
+  "host_note": "Beaver & Liu (2010) explicitly reports Toxicodendron trichocarpum, Celastrus articulata, Quercus acutissima and Phellodendron sachalinensis. These source-supported species-level associations are promoted without taxonomic expansion.",
+  "taxonomy_summary": "The current accepted identity is Eidophelus imitans Eichhoff, 1876.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1956",
+      "event": "Synonym",
+      "name": "Phellodendrophagus elegans",
+      "authorship": "Krivolutskaya, 1956",
+      "note": "Published name currently treated as a synonym; original-description p. 56.",
+      "reference_ids": [
+        "orig_5c7a3dcfcd8e",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1959",
+      "event": "Synonym",
+      "name": "Ptilopodius nitidus",
+      "authorship": "Schedl, 1959",
+      "note": "Published name currently treated as a synonym; original-description p. 475.",
+      "reference_ids": [
+        "orig_35cde45dd62c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1876",
+      "event": "Current accepted",
+      "name": "Eidophelus imitans",
+      "authorship": "Eichhoff, 1876",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_16f436d94e7b",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Eidophelus imitans Eichhoff, 1876, VSN_2561. Beaver & Liu (2010) uses Eidophelus imitans with authorship Eichhoff.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_16f436d94e7b",
+      "label": "Chapuis & Eichhoff, 1876",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Chapuis, F. & Eichhoff, W.J. (1876). Scolytides recueillis au Japon par M. C. Lewis [cont.]. Annales de la Société Entomologique de Belgique 18: 197–204."
+    },
+    {
+      "id": "orig_5c7a3dcfcd8e",
+      "label": "Krivolutskaya, 1956a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Krivolutskaya, G.O. (1956a). Bark-beetles of Sakhalin Island (Preliminary communication). In: Kurentsov, A.I. (Ed.), Trudy Dalnevostochnogo filiala imeni V.L. Komarova Akademii nauk SSSR, Ser. Zool., Vol. III (VI), Vladivostok, 55–64."
+    },
+    {
+      "id": "orig_35cde45dd62c",
+      "label": "Schedl, 1959i",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1959i). A check list of the Scolytidae and Platypodidae (Coleoptera) of Ceylon with descriptions of new species and biological notes. Transactions of the Royal Entomological Society of London 111(15): 469–520.",
+      "doi": "10.1111/j.1365-2311.1959.tb02874.x"
+    }
+  ]
+}

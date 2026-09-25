@@ -1,0 +1,94 @@
+{
+  "vsn": "VSN_0277",
+  "scientific_name": "Ambrosiophilus satoi",
+  "authorship": "(Schedl, 1966)",
+  "chinese_name": "",
+  "genus": "Ambrosiophilus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Taiwan",
+    "narrative": "Beaver & Liu (2010) directly confirms Taiwan occurrence with examined material from Nantou, Taichung and Taipei localities."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Cinnamomum camphora"
+    }
+  ],
+  "host_note": "Cinnamomum camphora is explicitly reported as a camphor-log host and is promoted at species level. No broader host inference is made.",
+  "taxonomy_summary": "The current accepted identity is Ambrosiophilus satoi (Schedl, 1966).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1966",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus satoi",
+      "authorship": "Schedl, 1966",
+      "note": "Original combination / basionym, original-description p. 39.",
+      "reference_ids": [
+        "orig_schedl1966",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "Current",
+      "event": "Current accepted",
+      "name": "Ambrosiophilus satoi",
+      "authorship": "(Schedl, 1966)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "src_beaverliu2010",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Beaver & Liu (2010) treats the species in Ambrosiophilus as a new combination; this nomenclatural provenance is preserved.",
+  "nomenclature_note_reference_ids": [
+    "src_beaverliu2010"
+  ],
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_schedl1966",
+      "label": "Schedl, 1966",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1966). Pin-hole borers and bark-beetles (Scolytidae and Platypodidae) intercepted from imported logs in Japanese ports. 241 Contribution. Kontyû 34(1): 29–43."
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ]
+}

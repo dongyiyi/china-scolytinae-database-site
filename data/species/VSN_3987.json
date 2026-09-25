@@ -1,0 +1,107 @@
+{
+  "vsn": "VSN_3987",
+  "scientific_name": "Phloeocranus bruchoides",
+  "authorship": "Schedl, 1942",
+  "chinese_name": "鳞突肩小蠹",
+  "genus": "Phloeocranus",
+  "subfamily": "Scolytinae",
+  "tribe": "Phloeosinini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾（南投）；香港",
+    "narrative": "Lin & Beaver (2021) provides the first Taiwan record of Phloeocranus bruchoides, based on 26 males and 23 females from Yuchi Township, Nantou. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Lindera communis"
+    }
+  ],
+  "host_note": "The Taiwan series was bred directly from Lindera communis. The source describes monogamous, phloeophagous breeding and gallery construction; Lindera communis is promoted as confirmed current host evidence.",
+  "taxonomy_summary": "The current accepted identity is Phloeocranus bruchoides Schedl, 1942.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1949",
+      "event": "Synonym",
+      "name": "Diamerides litseae",
+      "authorship": "Browne, 1949",
+      "note": "Published name currently treated as a synonym; original-description p. 894.",
+      "reference_ids": [
+        "orig_a94308f50248",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1942",
+      "event": "Current accepted",
+      "name": "Phloeocranus bruchoides",
+      "authorship": "Schedl, 1942",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_180460ae7106",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Phloeocranus bruchoides Schedl, 1942, VSN_3987.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_linbeaver2021_taiwanbarkbeetles",
+      "label": "Lin & Beaver, 2021",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Lin, C.-S. & Beaver, R.A. (2021). A new species and five new records of bark beetles (Coleoptera, Curculionidae, Scolytinae) from Taiwan. Taiwania 66(1): 1–10.",
+      "doi": "10.6165/tai.2021.66.1"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "orig_a94308f50248",
+      "label": "Browne, 1949",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Browne, F.G. (1949). Notes on Malayan Scolytoidea (Coleoptera) with descriptions of new species. Annals and Magazine of Natural History. Ser. 12, 1(12): 892–912.",
+      "doi": "10.1080/00222934808653953"
+    },
+    {
+      "id": "orig_180460ae7106",
+      "label": "Schedl, 1942d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1942d). Neue Scolytidae aus Java. 76 Beitrag. Tijdschrift voor Entomologie 85: 1–49."
+    }
+  ]
+}

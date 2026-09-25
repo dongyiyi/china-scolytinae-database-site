@@ -1,0 +1,169 @@
+{
+  "vsn": "VSN_4000",
+  "scientific_name": "Phloeosinus aubei",
+  "authorship": "(Perris, 1855)",
+  "chinese_name": "柏肤小蠹",
+  "genus": "Phloeosinus",
+  "subfamily": "Scolytinae",
+  "tribe": "Phloeosinini",
+  "checklist_status": "Unreviewed",
+  "review_status": "Not started",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Phloeosinus aubei (Perris, 1855).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1855",
+      "event": "Original combination / basionym",
+      "name": "Hylesinus aubei",
+      "authorship": "Perris, 1855",
+      "note": "Original combination / basionym, original-description p. lxxviii.",
+      "reference_ids": [
+        "orig_6056d77fb379",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1866",
+      "event": "Synonym",
+      "name": "Phloeophthorus praenotatus",
+      "authorship": "Gredler, 1866",
+      "note": "Published name currently treated as a synonym; original-description p. 370.",
+      "reference_ids": [
+        "orig_2f268437cc87",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1903",
+      "event": "Synonym",
+      "name": "Phloeosinus transcaspicus",
+      "authorship": "Semenov, 1903",
+      "note": "Published name currently treated as a synonym; original-description p. 79.",
+      "reference_ids": [
+        "orig_c6ef7f7be7fb",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1922",
+      "event": "Synonym",
+      "name": "Phloeosinus hercegovinensis",
+      "authorship": "Eggers, 1922",
+      "note": "Published name currently treated as a synonym; original-description p. 120.",
+      "reference_ids": [
+        "orig_0612c02286e6",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1922",
+      "event": "Synonym",
+      "name": "Phloeosinus schumensis",
+      "authorship": "Eggers, 1922",
+      "note": "Published name currently treated as a synonym; original-description p. 166.",
+      "reference_ids": [
+        "orig_c14fa6a9014c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1855",
+      "event": "Current accepted",
+      "name": "Phloeosinus aubei",
+      "authorship": "(Perris, 1855)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_6056d77fb379",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 5 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "orig_6056d77fb379",
+      "label": "Perris, 1855",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Perris, E. (1855). [new taxa]. Bulletin de la Société Entomologique de France. Sér. 3, 3: lxxvii–lxxx."
+    },
+    {
+      "id": "orig_2f268437cc87",
+      "label": "Gredler, 1866",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Gredler, I.V.M. (1866). Die Käfer von Tirol nach ihrer horizontalen und vertikalen Verbreitung. II. Hälfte: Dascillidae - Schluss. Mit mehren diagnosirten Novitäten. Druck u. Verlag von G. Ferrari, vormals Eberle, Bozen, [2] + 235–491 pp."
+    },
+    {
+      "id": "orig_0612c02286e6",
+      "label": "Eggers, 1922b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1922b). Seltene und neue paläarktische Borkenkäfer, IV. Entomologische Blätter 18: 116–121."
+    },
+    {
+      "id": "orig_c14fa6a9014c",
+      "label": "Eggers, 1922c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1922c). Neue Borkenkäfer (Ipidae) aus Afrika. (Nachtrag I). Entomologische Blätter 18: 163–174."
+    },
+    {
+      "id": "orig_c6ef7f7be7fb",
+      "label": "Semenov, 1903",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Semenov, A.P. (1903). Dva novykh koroeda (Coleoptera, Scolytidae) russkoy fauny. Russkoe Entomologicheskoe Obozrenie 3: 79–80."
+    }
+  ]
+}

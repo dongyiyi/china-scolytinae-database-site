@@ -1,0 +1,172 @@
+{
+  "vsn": "VSN_2681",
+  "scientific_name": "Euwallacea destruens",
+  "authorship": "(Blandford, 1896)",
+  "chinese_name": "",
+  "genus": "Euwallacea",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "中国大陆（区域记录，未细化至省级）；西南中国；台湾",
+    "narrative": "Smith et al. (2020) reports only 'Southwest China' for mainland occurrence; no province-level inference is promoted. Beaver & Liu (2010) independently reports China (SW) and Taiwan and directly confirms Taiwan, including Nantou, Neimoupu. Taiwan is therefore promoted to Present while mainland geography remains coarse."
+  },
+  "hosts": [],
+  "host_note": "No specific host taxon is promoted. Beaver & Liu (2010) characterizes the species as polyphagous, but this broad host-use statement remains contextual.",
+  "taxonomy_summary": "The current accepted identity is Euwallacea destruens (Blandford, 1896).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1896",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus destruens",
+      "authorship": "Blandford, 1896",
+      "note": "Original combination / basionym, original-description p. 221.",
+      "reference_ids": [
+        "orig_bb1f17fed112",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1934",
+      "event": "Synonym",
+      "name": "Xyleborus barbatulus",
+      "authorship": "Schedl, 1934",
+      "note": "Published name currently treated as a synonym; original-description p. 86.",
+      "reference_ids": [
+        "orig_b52759a92db5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1942",
+      "event": "Synonym",
+      "name": "Xyleborus procerior",
+      "authorship": "Schedl, 1942",
+      "note": "Published name currently treated as a synonym; original-description p. 189.",
+      "reference_ids": [
+        "orig_12e277497cec",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1950",
+      "event": "Synonym",
+      "name": "Xyleborus nandarivatus",
+      "authorship": "Schedl, 1950",
+      "note": "Published name currently treated as a synonym; original-description p. 52.",
+      "reference_ids": [
+        "orig_77b2271ddb06",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1969",
+      "event": "Synonym",
+      "name": "Xyleborus procerrimus",
+      "authorship": "Schedl, 1969",
+      "note": "Published name currently treated as a synonym; original-description p. 214.",
+      "reference_ids": [
+        "orig_e1aef404dc0b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1896",
+      "event": "Current accepted",
+      "name": "Euwallacea destruens",
+      "authorship": "(Blandford, 1896)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_bb1f17fed112",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Euwallacea destruens (Blandford, 1896), VSN_2681. Beaver & Liu (2010) adds occurrence evidence without changing the accepted identity.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_bb1f17fed112",
+      "label": "Blandford, 1896e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1896e). Descriptions of new Scolytidae from the Indo-Malayan and Austro-Malayan regions. Transactions of the Entomological Society of London 1896: 191–228."
+    },
+    {
+      "id": "orig_b52759a92db5",
+      "label": "Schedl, 1934a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1934a). Neue Indomalayische Scolytidae. II. Beitrag. Entomologische Berichten 9: 84–92."
+    },
+    {
+      "id": "orig_77b2271ddb06",
+      "label": "Schedl, 1950e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1950e). Fauna Fijiana (Scolytoidea). 94 Contribution. Occasional Papers of Bernice P. Bishop Museum 20(3): 35–54."
+    },
+    {
+      "id": "orig_12e277497cec",
+      "label": "Schedl, 1942c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1942c). Interessante und neue Scolytiden und Platypodiden aus der australischen Region. 79 Beitrag. Mitteilungen der Münchener Entomologischen Gesellschaft 32: 162–201. https://www.biodiversitylibrary.org/page/28982895."
+    },
+    {
+      "id": "orig_e1aef404dc0b",
+      "label": "Schedl, 1969a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1969a). Bark-beetles and pin-hole borers (Scolytidae and Platypodidae) intercepted from imported logs in Japanese ports, III. 258 Contribution. Kontyû 37(2): 202–219."
+    }
+  ]
+}

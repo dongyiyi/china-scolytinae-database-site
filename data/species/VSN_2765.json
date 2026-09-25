@@ -1,0 +1,91 @@
+{
+  "vsn": "VSN_2765",
+  "scientific_name": "Fraudatrix cuneiformis",
+  "authorship": "(Schedl, 1958)",
+  "chinese_name": "",
+  "genus": "Fraudatrix",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾",
+    "narrative": "Beaver & Liu (2010) reports the first Taiwan record from Nantou, Neimoupu, funnel trap, 30.iv.2005."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Shorea spp."
+    }
+  ],
+  "host_note": "The source explicitly reports two Shorea species. The host is promoted at the reported genus-level plural resolution as Shorea spp.; no species identity is inferred.",
+  "taxonomy_summary": "The current accepted identity is Fraudatrix cuneiformis (Schedl, 1958).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1958",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus cuneiformis",
+      "authorship": "Schedl, 1958",
+      "note": "Original combination / basionym, original-description p. 104.",
+      "reference_ids": [
+        "orig_f9e21ae8c827",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1958",
+      "event": "Current accepted",
+      "name": "Fraudatrix cuneiformis",
+      "authorship": "(Schedl, 1958)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_f9e21ae8c827",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Beaver & Liu (2010) records the species as Xyleborus cuneiformis. Current canonical identity follows integrated taxonomic backbone: Fraudatrix cuneiformis (Schedl, 1958), VSN_2765.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_f9e21ae8c827",
+      "label": "Schedl, 1958e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1958e). Bark and timber beetles from Malaya. Malayan Forester 21(2): 99–105."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "vsn": "VSN_3432",
+  "scientific_name": "Ips shangrila",
+  "authorship": "Cognato & Sun, 2007",
+  "chinese_name": "香格里拉齿小蠹",
+  "genus": "Ips",
+  "subfamily": "Scolytinae",
+  "tribe": "Ipini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "西藏；青海；甘肃；四川；云南",
+    "narrative": "Wang et al. (2021) reports Ips shangrila from Xizang, Qinghai, Gansu, Sichuan and Yunnan."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Picea likiangensis var. balfouriana"
+    },
+    {
+      "scientific_name": "Picea crassifolia"
+    }
+  ],
+  "host_note": "The source reports Picea likiangensis var. balfouriana and Picea crassifolia; regional population structure and branch-use observations are retained in the Source Record rather than promoted into the checklist summary.",
+  "taxonomy_summary": "The current accepted identity is Ips shangrila Cognato & Sun, 2007.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2007",
+      "event": "Current accepted",
+      "name": "Ips shangrila",
+      "authorship": "Cognato & Sun, 2007",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_d7d9f6d6bf9d",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Wang et al. (2021) uses Ips shangrila Cognato & Sun, matching stable identity VSN_3432.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_wangetal2021",
+      "label": "王正等 2021",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "王正, 马晓乾, 周勤政, 郑桂恒, 夏吾加, 张艳明, 王成立, 晋鹏非, 吕全, 张星耀. 2021. 中国齿小蠹属昆虫的鉴定. 林业科学 57(12): 79–91.",
+      "doi": "10.11707/j.1001-7488.20211208"
+    },
+    {
+      "id": "orig_d7d9f6d6bf9d",
+      "label": "Cognato & Sun, 2007",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Cognato, A.I. & Sun, J.H. (2007). DNA based cladograms augment the discovery of a new Ips species from China (Coleoptera: Curculionidae: Scolytinae). Cladistics 23(6): 539–551."
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "vsn": "VSN_2218",
+  "scientific_name": "Debus quadrispinus",
+  "authorship": "(Motschulsky, 1863)",
+  "chinese_name": "",
+  "genus": "Debus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "江西；云南",
+    "narrative": "Smith et al. (2020) records Jiangxi and Yunnan."
+  },
+  "hosts": [],
+  "host_note": "No confirmed host is promoted from the reviewed record.",
+  "taxonomy_summary": "The current accepted identity is Debus quadrispinus (Motschulsky, 1863).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1863",
+      "event": "Original combination / basionym",
+      "name": "Tomicus quadrispinus",
+      "authorship": "Motschulsky, 1863",
+      "note": "Original combination / basionym, original-description p. 514.",
+      "reference_ids": [
+        "orig_8606915d2315",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Xyleborus fallax",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 508.",
+      "reference_ids": [
+        "orig_df23847f2e11",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Xyleborus fallax",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 392.",
+      "reference_ids": [
+        "orig_f5d8b473992f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1914",
+      "event": "Synonym",
+      "name": "Xyleborus fallax",
+      "authorship": "Stebbing, 1914",
+      "note": "Published name currently treated as a synonym; original-description p. 582.",
+      "reference_ids": [
+        "orig_3c2b62796c19",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Xyleborus amphicranulus",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 204.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1935",
+      "event": "Synonym",
+      "name": "Xyleborus fastigatus",
+      "authorship": "Schedl, 1935",
+      "note": "Published name currently treated as a synonym; original-description p. 402.",
+      "reference_ids": [
+        "orig_75a947a7d931",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1863",
+      "event": "Current accepted",
+      "name": "Debus quadrispinus",
+      "authorship": "(Motschulsky, 1863)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_8606915d2315",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Smith et al. (2020) treats this taxon in the new combination Debus quadrispinus.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_8606915d2315",
+      "label": "Motschulsky, 1863",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Motschulsky, V. de (1863). Essai d’un catalogue des insectes de l’île Ceylan. Bulletin de la Société Impériale des Naturalistes de Moscou 36(2): 421–532."
+    },
+    {
+      "id": "orig_c8c8b73ae935",
+      "label": "Eggers, 1923b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3–4): 129–220."
+    },
+    {
+      "id": "orig_df23847f2e11",
+      "label": "Eichhoff, 1878b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
+    },
+    {
+      "id": "orig_f5d8b473992f",
+      "label": "Eichhoff, 1878a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878a). Neue oder noch unbeschriebene Tomicinen. Stettiner Entomologische Zeitung 39: 383–392."
+    },
+    {
+      "id": "orig_3c2b62796c19",
+      "label": "Stebbing, 1914",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Stebbing, E.P. (1914). Indian forest insects of economic importance. Coleoptera. Eyre & Spottiswoode, Ltd., London. xvi + 648 pp, 63 pls.",
+      "doi": "10.5962/bhl.title.9203"
+    },
+    {
+      "id": "orig_75a947a7d931",
+      "label": "Schedl, 1935d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1935d). Fauna Philippinensis (Platypodidae et Scolytidae). III. Philippine Journal of Science 56(3): 395–403."
+    }
+  ]
+}

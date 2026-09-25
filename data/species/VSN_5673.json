@@ -1,0 +1,182 @@
+{
+  "vsn": "VSN_5673",
+  "scientific_name": "Stictodex dimidiatus",
+  "authorship": "(Eggers, 1927)",
+  "chinese_name": "",
+  "genus": "Stictodex",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "云南",
+    "narrative": "Smith et al. (2022) records Yunnan, with locality evidence from Yunnan, Wenshan and Yunnan, Xishuangbanna."
+  },
+  "hosts": [],
+  "host_note": "No host is reported in the integrated Smith et al. (2022) record.",
+  "taxonomy_summary": "The current accepted identity is Stictodex dimidiatus (Eggers, 1927).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1927",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus dimidiatus",
+      "authorship": "Eggers, 1927",
+      "note": "Original combination / basionym, original-description p. 404.",
+      "reference_ids": [
+        "orig_58d41b1540d4",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Synonym",
+      "name": "Xyleborus dorsosulcatus",
+      "authorship": "Beeson, 1930",
+      "note": "Published name currently treated as a synonym; original-description p. 219.",
+      "reference_ids": [
+        "orig_f0b5be63e90e",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1936",
+      "event": "Synonym",
+      "name": "Xyleborus tunggali",
+      "authorship": "Schedl, 1936",
+      "note": "Published name currently treated as a synonym; original-description p. 32.",
+      "reference_ids": [
+        "orig_3cdcd6e057aa",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1953",
+      "event": "Synonym",
+      "name": "Xyleborus decumans",
+      "authorship": "Schedl, 1953",
+      "note": "Published name currently treated as a synonym; original-description p. 301.",
+      "reference_ids": [
+        "orig_18d1a96882cf",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1973",
+      "event": "Synonym",
+      "name": "Xyleborus cruciatus",
+      "authorship": "Schedl, 1973",
+      "note": "Published name currently treated as a synonym; original-description p. 90.",
+      "reference_ids": [
+        "orig_c9ec4eaa7d35",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1986",
+      "event": "Synonym",
+      "name": "Xyleborus spicatus",
+      "authorship": "Browne, 1986",
+      "note": "Published name currently treated as a synonym; original-description p. 95.",
+      "reference_ids": [
+        "orig_9aca0a8eed14",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1927",
+      "event": "Current accepted",
+      "name": "Stictodex dimidiatus",
+      "authorship": "(Eggers, 1927)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_58d41b1540d4",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Stictodex dimidiatus (Eggers, 1927), VSN_5673.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2022",
+      "label": "Smith et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
+      "doi": "10.11646/zootaxa.5209.1.1"
+    },
+    {
+      "id": "orig_18d1a96882cf",
+      "label": "Schedl, 1953f",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1953f). Fauna Indo-Malayensis, III. Contribution 133 to the morphology and taxonomy of the Scolytoidea. Annals and Magazine of Natural History. Ser. 12, 6(64): 288–304.",
+      "doi": "10.1080/00222935308654424"
+    },
+    {
+      "id": "orig_3cdcd6e057aa",
+      "label": "Schedl, 1936c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1936c). Some new Scolytidae and Platypodidae from the Malay Peninsula. Journal of the Federated Malay States Museums 18(1): 19–35."
+    },
+    {
+      "id": "orig_58d41b1540d4",
+      "label": "Eggers, 1927e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1927e). Neue indomalayische Borkenkäfer (Ipidae). 1 Nachtrag. Treubia 9(4): 390–408."
+    },
+    {
+      "id": "orig_9aca0a8eed14",
+      "label": "Browne, 1986a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Browne, F.G. (1986a). Bark beetles and ambrosia beetles (Coleoptera, Scolytidae and Platypodidae) intercepted at Japanese ports, with descriptions of new species, XIII. Kontyû 54(1): 89–99."
+    },
+    {
+      "id": "orig_c9ec4eaa7d35",
+      "label": "Schedl, 1973d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1973d). New Scolytidae and Platypodidae from the Papuan subregion. 299 Contribution. The Papua New Guinea Agricultural Journal 24(3): 87–97."
+    },
+    {
+      "id": "orig_f0b5be63e90e",
+      "label": "Beeson, 1930",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1930). The biology of the genus Xyleborus, with more new species. Indian Forest Records, Entomology 14(10): 209–272."
+    }
+  ]
+}

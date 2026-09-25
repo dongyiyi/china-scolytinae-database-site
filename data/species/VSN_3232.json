@@ -1,0 +1,189 @@
+{
+  "vsn": "VSN_3232",
+  "scientific_name": "Hypothenemus fuscicollis",
+  "authorship": "(Eichhoff, 1878)",
+  "chinese_name": "",
+  "genus": "Hypothenemus",
+  "subfamily": "Scolytinae",
+  "tribe": "Trypophloeini",
+  "checklist_status": "Questionable",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Questionable",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾",
+    "narrative": "Do not promote Taiwan to Present from Beaver & Liu (2010) alone. The source associates the species with Taiwan through imported bamboo but does not provide new direct Taiwan locality material."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Polyphagous"
+    },
+    {
+      "scientific_name": "stems including bamboo and rattans, and seeds"
+    }
+  ],
+  "host_note": "The source characterizes the species as polyphagous, including stems of bamboo and rattans and seeds. This broad ecological statement is retained without inventing additional host taxa.",
+  "taxonomy_summary": "The current accepted identity is Hypothenemus fuscicollis (Eichhoff, 1878).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1878",
+      "event": "Original combination / basionym",
+      "name": "Stephanoderes fuscicollis",
+      "authorship": "Eichhoff, 1878",
+      "note": "Original combination / basionym, original-description p. 148.",
+      "reference_ids": [
+        "orig_df23847f2e11",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1927",
+      "event": "Synonym",
+      "name": "Stephanoderes sundaensis",
+      "authorship": "Eggers, 1927",
+      "note": "Published name currently treated as a synonym; original-description p. 396.",
+      "reference_ids": [
+        "orig_58d41b1540d4",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1939",
+      "event": "Synonym",
+      "name": "Hypothenemus aequaliclavatus",
+      "authorship": "Schedl, 1939",
+      "note": "Published name currently treated as a synonym; original-description p. 33.",
+      "reference_ids": [
+        "orig_455a9f4416f4",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1958",
+      "event": "Synonym",
+      "name": "Ernophloeus costalimai",
+      "authorship": "Nunberg, 1958",
+      "note": "Published name currently treated as a synonym; original-description p. 484.",
+      "reference_ids": [
+        "orig_c320f830a59c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1962",
+      "event": "Synonym",
+      "name": "Hypothenemus ghanensis",
+      "authorship": "Schedl, 1962",
+      "note": "Published name currently treated as a synonym; original-description p. 67.",
+      "reference_ids": [
+        "orig_d07d7f8d714b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1972",
+      "event": "Synonym",
+      "name": "Hypothenemus comosus",
+      "authorship": "Bright, 1972",
+      "note": "Published name currently treated as a synonym; original-description p. 50.",
+      "reference_ids": [
+        "orig_a2e6cbd86b0f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Current accepted",
+      "name": "Hypothenemus fuscicollis",
+      "authorship": "(Eichhoff, 1878)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_df23847f2e11",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Hypothenemus fuscicollis (Eichhoff, 1878), VSN_3232, Scolytinae: Trypophloeini. Beaver & Liu (2010) uses the same species name with authorship Eichhoff.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_c320f830a59c",
+      "label": "Nunberg, 1958",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Nunberg, M. (1958). Przyczynek do poznania Scolytidae i Platypodidae (Coleoptera) fauny neotropikalnej [Towards the knowledge of the neotropical fauna of Scolytidae and Platypodidae]. Acta Zoologica Cracoviensia 2(21): 479–506."
+    },
+    {
+      "id": "orig_455a9f4416f4",
+      "label": "Schedl, 1939j",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1939j). Scolytidae and Platypodidae. 47 Beitrag. Tijdschrift voor Entomologie 82: 30–53."
+    },
+    {
+      "id": "orig_a2e6cbd86b0f",
+      "label": "Bright, 1972a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Bright, D.E. (1972a). The Scolytidae and Platypodidae of Jamaica. Bulletin of the Institute of Jamaica, Science Series 21: 1–108."
+    },
+    {
+      "id": "orig_df23847f2e11",
+      "label": "Eichhoff, 1878b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
+    },
+    {
+      "id": "orig_d07d7f8d714b",
+      "label": "Schedl, 1962g",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1962g). On some African bark and timber beetles. 195 Contribution. West African Timber Borer Research Unit, Annual Report 5: 57–74."
+    },
+    {
+      "id": "orig_58d41b1540d4",
+      "label": "Eggers, 1927e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1927e). Neue indomalayische Borkenkäfer (Ipidae). 1 Nachtrag. Treubia 9(4): 390–408."
+    }
+  ]
+}

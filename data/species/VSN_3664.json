@@ -1,0 +1,117 @@
+{
+  "vsn": "VSN_3664",
+  "scientific_name": "Microperus alpha",
+  "authorship": "(Beeson, 1929)",
+  "chinese_name": "",
+  "genus": "Microperus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建；贵州；云南；台湾；香港",
+    "narrative": "Smith et al. (2020) records Guizhou, Yunnan and Taiwan. Beaver & Liu (2010) independently reports the first Taiwan record, based on 34 specimens from Nantou, Hui Son collected during 2004–2007. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence. Smith et al. (2022) adds Fujian, with locality evidence from Longyan City, and also records Guizhou, Yunnan and Taiwan."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Liquidambar formosana"
+    }
+  ],
+  "host_note": "Beaver & Liu (2010) characterizes the species as polyphagous but provides no enumerated host taxon in the curated field. Smith et al. (2022) reports Liquidambar formosana, which is promoted as the current confirmed host.",
+  "taxonomy_summary": "The current accepted identity is Microperus alpha (Beeson, 1929).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1929",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus alpha",
+      "authorship": "Beeson, 1929",
+      "note": "Original combination / basionym, original-description p. 239.",
+      "reference_ids": [
+        "orig_7ca7be5c1b19",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1929",
+      "event": "Current accepted",
+      "name": "Microperus alpha",
+      "authorship": "(Beeson, 1929)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_7ca7be5c1b19",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Microperus alpha (Beeson, 1929), VSN_3664. Beaver & Liu (2010) notes transfer from Coptodryas to Microperus by Saha & Maiti (1996); this transfer history is retained as nomenclatural provenance.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "src_smith2022",
+      "label": "Smith et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
+      "doi": "10.11646/zootaxa.5209.1.1"
+    },
+    {
+      "id": "orig_7ca7be5c1b19",
+      "label": "Beeson, 1929",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1929). Platypodidae and Scolytidae. Insects of Samoa 4(4): 217–248."
+    }
+  ]
+}

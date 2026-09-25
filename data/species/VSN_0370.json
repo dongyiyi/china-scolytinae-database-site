@@ -1,0 +1,410 @@
+{
+  "vsn": "VSN_0370",
+  "scientific_name": "Anisandrus dispar",
+  "authorship": "(Fabricius, 1792)",
+  "chinese_name": "北方材小蠹",
+  "genus": "Anisandrus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Heilongjiang; Shaanxi",
+    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) document Heilongjiang. Smith et al. (2020) confirms Heilongjiang and additionally records Shaanxi. The current synthesis retains both supported provinces."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Juglans regia"
+    },
+    {
+      "scientific_name": "Carpinus turczaninowii"
+    },
+    {
+      "scientific_name": "Corylus heterophylla"
+    },
+    {
+      "scientific_name": "Quercus spp."
+    },
+    {
+      "scientific_name": "Malus pumila"
+    },
+    {
+      "scientific_name": "Pyrus sp."
+    },
+    {
+      "scientific_name": "Sorbus alnifolia"
+    },
+    {
+      "scientific_name": "Prunus salicina"
+    },
+    {
+      "scientific_name": "Acer sp."
+    },
+    {
+      "scientific_name": "Fraxinus mandschurica"
+    },
+    {
+      "scientific_name": "Corylus sp."
+    },
+    {
+      "scientific_name": "Pyrus communis"
+    },
+    {
+      "scientific_name": "Acer nigrum"
+    },
+    {
+      "scientific_name": "Acer platanoides"
+    },
+    {
+      "scientific_name": "Acer saccharinum"
+    },
+    {
+      "scientific_name": "Betula fontinalis"
+    },
+    {
+      "scientific_name": "Betula papyrifera"
+    },
+    {
+      "scientific_name": "Castanea dentata"
+    },
+    {
+      "scientific_name": "Juglans sp."
+    },
+    {
+      "scientific_name": "Malus spp."
+    },
+    {
+      "scientific_name": "Prunus sp."
+    },
+    {
+      "scientific_name": "Salix sp."
+    },
+    {
+      "scientific_name": "Vitis sp."
+    }
+  ],
+  "host_note": "The current host summary retains identified hosts from the reviewed historical Chinese sources. Smith et al. (2020) describes the species broadly as polyphagous on angiosperms and conifers; that broader statement is retained as context and does not create unspecified host taxa.",
+  "taxonomy_summary": "The current accepted identity is Anisandrus dispar (Fabricius, 1792).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1792",
+      "event": "Original combination / basionym",
+      "name": "Apate dispar",
+      "authorship": "Fabricius, 1792",
+      "note": "Original combination / basionym, original-description p. 363.",
+      "reference_ids": [
+        "orig_fabricius1792",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1793",
+      "event": "Synonym",
+      "name": "Bostrichus dispar",
+      "authorship": "Herbst, 1793",
+      "note": "Published name currently treated as a synonym; original-description p. 113.",
+      "reference_ids": [
+        "orig_herbst1793",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1795",
+      "event": "Synonym",
+      "name": "Bostrichus brevis",
+      "authorship": "Panzer, 1795",
+      "note": "Published name currently treated as a synonym; original-description p. 288.",
+      "reference_ids": [
+        "orig_panzer1795",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1795",
+      "event": "Synonym",
+      "name": "Bostrichus thoracicus",
+      "authorship": "Panzer, 1795",
+      "note": "Published name currently treated as a synonym; original-description p. 288.",
+      "reference_ids": [
+        "orig_panzer1795",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1800",
+      "event": "Synonym",
+      "name": "Bostrichus rufipes",
+      "authorship": "Olivier, 1800",
+      "note": "Published name currently treated as a synonym; original-description p. 17.",
+      "reference_ids": [
+        "orig_olivier1800",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1817",
+      "event": "Synonym",
+      "name": "Scolytus pyri",
+      "authorship": "Peck, 1817",
+      "note": "Published name currently treated as a synonym; original-description p. 207.",
+      "reference_ids": [
+        "orig_peck1817",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1836",
+      "event": "Synonym",
+      "name": "Bostrichus tachygraphus",
+      "authorship": "Sahlberg, 1836",
+      "note": "Published name currently treated as a synonym; original-description p. 152.",
+      "reference_ids": [
+        "orig_sahlberg1836",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1846",
+      "event": "Synonym",
+      "name": "Bostrichus ratzeburgii",
+      "authorship": "Kolenati, 1846",
+      "note": "Published name currently treated as a synonym; original-description p. 39.",
+      "reference_ids": [
+        "orig_kolenati1846",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1909",
+      "event": "Synonym",
+      "name": "Xyleborus ishidai",
+      "authorship": "Niisima, 1909",
+      "note": "Published name currently treated as a synonym; original-description p. 156.",
+      "reference_ids": [
+        "orig_niisima1909",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1913",
+      "event": "Synonym",
+      "name": "Anisandrus aequalis",
+      "authorship": "Reitter, 1913",
+      "note": "Published name currently treated as a synonym; original-description p. 81.",
+      "reference_ids": [
+        "orig_reitter1913",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1921",
+      "event": "Synonym",
+      "name": "Anisandrus swainei",
+      "authorship": "Drake, 1921",
+      "note": "Published name currently treated as a synonym; original-description p. 203.",
+      "reference_ids": [
+        "orig_drake1921",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1922",
+      "event": "Synonym",
+      "name": "Xyleborus dispar rugulosus",
+      "authorship": "Eggers, 1922",
+      "note": "Published name currently treated as a synonym; original-description p. 17.",
+      "reference_ids": [
+        "orig_eggers1922",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1937",
+      "event": "Synonym",
+      "name": "Xyleborus cerasi",
+      "authorship": "Eggers, 1937",
+      "note": "Published name currently treated as a synonym; original-description p. 335.",
+      "reference_ids": [
+        "orig_eggers1937",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1943",
+      "event": "Synonym",
+      "name": "Xyleborus khinganensis",
+      "authorship": "Murayama, 1943",
+      "note": "Published name currently treated as a synonym; original-description p. 100.",
+      "reference_ids": [
+        "orig_murayama1943",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "Current",
+      "event": "Current accepted",
+      "name": "Anisandrus dispar",
+      "authorship": "(Fabricius, 1792)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone preserves a long synonymy extending from the late eighteenth century to the twentieth century. Historical Chinese records also used Xyleborus dispar and Terminalinus diapar; current genus placement follows the modern backbone.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_fabricius1792",
+      "label": "Fabricius, 1792",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Fabricius, J.C. (1792). Entomologia systematica emendata et aucta. Secundum classes, ordines, genera, species adjectis synonimis, locis, observationibus, descriptionibus. Tomus I. Pars II. Impensis Christ. Gottl. Proft, Hafniae xx + 538 pp."
+    },
+    {
+      "id": "orig_herbst1793",
+      "label": "Herbst, 1793",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Herbst, J.F.W. (1793). Natursystem aller bekannten in- und ausländischen Insekten, als eine Fortsetzung der von Büffonschen Naturgeschichte. Der Käfer fünfter Theil. Paulischen Buchhandlung, Berlin xvi + 392 pp + pls. XLIV–LIX."
+    },
+    {
+      "id": "orig_panzer1795",
+      "label": "Panzer, 1795",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Panzer, G.W.F. (1795). Deutschlands Insectenfaune oder entomologisches Taschenbuch für das Iahr 1795. Entomologica Germanica exhibens insecta per Germaniam indigena secundum classes, ordines, genre, species adiectis synonymis, locis, observationibus. I. Eleuterata. Cum Tabulis Aeneis. Apud Felseckeri haeredes, Norimbergae 8 unn. pp, Vorbericht] + 12 pl. + [24 unn. pp.] + 372 pp."
+    },
+    {
+      "id": "orig_olivier1800",
+      "label": "Olivier, 1800b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Olivier, A.G. (1800b). No. 77. Bostriche: Bostrichus. In: Entomologie ou histoire naturelle des insectes, Coléoptères, Tome IV. Lanneau, Paris, 1–18."
+    },
+    {
+      "id": "orig_peck1817",
+      "label": "Peck, 1817",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Peck, W.D. (1817). On the insects which destroy the young branches of the pear-tree, and the leading shoot of the Weymouth-pine. Massachusetts Agricultural Repository and Journal 4: 205–211, pls I–II."
+    },
+    {
+      "id": "orig_sahlberg1836",
+      "label": "Sahlberg, 1836a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Sahlberg, C.R. (1836a). Dissertatio entomologica insecta fennica enumerans, cujus particulam decimam partis secundae, cons. ampl. facult. philos. ad Imper. Univers. Alexandr. in Fennia, publico offert examini Carolus Reginaldus Sahlberg, respondente Alfredo Wacklin, Ostrobottniensi. In audit. philos. die 7 Maji 1836. J. C. Frenckel, Aboae Pp. 145–160."
+    },
+    {
+      "id": "orig_kolenati1846",
+      "label": "Kolenati, 1846",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Kolenati, F.A. (1846). Meletemata Entomologica. Fascicule III. Brachelytra Caucasi cum distrubutione geographica adnexis Pselaphinis, Scydmaenis, Notoxidibus et Xylophagis. Typis Imperialis Academiae Scientiarum, Petropoli [6] + pp 1–44, + pls 12–14."
+    },
+    {
+      "id": "orig_niisima1909",
+      "label": "Niisima, 1909",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Niisima, Y. (1909). Die Scolytiden Hokkaidos unter Berücksichtigung ihrer Bedeutung für Forstschaden. Journal of the College of Agriculture, Tohoku Imperial University, Sapporo 3: 109–179."
+    },
+    {
+      "id": "orig_reitter1913",
+      "label": "Reitter, 1913",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Reitter, E. (1913). Bestimmungs-Tabelle der Borkenkäfer (Scolytidae) aus Europa und den angrenzenden Ländern. Wiener Entomologische Zeitung 32 (Supplement): 1–116."
+    },
+    {
+      "id": "orig_drake1921",
+      "label": "Drake, 1921",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Drake, C.J. (1921). A new ambrosia beetle from the Adirondacks: Notes on the work of Xyloterinus politus Say. The Ohio Journal of Science 21: 201–205."
+    },
+    {
+      "id": "orig_eggers1922",
+      "label": "Eggers, 1922a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1922a). Seltene und neue paläarktische Borkenkäfer, III. Entomologische Blätter 18: 12–18."
+    },
+    {
+      "id": "orig_eggers1937",
+      "label": "Eggers, 1937",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1937). Zur paläarktischen Borkenkäfer-Fauna, IV. Entomologische Blätter 33: 334–335."
+    },
+    {
+      "id": "orig_murayama1943",
+      "label": "Murayama, 1943",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1943). Nouvelles espèces des Scolytides (Coléoptères) du Manchoukuo [New species of Manchurian Scolytidae]. Annotationes Zoologicae Japonenses 22: 96–100."
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ]
+}

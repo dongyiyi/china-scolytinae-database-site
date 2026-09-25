@@ -1,0 +1,200 @@
+{
+  "vsn": "VSN_6320",
+  "scientific_name": "Xyleborus pfeilii",
+  "authorship": "(Ratzeburg, 1837)",
+  "chinese_name": "棋盘材小蠹",
+  "genus": "Xyleborus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建；湖南；江西；四川；云南",
+    "narrative": "殷蕙芬等 (1984) records Fujian and Sichuan under Xyleborus adumbratus. 黄复生等 (2015) adds Hunan and Yunnan under the same historical name. Smith et al. (2020), using current name Xyleborus pfeilii, records Fujian, Hunan, Jiangxi, Sichuan and Yunnan, adding Jiangxi."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Abies fabri"
+    },
+    {
+      "scientific_name": "Populus sp."
+    },
+    {
+      "scientific_name": "Cinnamomum sp."
+    },
+    {
+      "scientific_name": "Machilus sp."
+    },
+    {
+      "scientific_name": "Acer sp."
+    },
+    {
+      "scientific_name": "Schima sp."
+    },
+    {
+      "scientific_name": "Trachycarpus fortunei"
+    }
+  ],
+  "host_note": "Current host synthesis follows 殷蕙芬等 (1984)/黄复生等 (2015); Smith et al. (2020) contributes distribution evidence only in the promoted record.",
+  "taxonomy_summary": "The current accepted identity is Xyleborus pfeilii (Ratzeburg, 1837).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1837",
+      "event": "Original combination / basionym",
+      "name": "Bostrichus pfeilii",
+      "authorship": "Ratzeburg, 1837",
+      "note": "Original combination / basionym, original-description p. 168.",
+      "reference_ids": [
+        "orig_08aea4519dab",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1857",
+      "event": "Synonym",
+      "name": "Bostrichus alni",
+      "authorship": "Mulsant & Rey, 1857",
+      "note": "Published name currently treated as a synonym; original-description p. 111.",
+      "reference_ids": [
+        "orig_71b185f91010",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1876",
+      "event": "Synonym",
+      "name": "Xyleborus vicarius",
+      "authorship": "Eichhoff, 1876",
+      "note": "Published name currently treated as a synonym; original-description p. 203.",
+      "reference_ids": [
+        "orig_16f436d94e7b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1894",
+      "event": "Synonym",
+      "name": "Xyleborus adumbratus",
+      "authorship": "Blandford, 1894",
+      "note": "Published name currently treated as a synonym; original-description p. 115.",
+      "reference_ids": [
+        "orig_a1d45147b2c3",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1909",
+      "event": "Synonym",
+      "name": "Xyleborus septentrionalis",
+      "authorship": "Niisima, 1909",
+      "note": "Published name currently treated as a synonym; original-description p. 162.",
+      "reference_ids": [
+        "orig_29eb83d527d0",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1837",
+      "event": "Current accepted",
+      "name": "Xyleborus pfeilii",
+      "authorship": "(Ratzeburg, 1837)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_08aea4519dab",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Xyleborus pfeilii (Ratzeburg, 1837), VSN_6320. 殷蕙芬等 (1984)/黄复生等 (2015) evidence is retained under historical name Xyleborus adumbratus.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_08aea4519dab",
+      "label": "Ratzeburg, 1837",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Ratzeburg, J.T.C. (1837). Die Forst-Insecten oder Abbildung und Beschreibung der in den Wäldern Preussens und der Nachbarstaaten als schädlich oder nützlich bekannt gewordenen Insecten. Erster Theil. Die Käfer. Nicolai, Berlin x + 4 + 202 pp, 21 pls."
+    },
+    {
+      "id": "orig_16f436d94e7b",
+      "label": "Chapuis & Eichhoff, 1876",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Chapuis, F. & Eichhoff, W.J. (1876). Scolytides recueillis au Japon par M. C. Lewis [cont.]. Annales de la Société Entomologique de Belgique 18: 197–204."
+    },
+    {
+      "id": "orig_29eb83d527d0",
+      "label": "Niisima, 1909",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Niisima, Y. (1909). Die Scolytiden Hokkaidos unter Berücksichtigung ihrer Bedeutung für Forstschaden. Journal of the College of Agriculture, Tohoku Imperial University, Sapporo 3: 109–179."
+    },
+    {
+      "id": "orig_71b185f91010",
+      "label": "Mulsant & Rey, 1857",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Mulsant, E. & Rey, C. (1857). Description d’une nouvelle espèce de coléoptère du genre Bostrichus. Opuscules Entomologiques 7([1856]): 111–113."
+    },
+    {
+      "id": "orig_a1d45147b2c3",
+      "label": "Blandford, 1894c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
+    }
+  ]
+}

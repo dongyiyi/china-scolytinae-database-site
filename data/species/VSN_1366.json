@@ -1,0 +1,135 @@
+{
+  "vsn": "VSN_1366",
+  "scientific_name": "Coptodryas concinna",
+  "authorship": "(Beeson, 1930)",
+  "chinese_name": "",
+  "genus": "Coptodryas",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "云南；香港",
+    "narrative": "Smith et al. (2020) and Lau (2025) support Hong Kong occurrence. Smith et al. (2022) independently reports Hong Kong and adds Yunnan, with locality evidence from Wenshan and Honghe. Mainland China is therefore promoted to Present, and the reviewed distribution is Yunnan + Hong Kong."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Albizia"
+    },
+    {
+      "scientific_name": "Camellia"
+    },
+    {
+      "scientific_name": "Dimocarpus"
+    },
+    {
+      "scientific_name": "Lansium"
+    }
+  ],
+  "host_note": "Albizia, Camellia, Dimocarpus, and Lansium are retained at genus level from Smith et al. (2020). Smith et al. (2022) provides no host in the curated record, so no host update is made.",
+  "taxonomy_summary": "The current accepted identity is Coptodryas concinna (Beeson, 1930).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1942",
+      "event": "Synonym",
+      "name": "Xyleboricus flexiocostatus",
+      "authorship": "Schedl, 1942",
+      "note": "Published name currently treated as a synonym; original-description p. 31.",
+      "reference_ids": [
+        "orig_c56c9e6b1193",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus concinnus",
+      "authorship": "Beeson, 1930",
+      "note": "Original combination / basionym, original-description p. 214.",
+      "reference_ids": [
+        "orig_1518a27b0fa0",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Current accepted",
+      "name": "Coptodryas concinna",
+      "authorship": "(Beeson, 1930)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_1518a27b0fa0",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 2 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "src_smith2022",
+      "label": "Smith et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
+      "doi": "10.11646/zootaxa.5209.1.1"
+    },
+    {
+      "id": "orig_1518a27b0fa0",
+      "label": "Beeson, 1930",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1930). The biology of the genus Xyleborus, with more new species. Indian Forest Records, Entomology 14(10): 209–272."
+    },
+    {
+      "id": "orig_c56c9e6b1193",
+      "label": "Schedl, 1942d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1942d). Neue Scolytidae aus Java. 76 Beitrag. Tijdschrift voor Entomologie 85: 1–49."
+    }
+  ]
+}

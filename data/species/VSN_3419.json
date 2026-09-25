@@ -1,0 +1,119 @@
+{
+  "vsn": "VSN_3419",
+  "scientific_name": "Ips nitidus",
+  "authorship": "Eggers, 1933",
+  "chinese_name": "光臀八齿小蠹",
+  "genus": "Ips",
+  "subfamily": "Scolytinae",
+  "tribe": "Ipini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "甘肃；青海；新疆；四川；云南；西藏",
+    "narrative": "Current distribution retains the broader baseline synthesis (Gansu, Qinghai, Xinjiang, Sichuan, Yunnan, Xizang). Wang et al. (2021) provides examined material from Xizang, Qinghai and Gansu and does not justify dropping unsampled baseline provinces."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Abies faxoniana"
+    },
+    {
+      "scientific_name": "Picea asperata"
+    },
+    {
+      "scientific_name": "Picea crassifolia"
+    },
+    {
+      "scientific_name": "Picea schrenkiana tianshanica"
+    },
+    {
+      "scientific_name": "Picea balfouriana"
+    },
+    {
+      "scientific_name": "Pinus densata"
+    },
+    {
+      "scientific_name": "Pinus yunnanensis"
+    },
+    {
+      "scientific_name": "Picea likiangensis var. balfouriana"
+    },
+    {
+      "scientific_name": "Picea likiangensis var. linzhiensis"
+    }
+  ],
+  "host_note": "Baseline hosts are retained and Wang et al. (2021) adds/clarifies Picea likiangensis var. balfouriana and P. likiangensis var. linzhiensis; Picea crassifolia is shared. Population differentiation and damage figures remain source-specific context.",
+  "taxonomy_summary": "The current accepted identity is Ips nitidus Eggers, 1933.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1933",
+      "event": "Current accepted",
+      "name": "Ips nitidus",
+      "authorship": "Eggers, 1933",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_dcdb67e1e818",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Current identity Ips nitidus Eggers, VSN_3419, is unchanged.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_wangetal2021",
+      "label": "王正等 2021",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "王正, 马晓乾, 周勤政, 郑桂恒, 夏吾加, 张艳明, 王成立, 晋鹏非, 吕全, 张星耀. 2021. 中国齿小蠹属昆虫的鉴定. 林业科学 57(12): 79–91.",
+      "doi": "10.11707/j.1001-7488.20211208"
+    },
+    {
+      "id": "orig_dcdb67e1e818",
+      "label": "Eggers, 1933d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1933d). Borkenkäfer (Ipidae, Col.) aus China. Entomologisches Nachrichtenblatt 7: 97–102."
+    }
+  ]
+}

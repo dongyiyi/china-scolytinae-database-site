@@ -1,0 +1,138 @@
+{
+  "vsn": "VSN_0260",
+  "scientific_name": "Ambrosiophilus atratus",
+  "authorship": "(Eichhoff, 1876)",
+  "chinese_name": "网纹材小蠹",
+  "genus": "Ambrosiophilus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Chongqing; Fujian; Shanxi; Taiwan",
+    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) document Fujian. Smith et al. (2020) confirms Fujian and adds Chongqing, Shanxi, and Taiwan. Beaver & Liu (2010) independently supports Taiwan and broad China (SE); the broad regional wording is not converted into provinces."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Pinus luchuensis"
+    }
+  ],
+  "host_note": "Beaver & Liu (2010) describes broad polyphagy across angiosperm and gymnosperm trees but explicitly records Pinus luchuensis in Taiwan. Only that resolved species-level host is promoted.",
+  "taxonomy_summary": "The current accepted identity is Ambrosiophilus atratus (Eichhoff, 1876).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1876",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus atratus",
+      "authorship": "Eichhoff, 1876",
+      "note": "Original combination / basionym, original-description p. 201.",
+      "reference_ids": [
+        "orig_chapuis_eichhoff1876",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1910",
+      "event": "Synonym",
+      "name": "Xyleborus collis",
+      "authorship": "Niisima, 1910",
+      "note": "Published name currently treated as a synonym; original-description p. 12.",
+      "reference_ids": [
+        "orig_niisima1910",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "Current",
+      "event": "Current accepted",
+      "name": "Ambrosiophilus atratus",
+      "authorship": "(Eichhoff, 1876)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Historical records used Xyleborus atratus and later Ambrosiodmus atratus; Beaver & Liu (2010) discusses transfer from Xyleborus to Ambrosiophilus. Current taxonomy follows the integrated backbone.",
+  "nomenclature_note_reference_ids": [
+    "src_beaverliu2010",
+    "johnson2026"
+  ],
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_chapuis_eichhoff1876",
+      "label": "Chapuis & Eichhoff, 1876",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Chapuis, F. & Eichhoff, W.J. (1876). Scolytides recueillis au Japon par M. C. Lewis [cont.]. Annales de la Société Entomologique de Belgique 18: 197–204."
+    },
+    {
+      "id": "orig_niisima1910",
+      "label": "Niisima, 1910",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Niisima, Y. (1910). Die Borkenkaefer nord- und mittel-Japans. Transactions of the Sapporo Natural History Society 3: 1–18."
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ]
+}

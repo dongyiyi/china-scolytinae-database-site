@@ -1,0 +1,150 @@
+{
+  "vsn": "VSN_5507",
+  "scientific_name": "Scolytus jacobsoni",
+  "authorship": "(Spessivtsev, 1919)",
+  "chinese_name": "指瘤小蠹",
+  "genus": "Scolytus",
+  "subfamily": "Scolytinae",
+  "tribe": "Scolytini",
+  "checklist_status": "Unreviewed",
+  "review_status": "Not started",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Scolytus jacobsoni (Spessivtsev, 1919).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1919",
+      "event": "Original combination / basionym",
+      "name": "Eccoptogaster jacobsoni",
+      "authorship": "Spessivtsev, 1919",
+      "note": "Original combination / basionym, original-description p. 246.",
+      "reference_ids": [
+        "orig_bc4fa3dbd5c6",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1935",
+      "event": "Synonym",
+      "name": "Scolytus jacobsoni montana",
+      "authorship": "Kurentsov, 1935",
+      "note": "Published name currently treated as a synonym; original-description p. 22.",
+      "reference_ids": [
+        "orig_b78f697dd65d",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1941",
+      "event": "Synonym",
+      "name": "Scolytus rimskii",
+      "authorship": "Kurentsov, 1941",
+      "note": "Published name currently treated as a synonym; original-description p. 103.",
+      "reference_ids": [
+        "orig_7c3cf4067814",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1964",
+      "event": "Synonym",
+      "name": "Scolytus nunbergi",
+      "authorship": "Michalski, 1964",
+      "note": "Published name currently treated as a synonym; original-description p. 665.",
+      "reference_ids": [
+        "orig_8d7936fa18b5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1919",
+      "event": "Current accepted",
+      "name": "Scolytus jacobsoni",
+      "authorship": "(Spessivtsev, 1919)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_bc4fa3dbd5c6",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 4 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "orig_7c3cf4067814",
+      "label": "Kurentsov, 1941",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Kurentsov, A.I. (1941). Koroedy Dal'nego Vostoka SSSR. Izdatel’stvo Akademii Nauk SSSR, Moskva, Leningrad 234 pp."
+    },
+    {
+      "id": "orig_8d7936fa18b5",
+      "label": "Michalski, 1964",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Michalski, J. (1964). Novye palearkticheskie vidy koroedov roda Scolytus Geoffr. (Coleoptera, Scolytidae)[New palaearctic species of the genus Scolytus Geoffr. (Coleoptera, Scolytidae)]. Entomologicheskoe Obozrenie 43: 662–668."
+    },
+    {
+      "id": "orig_b78f697dd65d",
+      "label": "Kurentsov, 1935",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Kurentsov, A.I. (1935). Koroedy ûžnogo Sihotè-Alinya. Vestnik Dalʼnevostochnogo Filiala Akademii Nauk SSSR 1935(11): 19–49."
+    },
+    {
+      "id": "orig_bc4fa3dbd5c6",
+      "label": "Spessivtsev, 1919",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Spessivtsev, P. (1919). New bark-beetles from the neighbourhood of Vladivostok (East Siberia). Entomologist's Monthly Magazine 55(11): 246–251."
+    }
+  ]
+}

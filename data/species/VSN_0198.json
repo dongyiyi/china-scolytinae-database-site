@@ -1,0 +1,78 @@
+{
+  "vsn": "VSN_0198",
+  "scientific_name": "Amasa youlii",
+  "authorship": "Smith, Beaver & Cognato, 2020",
+  "chinese_name": "",
+  "genus": "Amasa",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Fujian; Yunnan",
+    "narrative": "Smith et al. (2020) described Amasa youlii from Fujian (Fuzhou, Qishan). Lin et al. (2024) adds a new provincial record from Yunnan based on one female collected in the Jinuo Mountains, Xishuangbanna. Mainland China remains treated as present."
+  },
+  "hosts": [],
+  "host_note": "The source states that the host is unknown and that the specimen was potentially collected from Fagaceae. This is retained as a questionable association and is not promoted to Current Host Summary.",
+  "taxonomy_summary": "Amasa youlii Smith, Beaver & Cognato, 2020 is the current accepted identity.",
+  "taxonomy_reference_ids": [
+    "src_smith2020",
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2020",
+      "event": "Original description / current accepted",
+      "name": "Amasa youlii",
+      "authorship": "Smith, Beaver & Cognato, 2020",
+      "note": "Described as a new species; original-description p. 47.",
+      "reference_ids": [
+        "src_smith2020",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "No additional synonyms or historical combinations are currently linked to this taxon in the integrated backbone.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_lin2024",
+      "label": "Lin et al., 2024",
+      "role": [
+        "published evidence",
+        "original description"
+      ],
+      "citation": "Lin, W., Li, Y., Smith, S.M. & Meng, L.-Z. (2024). Two New Species of Amasa Lea, 1894 (Coleoptera: Curculionidae: Scolytinae: Xyleborini) from Yunnan, China. Annales Zoologici 74(1): 185–191.",
+      "doi": "10.3161/00034541ANZ2024.74.1.011"
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ]
+}

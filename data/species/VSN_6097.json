@@ -1,0 +1,139 @@
+{
+  "vsn": "VSN_6097",
+  "scientific_name": "Xyleborinus octiesdentatus",
+  "authorship": "(Murayama, 1931)",
+  "chinese_name": "穴齿材小蠹",
+  "genus": "Xyleborinus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "四川；台湾",
+    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) record Sichuan; Smith et al. (2020) confirms Sichuan. Lin & Smith (2022) reports China and a new Taiwan record; Taiwan is therefore added as Present. No additional mainland province is inferred from the broad China wording."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Carpinus"
+    },
+    {
+      "scientific_name": "Illicium"
+    },
+    {
+      "scientific_name": "Cleyera"
+    },
+    {
+      "scientific_name": "Eurya"
+    },
+    {
+      "scientific_name": "Carpinus laxiflora"
+    },
+    {
+      "scientific_name": "Clyera spp."
+    },
+    {
+      "scientific_name": "Eurya japonica"
+    },
+    {
+      "scientific_name": "Illicium religiosum"
+    },
+    {
+      "scientific_name": "Ilex rotunda"
+    }
+  ],
+  "host_note": "Smith et al. (2020) provides genus-level Carpinus, Illicium, Cleyera and Eurya. Lin & Smith (2022) adds the source-supported host names Carpinus laxiflora, Clyera spp., Eurya japonica, Illicium religiosum and Ilex rotunda. Source spellings are retained without silent correction.",
+  "taxonomy_summary": "The current accepted identity is Xyleborinus octiesdentatus (Murayama, 1931).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1931",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus octiesdentatus",
+      "authorship": "Murayama, 1931",
+      "note": "Original combination / basionym, original-description p. 46.",
+      "reference_ids": [
+        "orig_bca2f1143028",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1931",
+      "event": "Current accepted",
+      "name": "Xyleborinus octiesdentatus",
+      "authorship": "(Murayama, 1931)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_bca2f1143028",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Xyleborinus octiesdentatus (Murayama, 1931), VSN_6097. Baseline sources use Xyleborus octiesdentatus.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_linsmith2022",
+      "label": "Lin & Smith, 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Lin, C.-S. & Smith, S.M. (2022). Four new species of Cyclorhipidion and five new records of other xyleborine genera (Coleoptera, Curculionidae, Scolytinae, Xyleborini) from Taiwan. Taiwania 67(3): 285–301.",
+      "doi": "10.6165/tai.2022.67.285"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_bca2f1143028",
+      "label": "Murayama, 1931",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1931). Revision des familles des Ipides et Platypides (Coléoptères ) de l'ile de Quelpart. Annotationes Zoologicae Japonenses 13(2): 39–62."
+    }
+  ]
+}

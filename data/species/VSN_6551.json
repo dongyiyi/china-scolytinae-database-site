@@ -1,0 +1,80 @@
+{
+  "vsn": "VSN_6551",
+  "scientific_name": "Xylosandrus trunculus",
+  "authorship": "Park & Smith, 2020",
+  "chinese_name": "鳞胸足距小蠹",
+  "genus": "Xylosandrus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "山东；上海；浙江",
+    "narrative": "Lin et al. (2024) provides the first confirmed Chinese records from Shandong, Shanghai and Zhejiang. Liaoning material remains X. aff. trunculus and is not promoted."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Castanea mollissima"
+    }
+  ],
+  "host_note": "Castanea mollissima is supported by confirmed material. Ailanthus sp. belongs only to unresolved Liaoning X. aff. trunculus.",
+  "taxonomy_summary": "The current accepted identity is Xylosandrus trunculus Park & Smith, 2020.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2020",
+      "event": "Current accepted",
+      "name": "Xylosandrus trunculus",
+      "authorship": "Park & Smith, 2020",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_640e7734659d",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical species is Xylosandrus trunculus Park & Smith, 2020. The earlier Song et al. (1998) usage is a nomen nudum and does not establish the name.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_linetal2024_xylosandruschina",
+      "label": "Lin et al., 2024",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Lin, W., Liao, Y.-L., Li, Y., Smith, S.M., Yu, Y.-L. & Gao, L. (2024). New species and new records of Xylosandrus Reitter, 1913 (Coleoptera: Curculionidae: Scolytinae: Xyleborini) from China. Zootaxa 5528(1): 633–647.",
+      "doi": "10.11646/zootaxa.5528.1.41"
+    },
+    {
+      "id": "orig_640e7734659d",
+      "label": "Park et al., 2020",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Park, S., Smith, S.M., Cognato, A.I. & Beaver, R.A. (2020). Catalogue of Korean Xyleborine ambrosia beetles (Coleoptera: Curculionidae: Scolytinae) with seven new species. Journal of Asia-Pacific Biodiversity 13: 210–228.",
+      "doi": "10.1016/j.japb.2020.01.002"
+    }
+  ]
+}

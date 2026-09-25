@@ -1,0 +1,162 @@
+{
+  "vsn": "VSN_0399",
+  "scientific_name": "Anisandrus ursulus",
+  "authorship": "(Eggers, 1923)",
+  "chinese_name": "",
+  "genus": "Anisandrus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Fujian; Guangdong; Guangxi; Jiangxi; Yunnan; Taiwan",
+    "narrative": "Smith et al. (2020) records Fujian, Guangdong, Guangxi and Jiangxi. Lin & Smith (2022) adds Taiwan. Smith et al. (2022) adds Yunnan, with locality evidence from Wenshan."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Cyclobalanopsis glauca"
+    },
+    {
+      "scientific_name": "Schefflera octophylla"
+    },
+    {
+      "scientific_name": "Castanea argentea"
+    },
+    {
+      "scientific_name": "Celtis luzonica"
+    },
+    {
+      "scientific_name": "Cinchona sp."
+    },
+    {
+      "scientific_name": "Eupatoriumpallescens"
+    },
+    {
+      "scientific_name": "Ficus septica"
+    },
+    {
+      "scientific_name": "Glutasp."
+    },
+    {
+      "scientific_name": "Semecarpus sp."
+    },
+    {
+      "scientific_name": "Gonystylus sp."
+    },
+    {
+      "scientific_name": "Gossampinus heptaphylla [= Pseudobombax septenatum]"
+    },
+    {
+      "scientific_name": "Podocarpusimbricata"
+    },
+    {
+      "scientific_name": "Schefflera aromatica"
+    }
+  ],
+  "host_note": "The additional hosts from Lin & Smith (2022) are retained at the source-reported resolution and spelling; no silent taxonomic correction is applied.",
+  "taxonomy_summary": "The current accepted identity is Anisandrus ursulus (Eggers, 1923).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1923",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus ursulus",
+      "authorship": "Eggers, 1923",
+      "note": "Original combination / basionym, original-description p. 173.",
+      "reference_ids": [
+        "orig_eggers1923",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1942",
+      "event": "Synonym",
+      "name": "Xyleborus lativentris",
+      "authorship": "Schedl, 1942",
+      "note": "Published name currently treated as a synonym; original-description p. 191.",
+      "reference_ids": [
+        "orig_schedl1942",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "Current",
+      "event": "Current accepted",
+      "name": "Anisandrus ursulus",
+      "authorship": "(Eggers, 1923)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Lin & Smith (2022) adds Taiwan occurrence and additional source-supported host records; the stable VSN remains unchanged.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_linsmith2022",
+      "label": "Lin & Smith, 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Lin, C.-S. & Smith, S.M. (2022). Four new species of Cyclorhipidion and five new records of other xyleborine genera (Coleoptera, Curculionidae, Scolytinae, Xyleborini) from Taiwan. Taiwania 67(3): 285–301.",
+      "doi": "10.6165/tai.2022.67.285"
+    },
+    {
+      "id": "src_smith2022",
+      "label": "Smith et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
+      "doi": "10.11646/zootaxa.5209.1.1"
+    },
+    {
+      "id": "orig_eggers1923",
+      "label": "Eggers, 1923b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3–4): 129–220."
+    },
+    {
+      "id": "orig_schedl1942",
+      "label": "Schedl, 1942b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1942b). Forschungberiche zur Scolytoiden-Fauna der Malayischen Halbinsel, V. 80 Betrag. Kolonialforstliche Mitteilungen 5(2-3): 169–218."
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ]
+}

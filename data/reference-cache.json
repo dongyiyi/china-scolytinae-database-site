@@ -1,0 +1,101 @@
+{
+  "Johnson2026": {
+    "id": "johnson2026",
+    "label": "Johnson et al. 2026",
+    "role": [
+      "taxonomic backbone"
+    ],
+    "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+    "doi": "10.3897/zookeys.1271.168928"
+  },
+  "CO2015": {
+    "id": "src_co2015",
+    "label": "黄复生等 2015",
+    "role": [
+      "published evidence"
+    ],
+    "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+  },
+  "EF1984": {
+    "id": "src_ef1984",
+    "label": "殷蕙芬等 1984",
+    "role": [
+      "published evidence"
+    ],
+    "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+  },
+  "SmithEtAl2020": {
+    "id": "src_smith2020",
+    "label": "Smith et al. 2020",
+    "role": [
+      "published evidence"
+    ],
+    "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+    "doi": "10.3897/zookeys.983.52630"
+  },
+  "BeaverLiu2010_TaiwanScolytinae": {
+    "id": "src_beaverliu2010",
+    "label": "Beaver & Liu 2010",
+    "role": [
+      "published evidence",
+      "taxonomic treatment"
+    ],
+    "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+    "doi": "10.11646/zootaxa.2602.1.1"
+  },
+  "LinEtAl2024_AmasaYunnan": {
+    "id": "src_lin2024",
+    "label": "Lin et al. 2024",
+    "role": [
+      "published evidence"
+    ],
+    "citation": "Lin, W., Li, Y., Smith, S.M. & Meng, L.-Z. (2024). Two New Species of Amasa Lea, 1894 (Coleoptera: Curculionidae: Scolytinae: Xyleborini) from Yunnan, China. Annales Zoologici 74(1): 185–191.",
+    "doi": "10.3161/00034541ANZ2024.74.1.011"
+  },
+  "SmithEtAl2022_OrientalXyleborini": {
+    "id": "src_smith2022",
+    "label": "Smith et al. 2022",
+    "role": [
+      "published evidence"
+    ],
+    "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
+    "doi": "10.11646/zootaxa.5209.1.1"
+  },
+  "LinSmith2022": {
+    "id": "src_linsmith2022",
+    "label": "Lin & Smith 2022",
+    "role": [
+      "published evidence"
+    ],
+    "citation": "Lin, C.-S. & Smith, S.M. (2022). Four new species of Cyclorhipidion and five new records of other xyleborine genera (Coleoptera, Curculionidae, Scolytinae, Xyleborini) from Taiwan. Taiwania 67(3): 285–301.",
+    "doi": "10.6165/tai.2022.67.285"
+  },
+  "HongkongChecklistAl2025": {
+    "id": "src_lau2025",
+    "label": "Lau 2025",
+    "role": [
+      "regional checklist"
+    ],
+    "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+  },
+  "LinEtAl2019_AmbrosiodmusMinor": {
+    "id": "src_lin2019",
+    "label": "Lin et al. 2019",
+    "role": [
+      "published evidence"
+    ],
+    "citation": "Lin, W., Li, Y., Johnson, A.J. & Gao, L. (2019). New Area Records and New Hosts of Ambrosiodmus minor (Stebbing) (Coleoptera: Curculionidae: Scolytinae) in Mainland China. The Coleopterists Bulletin 73(3): 684–686.",
+    "doi": "10.1649/0010-065X-73.3.684"
+  },
+  "LinEtAl2025_AnisandrusTuberculatus": {
+    "id": "src_lin2025",
+    "label": "Lin et al. 2025",
+    "role": [
+      "original description",
+      "distribution",
+      "host"
+    ],
+    "citation": "Lin, W., Smith, S.M., Xu, M. & Li, Y. (2025). A new species of Anisandrus Ferrari, 1867 (Coleoptera: Curculionidae: Scolytinae: Xyleborini) from Western China. Zootaxa 5652(1): 195–200.",
+    "doi": "10.11646/zootaxa.5652.1.20"
+  }
+}

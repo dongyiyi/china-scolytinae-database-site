@@ -1,0 +1,264 @@
+{
+  "vsn": "VSN_3253",
+  "scientific_name": "Hypothenemus javanus",
+  "authorship": "(Eggers, 1908)",
+  "chinese_name": "洼额咪小蠹",
+  "genus": "Hypothenemus",
+  "subfamily": "Scolytinae",
+  "tribe": "Trypophloeini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "云南；台湾",
+    "narrative": "黄复生等 (2015) supports occurrence in 云南. Beaver & Liu (2010) accepts Taiwan occurrence; this source entry does not list a direct Taiwan locality in the locality field, but its occurrence treatment is affirmative rather than doubtful."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Ailanthus altissima"
+    },
+    {
+      "scientific_name": "Albizia julibrissin"
+    },
+    {
+      "scientific_name": "Bauhinia variegata"
+    },
+    {
+      "scientific_name": "Castanopsis indica"
+    },
+    {
+      "scientific_name": "Cinnamomum camphora"
+    },
+    {
+      "scientific_name": "Conocarpus erecta"
+    },
+    {
+      "scientific_name": "Ricinus communis"
+    },
+    {
+      "scientific_name": "Eleagnus pungens"
+    },
+    {
+      "scientific_name": "Leucania glauca"
+    },
+    {
+      "scientific_name": "Mangifera indica"
+    },
+    {
+      "scientific_name": "Ochroma sp."
+    },
+    {
+      "scientific_name": "Persea borbonia"
+    },
+    {
+      "scientific_name": "Rhizophora mangle"
+    },
+    {
+      "scientific_name": "Vitis sp."
+    },
+    {
+      "scientific_name": "Trema floridana"
+    },
+    {
+      "scientific_name": "Ocotea catesbiana"
+    },
+    {
+      "scientific_name": "Rheedia sp."
+    }
+  ],
+  "host_note": "黄复生等 (2015) provides the explicit host list retained in the current synthesis. Beaver & Liu (2010) describes broad polyphagy on angiosperm trees and lianes and notes bamboo originating from Taiwan; this broad prose is retained as context and not expanded into inferred host taxa.",
+  "taxonomy_summary": "The current accepted identity is Hypothenemus javanus (Eggers, 1908).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1908",
+      "event": "Original combination / basionym",
+      "name": "Stephanoderes javanus",
+      "authorship": "Eggers, 1908",
+      "note": "Original combination / basionym, original-description p. 215.",
+      "reference_ids": [
+        "orig_e43ea0dd3b7c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Stephanoderes obesus",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 30.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Stephanoderes philippinensis",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 31.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1922",
+      "event": "Synonym",
+      "name": "Stephanoderes bananensis",
+      "authorship": "Eggers, 1922",
+      "note": "Published name currently treated as a synonym; original-description p. 167.",
+      "reference_ids": [
+        "orig_c14fa6a9014c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1939",
+      "event": "Synonym",
+      "name": "Stephanoderes kalshoveni",
+      "authorship": "Schedl, 1939",
+      "note": "Published name currently treated as a synonym; original-description p. 35.",
+      "reference_ids": [
+        "orig_455a9f4416f4",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1940",
+      "event": "Synonym",
+      "name": "Stephanoderes subagnatus",
+      "authorship": "Eggers, 1940",
+      "note": "Published name currently treated as a synonym; original-description p. 101.",
+      "reference_ids": [
+        "orig_7b5399da8446",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1951",
+      "event": "Synonym",
+      "name": "Stephanoderes pistor",
+      "authorship": "Schedl, 1951",
+      "note": "Published name currently treated as a synonym; original-description p. 102.",
+      "reference_ids": [
+        "orig_4d5799273e3e",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1951",
+      "event": "Synonym",
+      "name": "Stephanoderes prosper",
+      "authorship": "Schedl, 1951",
+      "note": "Published name currently treated as a synonym; original-description p. 103.",
+      "reference_ids": [
+        "orig_4d5799273e3e",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1908",
+      "event": "Current accepted",
+      "name": "Hypothenemus javanus",
+      "authorship": "(Eggers, 1908)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_e43ea0dd3b7c",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Hypothenemus javanus (Eggers, 1908), VSN_3253, Scolytinae: Trypophloeini. The previous Profile displayed Browne, 1984 and is corrected to the canonical integrated taxonomic backbone authorship; source-level authorship (Eggers) is preserved.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_e43ea0dd3b7c",
+      "label": "Eggers, 1908a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1908a). Funf neue Borkenkäfer. Entomologische Blätter 4: 214–217."
+    },
+    {
+      "id": "orig_c14fa6a9014c",
+      "label": "Eggers, 1922c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1922c). Neue Borkenkäfer (Ipidae) aus Afrika. (Nachtrag I). Entomologische Blätter 18: 163–174."
+    },
+    {
+      "id": "orig_455a9f4416f4",
+      "label": "Schedl, 1939j",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1939j). Scolytidae and Platypodidae. 47 Beitrag. Tijdschrift voor Entomologie 82: 30–53."
+    },
+    {
+      "id": "orig_a6f1a8831ef5",
+      "label": "Hopkins, 1915d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hopkins, A.D. (1915d). Classification of the Cryphalinae with descriptions of new genera and species. United States Department of Agriculture, Office of the Secretary. Report 99: 1–75 + 4 plates."
+    },
+    {
+      "id": "orig_4d5799273e3e",
+      "label": "Schedl, 1951c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1951c). Neotropische Scolytoidea, IV. 112 Beitrag zur Morphologie und Systematik der Scolyroiden. Dusenia 2(2): 71–130."
+    },
+    {
+      "id": "orig_7b5399da8446",
+      "label": "Eggers, 1940d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1940d). Neue Borkenkäfer (Col., Scolytidae) aus Africa. Nachtrag IX. Revue de Zoologie et de Botanique Africaines 33: 99–108."
+    }
+  ]
+}

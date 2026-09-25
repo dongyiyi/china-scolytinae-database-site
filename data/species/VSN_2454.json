@@ -1,0 +1,282 @@
+{
+  "vsn": "VSN_2454",
+  "scientific_name": "Dryocoetiops moestus",
+  "authorship": "(Blandford, 1894)",
+  "chinese_name": "咖啡横顶小蠹",
+  "genus": "Dryocoetiops",
+  "subfamily": "Scolytinae",
+  "tribe": "Dryocoetini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "四川；福建；海南；广西；云南；西藏；台湾",
+    "narrative": "黄复生等 (2015) provides mainland province-level records from 四川、福建、海南、广西、云南、西藏. Beaver & Liu (2010) adds Taiwan occurrence under the source name Dryocoetiops coffeae. Beaver et al. (2019) independently reports Dryocoetiops moestus from Sichuan, Yunnan, and Taiwan; these records support a subset of the already accepted distribution and do not reduce the existing synthesis."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Phoebe sp."
+    },
+    {
+      "scientific_name": "Cinnamomum camphora"
+    },
+    {
+      "scientific_name": "Cinnamomum tamala"
+    },
+    {
+      "scientific_name": "Camellia sinensis"
+    },
+    {
+      "scientific_name": "Coffea arabica"
+    },
+    {
+      "scientific_name": "Quercus sp."
+    },
+    {
+      "scientific_name": "Litsea cubeba"
+    },
+    {
+      "scientific_name": "Platycladus orientalis"
+    },
+    {
+      "scientific_name": "Mangifera indica"
+    },
+    {
+      "scientific_name": "Coffea spp."
+    }
+  ],
+  "host_note": "黄复生等 (2015) provides explicit host taxa. Beaver & Liu (2010) describes the taxon as a polyphagous twig borer and secondary pest of Coffea spp.; Coffea spp. is retained at genus level without replacing the existing species-level Coffea arabica record.",
+  "taxonomy_summary": "The current accepted identity is Dryocoetiops moestus (Blandford, 1894).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1894",
+      "event": "Synonym",
+      "name": "Dryocoetes dinoderoides",
+      "authorship": "Blandford, 1894",
+      "note": "Published name currently treated as a synonym; original-description p. 97.",
+      "reference_ids": [
+        "orig_a1d45147b2c3",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1894",
+      "event": "Original combination / basionym",
+      "name": "Dryocoetes moestus",
+      "authorship": "Blandford, 1894",
+      "note": "Original combination / basionym, original-description p. 96.",
+      "reference_ids": [
+        "orig_a1d45147b2c3",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Dryocoetes coffeae",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 161.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1936",
+      "event": "Synonym",
+      "name": "Dryocoetes javanus",
+      "authorship": "Eggers, 1936",
+      "note": "Published name currently treated as a synonym; original-description p. 87.",
+      "reference_ids": [
+        "orig_679cd0703a6e",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1939",
+      "event": "Synonym",
+      "name": "Dryocoetes hirsutus",
+      "authorship": "Schedl, 1939",
+      "note": "Published name currently treated as a synonym; original-description p. 348.",
+      "reference_ids": [
+        "orig_23335e312a9d",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1942",
+      "event": "Synonym",
+      "name": "Dryocoetes australis",
+      "authorship": "Schedl, 1942",
+      "note": "Published name currently treated as a synonym; original-description p. 181.",
+      "reference_ids": [
+        "orig_12e277497cec",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1942",
+      "event": "Synonym",
+      "name": "Dryocoetes eugeniae",
+      "authorship": "Schedl, 1942",
+      "note": "Published name currently treated as a synonym; original-description p. 180.",
+      "reference_ids": [
+        "orig_5405f00dff87",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1942",
+      "event": "Synonym",
+      "name": "Dryocoetes malaccensis",
+      "authorship": "Schedl, 1942",
+      "note": "Published name currently treated as a synonym; original-description p. 180.",
+      "reference_ids": [
+        "orig_5405f00dff87",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1942",
+      "event": "Synonym",
+      "name": "Dryocoetes tonkinensis",
+      "authorship": "Schedl, 1942",
+      "note": "Published name currently treated as a synonym; original-description p. 179.",
+      "reference_ids": [
+        "orig_5405f00dff87",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1957",
+      "event": "Synonym",
+      "name": "Pseudopoecilips taradakensis",
+      "authorship": "Murayama, 1957",
+      "note": "Published name currently treated as a synonym; original-description p. 618.",
+      "reference_ids": [
+        "orig_3349b68079f1",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1894",
+      "event": "Current accepted",
+      "name": "Dryocoetiops moestus",
+      "authorship": "(Blandford, 1894)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_a1d45147b2c3",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Dryocoetiops moestus (Blandford, 1894), VSN_2454, Scolytinae: Dryocoetini. 黄复生等 (2015) and Beaver & Liu (2010) use the source name Dryocoetiops coffeae; current synthesis follows integrated taxonomic backbone while retaining the older name at source layer.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_beaveretal2019_dryocoetiopsreview",
+      "label": "Beaver et al., 2019",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Beaver, R.A., Smith, S.M. & Sanguansub, S. (2019). A review of the genus Dryocoetiops Schedl, with new species, new synonymy and a key to species (Coleoptera: Curculionidae: Scolytinae). Zootaxa, 4712 (2), 236–250.",
+      "doi": "10.11646/zootaxa.4712.2.4"
+    },
+    {
+      "id": "orig_12e277497cec",
+      "label": "Schedl, 1942c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1942c). Interessante und neue Scolytiden und Platypodiden aus der australischen Region. 79 Beitrag. Mitteilungen der Münchener Entomologischen Gesellschaft 32: 162–201. https://www.biodiversitylibrary.org/page/28982895."
+    },
+    {
+      "id": "orig_c8c8b73ae935",
+      "label": "Eggers, 1923b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3–4): 129–220."
+    },
+    {
+      "id": "orig_a1d45147b2c3",
+      "label": "Blandford, 1894c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
+    },
+    {
+      "id": "orig_5405f00dff87",
+      "label": "Schedl, 1942b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1942b). Forschungberiche zur Scolytoiden-Fauna der Malayischen Halbinsel, V. 80 Betrag. Kolonialforstliche Mitteilungen 5(2-3): 169–218."
+    },
+    {
+      "id": "orig_23335e312a9d",
+      "label": "Schedl, 1939b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1939b). Malaysian Scolytidae and Platypodidae (IV). 57th contribution. Journal of the Federated Malay States Museums 18(3): 327–364."
+    },
+    {
+      "id": "orig_679cd0703a6e",
+      "label": "Eggers, 1936e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1936e). Neue indomalayische Borkenkäfer (Ipidae). III. Nachtrag. Tijdschrift voor Entomologie 79: 77–91."
+    },
+    {
+      "id": "orig_3349b68079f1",
+      "label": "Murayama, 1957b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1957b). Dryocoetinae (Coleoptera, Ipidae) from the northern half of the Far East. Bulletin of the Faculty of Agriculture, Yamaguchi University 8: 587–632."
+    }
+  ]
+}

@@ -1,0 +1,388 @@
+{
+  "vsn": "VSN_2413",
+  "scientific_name": "Dryocoetes autographus",
+  "authorship": "(Ratzeburg, 1837)",
+  "chinese_name": "肾点毛小蠹",
+  "genus": "Dryocoetes",
+  "subfamily": "Scolytinae",
+  "tribe": "Dryocoetini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "黑龙江；陕西；台湾",
+    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) provide mainland records from 黑龙江 and 陕西. Beaver & Liu (2010) includes Dryocoetes autographus in the accepted Taiwan checklist, adding Taiwan occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Picea asperata"
+    },
+    {
+      "scientific_name": "Pinus koraiensis"
+    },
+    {
+      "scientific_name": "Pinus armandii"
+    },
+    {
+      "scientific_name": "Picea engelmannii"
+    },
+    {
+      "scientific_name": "Picea glauca"
+    },
+    {
+      "scientific_name": "Abies sp."
+    },
+    {
+      "scientific_name": "Pseudotsuga menziesii"
+    },
+    {
+      "scientific_name": "Pinus contorta"
+    },
+    {
+      "scientific_name": "Pinus monticola"
+    },
+    {
+      "scientific_name": "Pinus strobus"
+    },
+    {
+      "scientific_name": "Tsuga heterophylla"
+    },
+    {
+      "scientific_name": "Picea spp."
+    },
+    {
+      "scientific_name": "Pinus spp."
+    },
+    {
+      "scientific_name": "Abies spp."
+    },
+    {
+      "scientific_name": "Larix spp."
+    }
+  ],
+  "host_note": "殷蕙芬等 (1984) and 黄复生等 (2015) provide explicit host taxa. Beaver & Liu (2010) reports Picea and Pinus, rarely Abies and Larix, but explicitly states that no Taiwan hosts were recorded. Genus-level host information is retained without assigning those hosts specifically to Taiwan.",
+  "taxonomy_summary": "The current accepted identity is Dryocoetes autographus (Ratzeburg, 1837).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1793",
+      "event": "Synonym",
+      "name": "Bostrichus villosus",
+      "authorship": "Herbst, 1793",
+      "note": "Published name currently treated as a synonym; original-description p. 121.",
+      "reference_ids": [
+        "orig_87d1351ccbc1",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1837",
+      "event": "Original combination / basionym",
+      "name": "Bostrichus autographus",
+      "authorship": "Ratzeburg, 1837",
+      "note": "Original combination / basionym, original-description p. 160.",
+      "reference_ids": [
+        "orig_08aea4519dab",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1843",
+      "event": "Synonym",
+      "name": "Bostrichus septentrionis",
+      "authorship": "Mannerheim, 1843",
+      "note": "Published name currently treated as a synonym; original-description p. 298.",
+      "reference_ids": [
+        "orig_5d1c4fd4f1ce",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1852",
+      "event": "Synonym",
+      "name": "Bostrichus semicastaneus",
+      "authorship": "Mannerheim, 1852",
+      "note": "Published name currently treated as a synonym; original-description p. 298.",
+      "reference_ids": [
+        "orig_f11dabda2b02",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1853",
+      "event": "Synonym",
+      "name": "Bostrichus victoris",
+      "authorship": "Mulsant & Rey, 1853",
+      "note": "Published name currently treated as a synonym; original-description p. 91.",
+      "reference_ids": [
+        "orig_4f2cf6464ad5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1853",
+      "event": "Synonym",
+      "name": "Bostrichus victoris",
+      "authorship": "Mulsant & Rey, 1853",
+      "note": "Published name currently treated as a synonym; original-description p. 205.",
+      "reference_ids": [
+        "orig_c3edc7156ceb",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Dryocoetes americanus",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 51.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Dryocoetes pseudotsugae",
+      "authorship": "Swaine, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 360.",
+      "reference_ids": [
+        "orig_cad978c66aef",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Dryocoetes suecicus",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 139.",
+      "reference_ids": [
+        "orig_83bc9c8811d0",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1931",
+      "event": "Synonym",
+      "name": "Dryocoetes alternans",
+      "authorship": "Eggers, 1931",
+      "note": "Published name currently treated as a synonym; original-description p. 30.",
+      "reference_ids": [
+        "orig_ef5e4edf2d20",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1940",
+      "event": "Synonym",
+      "name": "Dryocoetes brasiliensis",
+      "authorship": "Schedl, 1940",
+      "note": "Published name currently treated as a synonym; original-description p. 207.",
+      "reference_ids": [
+        "orig_ea710267d0e2",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1941",
+      "event": "Synonym",
+      "name": "Dryocoetes artepunctatus",
+      "authorship": "Eggers, 1941",
+      "note": "Published name currently treated as a synonym; original-description p. 122.",
+      "reference_ids": [
+        "orig_a23421669547",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1941",
+      "event": "Synonym",
+      "name": "Dryocoetes longicollis",
+      "authorship": "Eggers, 1941",
+      "note": "Published name currently treated as a synonym; original-description p. 121.",
+      "reference_ids": [
+        "orig_a23421669547",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1960",
+      "event": "Synonym",
+      "name": "Dryocoetes autographus sachalinensis",
+      "authorship": "Sokanovskiy, 1960",
+      "note": "Published name currently treated as a synonym; original-description p. 675.",
+      "reference_ids": [
+        "orig_5d05907644bb",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1837",
+      "event": "Current accepted",
+      "name": "Dryocoetes autographus",
+      "authorship": "(Ratzeburg, 1837)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_08aea4519dab",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Dryocoetes autographus (Ratzeburg, 1837), VSN_2413, Scolytinae: Dryocoetini. Beaver & Liu (2010) uses Dryocoetes autographus (Ratzeburg).",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_a23421669547",
+      "label": "Eggers, 1941d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1941d). Zur paläarktischen Borkenkäferfauna VI. Stettiner Entomologische Zeitung 102: 119–124."
+    },
+    {
+      "id": "orig_f11dabda2b02",
+      "label": "Mannerheim, 1852",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Mannerheim, C.G. von (1852). Zweiter Nachtrag zur Kaefer-fauna der Nord-Amerikanischen Laender des Russischen Reiches. Bulletin de la Société Impériale des Naturalistes de Moscou 25(1): 283–387."
+    },
+    {
+      "id": "orig_4f2cf6464ad5",
+      "label": "Mulsant & Rey, 1853b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Mulsant, E. & Rey, C. (1853b). Description d’une espèce nouvelle de coléoptère du genre Bostrichus. Opuscules Entomologiques 2: 91–92."
+    },
+    {
+      "id": "orig_a6f1a8831ef5",
+      "label": "Hopkins, 1915d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hopkins, A.D. (1915d). Classification of the Cryphalinae with descriptions of new genera and species. United States Department of Agriculture, Office of the Secretary. Report 99: 1–75 + 4 plates."
+    },
+    {
+      "id": "orig_c3edc7156ceb",
+      "label": "Mulsant & Rey, 1853a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Mulsant, E. & Rey, C. (1853a). Description d’une espèce nouvelle de coléoptère du genre Bostrichus. Mémoires de l’Académie des Sciences, Belles-Lettres et Arts de Lyon, Classe des Sciences (N. S.) 2 [1852]: 205–206."
+    },
+    {
+      "id": "orig_87d1351ccbc1",
+      "label": "Herbst, 1793",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Herbst, J.F.W. (1793). Natursystem aller bekannten in- und ausländischen Insekten, als eine Fortsetzung der von Büffonschen Naturgeschichte. Der Käfer fünfter Theil. Paulischen Buchhandlung, Berlin xvi + 392 pp + pls. XLIV–LIX."
+    },
+    {
+      "id": "orig_5d1c4fd4f1ce",
+      "label": "Mannerheim, 1843",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Mannerheim, C.G. von (1843). Beitrag zur Kaefer-fauna der Aleutischen Inseln, der Insel Sitkha und Neu-Californiens. Bulletin de la Société Impériale des Naturalistes de Moscou 16(2): 175–314."
+    },
+    {
+      "id": "orig_ea710267d0e2",
+      "label": "Schedl, 1940c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1940c). Scolytidae und Platypodidae (Coleoptera). Arbeiten über Morphologische und Taxonomische Entomologie aus Berlin-Dahlem 7(3): 203–208."
+    },
+    {
+      "id": "orig_5d05907644bb",
+      "label": "Sokanovskiy, 1960",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Sokanovskiy, B.V. (1960). K sistematike i rasprostraneniyu koroedov (Coleoptera, Ipidae) SSSR i sopredelnykh stran [On the taxonomy and distribution of bark beetles (Coleoptera, Ipidae) in the USSR and adjacent countries]. Entomologicheskoe Obozrenie 39: 674–678."
+    },
+    {
+      "id": "orig_08aea4519dab",
+      "label": "Ratzeburg, 1837",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Ratzeburg, J.T.C. (1837). Die Forst-Insecten oder Abbildung und Beschreibung der in den Wäldern Preussens und der Nachbarstaaten als schädlich oder nützlich bekannt gewordenen Insecten. Erster Theil. Die Käfer. Nicolai, Berlin x + 4 + 202 pp, 21 pls."
+    },
+    {
+      "id": "orig_ef5e4edf2d20",
+      "label": "Eggers, 1931b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1931b). Borkenkäfer (Ipidae, Col.) aus Südamerika, IV. Wiener Entomologische Zeitung 48(1): 29–42."
+    },
+    {
+      "id": "orig_83bc9c8811d0",
+      "label": "Eggers, 1923a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923a). Seltene und neue paläarktische Borkenkäfer, V. Entomologische Blätter 19: 133–139."
+    },
+    {
+      "id": "orig_cad978c66aef",
+      "label": "Swaine, 1915b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Swaine, J.M. (1915b). Descriptions of new species of Ipidae (Coleoptera). The Canadian Entomologist 47: 355–369."
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "vsn": "VSN_2536",
+  "scientific_name": "Eidophelus darwini",
+  "authorship": "(Eichhoff, 1878)",
+  "chinese_name": "厚鳞巨梢小蠹",
+  "genus": "Eidophelus",
+  "subfamily": "Scolytinae",
+  "tribe": "Ernoporini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "云南；台湾（南投）",
+    "narrative": "黄复生等 (2015) records Eidophelus darwini from Yunnan. Lin & Beaver (2021) adds the first Taiwan record, based on one female from Yuchi Township, Nantou. The reviewed synthesis therefore treats mainland China (Yunnan) and Taiwan as present."
+  },
+  "hosts": [],
+  "host_note": "黄复生等 (2015) gives only the vague host term '藤'. Lin & Beaver (2021) cites Cryptolepis buchanani and Parameria barbata from earlier literature, but the Taiwan specimen was trap-caught. These host data are retained in the historical/source-evidence layer rather than promoted as a direct current host synthesis.",
+  "taxonomy_summary": "The current accepted identity is Eidophelus darwini (Eichhoff, 1878).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1878",
+      "event": "Original combination / basionym",
+      "name": "Scolytogenes darwini",
+      "authorship": "Eichhoff, 1878",
+      "note": "Original combination / basionym, original-description p. 387.",
+      "reference_ids": [
+        "orig_f5d8b473992f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Scolytogenes darwinii",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 497.",
+      "reference_ids": [
+        "orig_df23847f2e11",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Negritus similis",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 142.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1927",
+      "event": "Synonym",
+      "name": "Negritus major",
+      "authorship": "Eggers, 1927",
+      "note": "Published name currently treated as a synonym; original-description p. 69.",
+      "reference_ids": [
+        "orig_f7b264dff599",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1951",
+      "event": "Synonym",
+      "name": "Scolytogenes cryptolepis",
+      "authorship": "Schedl, 1951",
+      "note": "Published name currently treated as a synonym; original-description p. 55.",
+      "reference_ids": [
+        "orig_f82fd5b0fc91",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1975",
+      "event": "Synonym",
+      "name": "Cryphalomorphus scolytomimoides",
+      "authorship": "Nobuchi, 1975",
+      "note": "Published name currently treated as a synonym; original-description p. 50.",
+      "reference_ids": [
+        "orig_d1fca2020cc2",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Current accepted",
+      "name": "Eidophelus darwini",
+      "authorship": "(Eichhoff, 1878)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_f5d8b473992f",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Eidophelus darwini (Eichhoff, 1878), VSN_2536. The legacy profile body's Schedl, 1951 authorship is superseded by the canonical identity.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_linbeaver2021_taiwanbarkbeetles",
+      "label": "Lin & Beaver, 2021",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Lin, C.-S. & Beaver, R.A. (2021). A new species and five new records of bark beetles (Coleoptera, Curculionidae, Scolytinae) from Taiwan. Taiwania 66(1): 1–10.",
+      "doi": "10.6165/tai.2021.66.1"
+    },
+    {
+      "id": "orig_d1fca2020cc2",
+      "label": "Nobuchi, 1975",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Nobuchi, A. (1975). Twenty-one new species of Cryphalini from Japan (Coleoptera). Studies on Scolytidae XIII. Bulletin of the Government Forest Experiment Station 277: 41–60."
+    },
+    {
+      "id": "orig_f5d8b473992f",
+      "label": "Eichhoff, 1878a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878a). Neue oder noch unbeschriebene Tomicinen. Stettiner Entomologische Zeitung 39: 383–392."
+    },
+    {
+      "id": "orig_f7b264dff599",
+      "label": "Eggers, 1927b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1927b). Neue indomalayische Borkenkäfer (Ipidae). II. Nachtrag. Philippine Journal of Science 33(1): 67–108."
+    },
+    {
+      "id": "orig_c8c8b73ae935",
+      "label": "Eggers, 1923b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3–4): 129–220."
+    },
+    {
+      "id": "orig_f82fd5b0fc91",
+      "label": "Schedl, 1951i",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1951i). Fauna Indo-malayaensis I. 91. Beitrag zur Morphologie und Systematik der Scolytoidea. Tijdschrift voor Entomologie 93: 41–98."
+    },
+    {
+      "id": "orig_df23847f2e11",
+      "label": "Eichhoff, 1878b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
+    }
+  ]
+}

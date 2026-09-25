@@ -1,0 +1,135 @@
+{
+  "vsn": "VSN_1355",
+  "scientific_name": "Coptoborus vespatorius",
+  "authorship": "(Schedl, 1931)",
+  "chinese_name": "凹缘缺刻小蠹",
+  "genus": "Coptoborus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Unreviewed",
+  "review_status": "Not started",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Coptoborus vespatorius (Schedl, 1931).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Coptoborus emarginatus",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 53.",
+      "reference_ids": [
+        "orig_c0e022fe134c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1949",
+      "event": "Synonym",
+      "name": "Xyleborus corniculatulus",
+      "authorship": "Schedl, 1949",
+      "note": "Published name currently treated as a synonym; original-description p. 275.",
+      "reference_ids": [
+        "orig_faad127dcc28",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1949",
+      "event": "Synonym",
+      "name": "Xyleborus corniculatus",
+      "authorship": "Schedl, 1949",
+      "note": "Published name currently treated as a synonym; original-description p. 275.",
+      "reference_ids": [
+        "orig_faad127dcc28",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1931",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus vespatorius",
+      "authorship": "Schedl, 1931",
+      "note": "Original combination / basionym, original-description p. 339.",
+      "reference_ids": [
+        "orig_215baac80cea",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1931",
+      "event": "Current accepted",
+      "name": "Coptoborus vespatorius",
+      "authorship": "(Schedl, 1931)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_215baac80cea",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 4 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "orig_c0e022fe134c",
+      "label": "Hopkins, 1915d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hopkins, A.D. (1915d). Classification of the Cryphalinae with descriptions of new genera and species. United States Department of Agriculture, Office of the Secretary. Report 99: 1–75 + 4 plates."
+    },
+    {
+      "id": "orig_215baac80cea",
+      "label": "Schedl, 1931a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1931a). Notes on the genus Xyleborus Eichh. Annals and Magazine of Natural History. Ser. 10, 8(46): 339–347.",
+      "doi": "10.1080/00222933108673402"
+    },
+    {
+      "id": "orig_faad127dcc28",
+      "label": "Schedl, 1949b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1949b). Neotropical Scolytoidea, I. 97th Contribution to the morphology and taxonomy of the Scolytoidea (Col.). Revista Brasileira de Biologia 9(3): 261–284."
+    }
+  ]
+}

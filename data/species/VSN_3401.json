@@ -1,0 +1,159 @@
+{
+  "vsn": "VSN_3401",
+  "scientific_name": "Ips calligraphus calligraphus",
+  "authorship": "(Germar, 1824)",
+  "chinese_name": "",
+  "genus": "Ips",
+  "subfamily": "Scolytinae",
+  "tribe": "Ipini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "广东",
+    "narrative": "Li et al. (2021) reports repeated detections of Ips calligraphus calligraphus around Zhuhai, Guangdong since 2016; the 2019 survey found the taxon at four sites. The authors considered the population established and described the report as the first record in mainland Asia."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Pinus elliottii"
+    }
+  ],
+  "host_note": "Gut-content rbcL sequences were successfully obtained from three I. calligraphus individuals and grouped with slash pine Pinus elliottii. This direct molecular feeding-host evidence is promoted as Current Host Summary. No native Chinese pine is inferred.",
+  "taxonomy_summary": "The current accepted identity is Ips calligraphus calligraphus (Germar, 1824).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1824",
+      "event": "Original combination / basionym",
+      "name": "Tomicus calligraphus",
+      "authorship": "Germar, 1824",
+      "note": "Original combination / basionym, original-description p. 461.",
+      "reference_ids": [
+        "orig_be48bdf36994",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1826",
+      "event": "Synonym",
+      "name": "Bostrichus exesus",
+      "authorship": "Say, 1826",
+      "note": "Published name currently treated as a synonym; original-description p. 255.",
+      "reference_ids": [
+        "orig_632b25be6fd4",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1836",
+      "event": "Synonym",
+      "name": "Bostrichus chloroticus",
+      "authorship": "Dejean, 1836",
+      "note": "Published name currently treated as a synonym; original-description p. 332.",
+      "reference_ids": [
+        "orig_cce043e7fb54",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1836",
+      "event": "Synonym",
+      "name": "Bostrichus conformis",
+      "authorship": "Dejean, 1836",
+      "note": "Published name currently treated as a synonym; original-description p. 332.",
+      "reference_ids": [
+        "orig_cce043e7fb54",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1868",
+      "event": "Synonym",
+      "name": "Tomicus praemorsus",
+      "authorship": "Eichhoff, 1868",
+      "note": "Published name currently treated as a synonym; original-description p. 401.",
+      "reference_ids": [
+        "orig_47f5e513af32",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1824",
+      "event": "Current accepted",
+      "name": "Ips calligraphus calligraphus",
+      "authorship": "(Germar, 1824)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_be48bdf36994",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "All Chinese Ips calligraphus specimens examined by Li et al. (2021) were morphologically identified as the nominotypical subspecies Ips calligraphus calligraphus. Stable identity is VSN_3401; authorship is (Germar, 1824).",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_lietal2021_invasiveipszhuhai",
+      "label": "Li, Johnson et al., 2021",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Li, Y., Johnson, A.J., Gao, L., Wu, C. & Hulcr, J. (2021). Two new invasive Ips bark beetles (Coleoptera: Curculionidae) in mainland China and their potential distribution in Asia. Pest Management Science 77: 4000–4008.",
+      "doi": "10.1002/ps.6423"
+    },
+    {
+      "id": "orig_cce043e7fb54",
+      "label": "Dejean, 1836",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Dejean, P.F.M.A. (1836). Catalogue des coléoptères de la collection de M. le Comte Dejean. Troisième édition, revue, corrigée et augmentée. Livraisons 1-4. Méquignon-Marvis Père et Fils, Paris 1–384."
+    },
+    {
+      "id": "orig_632b25be6fd4",
+      "label": "Say, 1826",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Say, T. (1826). Descriptions of new species of coleopterous insects inhabiting the United States. Journal of the Academy of Natural Sciences of Philadelphia 5: 237–304."
+    },
+    {
+      "id": "orig_be48bdf36994",
+      "label": "Germar, 1824",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Germar, E.F. (1824). Insectorum species: novae aut minus cognitae, descriptionibus illustratae. Volumen primum, Coleoptera. Halae, Impensis J.C. Hendelii et Filii, 624 pages.",
+      "doi": "10.5962/bhl.title.130964"
+    },
+    {
+      "id": "orig_47f5e513af32",
+      "label": "Eichhoff, 1868c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1868c). Neue amerikanische Borkenkäfer-Gattungen und Arten. Berliner Entomologische Zeitschrift 11: 399–402."
+    }
+  ]
+}

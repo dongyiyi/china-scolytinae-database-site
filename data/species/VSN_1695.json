@@ -1,0 +1,85 @@
+{
+  "vsn": "VSN_1695",
+  "scientific_name": "Cryphalus formosanus",
+  "authorship": "Schedl, 1942",
+  "chinese_name": "",
+  "genus": "Cryphalus",
+  "subfamily": "Scolytinae",
+  "tribe": "Cryphalini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾",
+    "narrative": "Accepted for Taiwan from Beaver & Liu (2010). The 2010 synopsis states that Cryphalus formosanus is known only from the holotype; no broader mainland China occurrence is promoted."
+  },
+  "hosts": [],
+  "host_note": "Beaver & Liu (2010) reports the host as unknown; no host taxon is promoted.",
+  "taxonomy_summary": "The current accepted identity is Cryphalus formosanus Schedl, 1942.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1942",
+      "event": "Current accepted",
+      "name": "Cryphalus formosanus",
+      "authorship": "Schedl, 1942",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_354d8ae3d279",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Cryphalus formosanus Schedl, 1942, VSN_1695. Beaver & Liu (2010) uses Cryphalus formosanus with authorship Schedl.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_yangcryphaluschecklistal2020",
+      "label": "Yang, 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Yang, L. (2020). Checklist of the genus Cryphalus Erichson, 1836 (Coleoptera: Curculionidae: Scolytinae) with special attention to Chinese species. Zoological Systematics 45(3): 176–205.",
+      "doi": "10.11865/zs.202023"
+    },
+    {
+      "id": "orig_354d8ae3d279",
+      "label": "Schedl, 1942b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1942b). Forschungberiche zur Scolytoiden-Fauna der Malayischen Halbinsel, V. 80 Betrag. Kolonialforstliche Mitteilungen 5(2-3): 169–218."
+    }
+  ]
+}

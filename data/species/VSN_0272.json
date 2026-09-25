@@ -1,0 +1,222 @@
+{
+  "vsn": "VSN_0272",
+  "scientific_name": "Ambrosiophilus osumiensis",
+  "authorship": "(Murayama, 1934)",
+  "chinese_name": "",
+  "genus": "Ambrosiophilus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Anhui; Chongqing; Fujian; Guangxi; Guizhou; Hunan; Jiangxi; Sichuan; Yunnan; Taiwan",
+    "narrative": "Smith et al. (2020) records Ambrosiophilus osumiensis from Anhui, Chongqing, Fujian, Guangxi, Guizhou, Hunan, Jiangxi, Sichuan, Yunnan and Taiwan. Beaver & Liu (2010) independently documents Taiwan under two source names now mapped to VSN_0272. Smith et al. (2022) independently reports the same reviewed province and region set, adding source support without changing the current distribution synthesis."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Pistacia"
+    },
+    {
+      "scientific_name": "Ilex"
+    },
+    {
+      "scientific_name": "Quercus"
+    },
+    {
+      "scientific_name": "Cinnamomum"
+    },
+    {
+      "scientific_name": "Broussonetia"
+    },
+    {
+      "scientific_name": "Ligustrum"
+    }
+  ],
+  "host_note": "Current genus-level host synthesis from Smith et al. (2020) is retained. Beaver & Liu (2010) reports the host of Ambrosiophilus hunanensis as unknown and gives no host for Ambrosiophilus metanepotulus, so no host update is made.",
+  "taxonomy_summary": "The current accepted identity is Ambrosiophilus osumiensis (Murayama, 1934).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1934",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus osumiensis",
+      "authorship": "Murayama, 1934",
+      "note": "Original combination / basionym, original-description p. 292.",
+      "reference_ids": [
+        "orig_murayama1934",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1939",
+      "event": "Synonym",
+      "name": "Xyleborus metanepotulus",
+      "authorship": "Eggers, 1939",
+      "note": "Published name currently treated as a synonym; original-description p. 119.",
+      "reference_ids": [
+        "orig_eggers1939",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1941",
+      "event": "Synonym",
+      "name": "Xyleborus nodulosus",
+      "authorship": "Eggers, 1941",
+      "note": "Published name currently treated as a synonym; original-description p. 223.",
+      "reference_ids": [
+        "orig_eggers1941",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1957",
+      "event": "Synonym",
+      "name": "Xyleborus pernodulus",
+      "authorship": "Schedl, 1957",
+      "note": "Published name currently treated as a synonym; original-description p. 85.",
+      "reference_ids": [
+        "orig_schedl1957",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1983",
+      "event": "Synonym",
+      "name": "Xyleborus hunanensis",
+      "authorship": "Browne, 1983",
+      "note": "Published name currently treated as a synonym; original-description p. 33.",
+      "reference_ids": [
+        "orig_browne1983",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "2015",
+      "event": "Synonym",
+      "name": "Ambrosiophilus peregrinus",
+      "authorship": "Smith & Cognato, 2015",
+      "note": "Published name currently treated as a synonym; original-description p. 216.",
+      "reference_ids": [
+        "orig_smithcognato2015",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "Current",
+      "event": "Current accepted",
+      "name": "Ambrosiophilus osumiensis",
+      "authorship": "(Murayama, 1934)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Beaver & Liu (2010) treated Ambrosiophilus hunanensis and Ambrosiophilus metanepotulus as new combinations in their Taiwan treatment. These source-specific names are preserved as nomenclatural provenance but map to the same current VSN_0272.",
+  "nomenclature_note_reference_ids": [
+    "src_beaverliu2010"
+  ],
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_smith2022",
+      "label": "Smith et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
+      "doi": "10.11646/zootaxa.5209.1.1"
+    },
+    {
+      "id": "orig_murayama1934",
+      "label": "Murayama, 1934a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1934a). Notes on the Ipidae (Coleoptera) from Kiushu. Annotationes Zoologicae Japonenses 14(3): 287–300."
+    },
+    {
+      "id": "orig_eggers1939",
+      "label": "Eggers, 1939a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1939a). Japanische Borkenkäfer, II. Arbeiten über Morphologische und Taxonomische Entomologie aus Berlin-Dahlem 6: 114–123."
+    },
+    {
+      "id": "orig_eggers1941",
+      "label": "Eggers, 1941c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1941c). Neue Borkenkäfer (Ipidae, Col.) aus China. Entomologische Blätter 37: 222–226."
+    },
+    {
+      "id": "orig_schedl1957",
+      "label": "Schedl, 1957b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1957b). Scolytoidea nouveaux du Congo Belge, II. Mission R. Mayne – K. E. Schedl 1952. Annales du Musée Royal de l'Afrique Centrale, Série 8, Sciences Zoologiques 56: 5–162."
+    },
+    {
+      "id": "orig_browne1983",
+      "label": "Browne, 1983a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Browne, F.G. (1983a). Three new species of Scolytidae (Coleoptera) from southern China. Entomologist's Monthly Magazine 119: 33–34."
+    },
+    {
+      "id": "orig_smithcognato2015",
+      "label": "Smith & Cognato, 2015",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Smith, S.M. & Cognato, A.I. (2015). Ambrosiophilus peregrinus Smith and Cognato, new species (Coleoptera: Curculionidae: Scolytinae), an exotic ambrosia beetle discovered in Georgia, USA. The Coleopterists Bulletin 69(2): 213–220.",
+      "doi": "10.1649/0010-065X-69.2.213"
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "vsn": "VSN_0229",
+  "scientific_name": "Ambrosiodmus minor",
+  "authorship": "(Stebbing, 1907)",
+  "chinese_name": "",
+  "genus": "Ambrosiodmus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Chongqing; Guangxi; Jiangsu; Jiangxi; Sichuan; Yunnan; Zhejiang; Taiwan",
+    "narrative": "Smith et al. (2020) records Ambrosiodmus minor from Chongqing, Guangxi, Jiangsu, Jiangxi, Sichuan, Yunnan and Zhejiang. Lin et al. (2019) independently documents mainland field and museum records. Beaver & Liu (2010) adds the first Taiwan record from Nantou, Hui Son. Smith et al. (2022) independently reports the same reviewed China-region set, adding source support without changing the current distribution synthesis."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Cinnamomum cassia"
+    },
+    {
+      "scientific_name": "Salix sp."
+    },
+    {
+      "scientific_name": "Toxicodendron sp."
+    },
+    {
+      "scientific_name": "Pinus massoniana"
+    }
+  ],
+  "host_note": "Lin et al. (2019) provides direct Chinese host evidence: Cinnamomum cassia, Salix sp., Toxicodendron sp. and Pinus massoniana. Beaver & Liu (2010) only describes broad polyphagy across angiosperm families, so no additional host taxon is inferred.",
+  "taxonomy_summary": "The current accepted identity is Ambrosiodmus minor (Stebbing, 1907).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1907",
+      "event": "Original combination / basionym",
+      "name": "Phloeosinus minor",
+      "authorship": "Stebbing, 1907",
+      "note": "Original combination / basionym, original-description p. 37.",
+      "reference_ids": [
+        "orig_stebbing1907",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1909",
+      "event": "Synonym",
+      "name": "Phloeosinus minor",
+      "authorship": "Stebbing, 1909",
+      "note": "Published name currently treated as a synonym; original-description p. 20.",
+      "reference_ids": [
+        "orig_stebbing1909",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1910",
+      "event": "Synonym",
+      "name": "Xyleborus crassus",
+      "authorship": "Hagedorn, 1910",
+      "note": "Published name currently treated as a synonym; original-description p. 8.",
+      "reference_ids": [
+        "orig_hagedorn1910",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "Current",
+      "event": "Current accepted",
+      "name": "Ambrosiodmus minor",
+      "authorship": "(Stebbing, 1907)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Beaver & Liu (2010) notes that Ambrosiodmus minor is very similar to Ambrosiodmus lewisi and may warrant synonymy with it. This unresolved suggestion is retained as a taxonomic conflict; the two stable VSNs are not collapsed.",
+  "nomenclature_note_reference_ids": [
+    "src_beaverliu2010"
+  ],
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_lin2019",
+      "label": "Lin et al., 2019",
+      "role": [
+        "distribution evidence",
+        "host evidence"
+      ],
+      "citation": "Lin, W., Li, Y., Johnson, A.J. & Gao, L. (2019). New Area Records and New Hosts of Ambrosiodmus minor (Stebbing) (Coleoptera: Curculionidae: Scolytinae) in Mainland China. The Coleopterists Bulletin 73(3): 684–686.",
+      "doi": "10.1649/0010-065X-73.3.684"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_smith2022",
+      "label": "Smith et al., 2022",
+      "role": [
+        "distribution evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
+      "doi": "10.11646/zootaxa.5209.1.1"
+    },
+    {
+      "id": "orig_stebbing1907",
+      "label": "Stebbing, 1907",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Stebbing, E.P. (1907). On some Assam sal (Shorea robusta) insect pests with notes upon some insects predaceous and parasitic upon them. Indian Forestry Bulletin 11: 1–66."
+    },
+    {
+      "id": "orig_stebbing1909",
+      "label": "Stebbing, 1909",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Stebbing, E.P. (1909). On some undescribed Scolytidae of economic importance from the Indian Region, II. Indian Forest Memoirs, Forest Zoology Series 1(2): 13–32."
+    },
+    {
+      "id": "orig_hagedorn1910",
+      "label": "Hagedorn, 1910",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hagedorn, J.M. (1910). Diagnosen bisher unbeschriebener Borkenkäfer (Col.). Deutsche Entomologische Zeitschrift 1910: 1–13."
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ]
+}

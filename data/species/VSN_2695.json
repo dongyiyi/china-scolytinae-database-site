@@ -1,0 +1,124 @@
+{
+  "vsn": "VSN_2695",
+  "scientific_name": "Euwallacea gravelyi",
+  "authorship": "(Wichmann, 1914)",
+  "chinese_name": "",
+  "genus": "Euwallacea",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "云南；台湾",
+    "narrative": "Smith et al. (2020) records Yunnan and Taiwan under the current identity Euwallacea gravelyi. Beaver & Liu (2010) independently reports Taiwan under the source name Euwallacea barbatomorphus. Smith et al. (2022) independently reports Yunnan and Taiwan, supporting the existing reviewed distribution without changing it."
+  },
+  "hosts": [],
+  "host_note": "No host is promoted. Beaver & Liu (2010) reports the host as unknown, and Smith et al. (2022) provides no host in the curated record.",
+  "taxonomy_summary": "The current accepted identity is Euwallacea gravelyi (Wichmann, 1914).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1914",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus gravelyi",
+      "authorship": "Wichmann, 1914",
+      "note": "Original combination / basionym, original-description p. 411.",
+      "reference_ids": [
+        "orig_e3290d9b1d2d",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Synonym",
+      "name": "Xyleborus ovalicollis",
+      "authorship": "Eggers, 1930",
+      "note": "Published name currently treated as a synonym; original-description p. 193.",
+      "reference_ids": [
+        "orig_2f66b1e00ee5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1914",
+      "event": "Current accepted",
+      "name": "Euwallacea gravelyi",
+      "authorship": "(Wichmann, 1914)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_e3290d9b1d2d",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Smith et al. (2020) reinstates Euwallacea gravelyi as a species. Beaver & Liu (2010) treated the Taiwan material as Euwallacea barbatomorphus and noted possible future placement within another Euwallacea species. That source name is mapped to the stable current identity Euwallacea gravelyi, VSN_2695; no duplicate taxon is created.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_smith2022",
+      "label": "Smith et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
+      "doi": "10.11646/zootaxa.5209.1.1"
+    },
+    {
+      "id": "orig_e3290d9b1d2d",
+      "label": "Wichmann, 1914b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Wichmann, H.E. (1914b). XXX. Coleoptera, VII: Ipiden und Platypodiden. In: Zoological results of the Abor Expedition, 1911–1912. Records of the Indian Museum 8: 411–414."
+    },
+    {
+      "id": "orig_2f66b1e00ee5",
+      "label": "Eggers, 1930b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1930b). Neue Xyleborus-Arten (Col. Scolytidae) aus Indien. Indian Forest Records, Entomology 14(9): 177–208."
+    }
+  ]
+}

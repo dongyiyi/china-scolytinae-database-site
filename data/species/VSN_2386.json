@@ -1,0 +1,115 @@
+{
+  "vsn": "VSN_2386",
+  "scientific_name": "Diuncus ciliatoformis",
+  "authorship": "(Schedl, 1953)",
+  "chinese_name": "",
+  "genus": "Diuncus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "重庆；贵州；台湾",
+    "narrative": "Smith et al. (2020) records Chongqing and Guizhou. Beaver & Liu (2010) adds the first Taiwan record from Nantou, Hui Son. Smith et al. (2022) independently reports Chongqing, Guizhou and Taiwan, supporting the existing reviewed distribution without changing it."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Shorea"
+    },
+    {
+      "scientific_name": "Vatica"
+    },
+    {
+      "scientific_name": "Lithocarpus"
+    }
+  ],
+  "host_note": "Current promoted hosts remain Shorea; Vatica; Lithocarpus from Smith et al. (2020). Beaver & Liu (2010) provides independent historical/source host context. Smith et al. (2022) provides no host in the curated record, so the current host synthesis is unchanged.",
+  "taxonomy_summary": "The current accepted identity is Diuncus ciliatoformis (Schedl, 1953).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1953",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus ciliatoformis",
+      "authorship": "Schedl, 1953",
+      "note": "Original combination / basionym, original-description p. 81.",
+      "reference_ids": [
+        "orig_5c7ff00c4a3e",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1953",
+      "event": "Current accepted",
+      "name": "Diuncus ciliatoformis",
+      "authorship": "(Schedl, 1953)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_5c7ff00c4a3e",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Smith et al. (2020) reinstates Diuncus ciliatoformis as a species. Beaver & Liu (2010) notes a proposed synonymy with Diuncus justus but does not accept it; this is retained as taxonomic context only. Stable identity VSN_2386 remains unchanged.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_smith2022",
+      "label": "Smith et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
+      "doi": "10.11646/zootaxa.5209.1.1"
+    },
+    {
+      "id": "orig_5c7ff00c4a3e",
+      "label": "Schedl, 1953b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1953b). New Scolytoidea. Memoirs of the Queensland Museum 13: 80–83."
+    }
+  ]
+}

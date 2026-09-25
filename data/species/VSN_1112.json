@@ -1,0 +1,96 @@
+{
+  "vsn": "VSN_1112",
+  "scientific_name": "Cnestus bicornioides",
+  "authorship": "(Schedl, 1952)",
+  "chinese_name": "",
+  "genus": "Cnestus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "西藏；云南",
+    "narrative": "Smith et al. (2020) records Xizang and Yunnan."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Shorea"
+    },
+    {
+      "scientific_name": "Swietenia"
+    },
+    {
+      "scientific_name": "Fagaceae"
+    }
+  ],
+  "host_note": "Shorea and Swietenia are retained at genus level; Fagaceae is retained at family level without lower-taxon inference.",
+  "taxonomy_summary": "The current accepted identity is Cnestus bicornioides (Schedl, 1952).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1952",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus bicornioides",
+      "authorship": "Schedl, 1952",
+      "note": "Original combination / basionym, original-description p. 368.",
+      "reference_ids": [
+        "orig_b8fd12f33fa0",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1952",
+      "event": "Current accepted",
+      "name": "Cnestus bicornioides",
+      "authorship": "(Schedl, 1952)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_b8fd12f33fa0",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 1 additional historical name usage to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_b8fd12f33fa0",
+      "label": "Schedl, 1952g",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1952g). Fauna Philippinensis, VIII. 123 Contribution. Philippine Journal of Science 80(3): 363–371."
+    }
+  ]
+}

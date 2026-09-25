@@ -1,0 +1,252 @@
+{
+  "vsn": "VSN_2491",
+  "scientific_name": "Eccoptopterus spinosus",
+  "authorship": "(Olivier, 1800)",
+  "chinese_name": "",
+  "genus": "Eccoptopterus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "云南；台湾",
+    "narrative": "Smith et al. (2020) records Yunnan and Taiwan. Beaver & Liu (2010) independently supports Taiwan; current promoted distribution remains unchanged."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Cinnamomum camphora"
+    }
+  ],
+  "host_note": "Beaver & Liu (2010) characterizes the species as polyphagous and explicitly records Cinnamomum camphora in Taiwan. Cinnamomum camphora is therefore promoted as the current confirmed host; broad polyphagy wording remains contextual.",
+  "taxonomy_summary": "The current accepted identity is Eccoptopterus spinosus (Olivier, 1800).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1800",
+      "event": "Original combination / basionym",
+      "name": "Scolytus spinosus",
+      "authorship": "Olivier, 1800",
+      "note": "Original combination / basionym, original-description p. 9.",
+      "reference_ids": [
+        "orig_4ad4a26fdfca",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1863",
+      "event": "Synonym",
+      "name": "Eccoptopterus sexspinosus",
+      "authorship": "Motschulsky, 1863",
+      "note": "Published name currently treated as a synonym; original-description p. 515.",
+      "reference_ids": [
+        "orig_8606915d2315",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1869",
+      "event": "Synonym",
+      "name": "Xyleborus abnormis",
+      "authorship": "Eichhoff, 1869",
+      "note": "Published name currently treated as a synonym; original-description p. 282.",
+      "reference_ids": [
+        "orig_8acb2be6921b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1886",
+      "event": "Synonym",
+      "name": "Platydactylus gracilipes",
+      "authorship": "Eichhoff, 1886",
+      "note": "Published name currently treated as a synonym; original-description p. 25.",
+      "reference_ids": [
+        "orig_94d8668f4d5c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1908",
+      "event": "Synonym",
+      "name": "Xyleborus sexspinosus multispinosus",
+      "authorship": "Hagedorn, 1908",
+      "note": "Published name currently treated as a synonym; original-description p. 377.",
+      "reference_ids": [
+        "orig_d47b2acfb804",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Xyleborus collaris",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 194.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1939",
+      "event": "Synonym",
+      "name": "Eccoptopterus sagittarius",
+      "authorship": "Schedl, 1939",
+      "note": "Published name currently treated as a synonym; original-description p. 41.",
+      "reference_ids": [
+        "orig_455a9f4416f4",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1942",
+      "event": "Synonym",
+      "name": "Xyleborus sexspinosus pluridentatus",
+      "authorship": "Schedl, 1942",
+      "note": "Published name currently treated as a synonym; original-description p. 49.",
+      "reference_ids": [
+        "orig_180460ae7106",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1951",
+      "event": "Synonym",
+      "name": "Xyleborus eccoptopterus",
+      "authorship": "Schedl, 1951",
+      "note": "Published name currently treated as a synonym; original-description p. 154.",
+      "reference_ids": [
+        "orig_eff7175717bd",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1800",
+      "event": "Current accepted",
+      "name": "Eccoptopterus spinosus",
+      "authorship": "(Olivier, 1800)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_4ad4a26fdfca",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Eccoptopterus spinosus (Olivier, 1800), VSN_2491. Beaver & Liu (2010) provides additional Taiwan and host evidence without changing the accepted identity.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_455a9f4416f4",
+      "label": "Schedl, 1939j",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1939j). Scolytidae and Platypodidae. 47 Beitrag. Tijdschrift voor Entomologie 82: 30–53."
+    },
+    {
+      "id": "orig_8606915d2315",
+      "label": "Motschulsky, 1863",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Motschulsky, V. de (1863). Essai d’un catalogue des insectes de l’île Ceylan. Bulletin de la Société Impériale des Naturalistes de Moscou 36(2): 421–532."
+    },
+    {
+      "id": "orig_4ad4a26fdfca",
+      "label": "Olivier, 1800a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Olivier, A.G. (1800a). No. 78. Scolyte: Scolytus. In: Entomologie ou histoire naturelle des insectes, Coléoptères, Tome IV. Lanneau, Paris, 1–14."
+    },
+    {
+      "id": "orig_94d8668f4d5c",
+      "label": "Eichhoff, 1886",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1886). Zwei neue ost-indische Scolytiden-Gattungen. Notes from the Leyden Museum 8(1): 24–26."
+    },
+    {
+      "id": "orig_8acb2be6921b",
+      "label": "Eichhoff, 1869",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1869). Neue Borkenkäfer. Berliner Entomologische Zeitschrift 12(3-4): 273–282."
+    },
+    {
+      "id": "orig_c8c8b73ae935",
+      "label": "Eggers, 1923b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3–4): 129–220."
+    },
+    {
+      "id": "orig_eff7175717bd",
+      "label": "Schedl, 1951f",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1951f). Fauna Samoanus (Scolytoidea), I. 109 Contribution. Occasional Papers of Bernice P. Bishop Museum 20(10): 131–156."
+    },
+    {
+      "id": "orig_d47b2acfb804",
+      "label": "Hagedorn, 1908",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hagedorn, J.M. (1908). Diagnosen bisher unbescriebener Borkenkäfer (Col.). Deutsche Entomologische Zeitschrift 1908(3): 369–382."
+    },
+    {
+      "id": "orig_180460ae7106",
+      "label": "Schedl, 1942d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1942d). Neue Scolytidae aus Java. 76 Beitrag. Tijdschrift voor Entomologie 85: 1–49."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "vsn": "VSN_1265",
+  "scientific_name": "Coccotrypes variabilis",
+  "authorship": "(Beeson, 1939)",
+  "chinese_name": "",
+  "genus": "Coccotrypes",
+  "subfamily": "Scolytinae",
+  "tribe": "Dryocoetini",
+  "checklist_status": "Questionable",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Questionable",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Taiwan (doubtful)",
+    "narrative": "Beaver & Liu (2010) treated Browne's imported-timber record as requiring confirmation. Although the species is widespread in the Oriental/Pacific region, Taiwanese occurrence was not confirmed."
+  },
+  "hosts": [],
+  "host_note": "No host evidence is reported for this doubtful Taiwan record.",
+  "taxonomy_summary": "The current accepted identity is Coccotrypes variabilis (Beeson, 1939).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1939",
+      "event": "Original combination / basionym",
+      "name": "Thamnurgides variabilis",
+      "authorship": "Beeson, 1939",
+      "note": "Original combination / basionym, original-description p. 286.",
+      "reference_ids": [
+        "orig_c7bd4504c8e6",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1939",
+      "event": "Current accepted",
+      "name": "Coccotrypes variabilis",
+      "authorship": "(Beeson, 1939)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_c7bd4504c8e6",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Current identity is Coccotrypes variabilis (Beeson, 1939), VSN_1265.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_c7bd4504c8e6",
+      "label": "Beeson, 1939",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1939). New species and biology of Coccotrypes and Thamnurgides (Scolytidae, Col). Indian Forest Records, Entomology (New Series) 5: 279–308."
+    }
+  ]
+}

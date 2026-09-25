@@ -1,0 +1,129 @@
+{
+  "vsn": "VSN_0083",
+  "scientific_name": "Acanthotomicus perexiguus",
+  "authorship": "(Blandford, 1896)",
+  "chinese_name": "华南刺小蠹",
+  "genus": "Acanthotomicus",
+  "subfamily": "Scolytinae",
+  "tribe": "Ipini",
+  "checklist_status": "Candidate",
+  "review_status": "Unreviewed",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "四川；云南",
+    "narrative": "黄复生等 (2015) reports Sichuan and Yunnan for this taxon. The checklist assessment remains unreviewed, so the mainland-China occurrence is presented as Candidate rather than promoted to an accepted occurrence.",
+    "evidence": "黄复生等 (2015), published as Acanthotomicus perexignus; province-level distribution: 四川，云南."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Betula alnoides",
+      "chinese_name": "西南桦"
+    }
+  ],
+  "host_note": "黄复生等 (2015) reports 西南桦 / Betula alnoides.",
+  "taxonomy_summary": "The current accepted backbone identity is Acanthotomicus perexiguus (Blandford, 1896). 黄复生等 (2015) uses the spelling Acanthotomicus perexignus.",
+  "taxonomic_history": [
+    {
+      "year": "1896",
+      "event": "Original combination / basionym",
+      "name": "Tomicus perexiguus",
+      "authorship": "Blandford, 1896",
+      "note": "Original description, p. 201.",
+      "reference_ids": [
+        "blandford1896"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Ips denticulus",
+      "authorship": "Eggers, 1923",
+      "note": "Recognized as a synonym in the current taxonomic backbone.",
+      "reference_ids": [
+        "eggers1923",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1927",
+      "event": "Synonym",
+      "name": "Ips philippinensis",
+      "authorship": "Eggers, 1927",
+      "note": "Recognized as a synonym in the current taxonomic backbone.",
+      "reference_ids": [
+        "eggers1927",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "Current",
+      "event": "Current accepted",
+      "name": "Acanthotomicus perexiguus",
+      "authorship": "(Blandford, 1896)",
+      "note": "Current accepted combination in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The public profile preserves the spelling used by 黄复生等 (2015) separately from the current accepted backbone identity.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "huanglu2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "China occurrence",
+        "host"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "blandford1896",
+      "label": "Blandford, 1896e",
+      "role": [
+        "original description"
+      ],
+      "citation": "Blandford, W.F.H. (1896e). Descriptions of new Scolytidae from the Indo-Malayan and Austro-Malayan regions. Transactions of the Entomological Society of London 1896: 191–228."
+    },
+    {
+      "id": "eggers1923",
+      "label": "Eggers, 1923b",
+      "role": [
+        "synonym name source"
+      ],
+      "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3–4): 129–220."
+    },
+    {
+      "id": "eggers1927",
+      "label": "Eggers, 1927b",
+      "role": [
+        "synonym name source"
+      ],
+      "citation": "Eggers, H. (1927b). Neue indomalayische Borkenkäfer (Ipidae). II. Nachtrag. Philippine Journal of Science 33(1): 67–108."
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "blandford1896",
+    "johnson2026"
+  ]
+}

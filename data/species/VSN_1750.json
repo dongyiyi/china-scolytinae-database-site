@@ -1,0 +1,90 @@
+{
+  "vsn": "VSN_1750",
+  "scientific_name": "Cryphalus meridionalis",
+  "authorship": "(Nobuchi, 1975)",
+  "chinese_name": "鹅掌柴梢小蠹",
+  "genus": "Cryphalus",
+  "subfamily": "Scolytinae",
+  "tribe": "Cryphalini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建",
+    "narrative": "Johnson et al. (2020) documents Fujian occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Schefflera spp."
+    }
+  ],
+  "host_note": "Schefflera spp. retained at genus level.",
+  "taxonomy_summary": "The current accepted identity is Cryphalus meridionalis (Nobuchi, 1975).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1975",
+      "event": "Original combination / basionym",
+      "name": "Taenioglyptes meridionalis",
+      "authorship": "Nobuchi, 1975",
+      "note": "Original combination / basionym, original-description p. 55.",
+      "reference_ids": [
+        "orig_d1fca2020cc2",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1975",
+      "event": "Current accepted",
+      "name": "Cryphalus meridionalis",
+      "authorship": "(Nobuchi, 1975)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_d1fca2020cc2",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The spelling meridionalis is accepted as a justified emendation of the original merdionalis under prevailing usage.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_johnsonetal2020_cryphaluseastasia",
+      "label": "Johnson et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Johnson, A.J., Li, Y., Mandelshtam, M.Yu., Park, S., Lin, C.-S., Gao, L. & Hulcr, J. (2020). East Asian Cryphalus Erichson (Curculionidae, Scolytinae): new species, new synonymy and redescriptions of species. ZooKeys 995: 15–66.",
+      "doi": "10.3897/zookeys.995.55981"
+    },
+    {
+      "id": "orig_d1fca2020cc2",
+      "label": "Nobuchi, 1975",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Nobuchi, A. (1975). Twenty-one new species of Cryphalini from Japan (Coleoptera). Studies on Scolytidae XIII. Bulletin of the Government Forest Experiment Station 277: 41–60."
+    }
+  ]
+}

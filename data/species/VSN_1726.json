@@ -1,0 +1,79 @@
+{
+  "vsn": "VSN_1726",
+  "scientific_name": "Cryphalus kyotoensis",
+  "authorship": "Nobuchi, 1966",
+  "chinese_name": "京都梢小蠹",
+  "genus": "Cryphalus",
+  "subfamily": "Scolytinae",
+  "tribe": "Cryphalini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Fujian; Guangdong; Jiangxi",
+    "narrative": "Johnson et al. (2020) documents Fujian, Guangdong and Jiangxi."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Rhus chinensis"
+    }
+  ],
+  "host_note": "Rhus chinensis is directly supported.",
+  "taxonomy_summary": "The current accepted identity is Cryphalus kyotoensis Nobuchi, 1966.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1966",
+      "event": "Current accepted",
+      "name": "Cryphalus kyotoensis",
+      "authorship": "Nobuchi, 1966",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_04fe0dadf897",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "No additional synonyms or historical combinations are currently linked to this taxon in the integrated backbone.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_johnsonetal2020_cryphaluseastasia",
+      "label": "Johnson et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Johnson, A.J., Li, Y., Mandelshtam, M.Yu., Park, S., Lin, C.-S., Gao, L. & Hulcr, J. (2020). East Asian Cryphalus Erichson (Curculionidae, Scolytinae): new species, new synonymy and redescriptions of species. ZooKeys 995: 15–66.",
+      "doi": "10.3897/zookeys.995.55981"
+    },
+    {
+      "id": "orig_04fe0dadf897",
+      "label": "Nobuchi, 1966",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Nobuchi, A. (1966). Studies on Scolytidae, VI. Bulletin of the Government Forest Experiment Station 185: 51–56."
+    }
+  ]
+}

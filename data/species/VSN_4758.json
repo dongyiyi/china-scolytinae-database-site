@@ -1,0 +1,139 @@
+{
+  "vsn": "VSN_4758",
+  "scientific_name": "Polygraphus subopacus",
+  "authorship": "Thomson, 1871",
+  "chinese_name": "小四眼小蠹",
+  "genus": "Polygraphus",
+  "subfamily": "Scolytinae",
+  "tribe": "Polygraphini",
+  "checklist_status": "Unreviewed",
+  "review_status": "Not started",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Polygraphus subopacus Thomson, 1871.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1875",
+      "event": "Synonym",
+      "name": "Polygraphus subopacus minor",
+      "authorship": "Lindemann, 1875",
+      "note": "Published name currently treated as a synonym; original-description p. 242.",
+      "reference_ids": [
+        "orig_7c756ac6e0b4",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1911",
+      "event": "Synonym",
+      "name": "Polygraphus subopacus xaverti",
+      "authorship": "Reitter, 1911",
+      "note": "Published name currently treated as a synonym; original-description p. 47.",
+      "reference_ids": [
+        "orig_4d8d1467413d",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1955",
+      "event": "Synonym",
+      "name": "Polygraphus nanus",
+      "authorship": "Schedl, 1955",
+      "note": "Published name currently treated as a synonym; original-description p. 22.",
+      "reference_ids": [
+        "orig_cc8db27b66ef",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1871",
+      "event": "Current accepted",
+      "name": "Polygraphus subopacus",
+      "authorship": "Thomson, 1871",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_3579d390124f",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 3 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "orig_cc8db27b66ef",
+      "label": "Schedl, 1955g",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1955g). Bestimmungstabellen palaearktischer Borkenkäfer, VII. Gattung Polygraphus Er. 102 Beitrag. Mitteilungen der Münchener Entomologischen Gesellschaft 44/45: 3–25."
+    },
+    {
+      "id": "orig_7c756ac6e0b4",
+      "label": "Lindemann, 1875b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Lindemann, K. (1875b). Vergleichend-anatomische Untersuchung über das maennliche Begattungsglied der Borkenkäfer. Bulletin de la Société Impériale des Naturalistes de Moscou 49(2): 196–252."
+    },
+    {
+      "id": "orig_4d8d1467413d",
+      "label": "Reitter, 1911",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Reitter, E. (1911). Paläarktische Coleopterennovitaten. Wiener Entomologische Zeitung 30: 47–55."
+    },
+    {
+      "id": "orig_3579d390124f",
+      "label": "Thomson, 1871",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Thomson, C.G. (1871). XX: Bidrag till Sveriges insect-fauna (2) a) Coleoptera. Opuscula Entomologica 4: 361–394."
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "vsn": "VSN_2281",
+  "scientific_name": "Dendroctonus armandi",
+  "authorship": "Tsai & Li, 1959",
+  "chinese_name": "华山松大小蠹",
+  "genus": "Dendroctonus",
+  "subfamily": "Scolytinae",
+  "tribe": "Hylurgini",
+  "checklist_status": "Unreviewed",
+  "review_status": "Not started",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Dendroctonus armandi Tsai & Li, 1959.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1966",
+      "event": "Synonym",
+      "name": "Dendroctonus prosorovi",
+      "authorship": "Kurentsov & Kononov, 1966",
+      "note": "Published name currently treated as a synonym; original-description p. 29.",
+      "reference_ids": [
+        "orig_b5630d73a783",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1959",
+      "event": "Current accepted",
+      "name": "Dendroctonus armandi",
+      "authorship": "Tsai & Li, 1959",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_c13f47fc2003",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 1 additional historical name usage to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "orig_c13f47fc2003",
+      "label": "Tsai & Li, 1959",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Tsai, P.H. & Li, C.L. (1959). First report of Scolytidae in northern China. Collected Papers in Entomology, Science Press 1959: 73–117."
+    },
+    {
+      "id": "orig_b5630d73a783",
+      "label": "Kurentsov & Kononov, 1966",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Kurentsov, A.I. & Kononov, D.G. (1966). Novye vidy koroedov (Ipidae Coleoptera). In: Cherepanov, A.I., Novye vidy fauny Sibiri i prilegayushchikh stran. Nauka, Novosibirsk, 29–33."
+    }
+  ]
+}

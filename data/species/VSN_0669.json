@@ -1,0 +1,117 @@
+{
+  "vsn": "VSN_0669",
+  "scientific_name": "Arixyleborus yakushimanus",
+  "authorship": "(Murayama, 1955)",
+  "chinese_name": "条脊材小蠹",
+  "genus": "Arixyleborus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建；江西；四川；西藏；云南；台湾",
+    "narrative": "殷蕙芬等 (1984) records Fujian and Sichuan; 黄复生等 (2015) adds Yunnan and Xizang; Smith et al. (2020) confirms much of this range and adds Jiangxi and Taiwan."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Castanopsis sp."
+    },
+    {
+      "scientific_name": "Machilus sp."
+    },
+    {
+      "scientific_name": "Castanopsis fargesii"
+    },
+    {
+      "scientific_name": "Castanopsis indica"
+    },
+    {
+      "scientific_name": "Cyclobalanopsis glauca"
+    }
+  ],
+  "host_note": "Baseline hosts Castanopsis sp., Machilus sp., Castanopsis fargesii, and Castanopsis indica are retained; Smith et al. (2020) adds Cyclobalanopsis glauca and also reports Machilus at genus level.",
+  "taxonomy_summary": "The current accepted identity is Arixyleborus yakushimanus (Murayama, 1955).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1955",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus yakushimanus",
+      "authorship": "Murayama, 1955",
+      "note": "Original combination / basionym, original-description p. 83.",
+      "reference_ids": [
+        "orig_murayama1955",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "Current",
+      "event": "Current accepted",
+      "name": "Arixyleborus yakushimanus",
+      "authorship": "(Murayama, 1955)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The original combination is retained in the nomenclatural history; no additional synonyms are currently linked in the integrated backbone.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_murayama1955",
+      "label": "Murayama, 1955",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1955). Supplementary notes on the scolytid-fauna of Japan. Bulletin of the Faculty of Agriculture, Yamaguchi University 6: 81–106."
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ]
+}

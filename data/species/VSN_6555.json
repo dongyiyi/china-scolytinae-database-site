@@ -1,0 +1,65 @@
+{
+  "vsn": "VSN_6555",
+  "scientific_name": "Webbia yinae",
+  "authorship": "Lin, Li & Gao, 2026",
+  "chinese_name": "殷氏桩截小蠹",
+  "genus": "Webbia",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "西藏；云南",
+    "narrative": "Accepted for mainland China from the original type series: Xizang (holotype and two paratypes) and Yunnan (one paratype)."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Quercus glauca"
+    },
+    {
+      "scientific_name": "Senna siamea"
+    }
+  ],
+  "host_note": "Direct specimen-linked host records: Quercus glauca for the Xizang series; Senna siamea for the Yunnan paratype.",
+  "taxonomy_summary": "The current accepted identity is Webbia yinae Lin, Li & Gao, 2026.",
+  "taxonomy_reference_ids": [
+    "orig_a1c105b2651e"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2026",
+      "event": "Current accepted",
+      "name": "Webbia yinae",
+      "authorship": "Lin, Li & Gao, 2026",
+      "note": "Current accepted name in the integrated taxonomic backbone; described as a new species by Lin, Li & Gao (2026).",
+      "reference_ids": [
+        "orig_a1c105b2651e"
+      ]
+    }
+  ],
+  "nomenclature_note": "Webbia yinae Lin, Li & Gao, 2026 is treated as an accepted species described after the 2015 Chinese baseline. Historical W. pabo labels are not treated as synonymy or correction.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "orig_a1c105b2651e",
+      "label": "Lin et al., 2026",
+      "role": [
+        "nomenclatural source",
+        "published evidence"
+      ],
+      "citation": "Lin, W., Li, Y. & Gao, L. (2026). A new species of Webbia Hopkins, 1915 (Coleoptera: Curculionidae: Scolytinae: Xyleborini) from China. Zootaxa 5786(1): 674–677.",
+      "doi": "10.11646/zootaxa.5786.1.55"
+    }
+  ]
+}

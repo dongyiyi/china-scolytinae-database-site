@@ -1,0 +1,68 @@
+{
+  "vsn": "VSN_1978",
+  "scientific_name": "Cyclorhipidion cognatoi",
+  "authorship": "Lin & Smith, 2022",
+  "chinese_name": "",
+  "genus": "Cyclorhipidion",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾",
+    "narrative": "Lin & Smith (2022) directly records the species from Taiwan, Taichung City. No mainland China occurrence is inferred."
+  },
+  "hosts": [],
+  "host_note": "No confirmed host is reported in the integrated Lin & Smith (2022) record; no host is promoted.",
+  "taxonomy_summary": "The current accepted identity is Cyclorhipidion cognatoi Lin & Smith, 2022.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2022",
+      "event": "Current accepted",
+      "name": "Cyclorhipidion cognatoi",
+      "authorship": "Lin & Smith, 2022",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "src_linsmith2022",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Lin & Smith (2022) described Cyclorhipidion cognatoi as a new species. The existing stable identity VSN_1978 is retained.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_linsmith2022",
+      "label": "Lin & Smith, 2022",
+      "role": [
+        "published evidence",
+        "nomenclatural source"
+      ],
+      "citation": "Lin, C.-S. & Smith, S.M. (2022). Four new species of Cyclorhipidion and five new records of other xyleborine genera (Coleoptera, Curculionidae, Scolytinae, Xyleborini) from Taiwan. Taiwania 67(3): 285–301.",
+      "doi": "10.6165/tai.2022.67.285"
+    }
+  ]
+}

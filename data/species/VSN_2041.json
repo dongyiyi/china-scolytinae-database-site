@@ -1,0 +1,106 @@
+{
+  "vsn": "VSN_2041",
+  "scientific_name": "Cyclorhipidion repositum",
+  "authorship": "(Schedl, 1942)",
+  "chinese_name": "",
+  "genus": "Cyclorhipidion",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "云南",
+    "narrative": "Smith et al. (2022) records Cyclorhipidion repositum from Yunnan, with locality evidence from Xishuangbanna."
+  },
+  "hosts": [],
+  "host_note": "The curated source field contains the exact string 'Cyclorhipidion pruinosulum'. Because this is an unusual host entry and no reinterpretation is warranted from the curated evidence alone, the string is preserved under Historical or Questionable Hosts and is not promoted to Current Host Summary.",
+  "taxonomy_summary": "The current accepted identity is Cyclorhipidion repositum (Schedl, 1942).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1942",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus repositus",
+      "authorship": "Schedl, 1942",
+      "note": "Original combination / basionym, original-description p. 197.",
+      "reference_ids": [
+        "orig_5405f00dff87",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1979",
+      "event": "Synonym",
+      "name": "Xyleborus pruinosulus",
+      "authorship": "Browne, 1979",
+      "note": "Published name currently treated as a synonym; original-description p. 611.",
+      "reference_ids": [
+        "orig_fb52ef8da769",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1942",
+      "event": "Current accepted",
+      "name": "Cyclorhipidion repositum",
+      "authorship": "(Schedl, 1942)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_5405f00dff87",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Cyclorhipidion repositum (Schedl, 1942), VSN_2041.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2022",
+      "label": "Smith et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
+      "doi": "10.11646/zootaxa.5209.1.1"
+    },
+    {
+      "id": "orig_5405f00dff87",
+      "label": "Schedl, 1942b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1942b). Forschungberiche zur Scolytoiden-Fauna der Malayischen Halbinsel, V. 80 Betrag. Kolonialforstliche Mitteilungen 5(2-3): 169–218."
+    },
+    {
+      "id": "orig_fb52ef8da769",
+      "label": "Beaver & Browne, 1979",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beaver, R.A. & Browne, F.G. (1979). The Scolytidae and Platypodidae (Coleoptera) of Penang, Malaysia. Oriental Insects 12(4): 575–624.",
+      "doi": "10.1080/00305316.1978.10432538"
+    }
+  ]
+}

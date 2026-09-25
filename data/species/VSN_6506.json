@@ -1,0 +1,80 @@
+{
+  "vsn": "VSN_6506",
+  "scientific_name": "Xylosandrus beesoni",
+  "authorship": "Saha, Maiti & Chakraborti, 1993",
+  "chinese_name": "",
+  "genus": "Xylosandrus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "云南",
+    "narrative": "Smith et al. (2020) records Yunnan, including Kunming and Xishuangbanna."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Symplocos"
+    }
+  ],
+  "host_note": "Direct source evidence is retained at genus level as Symplocos (Symplocaceae); no species-level host is inferred.",
+  "taxonomy_summary": "The current accepted identity is Xylosandrus beesoni Saha, Maiti & Chakraborti, 1993.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1993",
+      "event": "Current accepted",
+      "name": "Xylosandrus beesoni",
+      "authorship": "Saha, Maiti & Chakraborti, 1993",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_cf57fc74bc26",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Xylosandrus beesoni Saha, Maiti & Chakraborti, 1993, VSN_6506.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_cf57fc74bc26",
+      "label": "Saha et al., 1993",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Saha, N., Maiti, P.K. & Chakraborti, S. (1993). On some species of Xylosandrus Reitter (Scolytidae: Coleoptera) from the sub-himalayan West Bengal with descriptions of a new species. Records of the Zoological Survey of India 91(1): 9–27.",
+      "doi": "10.26515/rzsi/v91/i1/1992/160953"
+    }
+  ]
+}

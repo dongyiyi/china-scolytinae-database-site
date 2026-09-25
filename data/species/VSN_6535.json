@@ -1,0 +1,122 @@
+{
+  "vsn": "VSN_6535",
+  "scientific_name": "Xylosandrus mesuae",
+  "authorship": "(Eggers, 1930)",
+  "chinese_name": "",
+  "genus": "Xylosandrus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "云南；香港；台湾",
+    "narrative": "Lin et al. (2024) provides the first mainland China record from Yunnan; Hong Kong and Taiwan evidence remains independently supported. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Mesua"
+    },
+    {
+      "scientific_name": "Dipterocarpus"
+    },
+    {
+      "scientific_name": "Shorea"
+    },
+    {
+      "scientific_name": "Macaranga"
+    },
+    {
+      "scientific_name": "Osbeckia"
+    },
+    {
+      "scientific_name": "Machilus"
+    }
+  ],
+  "host_note": "Lin et al. (2024) reports no host; prior genus-level hosts are retained.",
+  "taxonomy_summary": "The current accepted identity is Xylosandrus mesuae (Eggers, 1930).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1930",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus mesuae",
+      "authorship": "Eggers, 1930",
+      "note": "Original combination / basionym, original-description p. 182.",
+      "reference_ids": [
+        "orig_2f66b1e00ee5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Current accepted",
+      "name": "Xylosandrus mesuae",
+      "authorship": "(Eggers, 1930)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_2f66b1e00ee5",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Xylosandrus mesuae (Eggers, 1930), VSN_6535.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "src_linetal2024_xylosandruschina",
+      "label": "Lin et al., 2024",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Lin, W., Liao, Y.-L., Li, Y., Smith, S.M., Yu, Y.-L. & Gao, L. (2024). New species and new records of Xylosandrus Reitter, 1913 (Coleoptera: Curculionidae: Scolytinae: Xyleborini) from China. Zootaxa 5528(1): 633–647.",
+      "doi": "10.11646/zootaxa.5528.1.41"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_2f66b1e00ee5",
+      "label": "Eggers, 1930b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1930b). Neue Xyleborus-Arten (Col. Scolytidae) aus Indien. Indian Forest Records, Entomology 14(9): 177–208."
+    }
+  ]
+}

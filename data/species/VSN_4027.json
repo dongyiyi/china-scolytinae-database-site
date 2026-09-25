@@ -1,0 +1,105 @@
+{
+  "vsn": "VSN_4027",
+  "scientific_name": "Phloeosinus lewisi",
+  "authorship": "Chapuis, 1876",
+  "chinese_name": "",
+  "genus": "Phloeosinus",
+  "subfamily": "Scolytinae",
+  "tribe": "Phloeosinini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "China (SE；broad source wording)；台湾",
+    "narrative": "Beaver & Liu (2010) reports China (SE) and Taiwan. China (SE) supports Mainland China = Present only at broad regional scale; no province is inferred."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Chamaecyparis spp."
+    },
+    {
+      "scientific_name": "Thujopsis spp."
+    },
+    {
+      "scientific_name": "Cryptomeria spp."
+    }
+  ],
+  "host_note": "Chamaecyparis, Thujopsis and Cryptomeria are retained as confirmed genus-level hosts. Pinus and Actinodaphne are explicitly stated to require confirmation and therefore are not promoted to Current Host Summary.",
+  "taxonomy_summary": "The current accepted identity is Phloeosinus lewisi Chapuis, 1876.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1894",
+      "event": "Synonym",
+      "name": "Phloeosinus minutus",
+      "authorship": "Blandford, 1894",
+      "note": "Published name currently treated as a synonym; original-description p. 71.",
+      "reference_ids": [
+        "orig_a1d45147b2c3",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1876",
+      "event": "Current accepted",
+      "name": "Phloeosinus lewisi",
+      "authorship": "Chapuis, 1876",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_16f436d94e7b",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Current identity follows integrated taxonomic backbone: Phloeosinus lewisi Chapuis, 1876, VSN_4027.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_16f436d94e7b",
+      "label": "Chapuis & Eichhoff, 1876",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Chapuis, F. & Eichhoff, W.J. (1876). Scolytides recueillis au Japon par M. C. Lewis [cont.]. Annales de la Société Entomologique de Belgique 18: 197–204."
+    },
+    {
+      "id": "orig_a1d45147b2c3",
+      "label": "Blandford, 1894c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
+    }
+  ]
+}

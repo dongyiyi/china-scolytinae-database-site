@@ -1,0 +1,105 @@
+{
+  "vsn": "VSN_3389",
+  "scientific_name": "Indocryphalus sordidus",
+  "authorship": "(Blandford, 1894)",
+  "chinese_name": "污穢印木小蠹",
+  "genus": "Indocryphalus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyloterini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "中国大陆（省份未细化）；台湾（台中）",
+    "narrative": "Lin & Beaver (2024) summarizes the species distribution as China, Japan and Vietnam and records it as new to Taiwan based on two females from Taichung City. The source does not provide a province for the earlier mainland-China occurrence, so mainland China is treated as Present at country level without inventing a province; Taiwan is independently confirmed."
+  },
+  "hosts": [],
+  "host_note": "The paper cites historical host records for Prunus jamasakura, Illicium anisatum and Cleyera japonica, but the two Taiwan specimens were collected in Lindgren multi-funnel traps and are not directly associated with those plants. These hosts are therefore retained in the historical/questionable layer rather than promoted as Taiwan host evidence.",
+  "taxonomy_summary": "The current accepted identity is Indocryphalus sordidus (Blandford, 1894).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1894",
+      "event": "Original combination / basionym",
+      "name": "Trypodendron sordidum",
+      "authorship": "Blandford, 1894",
+      "note": "Original combination / basionym, original-description p. 577.",
+      "reference_ids": [
+        "orig_7cdc56c723a8",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1941",
+      "event": "Synonym",
+      "name": "Trypodendron sinense",
+      "authorship": "Eggers, 1941",
+      "note": "Published name currently treated as a synonym; original-description p. 225.",
+      "reference_ids": [
+        "orig_3298e66e2cf8",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1894",
+      "event": "Current accepted",
+      "name": "Indocryphalus sordidus",
+      "authorship": "(Blandford, 1894)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_7cdc56c723a8",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Indocryphalus sordidus (Blandford, 1894), VSN_3389. No nomenclatural change is introduced in the 2024 Taiwan record.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_linbeaver2024_indocryphalustaiwan",
+      "label": "Lin & Beaver, 2024",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Lin, C.-S. & Beaver, R.A. (2024). Review of the genus Indocryphalus Eggers, 1939 (Coleoptera, Curculionidae, Scolytinae) in Taiwan with a new species. Taiwania 69(2): 257–265.",
+      "doi": "10.6165/tai.2024.69.257"
+    },
+    {
+      "id": "orig_7cdc56c723a8",
+      "label": "Blandford, 1894d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1894d). Supplementary notes on the Scolytidae of Japan, with a list of species. Transactions of the Entomological Society of London 1894: 575–580."
+    },
+    {
+      "id": "orig_3298e66e2cf8",
+      "label": "Eggers, 1941c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1941c). Neue Borkenkäfer (Ipidae, Col.) aus China. Entomologische Blätter 37: 222–226."
+    }
+  ]
+}

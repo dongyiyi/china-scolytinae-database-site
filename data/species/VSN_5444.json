@@ -1,0 +1,72 @@
+{
+  "vsn": "VSN_5444",
+  "scientific_name": "Scolytoplatypus skyliuae",
+  "authorship": "Liao, Lai & Beaver, 2022",
+  "chinese_name": "",
+  "genus": "Scolytoplatypus",
+  "subfamily": "Scolytinae",
+  "tribe": "Scolytoplatypodini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建；江西",
+    "narrative": "Liao et al. (2022) described Scolytoplatypus skyliuae from Jiangxi and Fujian, with the holotype from Huanggang Mountain and paratypes from Wuyishan."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Castanopsis fargesii"
+    }
+  ],
+  "host_note": "Fujian paratypes carry a direct Castanopsis fargesii host label; this is promoted as confirmed host evidence.",
+  "taxonomy_summary": "The current accepted identity is Scolytoplatypus skyliuae Liao, Lai & Beaver, 2022.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2022",
+      "event": "Current accepted",
+      "name": "Scolytoplatypus skyliuae",
+      "authorship": "Liao, Lai & Beaver, 2022",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_0e7bb1f391d6",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Scolytoplatypus skyliuae Liao, Lai & Beaver was described as a new species in 2022 and maps directly to stable VSN_5444.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "orig_0e7bb1f391d6",
+      "label": "Liao et al., 2022",
+      "role": [
+        "nomenclatural source",
+        "published evidence"
+      ],
+      "citation": "Liao, S., Lai, S., Beaver, R.A., Gebhardt, H. & Wang, J. (2022). New species and new records of Scolytoplatypus Schaufuss (Curculionidae, Scolytinae) from China, and resurrection of Scolytoplatypus sinensis (Tsai & Huang, 1965) as a distinct species. ZooKeys 1082: 27–50.",
+      "doi": "10.3897/zookeys.1082.77637"
+    }
+  ]
+}

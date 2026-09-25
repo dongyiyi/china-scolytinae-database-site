@@ -1,0 +1,169 @@
+{
+  "vsn": "VSN_1922",
+  "scientific_name": "Crypturgus cinereus",
+  "authorship": "(Herbst, 1793)",
+  "chinese_name": "云杉微小蠹",
+  "genus": "Crypturgus",
+  "subfamily": "Scolytinae",
+  "tribe": "Crypturgini",
+  "checklist_status": "Unreviewed",
+  "review_status": "Not started",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Crypturgus cinereus (Herbst, 1793).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1793",
+      "event": "Original combination / basionym",
+      "name": "Bostrichus cinereus",
+      "authorship": "Herbst, 1793",
+      "note": "Original combination / basionym, original-description p. 116.",
+      "reference_ids": [
+        "orig_87d1351ccbc1",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1940",
+      "event": "Synonym",
+      "name": "Crypturgus apfelbecki",
+      "authorship": "Eggers, 1940",
+      "note": "Published name currently treated as a synonym; original-description p. 36.",
+      "reference_ids": [
+        "orig_fc15c6e9703f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1911",
+      "event": "Synonym",
+      "name": "Crypturgus atticus",
+      "authorship": "Eggers, 1911",
+      "note": "Published name currently treated as a synonym; original-description p. 120.",
+      "reference_ids": [
+        "orig_264c75a05deb",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Crypturgus corsicus",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 135.",
+      "reference_ids": [
+        "orig_83bc9c8811d0",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1836",
+      "event": "Synonym",
+      "name": "Hylesinus tenerrimus",
+      "authorship": "Sahlberg, 1836",
+      "note": "Published name currently treated as a synonym; original-description p. 140.",
+      "reference_ids": [
+        "orig_160965b843a0",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1793",
+      "event": "Current accepted",
+      "name": "Crypturgus cinereus",
+      "authorship": "(Herbst, 1793)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_87d1351ccbc1",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 5 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "orig_87d1351ccbc1",
+      "label": "Herbst, 1793",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Herbst, J.F.W. (1793). Natursystem aller bekannten in- und ausländischen Insekten, als eine Fortsetzung der von Büffonschen Naturgeschichte. Der Käfer fünfter Theil. Paulischen Buchhandlung, Berlin xvi + 392 pp + pls. XLIV–LIX."
+    },
+    {
+      "id": "orig_fc15c6e9703f",
+      "label": "Eggers, 1940g",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1940g). Zur paläarktischen Borkenkäferfauna. VII. Fünf neue Arten aus Anatolien. Zentralblatt für das Gesamtgebeit der Entomologie 66(2): 36–40."
+    },
+    {
+      "id": "orig_264c75a05deb",
+      "label": "Eggers, 1911b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1911b). Beitrage zur Kenntnis der Borkenkäfer. Entomologische Blätter 7: 119–123."
+    },
+    {
+      "id": "orig_83bc9c8811d0",
+      "label": "Eggers, 1923a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923a). Seltene und neue paläarktische Borkenkäfer, V. Entomologische Blätter 19: 133–139."
+    },
+    {
+      "id": "orig_160965b843a0",
+      "label": "Sahlberg, 1836b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Sahlberg, C.R. (1836b). Dissertatio entomologica insecta fennica enumerans, cujus particulam nonam partis secundae, cons. ampl. facult. philos. ad Imper. Univers. Alexandr. in Fennia, publicae submittit censurae Carolus Reginaldus Sahlberg, respondente Johanne Justo Staudinger, Ostrobottniensi. In audit. philos. die 7 Maji 1836. J. C. Frenckel, Aboae 129–144."
+    }
+  ]
+}

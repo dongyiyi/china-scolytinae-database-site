@@ -1,0 +1,76 @@
+{
+  "vsn": "VSN_3149",
+  "scientific_name": "Hyorrhynchus unicornis",
+  "authorship": "Nobuchi, 1966",
+  "chinese_name": "",
+  "genus": "Hyorrhynchus",
+  "subfamily": "Scolytinae",
+  "tribe": "Hyorrhynchini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾",
+    "narrative": "Beaver & Liu (2010) accepts Hyorrhynchus unicornis as occurring in Taiwan."
+  },
+  "hosts": [],
+  "host_note": "Host unknown in Beaver & Liu (2010); no host is inferred.",
+  "taxonomy_summary": "The current accepted identity is Hyorrhynchus unicornis Nobuchi, 1966.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1966",
+      "event": "Current accepted",
+      "name": "Hyorrhynchus unicornis",
+      "authorship": "Nobuchi, 1966",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_f2bed0011da5",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Hyorrhynchus unicornis Nobuchi, 1966, VSN_3149.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_f2bed0011da5",
+      "label": "Nobuchi, 1966",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Nobuchi, A. (1966). Studies on Scolytidae, VI. Bulletin of the Government Forest Experiment Station 185: 51–56."
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "vsn": "VSN_3118",
+  "scientific_name": "Hylurgops glabratus",
+  "authorship": "(Zetterstedt, 1828)",
+  "chinese_name": "宽条干小蠹",
+  "genus": "Hylurgops",
+  "subfamily": "Scolytinae",
+  "tribe": "Hylastini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "黑龙江；台湾",
+    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) report 黑龙江. Beaver & Liu (2010) adds Taiwan as an accepted occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Picea koraiensis"
+    },
+    {
+      "scientific_name": "Pinus spp."
+    },
+    {
+      "scientific_name": "Larix spp."
+    },
+    {
+      "scientific_name": "Picea spp."
+    }
+  ],
+  "host_note": "Baseline host is Picea koraiensis. Beaver & Liu (2010) reports Pinus as usual host and Larix and Picea sometimes; these genus-level records are retained without replacing the species-level Picea koraiensis record.",
+  "taxonomy_summary": "The current accepted identity is Hylurgops glabratus (Zetterstedt, 1828).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1825",
+      "event": "Synonym",
+      "name": "Hylesinus paykullii",
+      "authorship": "Duftschmid, 1825",
+      "note": "Published name currently treated as a synonym; original-description p. 98.",
+      "reference_ids": [
+        "orig_573e4961922f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1828",
+      "event": "Original combination / basionym",
+      "name": "Hylurgus glabratus",
+      "authorship": "Zetterstedt, 1828",
+      "note": "Original combination / basionym, original-description p. 343.",
+      "reference_ids": [
+        "orig_a647ad1f5903",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1836",
+      "event": "Synonym",
+      "name": "Hylesinus decumanus",
+      "authorship": "Erichson, 1836",
+      "note": "Published name currently treated as a synonym; original-description p. 51.",
+      "reference_ids": [
+        "orig_04be716f4635",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1836",
+      "event": "Synonym",
+      "name": "Hylesinus tenebrosus",
+      "authorship": "Sahlberg, 1836",
+      "note": "Published name currently treated as a synonym; original-description p. 139.",
+      "reference_ids": [
+        "orig_160965b843a0",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1828",
+      "event": "Current accepted",
+      "name": "Hylurgops glabratus",
+      "authorship": "(Zetterstedt, 1828)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_a647ad1f5903",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Hylurgops glabratus (Zetterstedt, 1828), VSN_3118. Beaver & Liu (2010) uses the same species name.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_04be716f4635",
+      "label": "Erichson, 1836",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Erichson, W.F. (1836). Systematische Auseinandersetzung der Familie der Borkenkäfer (Bostrichidae). Archiv für Naturgeschichte 2: 45–65."
+    },
+    {
+      "id": "orig_573e4961922f",
+      "label": "Duftschmid, 1825",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Duftschmid, C.E. (1825). Fauna Austriae. Oder Beschreibung der Österrichischen Insecten, für angehende Freunde der Entomologie. Verlag der k.k. priv. akademischen Kunst-, Musik-und Buchhandlung, Linz 289 pp."
+    },
+    {
+      "id": "orig_160965b843a0",
+      "label": "Sahlberg, 1836b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Sahlberg, C.R. (1836b). Dissertatio entomologica insecta fennica enumerans, cujus particulam nonam partis secundae, cons. ampl. facult. philos. ad Imper. Univers. Alexandr. in Fennia, publicae submittit censurae Carolus Reginaldus Sahlberg, respondente Johanne Justo Staudinger, Ostrobottniensi. In audit. philos. die 7 Maji 1836. J. C. Frenckel, Aboae 129–144."
+    },
+    {
+      "id": "orig_a647ad1f5903",
+      "label": "Zetterstedt, 1828",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Zetterstedt, J.W. (1828). Fauna Insectorum Lapponica. Pars I. Libraria Schulziana, Hammone xx + 563 pp."
+    }
+  ]
+}

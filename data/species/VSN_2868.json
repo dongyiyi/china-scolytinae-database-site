@@ -1,0 +1,145 @@
+{
+  "vsn": "VSN_2868",
+  "scientific_name": "Hadrodemius globus",
+  "authorship": "(Blandford, 1896)",
+  "chinese_name": "",
+  "genus": "Hadrodemius",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "云南；台湾",
+    "narrative": "Beaver & Liu (2010) accepts Taiwan occurrence. Smith et al. (2022) independently reports Taiwan and adds Yunnan, with locality evidence from Honghe. Mainland China is therefore promoted to Present, and the reviewed distribution is Yunnan + Taiwan."
+  },
+  "hosts": [],
+  "host_note": "Beaver & Liu (2010) describes the species as polyphagous and cites Paulownia timber imported to Japan from Taiwan; this remains imported-material context and is not promoted as a China host. Smith et al. (2022) provides no host in the curated record.",
+  "taxonomy_summary": "The current accepted identity is Hadrodemius globus (Blandford, 1896).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1896",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus globus",
+      "authorship": "Blandford, 1896",
+      "note": "Original combination / basionym, original-description p. 208.",
+      "reference_ids": [
+        "orig_bb1f17fed112",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Xyleborus ursus",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 173.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Xyleborus ursus fuscus",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 174.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1939",
+      "event": "Synonym",
+      "name": "Xyleborus tomentosus",
+      "authorship": "Eggers, 1939",
+      "note": "Published name currently treated as a synonym; original-description p. 10.",
+      "reference_ids": [
+        "orig_2e8a2accb177",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1896",
+      "event": "Current accepted",
+      "name": "Hadrodemius globus",
+      "authorship": "(Blandford, 1896)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_bb1f17fed112",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Hadrodemius globus (Blandford, 1896), VSN_2868.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_smith2022",
+      "label": "Smith et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
+      "doi": "10.11646/zootaxa.5209.1.1"
+    },
+    {
+      "id": "orig_bb1f17fed112",
+      "label": "Blandford, 1896e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1896e). Descriptions of new Scolytidae from the Indo-Malayan and Austro-Malayan regions. Transactions of the Entomological Society of London 1896: 191–228."
+    },
+    {
+      "id": "orig_2e8a2accb177",
+      "label": "Eggers, 1939b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1939b). Entomological results from the Swedish expedition 1934 to Burma and British India. Coleoptera: Ipidae, gesammelt von Rene Malaise. Arkiv för Zoologi 31A(4): 1–14."
+    },
+    {
+      "id": "orig_c8c8b73ae935",
+      "label": "Eggers, 1923b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3–4): 129–220."
+    }
+  ]
+}

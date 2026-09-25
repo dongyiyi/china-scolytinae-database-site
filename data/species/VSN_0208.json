@@ -1,0 +1,184 @@
+{
+  "vsn": "VSN_0208",
+  "scientific_name": "Ambrosiodmus asperatus",
+  "authorship": "(Blandford, 1895)",
+  "chinese_name": "六粒粗胸小蠹",
+  "genus": "Ambrosiodmus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Fujian; Guangxi; Guizhou; Hainan; Hubei; Hong Kong; Xizang; Taiwan",
+    "narrative": "黄复生等 (2015) records Fujian, Guizhou, Hainan, and Hubei. Smith et al. (2020) confirms part of the baseline range and adds Guangxi, Hong Kong, and Xizang. Beaver & Liu (2010) provides the first Taiwan record, including Nantou, Neimoupu material; its broad China (SW, WP) wording is retained only as regional source context and is not converted into provinces. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Amygdalus persica"
+    },
+    {
+      "scientific_name": "Pyrus sp."
+    },
+    {
+      "scientific_name": "Juglans regia"
+    },
+    {
+      "scientific_name": "Citrus reticulata"
+    },
+    {
+      "scientific_name": "Quercus griffithii"
+    }
+  ],
+  "host_note": "黄复生等 (2015) reports Amygdalus persica, Pyrus sp., Juglans regia, and Citrus reticulata. Smith et al. (2020) additionally reports Quercus griffithii. Beaver & Liu (2010) describes broad polyphagy across more than 10 angiosperm families but does not identify a resolved Taiwan host taxon, so no new host is promoted.",
+  "taxonomy_summary": "The current accepted identity is Ambrosiodmus asperatus (Blandford, 1895).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1895",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus asperatus",
+      "authorship": "Blandford, 1895",
+      "note": "Original combination / basionym, original-description p. 321.",
+      "reference_ids": [
+        "orig_blandford1895",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Xyleborus nepotulus",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 179.",
+      "reference_ids": [
+        "orig_eggers1923",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Synonym",
+      "name": "Xyleborus citri",
+      "authorship": "Beeson, 1930",
+      "note": "Published name currently treated as a synonym; original-description p. 215.",
+      "reference_ids": [
+        "orig_beeson1930",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1936",
+      "event": "Synonym",
+      "name": "Xyleborus nepotulomorphus",
+      "authorship": "Eggers, 1936",
+      "note": "Published name currently treated as a synonym; original-description p. 88.",
+      "reference_ids": [
+        "orig_eggers1936",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "Current",
+      "event": "Current accepted",
+      "name": "Ambrosiodmus asperatus",
+      "authorship": "(Blandford, 1895)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links four additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "orig_blandford1895",
+      "label": "Blandford, 1895",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1895). A list of the Scolytidae collected in Ceylon by Mr. George Lewis, with descriptions of new species. Annals and Magazine of Natural History. Ser. 6, 15: 315–328."
+    },
+    {
+      "id": "orig_eggers1923",
+      "label": "Eggers, 1923b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3–4): 129–220."
+    },
+    {
+      "id": "orig_beeson1930",
+      "label": "Beeson, 1930",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1930). The biology of the genus Xyleborus, with more new species. Indian Forest Records, Entomology 14(10): 209–272."
+    },
+    {
+      "id": "orig_eggers1936",
+      "label": "Eggers, 1936e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1936e). Neue indomalayische Borkenkäfer (Ipidae). III. Nachtrag. Tijdschrift voor Entomologie 79: 77–91."
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ]
+}

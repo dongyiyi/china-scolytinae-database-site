@@ -1,0 +1,75 @@
+{
+  "vsn": "VSN_1798",
+  "scientific_name": "Cryphalus pruni",
+  "authorship": "Eggers, 1929",
+  "chinese_name": "",
+  "genus": "Cryphalus",
+  "subfamily": "Scolytinae",
+  "tribe": "Cryphalini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "云南",
+    "narrative": "Yang (2020) lists Yunnan; accepted as mainland-China occurrence evidence."
+  },
+  "hosts": [],
+  "host_note": "No reviewed host note is currently available.",
+  "taxonomy_summary": "The current accepted identity is Cryphalus pruni Eggers, 1929.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1929",
+      "event": "Current accepted",
+      "name": "Cryphalus pruni",
+      "authorship": "Eggers, 1929",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_73f0745747af",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "No additional synonyms or historical combinations are currently linked to this taxon in the integrated backbone.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_yangcryphaluschecklistal2020",
+      "label": "Yang, 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Yang, L. (2020). Checklist of the genus Cryphalus Erichson, 1836 (Coleoptera: Curculionidae: Scolytinae) with special attention to Chinese species. Zoological Systematics 45(3): 176–205.",
+      "doi": "10.11865/zs.202023"
+    },
+    {
+      "id": "orig_73f0745747af",
+      "label": "Eggers, 1929c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1929c). Fünf neue Borkenkäfer (Ipidae) aus dem Osten. Entomologisches Nachrichtenblatt 3: 9–11."
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "vsn": "VSN_4223",
+  "scientific_name": "Pityogenes scitus",
+  "authorship": "Blandford, 1893",
+  "chinese_name": "品穴星坑小蠹",
+  "genus": "Pityogenes",
+  "subfamily": "Scolytinae",
+  "tribe": "Ipini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Questionable",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "西藏",
+    "narrative": "黄复生等 (2015) records the taxon from Xizang under the source name Pityogenes coniferae. Beaver & Liu (2010) treated the historical Taiwan record as doubtful and likely based on Shiraki material. Taiwan is retained as Questionable and is not added to the current distribution summary."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Pinus griffithii"
+    }
+  ],
+  "host_note": "黄复生等 (2015) reports Pinus griffithii (乔松). Beaver & Liu (2010) provides no host evidence for the doubtful Taiwan record.",
+  "taxonomy_summary": "The current accepted identity is Pityogenes scitus Blandford, 1893.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1909",
+      "event": "Synonym",
+      "name": "Pityophthorus coniferae",
+      "authorship": "Stebbing, 1909",
+      "note": "Published name currently treated as a synonym; original-description p. 30.",
+      "reference_ids": [
+        "orig_fcfc01fa7465",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1893",
+      "event": "Current accepted",
+      "name": "Pityogenes scitus",
+      "authorship": "Blandford, 1893",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_710f39553bdb",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Pityogenes scitus Blandford, 1893, VSN_4223. 黄复生等 (2015) uses Pityogenes coniferae; the historical source name is retained without changing stable VSN identity.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_710f39553bdb",
+      "label": "Blandford, 1893a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1893a). Notes on Scolytidae. Indian Museum Notes 3(1): 63–65."
+    },
+    {
+      "id": "orig_fcfc01fa7465",
+      "label": "Stebbing, 1909",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Stebbing, E.P. (1909). On some undescribed Scolytidae of economic importance from the Indian Region, II. Indian Forest Memoirs, Forest Zoology Series 1(2): 13–32."
+    }
+  ]
+}

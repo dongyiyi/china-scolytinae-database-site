@@ -1,0 +1,98 @@
+{
+  "vsn": "VSN_5552",
+  "scientific_name": "Scolytus pubescens",
+  "authorship": "Stark, 1936",
+  "chinese_name": "绒毛小蠹",
+  "genus": "Scolytus",
+  "subfamily": "Scolytinae",
+  "tribe": "Scolytini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "山东；黑龙江",
+    "narrative": "Cao et al. (2024) reports Scolytus pubescens as a new record for China based on specimens collected in Shandong (Jinan, Panlongshan Forest Park) and Heilongjiang (Yichun, Liangshui Experimental Forest Farm). These records establish confirmed mainland-China occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Ulmus sp."
+    }
+  ],
+  "host_note": "Cao et al. (2024) explicitly reports 榆, Ulmus sp., as the host. This genus-level host identification is retained at the same taxonomic resolution in the current synthesis.",
+  "taxonomy_summary": "The current accepted identity is Scolytus pubescens Stark, 1936.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1942",
+      "event": "Synonym",
+      "name": "Scolytus pubescens",
+      "authorship": "Eggers, 1942",
+      "note": "Published name currently treated as a synonym; original-description p. 34.",
+      "reference_ids": [
+        "orig_a3e54575f40c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1936",
+      "event": "Current accepted",
+      "name": "Scolytus pubescens",
+      "authorship": "Stark, 1936",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_af646839bb52",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The 2024 paper uses Scolytus pubescens Stark, 1936, which maps directly to the pre-existing integrated taxonomic backbone identity VSN_5552. No new taxon identity or nomenclatural change is required.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_caoetal2024_scolytuspubescens",
+      "label": "Cao et al., 2024",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Cao, Y., Yu, G., Li, T., Lai, S., Tarno, H. & Wang, J. (2024). A new record species of Scolytus Geoffroy (Curculionidae: Scolytinae), with a key to Chinese species. Journal of Hebei University (Natural Science Edition) 44(1): 70–76.",
+      "doi": "10.3969/j.issn.1000-1565.2024.01.009"
+    },
+    {
+      "id": "orig_a3e54575f40c",
+      "label": "Eggers, 1942a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1942a). Zur paläarktischen Borkenkäferfauna (Coleoptera: Ipidae). VIII. Borkenkäfer aus dem asiatischen Russland. Arbeiten über Morphologische und Taxonomische Entomologie aus Berlin-Dahlem 9: 27–36."
+    },
+    {
+      "id": "orig_af646839bb52",
+      "label": "Stark, 1936",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Stark, V.N. (1936). Novye vidy koroedov iz Aziatskoi chasti SSSR [Neue Borkenkäferarten aus dem asiatischen Teile der USSR]. Vestnik Dalʼnevostochnogo Filiala Akademii Nauk SSSR 18: 141–154."
+    }
+  ]
+}

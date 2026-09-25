@@ -1,0 +1,388 @@
+{
+  "vsn": "VSN_3182",
+  "scientific_name": "Hypothenemus birmanus",
+  "authorship": "(Eichhoff, 1878)",
+  "chinese_name": "缅甸眯小蠹",
+  "genus": "Hypothenemus",
+  "subfamily": "Scolytinae",
+  "tribe": "Trypophloeini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "四川；贵州；云南；台湾；香港",
+    "narrative": "黄复生等 (2015) supports occurrence in 四川, 贵州 and 云南. Beaver & Liu (2010) adds a first Taiwan record based on more than 50 specimens from Chiayi, Hsinchu, Kaohsiung, Kinmen, Nantou, Taipei, Taichung and Taitung. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Ailanthus altissima"
+    },
+    {
+      "scientific_name": "Achras sapota"
+    },
+    {
+      "scientific_name": "Adenanthera pavonia"
+    },
+    {
+      "scientific_name": "Annona sp."
+    },
+    {
+      "scientific_name": "Cassia siamea"
+    },
+    {
+      "scientific_name": "Cinnamomum camphora"
+    },
+    {
+      "scientific_name": "Ficus aurea"
+    },
+    {
+      "scientific_name": "Mangifera indica"
+    },
+    {
+      "scientific_name": "Persea borbonia"
+    },
+    {
+      "scientific_name": "Phoebe sp."
+    },
+    {
+      "scientific_name": "Quercus sp."
+    },
+    {
+      "scientific_name": "Rhizophora mangle"
+    },
+    {
+      "scientific_name": "Trema floridana"
+    }
+  ],
+  "host_note": "The exact host taxa currently promoted are retained from 黄复生等 (2015). Beaver & Liu (2010) describes use of twigs and small branches of many angiosperm trees and shrubs but does not enumerate additional host taxa in this Source Record; that broad prose is preserved as context rather than split into inferred taxa.",
+  "taxonomy_summary": "The current accepted identity is Hypothenemus birmanus (Eichhoff, 1878).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1878",
+      "event": "Original combination / basionym",
+      "name": "Triarmocerus birmanus",
+      "authorship": "Eichhoff, 1878",
+      "note": "Original combination / basionym, original-description p. 384.",
+      "reference_ids": [
+        "orig_df23847f2e11",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1879",
+      "event": "Synonym",
+      "name": "Hypothenemus maculicollis",
+      "authorship": "Sharp, 1879",
+      "note": "Published name currently treated as a synonym; original-description p. 101.",
+      "reference_ids": [
+        "orig_52b517763c57",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1894",
+      "event": "Synonym",
+      "name": "Hypothenemus peritus",
+      "authorship": "Blandford, 1894",
+      "note": "Published name currently treated as a synonym; original-description p. 84.",
+      "reference_ids": [
+        "orig_a1d45147b2c3",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1904",
+      "event": "Synonym",
+      "name": "Hypothenemus farinosus",
+      "authorship": "Blandford, 1904",
+      "note": "Published name currently treated as a synonym; original-description p. 241.",
+      "reference_ids": [
+        "orig_aae805fc0462",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1914",
+      "event": "Synonym",
+      "name": "Hypothenemus validus valens",
+      "authorship": "Sampson, 1914",
+      "note": "Published name currently treated as a synonym; original-description p. 385.",
+      "reference_ids": [
+        "orig_7e3028d756c6",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Stephanoderes perkinsi",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 31.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Stephanoderes psidii",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 32.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Stephanoderes sterculiae",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 32.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Stephanoderes alter",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 219.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Stephanoderes uter",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 219.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1933",
+      "event": "Synonym",
+      "name": "Stephanoderes nibarani",
+      "authorship": "Beeson, 1933",
+      "note": "Published name currently treated as a synonym; original-description p. 10.",
+      "reference_ids": [
+        "orig_9d25e1bce080",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1936",
+      "event": "Synonym",
+      "name": "Stephanoderes ampliatus",
+      "authorship": "Eggers, 1936",
+      "note": "Published name currently treated as a synonym; original-description p. 627.",
+      "reference_ids": [
+        "orig_4fb20b23d61b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1940",
+      "event": "Synonym",
+      "name": "Stephanoderes pacificus",
+      "authorship": "Beeson, 1940",
+      "note": "Published name currently treated as a synonym; original-description p. 197.",
+      "reference_ids": [
+        "orig_a1c816367ea2",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1954",
+      "event": "Synonym",
+      "name": "Stephanoderes castaneus",
+      "authorship": "Wood, 1954",
+      "note": "Published name currently treated as a synonym; original-description p. 1027.",
+      "reference_ids": [
+        "orig_ee172e90417b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1971",
+      "event": "Synonym",
+      "name": "Stylolentus dubius",
+      "authorship": "Schedl, 1971",
+      "note": "Published name currently treated as a synonym; original-description p. 372.",
+      "reference_ids": [
+        "orig_aa0a523d9d0a",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Current accepted",
+      "name": "Hypothenemus birmanus",
+      "authorship": "(Eichhoff, 1878)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_df23847f2e11",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Hypothenemus birmanus (Eichhoff, 1878), VSN_3182. 黄复生等 (2015) and Beaver & Liu (2010) preserve authorship (Eichhoff). A previous profile record gave authorship Chapuis, 1869 was inconsistent with the canonical integrated taxonomic backbone identity and is not used for the current accepted authorship.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "orig_df23847f2e11",
+      "label": "Eichhoff, 1878b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
+    },
+    {
+      "id": "orig_aae805fc0462",
+      "label": "Blandford, 1904",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1904). Insecta. Coleoptera. Rhynchophora. Scolytidae. [Cont.]. In: Sharp, D., Blandford, W.F.H. & Jordan, K., Biologia Centrali-Americana 4(6): 225–248."
+    },
+    {
+      "id": "orig_52b517763c57",
+      "label": "Sharp, 1879",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Sharp, D. (1879). On some Coleoptera from the Hawaiian Islands. Transactions of the Royal Entomological Society of London 1879: 77–105.",
+      "doi": "10.1111/j.1365-2311.1879.tb01979.x"
+    },
+    {
+      "id": "orig_a1d45147b2c3",
+      "label": "Blandford, 1894c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
+    },
+    {
+      "id": "orig_7e3028d756c6",
+      "label": "Sampson, 1914",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Sampson, F.W. (1914). Coleoptera: Platypodidae and Ipidae from the Seychelles Islands. Transactions of the Linnean Society of London, Ser. 2 Zoology 16: 379–391."
+    },
+    {
+      "id": "orig_c8c8b73ae935",
+      "label": "Eggers, 1923b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3–4): 129–220."
+    },
+    {
+      "id": "orig_4fb20b23d61b",
+      "label": "Eggers, 1936a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1936a). Neue Borkenkäfer (Scolytidae, Col.) aus Indien. Annals and Magazine of Natural History. Ser. 10, 17(102): 626–636.",
+      "doi": "10.1080/00222933608655163"
+    },
+    {
+      "id": "orig_ee172e90417b",
+      "label": "Wood, 1954b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Wood, S.L. (1954b). A revision of North American Cryphalini (Scolytidae: Coleoptera). University of Kansas Science Bulletin 36: 959–1089."
+    },
+    {
+      "id": "orig_9d25e1bce080",
+      "label": "Beeson, 1933",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1933). Entomological investigations on the spike disease of sandal, Santalum album Linn. (2) Bostrychidae, Platypodidae and Scolytidae. Indian Forest Records, Entomology 17(9): 7–12."
+    },
+    {
+      "id": "orig_a1c816367ea2",
+      "label": "Beeson, 1940",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1940). Scolytidae and Platypodidae of the Mangarevan Expedition. Occasional Papers of Bernice P. Bishop Museum 15(18): 191–203."
+    },
+    {
+      "id": "orig_a6f1a8831ef5",
+      "label": "Hopkins, 1915d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hopkins, A.D. (1915d). Classification of the Cryphalinae with descriptions of new genera and species. United States Department of Agriculture, Office of the Secretary. Report 99: 1–75 + 4 plates."
+    },
+    {
+      "id": "orig_aa0a523d9d0a",
+      "label": "Schedl, 1971e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1971e). Indomalayan bark and timber beetles. 276 Contribution. Oriental Insects 5(3): 361–399.",
+      "doi": "10.1080/00305316.1971.10434023"
+    }
+  ]
+}

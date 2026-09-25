@@ -1,0 +1,177 @@
+{
+  "vsn": "VSN_2393",
+  "scientific_name": "Diuncus haberkorni",
+  "authorship": "(Eggers, 1920)",
+  "chinese_name": "",
+  "genus": "Diuncus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建；广东；广西；海南；江西；云南；香港；台湾",
+    "narrative": "Smith et al. (2020) provides broad mainland, Hong Kong and Taiwan occurrence evidence. Beaver & Liu (2010) independently supports Taiwan, and Lau (2025) supports Hong Kong. Smith et al. (2022) independently reports Fujian, Guangdong, Guangxi, Hainan, Hong Kong, Jiangxi, Yunnan and Taiwan, matching the current reviewed distribution without changing it."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Cinnamomum camphora"
+    },
+    {
+      "scientific_name": "Ligustrum lucidum"
+    }
+  ],
+  "host_note": "Current species-level hosts Cinnamomum camphora and Ligustrum lucidum are retained from Smith et al. (2020). Beaver & Liu (2010) provides broad polyphagy context but no Taiwan hosts. Smith et al. (2022) provides no host in the curated record, so the current host synthesis is unchanged.",
+  "taxonomy_summary": "The current accepted identity is Diuncus haberkorni (Eggers, 1920).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1920",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus haberkorni",
+      "authorship": "Eggers, 1920",
+      "note": "Original combination / basionym, original-description p. 43.",
+      "reference_ids": [
+        "orig_c790e5bec303",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1951",
+      "event": "Synonym",
+      "name": "Xyleborus approximatus",
+      "authorship": "Schedl, 1951",
+      "note": "Published name currently treated as a synonym; original-description p. 77.",
+      "reference_ids": [
+        "orig_f82fd5b0fc91",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1952",
+      "event": "Synonym",
+      "name": "Xyleborus taichuensis",
+      "authorship": "Schedl, 1952",
+      "note": "Published name currently treated as a synonym; original-description p. 64.",
+      "reference_ids": [
+        "orig_22dc78abfd38",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1964",
+      "event": "Synonym",
+      "name": "Xyleborus potens",
+      "authorship": "Schedl, 1964",
+      "note": "Published name currently treated as a synonym; original-description p. 298.",
+      "reference_ids": [
+        "orig_a9e59487404c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1920",
+      "event": "Current accepted",
+      "name": "Diuncus haberkorni",
+      "authorship": "(Eggers, 1920)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_c790e5bec303",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Diuncus haberkorni (Eggers, 1920), VSN_2393. Beaver & Liu (2010) synonymized Xyleborus taichuensis Schedl under Diuncus haberkorni after examination of type and comparative material; this synonymy is retained as nomenclatural provenance.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "src_smith2022",
+      "label": "Smith et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
+      "doi": "10.11646/zootaxa.5209.1.1"
+    },
+    {
+      "id": "orig_c790e5bec303",
+      "label": "Eggers, 1920b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1920b). 60 neue Borkenkäfer (Ipidae) aus Afrika, nebst zehn neuen Gattungen, zwei Abarten. Entomologische Blätter 16: 33–45."
+    },
+    {
+      "id": "orig_f82fd5b0fc91",
+      "label": "Schedl, 1951i",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1951i). Fauna Indo-malayaensis I. 91. Beitrag zur Morphologie und Systematik der Scolytoidea. Tijdschrift voor Entomologie 93: 41–98."
+    },
+    {
+      "id": "orig_a9e59487404c",
+      "label": "Schedl, 1964k",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1964k). Neue und interessante Scolytoidea von den Sunda-Inseln, Neue Guinea und Australien. 202 Beitrag. Tijdschrift voor Entomologie 107(5): 297–306."
+    },
+    {
+      "id": "orig_22dc78abfd38",
+      "label": "Schedl, 1952h",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1952h). Formosan Scolytoidea, I. lll Contribution to the morphology and taxonomy of the Scolytoidea. Philippine Journal of Science 81(1): 61–65."
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "vsn": "VSN_2685",
+  "scientific_name": "Euwallacea fornicatior",
+  "authorship": "(Eggers, 1923)",
+  "chinese_name": "",
+  "genus": "Euwallacea",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "四川；台湾",
+    "narrative": "Smith et al. (2020) records Sichuan and Taiwan."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Albizzia [as published]"
+    },
+    {
+      "scientific_name": "Tephrosia"
+    },
+    {
+      "scientific_name": "Durio zibethinus"
+    },
+    {
+      "scientific_name": "Artocarpus altilis"
+    },
+    {
+      "scientific_name": "Camellia sinensis"
+    }
+  ],
+  "host_note": "Source spelling 'Albizzia' is retained explicitly pending host-taxonomy normalization; other hosts are retained at source-supported resolution.",
+  "taxonomy_summary": "The current accepted identity is Euwallacea fornicatior (Eggers, 1923).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1923",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus fornicatior",
+      "authorship": "Eggers, 1923",
+      "note": "Original combination / basionym, original-description p. 184.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1951",
+      "event": "Synonym",
+      "name": "Xyleborus schultzei",
+      "authorship": "Schedl, 1951",
+      "note": "Published name currently treated as a synonym; original-description p. 68.",
+      "reference_ids": [
+        "orig_f82fd5b0fc91",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Current accepted",
+      "name": "Euwallacea fornicatior",
+      "authorship": "(Eggers, 1923)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Euwallacea fornicatior (Eggers, 1923), VSN_2685.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_c8c8b73ae935",
+      "label": "Eggers, 1923b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3–4): 129–220."
+    },
+    {
+      "id": "orig_f82fd5b0fc91",
+      "label": "Schedl, 1951i",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1951i). Fauna Indo-malayaensis I. 91. Beitrag zur Morphologie und Systematik der Scolytoidea. Tijdschrift voor Entomologie 93: 41–98."
+    }
+  ]
+}

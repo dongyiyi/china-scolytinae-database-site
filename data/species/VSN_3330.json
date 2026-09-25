@@ -1,0 +1,95 @@
+{
+  "vsn": "VSN_3330",
+  "scientific_name": "Hypothenemus schedli",
+  "authorship": "Browne, 1963",
+  "chinese_name": "",
+  "genus": "Hypothenemus",
+  "subfamily": "Scolytinae",
+  "tribe": "Trypophloeini",
+  "checklist_status": "Questionable",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Questionable",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾",
+    "narrative": "Do not promote Taiwan to Present from Beaver & Liu (2010) alone. The species is known only from the type series in the source and its taxonomic distinctness is explicitly questioned."
+  },
+  "hosts": [],
+  "host_note": "Host unknown in Beaver & Liu (2010); no host is promoted.",
+  "taxonomy_summary": "The current accepted identity is Hypothenemus schedli Browne, 1963.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1942",
+      "event": "Synonym",
+      "name": "Stephanoderes pubescens",
+      "authorship": "Schedl, 1942",
+      "note": "Published name currently treated as a synonym; original-description p. 18.",
+      "reference_ids": [
+        "orig_180460ae7106",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1963",
+      "event": "Current accepted",
+      "name": "Hypothenemus schedli",
+      "authorship": "Browne, 1963",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_77a75dea1427",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Hypothenemus schedli Browne, 1963, VSN_3330, Scolytinae: Trypophloeini. Beaver & Liu (2010) notes that this taxon may be a synonym of a previously described Hypothenemus; the stable VSN is retained while the uncertainty is recorded.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_77a75dea1427",
+      "label": "Browne, 1963b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Browne, F.G. (1963b). Taxonomic notes on Scolytidae (Coleoptera). Entomologische Berichten 23(30): 53–59."
+    },
+    {
+      "id": "orig_180460ae7106",
+      "label": "Schedl, 1942d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1942d). Neue Scolytidae aus Java. 76 Beitrag. Tijdschrift voor Entomologie 85: 1–49."
+    }
+  ]
+}

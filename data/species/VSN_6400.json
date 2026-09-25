@@ -1,0 +1,265 @@
+{
+  "vsn": "VSN_6400",
+  "scientific_name": "Xyleborus volvulus",
+  "authorship": "(Fabricius, 1775)",
+  "chinese_name": "",
+  "genus": "Xyleborus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾",
+    "narrative": "Beaver & Liu (2010) accepts Taiwan occurrence for Xyleborus volvulus. The source-level taxonomic caveat concerning its distinction from X. perforans is retained separately and does not erase the accepted Taiwan record."
+  },
+  "hosts": [],
+  "host_note": "The source characterizes Xyleborus volvulus as strongly polyphagous but enumerates no host taxon in the curated record; no host is promoted.",
+  "taxonomy_summary": "The current accepted identity is Xyleborus volvulus (Fabricius, 1775).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1775",
+      "event": "Original combination / basionym",
+      "name": "Bostrichus volvulus",
+      "authorship": "Fabricius, 1775",
+      "note": "Original combination / basionym, original-description p. 454.",
+      "reference_ids": [
+        "orig_6021c71035bb",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1869",
+      "event": "Synonym",
+      "name": "Xyleborus alternans",
+      "authorship": "Eichhoff, 1869",
+      "note": "Published name currently treated as a synonym; original-description p. 280.",
+      "reference_ids": [
+        "orig_8acb2be6921b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1869",
+      "event": "Synonym",
+      "name": "Xyleborus badius",
+      "authorship": "Eichhoff, 1869",
+      "note": "Published name currently treated as a synonym; original-description p. 280.",
+      "reference_ids": [
+        "orig_8acb2be6921b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Xyleborus interstitialis",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 375.",
+      "reference_ids": [
+        "orig_df23847f2e11",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1888",
+      "event": "Synonym",
+      "name": "Anaeretus guanajautensis",
+      "authorship": "Dugès, 1888",
+      "note": "Published name currently treated as a synonym; original-description p. 140.",
+      "reference_ids": [
+        "orig_7b143e328add",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Xyleborus grenadensis",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 65.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Xyleborus hubbardi",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 65.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Xyleborus rileyi",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 65.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Xyleborus schwarzi",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 65.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1920",
+      "event": "Synonym",
+      "name": "Xyleborus continentalis",
+      "authorship": "Eggers, 1920",
+      "note": "Published name currently treated as a synonym; original-description p. 42.",
+      "reference_ids": [
+        "orig_c790e5bec303",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1929",
+      "event": "Synonym",
+      "name": "Xyleborus silvestris",
+      "authorship": "Beeson, 1929",
+      "note": "Published name currently treated as a synonym; original-description p. 241.",
+      "reference_ids": [
+        "orig_7ca7be5c1b19",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1950",
+      "event": "Synonym",
+      "name": "Xyleborus granularis",
+      "authorship": "Schedl, 1950",
+      "note": "Published name currently treated as a synonym; original-description p. 898.",
+      "reference_ids": [
+        "orig_75031eb18cd2",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1775",
+      "event": "Current accepted",
+      "name": "Xyleborus volvulus",
+      "authorship": "(Fabricius, 1775)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_6021c71035bb",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Beaver & Liu (2010) notes that the distinction between Xyleborus volvulus and X. perforans is doubtful. Current integrated taxonomic backbone nevertheless retains X. volvulus as VSN_6400 and X. perforans as VSN_6316; the 2010 uncertainty is preserved as source-specific taxonomic conflict without merging the stable identities.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_6021c71035bb",
+      "label": "Fabricius, 1775",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Fabricius, J.C. (1775). Systema entomologiae, sistens insectorum classes, ordines, genera, species adiectis synonymis, locis, descriptionibus, observationibus. Officina Libraria Kortii, Flensburgi et Lipsiae xxxii + 832 pp."
+    },
+    {
+      "id": "orig_75031eb18cd2",
+      "label": "Schedl, 1950a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1950a). Fauna Indo-Malayensis, II. 104 Contribution to the morphology and taxonomy of the Scolytoidea. Annals and Magazine of Natural History. Ser. 12, 3(34): 892–900.",
+      "doi": "10.1080/00222935008654721"
+    },
+    {
+      "id": "orig_7b143e328add",
+      "label": "Dugès, 1888",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Dugès, E. (1888). Métamorphoses de quelques Coléoptères du Mexique. Annales de la Société Entomologique de Belgique 31: 137–148."
+    },
+    {
+      "id": "orig_7ca7be5c1b19",
+      "label": "Beeson, 1929",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1929). Platypodidae and Scolytidae. Insects of Samoa 4(4): 217–248."
+    },
+    {
+      "id": "orig_8acb2be6921b",
+      "label": "Eichhoff, 1869",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1869). Neue Borkenkäfer. Berliner Entomologische Zeitschrift 12(3-4): 273–282."
+    },
+    {
+      "id": "orig_a6f1a8831ef5",
+      "label": "Hopkins, 1915d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hopkins, A.D. (1915d). Classification of the Cryphalinae with descriptions of new genera and species. United States Department of Agriculture, Office of the Secretary. Report 99: 1–75 + 4 plates."
+    },
+    {
+      "id": "orig_c790e5bec303",
+      "label": "Eggers, 1920b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1920b). 60 neue Borkenkäfer (Ipidae) aus Afrika, nebst zehn neuen Gattungen, zwei Abarten. Entomologische Blätter 16: 33–45."
+    },
+    {
+      "id": "orig_df23847f2e11",
+      "label": "Eichhoff, 1878b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
+    }
+  ]
+}

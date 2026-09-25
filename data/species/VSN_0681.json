@@ -1,0 +1,155 @@
+{
+  "vsn": "VSN_0681",
+  "scientific_name": "Beaverium magnus",
+  "authorship": "(Niisima, 1910)",
+  "chinese_name": "",
+  "genus": "Beaverium",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "重庆；江西；云南；香港；台湾",
+    "narrative": "Smith et al. (2020) records Beaverium magnus from Chongqing, Jiangxi, Yunnan, Hong Kong, and Taiwan. Beaver & Liu (2010), under the source name Beaverium chujoi, provides additional Taiwan locality evidence; current distribution is unchanged. Lau (2025) provides additional secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Ficus sp."
+    },
+    {
+      "scientific_name": "Castanopsis carlesii"
+    },
+    {
+      "scientific_name": "Cassia siamea"
+    }
+  ],
+  "host_note": "Current hosts remain Ficus sp., Castanopsis carlesii, and Cassia siamea (= Senna siamea). Beaver & Liu (2010) reports only an undetermined tree for the Beaverium chujoi source entry, which is not promoted as a host taxon.",
+  "taxonomy_summary": "The current accepted identity is Beaverium magnus (Niisima, 1910).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1910",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus magnus",
+      "authorship": "Niisima, 1910",
+      "note": "Original combination / basionym, original-description p. 11.",
+      "reference_ids": [
+        "orig_niisima1910",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Synonym",
+      "name": "Xyleborus rufobrunneus dihingensis",
+      "authorship": "Eggers, 1930",
+      "note": "Published name currently treated as a synonym; original-description p. 189.",
+      "reference_ids": [
+        "orig_eggers1930",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1951",
+      "event": "Synonym",
+      "name": "Xyleborus chujoi",
+      "authorship": "Schedl, 1951",
+      "note": "Published name currently treated as a synonym; original-description p. 73.",
+      "reference_ids": [
+        "orig_schedl1951",
+        "src_beaverliu2010",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "Current",
+      "event": "Current accepted",
+      "name": "Beaverium magnus",
+      "authorship": "(Niisima, 1910)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Beaver & Liu (2010) used Beaverium chujoi as a new combination and noted possible future synonymy with a widespread Beaverium. This historical statement is retained without altering the canonical identity.",
+  "nomenclature_note_reference_ids": [
+    "src_beaverliu2010"
+  ],
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "orig_niisima1910",
+      "label": "Niisima, 1910",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Niisima, Y. (1910). Die Borkenkaefer nord- und mittel-Japans. Transactions of the Sapporo Natural History Society 3: 1–18."
+    },
+    {
+      "id": "orig_eggers1930",
+      "label": "Eggers, 1930b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1930b). Neue Xyleborus-Arten (Col. Scolytidae) aus Indien. Indian Forest Records, Entomology 14(9): 177–208."
+    },
+    {
+      "id": "orig_schedl1951",
+      "label": "Schedl, 1951i",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1951i). Fauna Indo-malayaensis I. 91. Beitrag zur Morphologie und Systematik der Scolytoidea. Tijdschrift voor Entomologie 93: 41–98."
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ]
+}

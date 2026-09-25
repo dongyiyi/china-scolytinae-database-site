@@ -1,0 +1,117 @@
+{
+  "vsn": "VSN_4034",
+  "scientific_name": "Phloeosinus perlatus",
+  "authorship": "Chapuis, 1876",
+  "chinese_name": "罗汉肤小蠹",
+  "genus": "Phloeosinus",
+  "subfamily": "Scolytinae",
+  "tribe": "Phloeosinini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "四川；福建；安徽；浙江；贵州；云南；台湾",
+    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) establish mainland occurrence in Sichuan, Fujian, Anhui, Zhejiang, Guizhou and Yunnan. Beaver & Liu (2010) adds Taiwan and also reports broad China (CE, NO, SE, SW), which is not expanded into additional provinces."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Cunninghamia lanceolata"
+    },
+    {
+      "scientific_name": "Sabina chinensis"
+    },
+    {
+      "scientific_name": "Chamaecyparis spp."
+    },
+    {
+      "scientific_name": "Juniperus spp."
+    },
+    {
+      "scientific_name": "Thuja spp."
+    },
+    {
+      "scientific_name": "Thujopsis spp."
+    },
+    {
+      "scientific_name": "Cryptomeria spp."
+    },
+    {
+      "scientific_name": "Cunninghamia spp."
+    }
+  ],
+  "host_note": "Baseline hosts Cunninghamia lanceolata and Sabina chinensis are retained. Beaver & Liu (2010) adds genus-level Chamaecyparis, Juniperus, Thuja, Thujopsis, Cryptomeria and Cunninghamia; Chamaecyparis is explicitly recorded in Taiwan. Genus-level evidence is not expanded to species.",
+  "taxonomy_summary": "The current accepted identity is Phloeosinus perlatus Chapuis, 1876.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1876",
+      "event": "Current accepted",
+      "name": "Phloeosinus perlatus",
+      "authorship": "Chapuis, 1876",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_16f436d94e7b",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Current identity follows the integrated taxonomic backbone: Phloeosinus perlatus Chapuis, 1876. A previous profile record gave authorship Wood, 2007; that earlier display was inconsistent with the integrated backbone and is not used for the current accepted authorship.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_16f436d94e7b",
+      "label": "Chapuis & Eichhoff, 1876",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Chapuis, F. & Eichhoff, W.J. (1876). Scolytides recueillis au Japon par M. C. Lewis [cont.]. Annales de la Société Entomologique de Belgique 18: 197–204."
+    }
+  ]
+}

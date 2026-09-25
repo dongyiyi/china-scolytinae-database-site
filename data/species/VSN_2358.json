@@ -1,0 +1,76 @@
+{
+  "vsn": "VSN_2358",
+  "scientific_name": "Diamerus puncticollis",
+  "authorship": "Eggers, 1927",
+  "chinese_name": "",
+  "genus": "Diamerus",
+  "subfamily": "Scolytinae",
+  "tribe": "Diamerini",
+  "checklist_status": "Questionable",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Questionable",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾（存疑）",
+    "narrative": "Beaver & Liu (2010) treated the historical Taiwan attribution as doubtful. The species was otherwise known from the Philippines; a single Shiraki specimen labelled Kankau (Pingtung) was considered insufficient confirmation. No confirmed Taiwan occurrence is promoted."
+  },
+  "hosts": [],
+  "host_note": "No host evidence is reported for this doubtful Taiwan record; no host is promoted from Beaver & Liu (2010).",
+  "taxonomy_summary": "The current accepted identity is Diamerus puncticollis Eggers, 1927.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1927",
+      "event": "Current accepted",
+      "name": "Diamerus puncticollis",
+      "authorship": "Eggers, 1927",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_f7b264dff599",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Current identity is Diamerus puncticollis Eggers, 1927, VSN_2358. The uncertainty concerns Taiwan occurrence, not taxon identity.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_f7b264dff599",
+      "label": "Eggers, 1927b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1927b). Neue indomalayische Borkenkäfer (Ipidae). II. Nachtrag. Philippine Journal of Science 33(1): 67–108."
+    }
+  ]
+}

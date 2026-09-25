@@ -1,0 +1,324 @@
+{
+  "vsn": "VSN_5560",
+  "scientific_name": "Scolytus rugulosus",
+  "authorship": "(Müller, 1818)",
+  "chinese_name": "皱小蠹",
+  "genus": "Scolytus",
+  "subfamily": "Scolytinae",
+  "tribe": "Scolytini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "Baseline review: 殷蕙芬等 (1984) records Xinjiang (新疆；喀什). 黄复生等 (2015) retains Xinjiang with no province-level addition or omission. No baseline occurrence conflict is evident."
+  },
+  "hosts": [],
+  "host_note": "殷蕙芬等 (1984) reports 梅，杏，樱桃 / Prunus mume, Prunus armeniaca, Prunus pseudocerasus. 黄复生等 (2015) retains those hosts and adds 李属，苹果属，梨属，山楂属，榅桲属，榆属 / Prunus spp., Malus spp., Pyrus sp., Crataegus spp., Cydonia sp., Ulmus spp. The expanded host set should be traced to primary or later literature before being treated as the reviewed current host summary.",
+  "taxonomy_summary": "The current accepted identity is Scolytus rugulosus (Müller, 1818).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1818",
+      "event": "Original combination / basionym",
+      "name": "Bostrichus rugulosus",
+      "authorship": "Müller, 1818",
+      "note": "Original combination / basionym, original-description p. 247.",
+      "reference_ids": [
+        "orig_bc560551de36",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1837",
+      "event": "Synonym",
+      "name": "Eccoptogaster punctatus",
+      "authorship": "Ratzeburg, 1837",
+      "note": "Published name currently treated as a synonym; original-description p. 187.",
+      "reference_ids": [
+        "orig_08aea4519dab",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1837",
+      "event": "Synonym",
+      "name": "Scolytus haemorrhous",
+      "authorship": "Schmidberger, 1837",
+      "note": "Published name currently treated as a synonym; original-description p. 27.",
+      "reference_ids": [
+        "orig_6130efa6ace5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1858",
+      "event": "Synonym",
+      "name": "Eccoptogaster assimilis",
+      "authorship": "Boheman, 1858",
+      "note": "Published name currently treated as a synonym; original-description p. 88.",
+      "reference_ids": [
+        "orig_afa9e366e29c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1895",
+      "event": "Synonym",
+      "name": "Scolytus rugulosus fauveli",
+      "authorship": "Reitter, 1895",
+      "note": "Published name currently treated as a synonym; original-description p. 43.",
+      "reference_ids": [
+        "orig_c71476c026af",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1922",
+      "event": "Synonym",
+      "name": "Eccoptogaster mediterraneus",
+      "authorship": "Eggers, 1922",
+      "note": "Published name currently treated as a synonym; original-description p. 121.",
+      "reference_ids": [
+        "orig_0612c02286e6",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1929",
+      "event": "Synonym",
+      "name": "Scolytus rugulosus caucasicus",
+      "authorship": "Butovitsch, 1929",
+      "note": "Published name currently treated as a synonym; original-description p. 54.",
+      "reference_ids": [
+        "orig_6d345935770f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1929",
+      "event": "Synonym",
+      "name": "Scolytus rugulosus samarkandicus",
+      "authorship": "Butovitsch, 1929",
+      "note": "Published name currently treated as a synonym; original-description p. 56.",
+      "reference_ids": [
+        "orig_6d345935770f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1929",
+      "event": "Synonym",
+      "name": "Scolytus rugulosus similis",
+      "authorship": "Butovitsch, 1929",
+      "note": "Published name currently treated as a synonym; original-description p. 52.",
+      "reference_ids": [
+        "orig_6d345935770f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1935",
+      "event": "Synonym",
+      "name": "Scolytus rugulosus sanctaluciae",
+      "authorship": "Hoffmann, 1935",
+      "note": "Published name currently treated as a synonym; original-description p. 82.",
+      "reference_ids": [
+        "orig_a9c85763f6fd",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1940",
+      "event": "Synonym",
+      "name": "Scolytus manglissiensis",
+      "authorship": "Lezhava, 1940",
+      "note": "Published name currently treated as a synonym; original-description p. 71.",
+      "reference_ids": [
+        "orig_7d4c925908e7",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1943",
+      "event": "Synonym",
+      "name": "Scolytus taxicola",
+      "authorship": "Lezhava, 1943",
+      "note": "Published name currently treated as a synonym; original-description p. 193.",
+      "reference_ids": [
+        "orig_c39f6ff84ecb",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1958",
+      "event": "Synonym",
+      "name": "Scolytus rugulosus baluchistani",
+      "authorship": "Schedl, 1958",
+      "note": "Published name currently treated as a synonym; original-description p. 165.",
+      "reference_ids": [
+        "orig_84ecc9208dd3",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1960",
+      "event": "Synonym",
+      "name": "Scolytus rugulosus intermedius",
+      "authorship": "Sokanovskiy, 1960",
+      "note": "Published name currently treated as a synonym; original-description p. 674.",
+      "reference_ids": [
+        "orig_5d05907644bb",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1818",
+      "event": "Current accepted",
+      "name": "Scolytus rugulosus",
+      "authorship": "(Müller, 1818)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_bc560551de36",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Both baseline sources use Scolytus rugulosus Ratzeburg. The Species Reference Library currently retains Scolytus rugulosus; no baseline nomenclatural conflict identified.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "orig_0612c02286e6",
+      "label": "Eggers, 1922b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1922b). Seltene und neue paläarktische Borkenkäfer, IV. Entomologische Blätter 18: 116–121."
+    },
+    {
+      "id": "orig_08aea4519dab",
+      "label": "Ratzeburg, 1837",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Ratzeburg, J.T.C. (1837). Die Forst-Insecten oder Abbildung und Beschreibung der in den Wäldern Preussens und der Nachbarstaaten als schädlich oder nützlich bekannt gewordenen Insecten. Erster Theil. Die Käfer. Nicolai, Berlin x + 4 + 202 pp, 21 pls."
+    },
+    {
+      "id": "orig_5d05907644bb",
+      "label": "Sokanovskiy, 1960",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Sokanovskiy, B.V. (1960). K sistematike i rasprostraneniyu koroedov (Coleoptera, Ipidae) SSSR i sopredelnykh stran [On the taxonomy and distribution of bark beetles (Coleoptera, Ipidae) in the USSR and adjacent countries]. Entomologicheskoe Obozrenie 39: 674–678."
+    },
+    {
+      "id": "orig_6130efa6ace5",
+      "label": "Schmidberger, 1837",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schmidberger, J. (1837). Ueber die in Obstbäumen schädlichen Insecten. In: Kollar V. Naturgeschichte der schädlichen Insecten in Beziehung auf Landwirthschaft und Forstcultur. In: Kollar V. Naturgeschichte der schädlichen Insecten in Beziehung auf Landwirthschaft und Forstcultur.. Verhandlungen der Landwirthschaftlichen Gesellschaft, Wien, viii + 421 + 2 pp."
+    },
+    {
+      "id": "orig_6d345935770f",
+      "label": "Butovitsch, 1929",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Butovitsch, V. von (1929). Studien über die Morphologie und Systematik der paläarktischen Splintkäfer. Stettiner Entomologische Zeitung 90(1): 1–72."
+    },
+    {
+      "id": "orig_7d4c925908e7",
+      "label": "Lezhava, 1940",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Lezhava, V.V. (1940). : Novyy vid koroeda iz Gr. SSR. Scolytus manglissiensis sp. n. (Neue Art eines Borkenkäfers in Gergien. Scolytus manglissiensis sp. n.). Bulleten Gosudarstvennogo Muzea Gruzii 10A: 71–72."
+    },
+    {
+      "id": "orig_84ecc9208dd3",
+      "label": "Schedl, 1958d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1958d). Indian bark and timber beetles, I. Indian Forest Records, Entomology (New Series) 9(7): 165–169."
+    },
+    {
+      "id": "orig_a9c85763f6fd",
+      "label": "Hoffmann, 1935",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hoffmann, A. (1935). Les Scolytus du Département de Seine-et-Oise. Conférence des Sociétés Savantes, Littéraires et Artistiques du département de Seine-et-Oise, Douzième Session (1934), Comptes Rendus des Travaux. Impr. nationale, Paris 82–87."
+    },
+    {
+      "id": "orig_afa9e366e29c",
+      "label": "Boheman, 1858",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Boheman, C.H. (1858). Coleoptera. Species nova descripsit. In: Virgin, C.A. (Ed.), Kongliga Svenska Fregatten Eugenies Resa omkring jorden under befäl af C.A. Virgin, åren 1851–1853. Andra Delen. Zoologi. I. Insecta. P.A. Norstedt & Söner, Stockholm, 1–112."
+    },
+    {
+      "id": "orig_bc560551de36",
+      "label": "Müller, 1818",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Müller, P.W.J. (1818). Vermischte Bemerkungen über einige Käferarten. Magazin für Entomologie (Germar) 3: 228–260."
+    },
+    {
+      "id": "orig_c39f6ff84ecb",
+      "label": "Lezhava, 1943",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Lezhava, V.V. (1943). Novyy vid koroeda iz Gruzii, Scolytus taxicola sp. n. [A new species of bark beetle from Georgia]. Bulleten Gosudarstvennogo Muzea Gruzii 12A [1940]: 193–194."
+    },
+    {
+      "id": "orig_c71476c026af",
+      "label": "Reitter, 1895",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Reitter, E. (1895). Bestimmungs-Tabelle der Borkenkäfer (Scolytidae) aus Europa und den angrenzenden Ländern. Verhandlungen des naturforschenden Vereines in Brünn 33: 36–97."
+    }
+  ]
+}

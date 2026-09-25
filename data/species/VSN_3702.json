@@ -1,0 +1,137 @@
+{
+  "vsn": "VSN_3702",
+  "scientific_name": "Microperus quercicola",
+  "authorship": "(Eggers, 1926)",
+  "chinese_name": "",
+  "genus": "Microperus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "贵州；江西；四川；浙江；香港；台湾",
+    "narrative": "Smith et al. (2020) records Guizhou, Jiangxi, Sichuan, Zhejiang, Hong Kong and Taiwan. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Cinnamomum camphora"
+    }
+  ],
+  "host_note": "Species-level host Cinnamomum camphora is retained.",
+  "taxonomy_summary": "The current accepted identity is Microperus quercicola (Eggers, 1926).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1926",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus quercicola",
+      "authorship": "Eggers, 1926",
+      "note": "Original combination / basionym, original-description p. 146.",
+      "reference_ids": [
+        "orig_2e88af87a81b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1952",
+      "event": "Synonym",
+      "name": "Xyleborus izuensis",
+      "authorship": "Murayama, 1952",
+      "note": "Published name currently treated as a synonym; original-description p. 16.",
+      "reference_ids": [
+        "orig_38e32c5ccf69",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1971",
+      "event": "Synonym",
+      "name": "Xyleborus semistriatus",
+      "authorship": "Schedl, 1971",
+      "note": "Published name currently treated as a synonym; original-description p. 382.",
+      "reference_ids": [
+        "orig_aa0a523d9d0a",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1926",
+      "event": "Current accepted",
+      "name": "Microperus quercicola",
+      "authorship": "(Eggers, 1926)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_2e88af87a81b",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Microperus quercicola (Eggers, 1926), VSN_3702.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "orig_2e88af87a81b",
+      "label": "Eggers, 1926b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1926b). Japanische Borkenkäfer, I. Entomologische Blätter 22: 145–148."
+    },
+    {
+      "id": "orig_38e32c5ccf69",
+      "label": "Murayama, 1952",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1952). Notes on the scolytid-beetles (Coleoptera) from southern and western parts of Izu Peninsula, Shizuoka Prefecture. Bulletin of the Faculty of Agriculture, Yamaguchi University 3: 15–23."
+    },
+    {
+      "id": "orig_aa0a523d9d0a",
+      "label": "Schedl, 1971e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1971e). Indomalayan bark and timber beetles. 276 Contribution. Oriental Insects 5(3): 361–399.",
+      "doi": "10.1080/00305316.1971.10434023"
+    }
+  ]
+}

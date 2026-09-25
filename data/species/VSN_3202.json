@@ -1,0 +1,560 @@
+{
+  "vsn": "VSN_3202",
+  "scientific_name": "Hypothenemus crudiae",
+  "authorship": "(Panzer, 1791)",
+  "chinese_name": "平额咪小蠹",
+  "genus": "Hypothenemus",
+  "subfamily": "Scolytinae",
+  "tribe": "Trypophloeini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "四川；福建；云南；台湾；香港",
+    "narrative": "黄复生等 (2015) supports mainland occurrence in 四川, 福建 and 云南. Beaver & Liu (2010) adds the first Taiwan record, with material from Pingtung University and Taichung (National Chunghsing University). Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Amygdalus persica"
+    },
+    {
+      "scientific_name": "Albizzia corniculata"
+    },
+    {
+      "scientific_name": "Acacia sp."
+    },
+    {
+      "scientific_name": "Acacia farnesiana"
+    },
+    {
+      "scientific_name": "Achras sapota"
+    },
+    {
+      "scientific_name": "Adenanthera pavonina"
+    },
+    {
+      "scientific_name": "Aloe vera"
+    },
+    {
+      "scientific_name": "Astragalus sp."
+    },
+    {
+      "scientific_name": "Betula sp."
+    },
+    {
+      "scientific_name": "Bursera sp."
+    },
+    {
+      "scientific_name": "Bidens pilosa"
+    },
+    {
+      "scientific_name": "Bignonia sp."
+    },
+    {
+      "scientific_name": "Bucida buceras"
+    },
+    {
+      "scientific_name": "Castanopsis indica"
+    },
+    {
+      "scientific_name": "Campylotropis rockii"
+    },
+    {
+      "scientific_name": "Carya spp."
+    },
+    {
+      "scientific_name": "Cassia siamea"
+    },
+    {
+      "scientific_name": "Cassia nodosa"
+    },
+    {
+      "scientific_name": "Cinnamomum camphora"
+    },
+    {
+      "scientific_name": "Citrus sp."
+    },
+    {
+      "scientific_name": "Clerodendrum japonicum"
+    },
+    {
+      "scientific_name": "Crataegus sp."
+    },
+    {
+      "scientific_name": "Derris sp."
+    },
+    {
+      "scientific_name": "Ficus spp."
+    },
+    {
+      "scientific_name": "Glycine max"
+    },
+    {
+      "scientific_name": "Grewia asiatica"
+    },
+    {
+      "scientific_name": "Hevea brasiliensis"
+    },
+    {
+      "scientific_name": "Juglans regia"
+    },
+    {
+      "scientific_name": "Quisqualis indica"
+    },
+    {
+      "scientific_name": "Morus alba"
+    },
+    {
+      "scientific_name": "Juglans nigra"
+    },
+    {
+      "scientific_name": "Morus rubra"
+    },
+    {
+      "scientific_name": "Pinus taeda"
+    },
+    {
+      "scientific_name": "Prunus persica"
+    },
+    {
+      "scientific_name": "Quercus spp."
+    },
+    {
+      "scientific_name": "Rhizophora mangle"
+    },
+    {
+      "scientific_name": "Sida rhombifolia"
+    },
+    {
+      "scientific_name": "Smilax sp."
+    },
+    {
+      "scientific_name": "Theobroma cacao"
+    },
+    {
+      "scientific_name": "Wisteria sp."
+    },
+    {
+      "scientific_name": "Yucca sp."
+    },
+    {
+      "scientific_name": "Abutilon mollissimum"
+    },
+    {
+      "scientific_name": "Bauhinia grandiceps"
+    },
+    {
+      "scientific_name": "Bauhinia krugii"
+    },
+    {
+      "scientific_name": "Boehmeria scabra"
+    },
+    {
+      "scientific_name": "Dalbergia ecastophyllum"
+    },
+    {
+      "scientific_name": "Dioclea megacarpa"
+    },
+    {
+      "scientific_name": "Diphysia robinioides"
+    },
+    {
+      "scientific_name": "Inga spp."
+    },
+    {
+      "scientific_name": "Passiflora latifolia"
+    },
+    {
+      "scientific_name": "Phalocarpus septentrionis"
+    },
+    {
+      "scientific_name": "Ricinus communis"
+    },
+    {
+      "scientific_name": "Schleichera trijuga"
+    },
+    {
+      "scientific_name": "Serjania racemosa"
+    }
+  ],
+  "host_note": "黄复生等 (2015) provides the explicit host list retained in the current synthesis. Beaver & Liu (2010) characterizes the species as polyphagous on angiosperm trees and shrubs but does not enumerate additional host taxa in this Source Record; that broad statement is retained as ecological context only.",
+  "taxonomy_summary": "The current accepted identity is Hypothenemus crudiae (Panzer, 1791).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1791",
+      "event": "Original combination / basionym",
+      "name": "Bostrichus crudiae",
+      "authorship": "Panzer, 1791",
+      "note": "Original combination / basionym, original-description p. 35.",
+      "reference_ids": [
+        "orig_4badd6ffe018",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1868",
+      "event": "Synonym",
+      "name": "Cryphalus hispidulus",
+      "authorship": "LeConte, 1868",
+      "note": "Published name currently treated as a synonym; original-description p. 156.",
+      "reference_ids": [
+        "orig_95bba582ad63",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1868",
+      "event": "Synonym",
+      "name": "Cryphalus mucronifer",
+      "authorship": "Wollaston, 1868",
+      "note": "Published name currently treated as a synonym; original-description p. 116.",
+      "reference_ids": [
+        "orig_836a02a9355f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1909",
+      "event": "Synonym",
+      "name": "Hypothenemus nanus",
+      "authorship": "Hagedorn, 1909",
+      "note": "Published name currently treated as a synonym; original-description p. 744.",
+      "reference_ids": [
+        "orig_9e15fc6463c2",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Stephanoderes brasiliensis",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 26.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Stephanoderes differens",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 25.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Stephanoderes guatemalensis",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 26.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Stephanoderes lecontei",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 27.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Stephanoderes paraguayensis",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 26.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Stephanoderes trinitatis",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 28.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1924",
+      "event": "Synonym",
+      "name": "Stephanoderes fallax",
+      "authorship": "Costa Lima, 1924",
+      "note": "Published name currently treated as a synonym; original-description p. 414.",
+      "reference_ids": [
+        "orig_7ac0f7f240b7",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1924",
+      "event": "Synonym",
+      "name": "Stephanoderes largipennis",
+      "authorship": "Toledo Piza, 1924",
+      "note": "Published name currently treated as a synonym; original-description p. 354.",
+      "reference_ids": [
+        "orig_fa220a7a53e3",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1924",
+      "event": "Synonym",
+      "name": "Stephanoderes polyphagus",
+      "authorship": "Costa Lima, 1924",
+      "note": "Published name currently treated as a synonym; original-description p. 316.",
+      "reference_ids": [
+        "orig_101954fc53fe",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1924",
+      "event": "Synonym",
+      "name": "Stephanoderes uniseriatus",
+      "authorship": "Eggers, 1924",
+      "note": "Published name currently treated as a synonym; original-description p. 103.",
+      "reference_ids": [
+        "orig_79520a8a3614",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1929",
+      "event": "Synonym",
+      "name": "Stephanoderes obscurus",
+      "authorship": "Eggers, 1929",
+      "note": "Published name currently treated as a synonym; original-description p. 50.",
+      "reference_ids": [
+        "orig_b5246bd8e10b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1935",
+      "event": "Synonym",
+      "name": "Stephanoderes hivaoea",
+      "authorship": "Beeson, 1935",
+      "note": "Published name currently treated as a synonym; original-description p. 105.",
+      "reference_ids": [
+        "orig_3cb99ff10b9b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1935",
+      "event": "Synonym",
+      "name": "Stephanoderes lebronneci",
+      "authorship": "Beeson, 1935",
+      "note": "Published name currently treated as a synonym; original-description p. 104.",
+      "reference_ids": [
+        "orig_3cb99ff10b9b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1941",
+      "event": "Synonym",
+      "name": "Stephanoderes hawaiiensis",
+      "authorship": "Schedl, 1941",
+      "note": "Published name currently treated as a synonym; original-description p. 112.",
+      "reference_ids": [
+        "orig_661c9d381a9d",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "2007",
+      "event": "Synonym",
+      "name": "Hypothenemus ebenus",
+      "authorship": "Wood, 2007",
+      "note": "Published name currently treated as a synonym; original-description p. 520.",
+      "reference_ids": [
+        "orig_8f145a1bca11",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1791",
+      "event": "Current accepted",
+      "name": "Hypothenemus crudiae",
+      "authorship": "(Panzer, 1791)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_4badd6ffe018",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Hypothenemus crudiae (Panzer, 1791), VSN_3202, Scolytinae: Trypophloeini. 黄复生等 (2015) and Beaver & Liu (2010) both preserve authorship (Panzer) at source level. A previous profile record gave authorship Petrov, 2016 was inconsistent with the canonical integrated taxonomic backbone identity and is not used for the current accepted authorship.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "orig_4badd6ffe018",
+      "label": "Panzer, 1791",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Panzer, G.W.F. (1791). Beschreibung eines noch unbekannten sehr kleinen Kapuzkäfers. Der Naturforscher 25: 35–38."
+    },
+    {
+      "id": "orig_95bba582ad63",
+      "label": "LeConte, 1868",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "LeConte, J.L. (1868). Appendix to Synopsis of the Scolytidae of America North of Mexico. Transactions of the American Entomological Society 2: 150–178."
+    },
+    {
+      "id": "orig_836a02a9355f",
+      "label": "Wollaston, 1868",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Wollaston, T.V. (1868). Coleoptera Hesperidum; being an enumeration of the Coleopterous insects of the Cape Verde archipelago [1867]. John Van Voorst, London xxxix + 285 pages."
+    },
+    {
+      "id": "orig_8f145a1bca11",
+      "label": "Wood, 2007",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Wood, S.L. (2007). Bark and ambrosia beetles of South America (Coleoptera: Scolytidae). Monte L. Bean Science Museum, Provo, Utah 900 pp."
+    },
+    {
+      "id": "orig_9e15fc6463c2",
+      "label": "Hagedorn, 1909",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hagedorn, J.M. (1909). Diagnosen bisher unbescriebener Borkenkäfer (Col.). Deutsche Entomologische Zeitschrift 1909(1): 733–746."
+    },
+    {
+      "id": "orig_a6f1a8831ef5",
+      "label": "Hopkins, 1915d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hopkins, A.D. (1915d). Classification of the Cryphalinae with descriptions of new genera and species. United States Department of Agriculture, Office of the Secretary. Report 99: 1–75 + 4 plates."
+    },
+    {
+      "id": "orig_7ac0f7f240b7",
+      "label": "Costa Lima, 1924b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Costa Lima, A.M. (1924b). Sobre a bróca do café (Stephanoderes coffeae Haged.)[cont.]. Chacaras e Quintais 30: 413–416."
+    },
+    {
+      "id": "orig_661c9d381a9d",
+      "label": "Schedl, 1941b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1941b). 77th Contribution to the morphology and taxonomy of the Scolytoidea. Proceedings of the Hawaiian Entomological Society 11(1): 109–116."
+    },
+    {
+      "id": "orig_3cb99ff10b9b",
+      "label": "Beeson, 1935a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1935a). Scolytidae of the Marquesas. Bulletin of the Bernice P. Bishop Museum 142: 101–114."
+    },
+    {
+      "id": "orig_fa220a7a53e3",
+      "label": "Toledo Piza, 1924",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Toledo Piza, S. (1924). Uma nova especies de ipidio do genero Stephanoderes. Revista da Sociedade Rural Brasileira 5: 354–355."
+    },
+    {
+      "id": "orig_b5246bd8e10b",
+      "label": "Eggers, 1929f",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1929f). Zur Synonymie der Borkenkäfer (Ipidae, Col.). I. Wiener Entomologische Zeitung 46: 41–55."
+    },
+    {
+      "id": "orig_101954fc53fe",
+      "label": "Costa Lima, 1924a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Costa Lima, A.M. (1924a). Sobre a bróca do café (Stephanoderes coffeae Haged.). Chacaras e Quintais 30: 316–319."
+    },
+    {
+      "id": "orig_79520a8a3614",
+      "label": "Eggers, 1924",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1924). Neue Borkenkäfer (Ipidae) aus Afrika (Nachtrag II). Entomologische Blätter 20: 99–111."
+    }
+  ]
+}

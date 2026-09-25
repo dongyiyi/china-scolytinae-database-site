@@ -1,0 +1,164 @@
+{
+  "vsn": "VSN_6539",
+  "scientific_name": "Xylosandrus morigerus",
+  "authorship": "(Blandford, 1894)",
+  "chinese_name": "",
+  "genus": "Xylosandrus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "云南；台湾",
+    "narrative": "Smith et al. (2020) records Yunnan and Taiwan; Yunnan locality detail includes Xishuangbanna. Beaver & Liu (2010) also recognizes Taiwan occurrence but explicitly questions whether the species is permanently established there. Because later reviewed evidence continues to record Taiwan occurrence, Taiwan remains Present; the establishment caveat is retained separately and is not treated as a doubtful historical occurrence."
+  },
+  "hosts": [],
+  "host_note": "No host is reported in the promoted Smith et al. (2020) record. Beaver & Liu (2010) describes the species as strongly polyphagous, but this broad source statement is retained as source-level context and does not create a current host record.",
+  "taxonomy_summary": "The current accepted identity is Xylosandrus morigerus (Blandford, 1894).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1894",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus morigerus",
+      "authorship": "Blandford, 1894",
+      "note": "Original combination / basionym, original-description p. 264.",
+      "reference_ids": [
+        "orig_c6b3503ca924",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1908",
+      "event": "Synonym",
+      "name": "Xyleborus coffeae",
+      "authorship": "Wurth, 1908",
+      "note": "Published name currently treated as a synonym; original-description p. 2.",
+      "reference_ids": [
+        "orig_726826d6c26a",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Xyleborus difficilis",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 174.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Xyleborus luzonicus",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 174.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1955",
+      "event": "Synonym",
+      "name": "Xyleborus abruptoides",
+      "authorship": "Schedl, 1955",
+      "note": "Published name currently treated as a synonym; original-description p. 298.",
+      "reference_ids": [
+        "orig_e68b12b7cac1",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1894",
+      "event": "Current accepted",
+      "name": "Xylosandrus morigerus",
+      "authorship": "(Blandford, 1894)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_c6b3503ca924",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Xylosandrus morigerus (Blandford, 1894), VSN_6539.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_726826d6c26a",
+      "label": "Wurth, 1908",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Wurth, T. (1908). De boeboek (Xyleborus coffeae n. sp.) op Coffea robusta. Salatiga Cultuurgids (2e gedeelte) 10(3): 63–80, pls. i–iii."
+    },
+    {
+      "id": "orig_c6b3503ca924",
+      "label": "Blandford, 1894b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1894b). Notes on Scolytidae and their food plants. Insect Life 6: 260–265."
+    },
+    {
+      "id": "orig_c8c8b73ae935",
+      "label": "Eggers, 1923b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3-4): 129–220."
+    },
+    {
+      "id": "orig_e68b12b7cac1",
+      "label": "Schedl, 1955e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1955e). Borfken- und Ambrosiakäfer aus den Pazifischen Raum. 150 Beitrag zur Morphologie und Systematik der Scolytoidea. Entomologische Arbeiten aus dem Museum Georg Frey 6: 277–310."
+    }
+  ]
+}

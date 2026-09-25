@@ -1,0 +1,113 @@
+{
+  "vsn": "VSN_1184",
+  "scientific_name": "Coccotrypes graniceps",
+  "authorship": "(Eichhoff, 1877)",
+  "chinese_name": "",
+  "genus": "Coccotrypes",
+  "subfamily": "Scolytinae",
+  "tribe": "Dryocoetini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "中国大陆（区域记录，未细化至省级）；台湾",
+    "narrative": "Beaver & Liu (2010) gives the source distribution as China (SW); Taiwan and reports the first Taiwan record from Ilan, Fushan and Nantou, Huison. China (SW) is retained as broad source evidence and is not expanded into province-level records."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Lithocarpus edulis"
+    },
+    {
+      "scientific_name": "Quercus myrsinaefolia"
+    }
+  ],
+  "host_note": "The source explicitly reports Lithocarpus edulis and Quercus myrsinaefolia; both are retained at species level.",
+  "taxonomy_summary": "The current accepted identity is Coccotrypes graniceps (Eichhoff, 1877).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Coccotrypes graniceps",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 314.",
+      "reference_ids": [
+        "orig_deaeb34a13a4",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1877",
+      "event": "Original combination / basionym",
+      "name": "Dryocoetes graniceps",
+      "authorship": "Eichhoff, 1877",
+      "note": "Original combination / basionym, original-description p. 120.",
+      "reference_ids": [
+        "orig_bc30e09725d3",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1877",
+      "event": "Current accepted",
+      "name": "Coccotrypes graniceps",
+      "authorship": "(Eichhoff, 1877)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_bc30e09725d3",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Coccotrypes graniceps (Eichhoff, 1877), VSN_1184, Scolytinae: Dryocoetini.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_bc30e09725d3",
+      "label": "Eichhoff, 1877a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1877a). Japanische Scolytidae. Deutsche Entomologische Zeitschrift 21(1): 117–128."
+    },
+    {
+      "id": "orig_deaeb34a13a4",
+      "label": "Eichhoff, 1878b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
+    }
+  ]
+}

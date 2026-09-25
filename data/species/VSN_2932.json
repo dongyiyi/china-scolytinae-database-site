@@ -1,0 +1,111 @@
+{
+  "vsn": "VSN_2932",
+  "scientific_name": "Hylastes parallelus",
+  "authorship": "Chapuis, 1875",
+  "chinese_name": "黑根小蠹",
+  "genus": "Hylastes",
+  "subfamily": "Scolytinae",
+  "tribe": "Hylastini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "黑龙江；台湾",
+    "narrative": "殷蕙芬等 (1984) records 黑龙江、陕西、四川; 黄复生等 (2015) retains only 黑龙江 and explicitly omits 陕西、四川. Beaver & Liu (2010) adds Taiwan and gives broad China (NE, NO, SW, WP); that broad wording is not expanded into provinces and does not resolve the baseline province conflict. Current synthesis therefore treats 黑龙江 and 台湾 as current confirmed units, with 陕西、四川 retained as historical/questionable."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Picea koraiensis"
+    },
+    {
+      "scientific_name": "Picea microsperma"
+    },
+    {
+      "scientific_name": "Pinus koraiensis"
+    },
+    {
+      "scientific_name": "Pinus armandii"
+    },
+    {
+      "scientific_name": "Pinus tabulaeformis"
+    },
+    {
+      "scientific_name": "Pinus spp."
+    }
+  ],
+  "host_note": "殷蕙芬等 (1984) and 黄复生等 (2015) provide Picea koraiensis, Picea microsperma, Pinus koraiensis, Pinus armandii and Pinus tabulaeformis. Beaver & Liu (2010) reports Pinus spp.; this genus-level evidence is retained in addition to the species-level records.",
+  "taxonomy_summary": "The current accepted identity is Hylastes parallelus Chapuis, 1875.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1875",
+      "event": "Current accepted",
+      "name": "Hylastes parallelus",
+      "authorship": "Chapuis, 1875",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_7826c7899510",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Hylastes parallelus Chapuis, 1875, VSN_2932. Beaver & Liu (2010) uses the same species name.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_7826c7899510",
+      "label": "Chapuis & Eichhoff, 1875",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Chapuis, F. & Eichhoff, W.J. (1875). Scolytides recueillis au Japon par M. C. Lewis. Annales de la Société Entomologique de Belgique 18: 195–196."
+    }
+  ]
+}

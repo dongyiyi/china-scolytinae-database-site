@@ -1,0 +1,72 @@
+{
+  "vsn": "VSN_5511",
+  "scientific_name": "Scolytus jiulianshanensis",
+  "authorship": "Zhang, Li & Smith, 2021",
+  "chinese_name": "",
+  "genus": "Scolytus",
+  "subfamily": "Scolytinae",
+  "tribe": "Scolytini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "江西",
+    "narrative": "Zhang et al. (2021) described Scolytus jiulianshanensis from Jiulianshan National Nature Reserve, Ganzhou, Jiangxi, China. The species is known in the source only from this type locality, establishing confirmed mainland-China occurrence in Jiangxi."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Ulmus sp."
+    }
+  ],
+  "host_note": "The original description explicitly reports the species from dead elm and lists the host as Ulmus sp. The host is retained at genus level; the dead-tree condition is ecological context and is not used to infer a species-level host.",
+  "taxonomy_summary": "The current accepted identity is Scolytus jiulianshanensis Zhang, Li & Smith, 2021.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2021",
+      "event": "Current accepted",
+      "name": "Scolytus jiulianshanensis",
+      "authorship": "Zhang, Li & Smith, 2021",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_479c70b04971",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Scolytus jiulianshanensis Zhang, Li & Smith was described as a new species in 2021. This original-description evidence maps directly to the pre-existing integrated taxonomic backbone identity VSN_5511; no duplicate VSN is created.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "orig_479c70b04971",
+      "label": "Zhang et al., 2021",
+      "role": [
+        "nomenclatural source",
+        "published evidence"
+      ],
+      "citation": "Zhang, L., Li, Y., Smith, S.M. & Wang, J. (2021). Scolytus jiulianshanensis, a new species of bark beetle (Coleoptera: Curculionidae: Scolytinae) from elm in China. Zootaxa 5057(2): 295–300.",
+      "doi": "10.11646/zootaxa.5057.2.9"
+    }
+  ]
+}

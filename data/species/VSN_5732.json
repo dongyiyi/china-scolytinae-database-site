@@ -1,0 +1,202 @@
+{
+  "vsn": "VSN_5732",
+  "scientific_name": "Sueus niisimai",
+  "authorship": "(Eggers, 1926)",
+  "chinese_name": "小毛矮喙小蠹",
+  "genus": "Sueus",
+  "subfamily": "Scolytinae",
+  "tribe": "Hyorrhynchini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建；广西；贵州；湖南；江西；四川；台湾；云南；浙江；香港",
+    "narrative": "Cognato et al. (2024) provides modern specimen and molecular evidence from Fujian, Guangxi, Guizhou, Jiangxi and Zhejiang, and Nantou, Taiwan. Older baseline records from Hunan, Sichuan and Yunnan are retained. Guangdong and Hainan are moved to historical/questionable for S. niisimai because verified southern material is S. pilosus. Beaver & Liu (2010) independently accepted Taiwan occurrence under the same species concept; it is retained as earlier supporting evidence and does not override the 2024 revision. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, adds secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Juglans regia"
+    },
+    {
+      "scientific_name": "Albizzia corniculata"
+    },
+    {
+      "scientific_name": "Ricinus communis"
+    },
+    {
+      "scientific_name": "Hevea brasiliensis"
+    },
+    {
+      "scientific_name": "Cudrania sp."
+    },
+    {
+      "scientific_name": "Cinnamomum camphora"
+    },
+    {
+      "scientific_name": "Phoebe sp."
+    },
+    {
+      "scientific_name": "Sophora japonica"
+    },
+    {
+      "scientific_name": "Citrus reticulata"
+    },
+    {
+      "scientific_name": "Cornus sp."
+    },
+    {
+      "scientific_name": "Cornus controversa"
+    },
+    {
+      "scientific_name": "Eurya japonica"
+    },
+    {
+      "scientific_name": "Litsea cubeba"
+    },
+    {
+      "scientific_name": "Rhus verniciflua"
+    },
+    {
+      "scientific_name": "Davidia involucrata"
+    },
+    {
+      "scientific_name": "Machilus"
+    },
+    {
+      "scientific_name": "Ligustrum"
+    }
+  ],
+  "host_note": "The 2024 revision reports Cornus controversa, Machilus and Ligustrum. These are added without replacing baseline host records; older host records may include material requiring reassessment after separation of S. pilosus. Beaver & Liu (2010) describes the species only broadly as a polyphagous ambrosia beetle, so no additional host taxon is promoted from that source.",
+  "taxonomy_summary": "The current accepted identity is Sueus niisimai (Eggers, 1926).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1926",
+      "event": "Original combination / basionym",
+      "name": "Hyorrhynchus niisimai",
+      "authorship": "Eggers, 1926",
+      "note": "Original combination / basionym, original-description p. 133.",
+      "reference_ids": [
+        "orig_a1502709ef15",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1950",
+      "event": "Synonym",
+      "name": "Sphaerotrypes controversae",
+      "authorship": "Murayama, 1950",
+      "note": "Published name currently treated as a synonym; original-description p. 62.",
+      "reference_ids": [
+        "orig_c6d082518686",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1951",
+      "event": "Synonym",
+      "name": "Sueus sphaerotrypoides",
+      "authorship": "Murayama, 1951",
+      "note": "Published name currently treated as a synonym; original-description p. 2.",
+      "reference_ids": [
+        "orig_8753190524b0",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1926",
+      "event": "Current accepted",
+      "name": "Sueus niisimai",
+      "authorship": "(Eggers, 1926)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_a1502709ef15",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Sueus niisimai (Eggers, 1926) remains valid and is supported as a distinct lineage. Cognato et al. (2024) restores S. pilosus from its former synonymy, narrowing the interpretation of southern S. niisimai records.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_cognatoetal2024_sueusrevision",
+      "label": "Cognato et al., 2024",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Cognato, A.I., Smith, S.M., Schiffer, M. & Li, Y. (2024). A taxonomic review of Sueus Murayama, 1951 ambrosia beetles (Coleoptera: Curculionidae: Scolytinae: Hyorrhynchini) aided by molecular phylogenetic analyses. Zootaxa 5477(4): 475–493.",
+      "doi": "10.11646/zootaxa.5477.4.5"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "orig_8753190524b0",
+      "label": "Murayama, 1951",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1951). New genus and species of Scolytidae (Coleoptera) from Ohshima and Shionomisaki, Wakayama prefecture. Bulletin of the Faculty of Agriculture, Yamaguchi University 2: 1–7."
+    },
+    {
+      "id": "orig_a1502709ef15",
+      "label": "Eggers, 1926a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1926a). Japanische Borkenkäfer, I. Entomologische Blätter 22: 133–138."
+    },
+    {
+      "id": "orig_c6d082518686",
+      "label": "Murayama, 1950a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1950a). Nouvelles espèces de Scolytides (Coléoptères) de l'île de Shikoku. Insecta Matsumurana 17(2): 61–64."
+    }
+  ]
+}

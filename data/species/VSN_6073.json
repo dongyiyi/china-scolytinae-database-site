@@ -1,0 +1,182 @@
+{
+  "vsn": "VSN_6073",
+  "scientific_name": "Xyleborinus exiguus",
+  "authorship": "(Walker, 1859)",
+  "chinese_name": "",
+  "genus": "Xyleborinus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "江西；云南；台湾",
+    "narrative": "Smith et al. (2020) records Jiangxi, Yunnan and Taiwan, with locality evidence from Shang Rao, Xishuangbanna and Nantou/Sun Moon Lake."
+  },
+  "hosts": [],
+  "host_note": "No host is reported in the promoted Smith record.",
+  "taxonomy_summary": "The current accepted identity is Xyleborinus exiguus (Walker, 1859).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1859",
+      "event": "Original combination / basionym",
+      "name": "Bostrichus exiguus",
+      "authorship": "Walker, 1859",
+      "note": "Original combination / basionym, original-description p. 260.",
+      "reference_ids": [
+        "orig_40a063c1eae1",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Xyleborus muriceus",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 506.",
+      "reference_ids": [
+        "orig_df23847f2e11",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Xyleborus muriceus",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 392.",
+      "reference_ids": [
+        "orig_f5d8b473992f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1954",
+      "event": "Synonym",
+      "name": "Xyleborus diversus",
+      "authorship": "Schedl, 1954",
+      "note": "Published name currently treated as a synonym; original-description p. 80.",
+      "reference_ids": [
+        "orig_ca6da2ca6883",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1971",
+      "event": "Synonym",
+      "name": "Xyleborus perexiguus",
+      "authorship": "Schedl, 1971",
+      "note": "Published name currently treated as a synonym; original-description p. 381.",
+      "reference_ids": [
+        "orig_aa0a523d9d0a",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1975",
+      "event": "Synonym",
+      "name": "Xyleborinus ankius",
+      "authorship": "Schedl, 1975",
+      "note": "Published name currently treated as a synonym; original-description p. 361.",
+      "reference_ids": [
+        "orig_cad9c6466d59",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1859",
+      "event": "Current accepted",
+      "name": "Xyleborinus exiguus",
+      "authorship": "(Walker, 1859)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_40a063c1eae1",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Xyleborinus exiguus (Walker, 1859), VSN_6073.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_40a063c1eae1",
+      "label": "Walker, 1859",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Walker, F. (1859). Characters of some apparently undescribed Ceylon insects. Annals and Magazine of Natural History. Ser. 3, 3: 258–265."
+    },
+    {
+      "id": "orig_aa0a523d9d0a",
+      "label": "Schedl, 1971e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1971e). Indomalayan bark and timber beetles. 276 Contribution. Oriental Insects 5(3): 361–399.",
+      "doi": "10.1080/00305316.1971.10434023"
+    },
+    {
+      "id": "orig_ca6da2ca6883",
+      "label": "Schedl, 1954d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1954d). Scolytoidea from the Gold Coast, 1. 135 Contribution. Revue de Zoologie et de Botanique Africaines 50(1-2): 45–88."
+    },
+    {
+      "id": "orig_cad9c6466d59",
+      "label": "Schedl, 1975a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1975a). New Scolytidae and Platypodidae from Papua and New Guinea, IV. 317 Contribution to the Morphology and Taxonomy of the Scolytoidea. Annalen des Naturhistorischen Museums in Wien. Serie B für Botanik und Zoologie 79: 337–399."
+    },
+    {
+      "id": "orig_df23847f2e11",
+      "label": "Eichhoff, 1878b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
+    },
+    {
+      "id": "orig_f5d8b473992f",
+      "label": "Eichhoff, 1878a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878a). Neue oder noch unbeschriebene Tomicinen. Stettiner Entomologische Zeitung 39: 383–392."
+    }
+  ]
+}

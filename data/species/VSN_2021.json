@@ -1,0 +1,100 @@
+{
+  "vsn": "VSN_2021",
+  "scientific_name": "Cyclorhipidion ohnoi",
+  "authorship": "(Browne, 1980)",
+  "chinese_name": "",
+  "genus": "Cyclorhipidion",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾",
+    "narrative": "Beaver & Liu (2010) directly records Taiwan, including Chiayi (A Li Shan) and Nantou (Neimoupu). Lin & Smith (2022) independently records Taiwan. No mainland province is inferred from either source."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Quercus sp."
+    }
+  ],
+  "host_note": "Beaver & Liu (2010) reports Quercus sp.; the host is retained at genus level. Lin & Smith (2022) adds no promoted host evidence for this taxon.",
+  "taxonomy_summary": "The current accepted identity is Cyclorhipidion ohnoi (Browne, 1980).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1980",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus ohnoi",
+      "authorship": "Browne, 1980",
+      "note": "Original combination / basionym, original-description p. 375.",
+      "reference_ids": [
+        "orig_bbe9ae9b9bf4",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1980",
+      "event": "Current accepted",
+      "name": "Cyclorhipidion ohnoi",
+      "authorship": "(Browne, 1980)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_bbe9ae9b9bf4",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Beaver & Liu (2010) treats Cyclorhipidion ohnoi and records the 2010 new combination; canonical identity and authorship follow integrated taxonomic backbone: Cyclorhipidion ohnoi (Browne, 1980), VSN_2021.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_linsmith2022",
+      "label": "Lin & Smith, 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Lin, C.-S. & Smith, S.M. (2022). Four new species of Cyclorhipidion and five new records of other xyleborine genera (Coleoptera, Curculionidae, Scolytinae, Xyleborini) from Taiwan. Taiwania 67(3): 285–301.",
+      "doi": "10.6165/tai.2022.67.285"
+    },
+    {
+      "id": "orig_bbe9ae9b9bf4",
+      "label": "Browne, 1980a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Browne, F.G. (1980a). Bark beetles and ambrosia beetles (Coleoptera, Scolytidae and Platypodidae) intercepted at Japanese ports, with descriptions of new species, I. Kontyû 48(3): 370–379."
+    }
+  ]
+}

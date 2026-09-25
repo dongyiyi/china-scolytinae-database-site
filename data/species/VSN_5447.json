@@ -1,0 +1,95 @@
+{
+  "vsn": "VSN_5447",
+  "scientific_name": "Scolytoplatypus tycon",
+  "authorship": "Blandford, 1893",
+  "chinese_name": "",
+  "genus": "Scolytoplatypus",
+  "subfamily": "Scolytinae",
+  "tribe": "Scolytoplatypodini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "China (NE；broad source wording)；台湾",
+    "narrative": "Beaver & Liu (2010) reports China (NE) and Taiwan. The broad northeastern-China wording supports Mainland China = Present but is not expanded into provinces; Taiwan is accepted directly."
+  },
+  "hosts": [],
+  "host_note": "The source describes the species as polyphagous but explicitly states that no hosts were recorded in Taiwan. No host taxon is promoted from this source.",
+  "taxonomy_summary": "The current accepted identity is Scolytoplatypus tycon Blandford, 1893.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1916",
+      "event": "Synonym",
+      "name": "Scolytoplatypus ussuriensis",
+      "authorship": "Berger & Kholodkovskiy, 1916",
+      "note": "Published name currently treated as a synonym; original-description p. 4.",
+      "reference_ids": [
+        "orig_53037a690dea",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1893",
+      "event": "Current accepted",
+      "name": "Scolytoplatypus tycon",
+      "authorship": "Blandford, 1893",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_c6fa656f3cd9",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Current identity follows integrated taxonomic backbone: Scolytoplatypus tycon Blandford, 1893, VSN_5447. Beaver & Liu (2010) is retained as occurrence evidence; later revisions remain controlling for current taxonomy.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_53037a690dea",
+      "label": "Berger & Kholodkovskiy, 1916",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Berger, V.M. & Kholodkovskiy, N.A. (1916). On some points of biology and anatomy of the genus Scolytoplatypus Blandford. Russkoe Entomologicheskoe Obozrenie [Revue Russe D’Entomologie] 16: 1–7."
+    },
+    {
+      "id": "orig_c6fa656f3cd9",
+      "label": "Blandford, 1893b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1893b). The Scolyto-platypini, a new subfamily of Scolytidae. Transactions of the Entomological Society of London 1893: 425–442."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "vsn": "VSN_0159",
+  "scientific_name": "Amasa concitata",
+  "authorship": "Schedl, 1969",
+  "chinese_name": "",
+  "genus": "Amasa",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "广东；江西；台湾",
+    "narrative": "Smith et al. (2020) records Amasa concitata from Jiangxi and Taiwan. Lin et al. (2024) adds Guangdong as a new provincial record from the Dinghu Mountains, Zhaoqing. Beaver & Liu (2010) independently documents the earlier Taiwan occurrence.",
+    "evidence": "Integrated source records SmithEtAl2020_001, LinEtAl2024_AmasaYunnan_003 and BeaverLiu2010_TaiwanScolytinae_069."
+  },
+  "hosts": [],
+  "host_note": "No confirmed host taxon is currently promoted. Source wording such as “Formosan hardwood” and “angiosperm wood” remains source-level context rather than a standardized host assignment.",
+  "taxonomy_summary": "The current accepted identity is Amasa concitata Schedl, 1969. The integrated backbone also retains Xyleborus concitata Schedl, 1969 as the original combination / basionym.",
+  "taxonomic_history": [
+    {
+      "year": "1969",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus concitata",
+      "authorship": "Schedl, 1969",
+      "note": "Original description, p. 214.",
+      "reference_ids": [
+        "schedl1969"
+      ]
+    },
+    {
+      "year": "Current",
+      "event": "Current accepted",
+      "name": "Amasa concitata",
+      "authorship": "Schedl, 1969",
+      "note": "Current accepted combination in Smith et al. (2020) and the integrated taxonomic backbone.",
+      "reference_ids": [
+        "smith2020",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The Smith et al. (2020) China record maps directly to VSN_0159 and does not introduce a nomenclatural change in the current synthesis.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "A locality record from Jiulianshan, Longnan County, Jiangxi is documented in the integrated source evidence; dedicated specimen records are not yet linked.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "schedl1969",
+      "label": "Schedl, 1969a",
+      "role": [
+        "original description",
+        "original combination"
+      ],
+      "citation": "Schedl, K.E. (1969a). Bark-beetles and pin-hole borers (Scolytidae and Platypodidae) intercepted from imported logs in Japanese ports, III. 258 Contribution. Kontyû 37(2): 202–219."
+    },
+    {
+      "id": "smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "current treatment",
+        "China occurrence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "lin2024",
+      "label": "Lin et al., 2024",
+      "role": [
+        "China occurrence"
+      ],
+      "citation": "Lin, W., Li, Y., Smith, S.M. & Meng, L.-Z. (2024). Two New Species of Amasa Lea, 1894 (Coleoptera: Curculionidae: Scolytinae: Xyleborini) from Yunnan, China. Annales Zoologici 74(1): 185–191.",
+      "doi": "10.3161/00034541ANZ2024.74.1.011"
+    },
+    {
+      "id": "beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "Taiwan occurrence"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "schedl1969",
+    "smith2020",
+    "johnson2026"
+  ],
+  "nomenclature_note_reference_ids": [
+    "smith2020"
+  ]
+}

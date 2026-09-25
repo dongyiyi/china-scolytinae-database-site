@@ -1,0 +1,156 @@
+{
+  "vsn": "VSN_6220",
+  "scientific_name": "Xyleborus festivus",
+  "authorship": "Eichhoff, 1876",
+  "chinese_name": "",
+  "genus": "Xyleborus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建；广东；广西；贵州；云南；台湾",
+    "narrative": "Smith et al. (2020) records Fujian, Guangdong, Guangxi, Guizhou, Yunnan and Taiwan. Beaver & Liu (2010), under the name Xyleborus pinicola, records China (SE) and provides the first Taiwan record from Nantou, Hui Son, 18.iii.2006. The broad China (SE) wording is not expanded into provinces."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Pinus kesiya"
+    },
+    {
+      "scientific_name": "Pinus massoniana"
+    },
+    {
+      "scientific_name": "Pinus yunnanensis"
+    },
+    {
+      "scientific_name": "Pinus taiwanensis"
+    }
+  ],
+  "host_note": "Smith et al. (2020) supports Pinus kesiya, P. massoniana, P. yunnanensis and P. taiwanensis. Beaver & Liu (2010) reports Pinus spp.; this is retained as genus-level corroboration and does not replace or expand the species-level host synthesis.",
+  "taxonomy_summary": "The current accepted identity is Xyleborus festivus Eichhoff, 1876.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1930",
+      "event": "Synonym",
+      "name": "Xyleborus pinicola",
+      "authorship": "Eggers, 1930",
+      "note": "Published name currently treated as a synonym; original-description p. 206.",
+      "reference_ids": [
+        "orig_2f66b1e00ee5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1975",
+      "event": "Synonym",
+      "name": "Xyleborus detectus",
+      "authorship": "Schedl, 1975",
+      "note": "Published name currently treated as a synonym; original-description p. 458.",
+      "reference_ids": [
+        "orig_da7ab56aed91",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1980",
+      "event": "Synonym",
+      "name": "Xyleborus pinivorus",
+      "authorship": "Browne, 1980",
+      "note": "Published name currently treated as a synonym; original-description p. 374.",
+      "reference_ids": [
+        "orig_bbe9ae9b9bf4",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1876",
+      "event": "Current accepted",
+      "name": "Xyleborus festivus",
+      "authorship": "Eichhoff, 1876",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_16f436d94e7b",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Xyleborus festivus Eichhoff, 1876, VSN_6220. Beaver & Liu (2010) uses Xyleborus pinicola and synonymizes Xyleborus pinivorus Browne under X. pinicola; the source name is mapped to the current canonical identity without creating a duplicate taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_16f436d94e7b",
+      "label": "Chapuis & Eichhoff, 1876",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Chapuis, F. & Eichhoff, W.J. (1876). Scolytides recueillis au Japon par M. C. Lewis [cont.]. Annales de la Société Entomologique de Belgique 18: 197–204."
+    },
+    {
+      "id": "orig_2f66b1e00ee5",
+      "label": "Eggers, 1930b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1930b). Neue Xyleborus-Arten (Col. Scolytidae) aus Indien. Indian Forest Records, Entomology 14(9): 177–208."
+    },
+    {
+      "id": "orig_bbe9ae9b9bf4",
+      "label": "Browne, 1980a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Browne, F.G. (1980a). Bark beetles and ambrosia beetles (Coleoptera, Scolytidae and Platypodidae) intercepted at Japanese ports, with descriptions of new species, I. Kontyû 48(3): 370–379."
+    },
+    {
+      "id": "orig_da7ab56aed91",
+      "label": "Schedl, 1975g",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1975g). Bark and timber beetles of the Oriental region. 319 Contribution. Oriental Insects 9(4): 451–460.",
+      "doi": "10.1080/00305316.1975.10434514"
+    }
+  ]
+}

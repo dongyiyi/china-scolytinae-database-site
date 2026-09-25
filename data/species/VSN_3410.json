@@ -1,0 +1,124 @@
+{
+  "vsn": "VSN_3410",
+  "scientific_name": "Ips grandicollis",
+  "authorship": "(Eichhoff, 1868)",
+  "chinese_name": "",
+  "genus": "Ips",
+  "subfamily": "Scolytinae",
+  "tribe": "Ipini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "广东",
+    "narrative": "Li et al. (2021) reports repeated detections of Ips grandicollis around Zhuhai, Guangdong since 2016; the 2019 survey found it at two sites. Morphology and COI confirmed identification, and the authors considered the population established and the report the first record in mainland Asia."
+  },
+  "hosts": [],
+  "host_note": "Three I. grandicollis individuals were dissected in the gut-content analysis, but the Results report successful plant amplification and sequencing only for I. calligraphus. Therefore no host is promoted for I. grandicollis from this source.",
+  "taxonomy_summary": "The current accepted identity is Ips grandicollis (Eichhoff, 1868).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1868",
+      "event": "Synonym",
+      "name": "Tomicus cacographus",
+      "authorship": "LeConte, 1868",
+      "note": "Published name currently treated as a synonym; original-description p. 162.",
+      "reference_ids": [
+        "orig_95bba582ad63",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1868",
+      "event": "Original combination / basionym",
+      "name": "Tomicus grandicollis",
+      "authorship": "Eichhoff, 1868",
+      "note": "Original combination / basionym, original-description p. 402.",
+      "reference_ids": [
+        "orig_47f5e513af32",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1916",
+      "event": "Synonym",
+      "name": "Ips chagnoni",
+      "authorship": "Swaine, 1916",
+      "note": "Published name currently treated as a synonym; original-description p. 186.",
+      "reference_ids": [
+        "orig_7f2cf4515b64",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1868",
+      "event": "Current accepted",
+      "name": "Ips grandicollis",
+      "authorship": "(Eichhoff, 1868)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_47f5e513af32",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Li et al. (2021) uses Ips grandicollis (Eichhoff, 1868), mapping directly to existing integrated taxonomic backbone identity VSN_3410. No nomenclatural change is involved.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_lietal2021_invasiveipszhuhai",
+      "label": "Li, Johnson et al., 2021",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Li, Y., Johnson, A.J., Gao, L., Wu, C. & Hulcr, J. (2021). Two new invasive Ips bark beetles (Coleoptera: Curculionidae) in mainland China and their potential distribution in Asia. Pest Management Science 77: 4000–4008.",
+      "doi": "10.1002/ps.6423"
+    },
+    {
+      "id": "orig_7f2cf4515b64",
+      "label": "Swaine, 1916",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Swaine, J.M. (1916). New species of the family Ipidae, pt. III. The Canadian Entomologist 48: 181–192."
+    },
+    {
+      "id": "orig_47f5e513af32",
+      "label": "Eichhoff, 1868c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1868c). Neue amerikanische Borkenkäfer-Gattungen und Arten. Berliner Entomologische Zeitschrift 11: 399–402."
+    },
+    {
+      "id": "orig_95bba582ad63",
+      "label": "LeConte, 1868",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "LeConte, J.L. (1868). Appendix to Synopsis of the Scolytidae of America North of Mexico. Transactions of the American Entomological Society 2: 150–178."
+    }
+  ]
+}

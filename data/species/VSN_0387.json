@@ -1,0 +1,91 @@
+{
+  "vsn": "VSN_0387",
+  "scientific_name": "Anisandrus percristatus",
+  "authorship": "(Eggers, 1939)",
+  "chinese_name": "",
+  "genus": "Anisandrus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Sichuan; Yunnan",
+    "narrative": "Smith et al. (2020) records Sichuan and Yunnan, including E’bian, Sichuan."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Schima superba"
+    }
+  ],
+  "host_note": "Schima superba is retained as a species-level host record.",
+  "taxonomy_summary": "The current accepted identity is Anisandrus percristatus (Eggers, 1939). Smith et al. (2020) treats the species in the current combination.",
+  "taxonomy_reference_ids": [
+    "src_smith2020",
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1939",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus percristatus",
+      "authorship": "Eggers, 1939",
+      "note": "Original combination / basionym, original-description p. 12.",
+      "reference_ids": [
+        "orig_eggers1939",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "Current",
+      "event": "Current accepted",
+      "name": "Anisandrus percristatus",
+      "authorship": "(Eggers, 1939)",
+      "note": "Current accepted combination in Smith et al. (2020) and the integrated taxonomic backbone.",
+      "reference_ids": [
+        "src_smith2020",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Current placement follows Smith et al. (2020) and the integrated backbone.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_eggers1939",
+      "label": "Eggers, 1939b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1939b). Entomological results from the Swedish expedition 1934 to Burma and British India. Coleoptera: Ipidae, gesammelt von Rene Malaise. Arkiv för Zoologi 31A(4): 1–14."
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ]
+}

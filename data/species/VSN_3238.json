@@ -1,0 +1,222 @@
+{
+  "vsn": "VSN_3238",
+  "scientific_name": "Hypothenemus hampei",
+  "authorship": "(Ferrari, 1867)",
+  "chinese_name": "",
+  "genus": "Hypothenemus",
+  "subfamily": "Scolytinae",
+  "tribe": "Trypophloeini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "海南；台湾；香港",
+    "narrative": "Sun et al. (2020) supports Hainan occurrence. Beaver & Liu (2010) independently adds the first Taiwan record, with specimens from Kaohsiung, Tainan (Don Shan) and Taitung (Li Jia). Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Coffea spp."
+    }
+  ],
+  "host_note": "Both integrated sources support coffee at genus level. Sun et al. (2020) documents coffee beans/berries without resolving the host to species; Beaver & Liu (2010) reports Coffea spp. Current Host Summary therefore remains Coffea spp.",
+  "taxonomy_summary": "The current accepted identity is Hypothenemus hampei (Ferrari, 1867).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1867",
+      "event": "Original combination / basionym",
+      "name": "Cryphalus hampei",
+      "authorship": "Ferrari, 1867",
+      "note": "Original combination / basionym, original-description p. 11.",
+      "reference_ids": [
+        "orig_0bacdce59c6a",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1910",
+      "event": "Synonym",
+      "name": "Stephanoderes coffeae",
+      "authorship": "Hagedorn, 1910",
+      "note": "Published name currently treated as a synonym; original-description p. 1.",
+      "reference_ids": [
+        "orig_8e8ffceb408c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1910",
+      "event": "Synonym",
+      "name": "Xyleborus coffeivorus",
+      "authorship": "Van der Weele, 1910",
+      "note": "Published name currently treated as a synonym; original-description p. 308.",
+      "reference_ids": [
+        "orig_57f1d6e3f7f6",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Stephanoderes cooki",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 27.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1922",
+      "event": "Synonym",
+      "name": "Xyleborus cofeicola",
+      "authorship": "Campos Novaes, 1922",
+      "note": "Published name currently treated as a synonym; original-description p. 67.",
+      "reference_ids": [
+        "orig_ae316c27825a",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1924",
+      "event": "Synonym",
+      "name": "Stephanoderes punctatus",
+      "authorship": "Eggers, 1924",
+      "note": "Published name currently treated as a synonym; original-description p. 101.",
+      "reference_ids": [
+        "orig_79520a8a3614",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1952",
+      "event": "Synonym",
+      "name": "Stephanoderes glabellus",
+      "authorship": "Schedl, 1952",
+      "note": "Published name currently treated as a synonym; original-description p. 452.",
+      "reference_ids": [
+        "orig_5af90d2344cd",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1867",
+      "event": "Current accepted",
+      "name": "Hypothenemus hampei",
+      "authorship": "(Ferrari, 1867)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_0bacdce59c6a",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Hypothenemus hampei (Ferrari, 1867), VSN_3238, Scolytinae: Trypophloeini. Beaver & Liu (2010) uses Hypothenemus hampei Ferrari and introduces no nomenclatural change.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_sunetal2020_hypothenemushampei",
+      "label": "Sun et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Sun, S., Wang, Z., Liu, A., Lai, S., Wang, J., Meng, Q., Gou, Y., Johnson, A.J. & Li, Y. (2020). First record of the coffee berry borer, Hypothenemus hampei (Ferrari) (Coleoptera: Curculionidae: Scolytinae) on Hainan Island, China. The Coleopterists Bulletin 74(4): 710–713.",
+      "doi": "10.1649/0010-065X-74.4.710"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "orig_0bacdce59c6a",
+      "label": "Ferrari, 1867",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Ferrari, J.A. (1867). Die Forst- und Baumzuchtschädlichen Borkenkäfer (Tomicides Lac) aus der Familie der Holzverderber (Scolytides Lac), mit besonderer Berücksichtigung vorzüglich der europäischen Formen, und der Sammlung des k. k. zoologischen Kabinetes in Wien. Carl Gerold’s Sohn, Wien [2] + 96 pp."
+    },
+    {
+      "id": "orig_8e8ffceb408c",
+      "label": "Hagedorn, 1910",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hagedorn, J.M. (1910). Diagnosen bisher unbeschriebener Borkenkäfer (Col.). Deutsche Entomologische Zeitschrift 1910: 1–13."
+    },
+    {
+      "id": "orig_a6f1a8831ef5",
+      "label": "Hopkins, 1915d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hopkins, A.D. (1915d). Classification of the Cryphalinae with descriptions of new genera and species. United States Department of Agriculture, Office of the Secretary. Report 99: 1–75 + 4 plates."
+    },
+    {
+      "id": "orig_5af90d2344cd",
+      "label": "Schedl, 1952a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1952a). Fauna Argentinensis V. 96. Contribution to the morphology and taxonomy of the Scolytoidea. Acta Zoologica Lilloana 12: 443–463."
+    },
+    {
+      "id": "orig_79520a8a3614",
+      "label": "Eggers, 1924",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1924). Neue Borkenkäfer (Ipidae) aus Afrika (Nachtrag II). Entomologische Blätter 20: 99–111."
+    },
+    {
+      "id": "orig_ae316c27825a",
+      "label": "Campos Novaes, 1922",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Campos Novaes, J. de (1922). Um broqueador do cafeeiro, Xyleborus cofeicola n. sp. Fam. Ipidae. Boletim de Agricultura, Secretaria de Agricultura, Comercio e Obras Publicas, São Paulo 23: 67–70."
+    },
+    {
+      "id": "orig_57f1d6e3f7f6",
+      "label": "Van der Weele, 1910",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Van der Weele, H.W. (1910). Ein neuer Kaffeeschadling, Xyleborus coffeivorus n. sp. Teysmannia 21: 308–316."
+    }
+  ]
+}

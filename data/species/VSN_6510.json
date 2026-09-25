@@ -1,0 +1,181 @@
+{
+  "vsn": "VSN_6510",
+  "scientific_name": "Xylosandrus brevis",
+  "authorship": "(Eichhoff, 1877)",
+  "chinese_name": "短翅材小蠹",
+  "genus": "Xylosandrus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建；广西；西藏；云南；台湾",
+    "narrative": "Lin et al. (2024) adds Fujian and Guangxi; Xizang, Yunnan and Taiwan are retained. Beaver & Liu (2010) reports China (WP) and Taiwan. The broad China (WP) wording is retained as source-level context and is not expanded into mainland provinces."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Quercus sp."
+    },
+    {
+      "scientific_name": "Berberis sp."
+    },
+    {
+      "scientific_name": "Machilus sp."
+    },
+    {
+      "scientific_name": "Meliosma cuneifolia"
+    },
+    {
+      "scientific_name": "Viburnum sp."
+    },
+    {
+      "scientific_name": "Cyclobalanopsis sp."
+    },
+    {
+      "scientific_name": "Quercus × leana"
+    }
+  ],
+  "host_note": "Lin et al. (2024) directly reports Quercus × leana; baseline hosts are retained. Beaver & Liu (2010) states that the species is polyphagous but reports no Taiwan host taxon, so no host is added.",
+  "taxonomy_summary": "The current accepted identity is Xylosandrus brevis (Eichhoff, 1877).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1877",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus brevis",
+      "authorship": "Eichhoff, 1877",
+      "note": "Original combination / basionym, original-description p. 121.",
+      "reference_ids": [
+        "orig_759ece3f7921",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1894",
+      "event": "Synonym",
+      "name": "Xyleborus cucullatus",
+      "authorship": "Blandford, 1894",
+      "note": "Published name currently treated as a synonym; original-description p. 121.",
+      "reference_ids": [
+        "orig_a1d45147b2c3",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1910",
+      "event": "Synonym",
+      "name": "Xyleborus montanus",
+      "authorship": "Niisima, 1910",
+      "note": "Published name currently treated as a synonym; original-description p. 13.",
+      "reference_ids": [
+        "orig_3cfac939b2a2",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1877",
+      "event": "Current accepted",
+      "name": "Xylosandrus brevis",
+      "authorship": "(Eichhoff, 1877)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_759ece3f7921",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Xylosandrus brevis (Eichhoff, 1877), VSN_6510. 殷蕙芬等 (1984) uses Xyleborus brevis.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_linetal2024_xylosandruschina",
+      "label": "Lin et al., 2024",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Lin, W., Liao, Y.-L., Li, Y., Smith, S.M., Yu, Y.-L. & Gao, L. (2024). New species and new records of Xylosandrus Reitter, 1913 (Coleoptera: Curculionidae: Scolytinae: Xyleborini) from China. Zootaxa 5528(1): 633–647.",
+      "doi": "10.11646/zootaxa.5528.1.41"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_3cfac939b2a2",
+      "label": "Niisima, 1910",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Niisima, Y. (1910). Die Borkenkaefer nord- und mittel- Japans. Transactions of the Sapporo Natural History Society 3: 1–18."
+    },
+    {
+      "id": "orig_759ece3f7921",
+      "label": "Eichhoff, 1877a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1877a). Japanische Scolytidae. Deutsche Entomologische Zeitschrift 21(1): 117–128."
+    },
+    {
+      "id": "orig_a1d45147b2c3",
+      "label": "Blandford, 1894c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
+    }
+  ]
+}

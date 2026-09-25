@@ -1,0 +1,176 @@
+{
+  "vsn": "VSN_1198",
+  "scientific_name": "Coccotrypes longior",
+  "authorship": "(Eggers, 1927)",
+  "chinese_name": "",
+  "genus": "Coccotrypes",
+  "subfamily": "Scolytinae",
+  "tribe": "Dryocoetini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "中国大陆（区域记录，未细化至省级）；台湾",
+    "narrative": "Beaver & Liu (2010) gives the source distribution as China (SE, SW, WP); Taiwan and reports the first Taiwan record from Ilan, Fushan and Nantou, Neimoupu. Broad regional wording is not expanded into provinces."
+  },
+  "hosts": [],
+  "host_note": "The source states only that the species is polyphagous on angiosperms; no individual host taxon is inferred.",
+  "taxonomy_summary": "The current accepted identity is Coccotrypes longior (Eggers, 1927).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1957",
+      "event": "Synonym",
+      "name": "Dryocoetes naidaijinensis",
+      "authorship": "Murayama, 1957",
+      "note": "Published name currently treated as a synonym; original-description p. 605.",
+      "reference_ids": [
+        "orig_4145dbe388a6",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1971",
+      "event": "Synonym",
+      "name": "Poecilips apicatus",
+      "authorship": "Schedl, 1971",
+      "note": "Published name currently treated as a synonym; original-description p. 372.",
+      "reference_ids": [
+        "orig_9dad31b0df49",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1941",
+      "event": "Synonym",
+      "name": "Poecilips linearis",
+      "authorship": "Eggers, 1941",
+      "note": "Published name currently treated as a synonym; original-description p. 222.",
+      "reference_ids": [
+        "orig_3de98dda5815",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1927",
+      "event": "Original combination / basionym",
+      "name": "Poecilips longior",
+      "authorship": "Eggers, 1927",
+      "note": "Original combination / basionym, original-description p. 83.",
+      "reference_ids": [
+        "orig_f939101af9fd",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1950",
+      "event": "Synonym",
+      "name": "Poecilips nitidipennis",
+      "authorship": "Schedl, 1950",
+      "note": "Published name currently treated as a synonym; original-description p. 896.",
+      "reference_ids": [
+        "orig_1b2090528328",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1927",
+      "event": "Synonym",
+      "name": "Poecilips oblongus",
+      "authorship": "Eggers, 1927",
+      "note": "Published name currently treated as a synonym; original-description p. 83.",
+      "reference_ids": [
+        "orig_f939101af9fd",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1927",
+      "event": "Current accepted",
+      "name": "Coccotrypes longior",
+      "authorship": "(Eggers, 1927)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_f939101af9fd",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Coccotrypes longior (Eggers, 1927), VSN_1198, Scolytinae: Dryocoetini.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_f939101af9fd",
+      "label": "Eggers, 1927b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1927b). Neue indomalayische Borkenkäfer (Ipidae). II. Nachtrag. Philippine Journal of Science 33(1): 67–108."
+    },
+    {
+      "id": "orig_4145dbe388a6",
+      "label": "Murayama, 1957b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1957b). Dryocoetinae (Coleoptera, Ipidae) from the northern half of the Far East. Bulletin of the Faculty of Agriculture, Yamaguchi University 8: 587–632."
+    },
+    {
+      "id": "orig_9dad31b0df49",
+      "label": "Schedl, 1971e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1971e). Indomalayan bark and timber beetles. 276 Contribution. Oriental Insects 5(3): 361–399.",
+      "doi": "10.1080/00305316.1971.10434023"
+    },
+    {
+      "id": "orig_3de98dda5815",
+      "label": "Eggers, 1941c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1941c). Neue Borkenkäfer (Ipidae, Col.) aus China. Entomologische Blätter 37: 222–226."
+    },
+    {
+      "id": "orig_1b2090528328",
+      "label": "Schedl, 1950a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1950a). Fauna Indo-Malayensis, II. 104 Contribution to the morphology and taxonomy of the Scolytoidea. Annals and Magazine of Natural History. Ser. 12, 3(34): 892–900.",
+      "doi": "10.1080/00222935008654721"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "vsn": "VSN_1826",
+  "scientific_name": "Cryphalus schedli",
+  "authorship": "Johnson, 2020",
+  "chinese_name": "",
+  "genus": "Cryphalus",
+  "subfamily": "Scolytinae",
+  "tribe": "Cryphalini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾",
+    "narrative": "Accepted for Taiwan from Beaver & Liu (2010). The source states that the taxon, published there as Hypocryphalus formosanus, was known only from the holotype."
+  },
+  "hosts": [],
+  "host_note": "Beaver & Liu (2010) reports the host as unknown; no host taxon is promoted.",
+  "taxonomy_summary": "The current accepted identity is Cryphalus schedli Johnson, 2020.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1952",
+      "event": "Synonym",
+      "name": "Hypocryphalus formosanus",
+      "authorship": "Schedl, 1952",
+      "note": "Published name currently treated as a synonym; original-description p. 62.",
+      "reference_ids": [
+        "orig_22dc78abfd38",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "2020",
+      "event": "Current accepted",
+      "name": "Cryphalus schedli",
+      "authorship": "Johnson, 2020",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_88723dd5a99a",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Cryphalus schedli Johnson, 2020, VSN_1826. Beaver & Liu (2010) treats the source name Hypocryphalus formosanus Schedl. The historical source identity is preserved in the Source Record and profile nomenclature section; the stable VSN remains mapped to the current canonical taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_yangcryphaluschecklistal2020",
+      "label": "Yang, 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Yang, L. (2020). Checklist of the genus Cryphalus Erichson, 1836 (Coleoptera: Curculionidae: Scolytinae) with special attention to Chinese species. Zoological Systematics 45(3): 176–205.",
+      "doi": "10.11865/zs.202023"
+    },
+    {
+      "id": "orig_88723dd5a99a",
+      "label": "Johnson et al., 2020a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Johnson, A.J., Hulcr, J., Knížek, M., Atkinson, T.H., Mandelshtam, M.Y., Smith, S.M., Cognato, A.I., Park, S., Li, Y. & Jordal, B.H. (2020a). Revision of the bark beetle genera within the former Cryphalini (Curculionidae: Scolytinae). Insect Systematics and Diversity 4(3): 1–81.",
+      "doi": "10.1093/isd/ixaa002"
+    },
+    {
+      "id": "orig_22dc78abfd38",
+      "label": "Schedl, 1952h",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1952h). Formosan Scolytoidea, I. lll Contribution to the morphology and taxonomy of the Scolytoidea. Philippine Journal of Science 81(1): 61–65."
+    }
+  ]
+}

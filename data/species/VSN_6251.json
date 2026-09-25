@@ -1,0 +1,80 @@
+{
+  "vsn": "VSN_6251",
+  "scientific_name": "Xyleborus insidiosus",
+  "authorship": "Cognato & Smith, 2019",
+  "chinese_name": "",
+  "genus": "Xyleborus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "四川",
+    "narrative": "Smith et al. (2020) records Sichuan."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Fagaceae"
+    }
+  ],
+  "host_note": "The source resolves one association only to Fagaceae and also reports unidentified punky wood. No genus/species host is inferred.",
+  "taxonomy_summary": "The current accepted identity is Xyleborus insidiosus Cognato & Smith, 2019.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2019",
+      "event": "Current accepted",
+      "name": "Xyleborus insidiosus",
+      "authorship": "Cognato & Smith, 2019",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_eafa9d0e7673",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Xyleborus insidiosus Cognato & Smith, 2019, VSN_6251.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_eafa9d0e7673",
+      "label": "Cognato et al., 2019",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Cognato, A.I., Smith, S.M., Li, Y., Pham, T.H. & Hulcr, J. (2019). Genetic variability among Xyleborus glabratus populations native to Southeast Asia (Coleoptera: Curculionidae: Scolytinae: Xyleborini) and the description of two related species. Journal of Economic Entomology 112(3): 1274–1284.",
+      "doi": "10.1093/jee/toz026"
+    }
+  ]
+}

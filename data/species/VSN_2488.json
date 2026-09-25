@@ -1,0 +1,84 @@
+{
+  "vsn": "VSN_2488",
+  "scientific_name": "Eccoptopterus formosanus",
+  "authorship": "Lin, Sittichaya & Smith, 2024",
+  "chinese_name": "",
+  "genus": "Eccoptopterus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾（南投）",
+    "narrative": "Sittichaya et al. (2024) described Eccoptopterus formosanus from Nantou County, Taiwan, with type material from Ren’ai and Lugu townships. Taiwan occurrence is therefore confirmed; no mainland-China occurrence is reported in this source."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Elaeocarpus sylvestris"
+    },
+    {
+      "scientific_name": "Lithocarpus hancei"
+    },
+    {
+      "scientific_name": "Quercus glauca"
+    },
+    {
+      "scientific_name": "Sapium discolor"
+    },
+    {
+      "scientific_name": "Trema orientale"
+    }
+  ],
+  "host_note": "The original description and biology section explicitly report breeding from five host species in Taiwan: Elaeocarpus sylvestris, Lithocarpus hancei, Quercus glauca, Sapium discolor and Trema orientale. These are promoted as confirmed current hosts.",
+  "taxonomy_summary": "The current accepted identity is Eccoptopterus formosanus Lin, Sittichaya & Smith, 2024.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2024",
+      "event": "Current accepted",
+      "name": "Eccoptopterus formosanus",
+      "authorship": "Lin, Sittichaya & Smith, 2024",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "src_sittichayaetal2024_eccoptopterusformosanus",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Eccoptopterus formosanus Lin, Sittichaya & Smith was described as a new species in 2024. The original-description evidence maps directly to pre-existing integrated taxonomic backbone identity VSN_2488; no duplicate VSN is created. The Thailand-only E. intermedius is outside this China checklist entry.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_sittichayaetal2024_eccoptopterusformosanus",
+      "label": "Sittichaya et al., 2024",
+      "role": [
+        "published evidence",
+        "nomenclatural source"
+      ],
+      "citation": "Sittichaya, W., Lin, C.-S., Smith, S.M., Pornsuriya, C. & Cognato, A.I. (2024). Two new species of Eccoptopterus Motschulsky, 1863 ambrosia beetle from Taiwan and Thailand (Coleoptera, Curculionidae, Scolytinae, Xyleborini). ZooKeys 1217: 247–262.",
+      "doi": "10.3897/zookeys.1217.129707"
+    }
+  ]
+}

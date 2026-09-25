@@ -1,0 +1,143 @@
+{
+  "vsn": "VSN_1787",
+  "scientific_name": "Cryphalus piceae",
+  "authorship": "(Ratzeburg, 1837)",
+  "chinese_name": "",
+  "genus": "Cryphalus",
+  "subfamily": "Scolytinae",
+  "tribe": "Cryphalini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "China",
+    "narrative": "Yang (2020) lists this species from China; accepted as mainland-China occurrence evidence."
+  },
+  "hosts": [],
+  "host_note": "No reviewed host note is currently available.",
+  "taxonomy_summary": "The current accepted identity is Cryphalus piceae (Ratzeburg, 1837).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1837",
+      "event": "Original combination / basionym",
+      "name": "Bostrichus piceae",
+      "authorship": "Ratzeburg, 1837",
+      "note": "Original combination / basionym, original-description p. 163.",
+      "reference_ids": [
+        "orig_08aea4519dab",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1938",
+      "event": "Synonym",
+      "name": "Cryphalus hattori",
+      "authorship": "Kôno, 1938",
+      "note": "Published name currently treated as a synonym; original-description p. 67.",
+      "reference_ids": [
+        "orig_a0ba72cec4c9",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1911",
+      "event": "Synonym",
+      "name": "Cryphalus piceae orientalis",
+      "authorship": "Eggers, 1911",
+      "note": "Published name currently treated as a synonym; original-description p. 122.",
+      "reference_ids": [
+        "orig_264c75a05deb",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1940",
+      "event": "Synonym",
+      "name": "Cryphalus subdepressus",
+      "authorship": "Eggers, 1940",
+      "note": "Published name currently treated as a synonym; original-description p. 37.",
+      "reference_ids": [
+        "orig_fc15c6e9703f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1837",
+      "event": "Current accepted",
+      "name": "Cryphalus piceae",
+      "authorship": "(Ratzeburg, 1837)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_08aea4519dab",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 4 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_yangcryphaluschecklistal2020",
+      "label": "Yang, 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Yang, L. (2020). Checklist of the genus Cryphalus Erichson, 1836 (Coleoptera: Curculionidae: Scolytinae) with special attention to Chinese species. Zoological Systematics 45(3): 176–205.",
+      "doi": "10.11865/zs.202023"
+    },
+    {
+      "id": "orig_08aea4519dab",
+      "label": "Ratzeburg, 1837",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Ratzeburg, J.T.C. (1837). Die Forst-Insecten oder Abbildung und Beschreibung der in den Wäldern Preussens und der Nachbarstaaten als schädlich oder nützlich bekannt gewordenen Insecten. Erster Theil. Die Käfer. Nicolai, Berlin x + 4 + 202 pp, 21 pls."
+    },
+    {
+      "id": "orig_a0ba72cec4c9",
+      "label": "Kôno, 1938",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Kôno, H. (1938). Neue und wenig bekannte Ipiden als Schädlinge an Sachalintannen und Ezofichten in Hokkaido. Insecta Matsumurana 12: 64–73."
+    },
+    {
+      "id": "orig_264c75a05deb",
+      "label": "Eggers, 1911b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1911b). Beitrage zur Kenntnis der Borkenkäfer. Entomologische Blätter 7: 119–123."
+    },
+    {
+      "id": "orig_fc15c6e9703f",
+      "label": "Eggers, 1940g",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1940g). Zur paläarktischen Borkenkäferfauna. VII. Fünf neue Arten aus Anatolien. Zentralblatt für das Gesamtgebeit der Entomologie 66(2): 36–40."
+    }
+  ]
+}

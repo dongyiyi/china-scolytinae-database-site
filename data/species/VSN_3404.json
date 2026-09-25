@@ -1,0 +1,144 @@
+{
+  "vsn": "VSN_3404",
+  "scientific_name": "Ips cembrae",
+  "authorship": "(Heer, 1836)",
+  "chinese_name": "",
+  "genus": "Ips",
+  "subfamily": "Scolytinae",
+  "tribe": "Ipini",
+  "checklist_status": "Questionable",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Questionable",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾（存疑）",
+    "narrative": "The Taiwan report was based on Shiraki specimens; Beaver & Liu (2010) noted frequent confusion with Ips subelongatus and did not confirm I. cembrae from Taiwan."
+  },
+  "hosts": [],
+  "host_note": "No host evidence is reported for this doubtful Taiwan record.",
+  "taxonomy_summary": "The current accepted identity is Ips cembrae (Heer, 1836).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1836",
+      "event": "Original combination / basionym",
+      "name": "Bostrichus cembrae",
+      "authorship": "Heer, 1836",
+      "note": "Original combination / basionym, original-description p. 28.",
+      "reference_ids": [
+        "orig_25e37be20625",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1913",
+      "event": "Synonym",
+      "name": "Ips engadinensis",
+      "authorship": "Fuchs, 1913",
+      "note": "Published name currently treated as a synonym; original-description p. 82.",
+      "reference_ids": [
+        "orig_301f8a269519",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Ips fallax",
+      "authorship": "Eggers, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 96.",
+      "reference_ids": [
+        "orig_9562136b238f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1924",
+      "event": "Synonym",
+      "name": "Ips shinanoensis",
+      "authorship": "Yano, 1924",
+      "note": "Published name currently treated as a synonym; original-description p. 2.",
+      "reference_ids": [
+        "orig_fa104d2eb514",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1836",
+      "event": "Current accepted",
+      "name": "Ips cembrae",
+      "authorship": "(Heer, 1836)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_25e37be20625",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Current identity is Ips cembrae (Heer, 1836), VSN_3404. Occurrence uncertainty is distinct from taxon identity.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_25e37be20625",
+      "label": "Heer, 1836",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Heer, O. (1836). Observationes entomologicae continentes metamorphoses coleopterorum nonnullorum adhuc incognitas. Cum Tab. aeneis VI. Orellii, Fuesslini & Sociorum, Turici [Zürich], 36 pp., 6 pls."
+    },
+    {
+      "id": "orig_301f8a269519",
+      "label": "Fuchs, 1913",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Fuchs, A.G. (1913). Forstzoologische Ergebnisse einer Sommerreise ins Engadin. III. Die Arven-, Lärchen- und Fichtenborkenkäfer des Engadin. Naturwissenschaftliche Zeitschrift für Forst- und Landwirtschaft, 11(2): 65–86."
+    },
+    {
+      "id": "orig_9562136b238f",
+      "label": "Eggers, 1915b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1915b). Ips fallax nov. spec. Entomologische Blätter 11: 96–97."
+    },
+    {
+      "id": "orig_fa104d2eb514",
+      "label": "Yano, 1924",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Yano, S. (1924). Survey on the wood boring insects of the larch tree. Office of Tokyo Great Forest Area, Tokyo 23 pp."
+    }
+  ]
+}

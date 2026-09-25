@@ -1,0 +1,401 @@
+{
+  "vsn": "VSN_3164",
+  "scientific_name": "Hypothenemus areccae",
+  "authorship": "(Hornung, 1842)",
+  "chinese_name": "亮额咪小蠹",
+  "genus": "Hypothenemus",
+  "subfamily": "Scolytinae",
+  "tribe": "Trypophloeini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "云南；台湾",
+    "narrative": "黄复生等 (2015) supports occurrence in 云南. Beaver & Liu (2010) adds a first Taiwan record, with material from Kinmen, Nantou (Huison), Taichung and Taipei."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Albizia julibrissin"
+    },
+    {
+      "scientific_name": "Castanopsis indica"
+    },
+    {
+      "scientific_name": "Hevea brasiliensis"
+    }
+  ],
+  "host_note": "黄复生等 (2015) explicitly reports Albizia julibrissin, Castanopsis indica and Hevea brasiliensis. Beaver & Liu (2010) describes a wide range of angiosperm trees and shrubs but does not enumerate additional host taxa in this Source Record; the broad prose is retained as context and is not split into inferred taxa.",
+  "taxonomy_summary": "The current accepted identity is Hypothenemus areccae (Hornung, 1842).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1842",
+      "event": "Original combination / basionym",
+      "name": "Bostrichus areccae",
+      "authorship": "Hornung, 1842",
+      "note": "Original combination / basionym, original-description p. 117.",
+      "reference_ids": [
+        "orig_6e623109fece",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1872",
+      "event": "Synonym",
+      "name": "Stephanoderes obscurus",
+      "authorship": "Eichhoff, 1872",
+      "note": "Published name currently treated as a synonym; original-description p. 133.",
+      "reference_ids": [
+        "orig_30887b352d84",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Stephanoderes depressus",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 155.",
+      "reference_ids": [
+        "orig_df23847f2e11",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1898",
+      "event": "Synonym",
+      "name": "Hypothenemus vafer",
+      "authorship": "Blandford, 1898",
+      "note": "Published name currently treated as a synonym; original-description p. 214.",
+      "reference_ids": [
+        "orig_ec140ccd889f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1908",
+      "event": "Synonym",
+      "name": "Stephanoderes fungicola",
+      "authorship": "Eggers, 1908",
+      "note": "Published name currently treated as a synonym; original-description p. 216.",
+      "reference_ids": [
+        "orig_e43ea0dd3b7c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1924",
+      "event": "Synonym",
+      "name": "Stephanoderes polyphagus",
+      "authorship": "Eggers, 1924",
+      "note": "Published name currently treated as a synonym; original-description p. 104.",
+      "reference_ids": [
+        "orig_79520a8a3614",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1925",
+      "event": "Synonym",
+      "name": "Stephanoderes hispidus",
+      "authorship": "Eggers, 1925",
+      "note": "Published name currently treated as a synonym; original-description p. 156.",
+      "reference_ids": [
+        "orig_ab66983e937b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1928",
+      "event": "Synonym",
+      "name": "Hypothenemus heterolepsis",
+      "authorship": "Costa Lima, 1928",
+      "note": "Published name currently treated as a synonym; original-description p. 117.",
+      "reference_ids": [
+        "orig_4ce19e9e395f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1935",
+      "event": "Synonym",
+      "name": "Hypothenemus capitalis",
+      "authorship": "Beeson, 1935",
+      "note": "Published name currently treated as a synonym; original-description p. 102.",
+      "reference_ids": [
+        "orig_3cb99ff10b9b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1940",
+      "event": "Synonym",
+      "name": "Hypothenemus eupolyphagus",
+      "authorship": "Beeson, 1940",
+      "note": "Published name currently treated as a synonym; original-description p. 193.",
+      "reference_ids": [
+        "orig_a1c816367ea2",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1940",
+      "event": "Synonym",
+      "name": "Stephanoderes bambesanus",
+      "authorship": "Eggers, 1940",
+      "note": "Published name currently treated as a synonym; original-description p. 232.",
+      "reference_ids": [
+        "orig_86032e28beea",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1940",
+      "event": "Synonym",
+      "name": "Stephanoderes subvestitus",
+      "authorship": "Eggers, 1940",
+      "note": "Published name currently treated as a synonym; original-description p. 232.",
+      "reference_ids": [
+        "orig_86032e28beea",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1941",
+      "event": "Synonym",
+      "name": "Hypothenemus oahuensis",
+      "authorship": "Schedl, 1941",
+      "note": "Published name currently treated as a synonym; original-description p. 110.",
+      "reference_ids": [
+        "orig_661c9d381a9d",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1941",
+      "event": "Synonym",
+      "name": "Stephanoderes martiniquensis",
+      "authorship": "Eggers, 1941",
+      "note": "Published name currently treated as a synonym; original-description p. 99.",
+      "reference_ids": [
+        "orig_c1149b148180",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1942",
+      "event": "Synonym",
+      "name": "Hypothenemus subglabratus",
+      "authorship": "Schedl, 1942",
+      "note": "Published name currently treated as a synonym; original-description p. 174.",
+      "reference_ids": [
+        "orig_12e277497cec",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1950",
+      "event": "Synonym",
+      "name": "Hypothenemus bauhaniae",
+      "authorship": "Schedl, 1950",
+      "note": "Published name currently treated as a synonym; original-description p. 19.",
+      "reference_ids": [
+        "orig_0dd581cb9fd1",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1954",
+      "event": "Synonym",
+      "name": "Stephanoderes occidentalis",
+      "authorship": "Schedl, 1954",
+      "note": "Published name currently treated as a synonym; original-description p. 76.",
+      "reference_ids": [
+        "orig_ca6da2ca6883",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1842",
+      "event": "Current accepted",
+      "name": "Hypothenemus areccae",
+      "authorship": "(Hornung, 1842)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_6e623109fece",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Hypothenemus areccae (Hornung, 1842), VSN_3164. 黄复生等 (2015) and Beaver & Liu (2010) both preserve authorship (Hornung). A previous profile record gave authorship Wood, 1956 was inconsistent with the canonical integrated taxonomic backbone identity and is not used for the current accepted authorship.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_6e623109fece",
+      "label": "Hornung, 1842",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hornung, E.G. (1842). Ueber einige in den Betelnüssen vorkommende Käfer. Entomologische Zeitung (Stettin) 3: 115–117."
+    },
+    {
+      "id": "orig_0dd581cb9fd1",
+      "label": "Schedl, 1950b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1950b). Fauna Aethiopica, III. 103 Contribution to the morphology and taxonomy of Scolytoidea. Bulletin de l'Institut Royal des Sciences Naturelles de Belgique 26(50): 1–36."
+    },
+    {
+      "id": "orig_3cb99ff10b9b",
+      "label": "Beeson, 1935a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1935a). Scolytidae of the Marquesas. Bulletin of the Bernice P. Bishop Museum 142: 101–114."
+    },
+    {
+      "id": "orig_a1c816367ea2",
+      "label": "Beeson, 1940",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1940). Scolytidae and Platypodidae of the Mangarevan Expedition. Occasional Papers of Bernice P. Bishop Museum 15(18): 191–203."
+    },
+    {
+      "id": "orig_4ce19e9e395f",
+      "label": "Costa Lima, 1928",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Costa Lima, A.M. (1928). Sobre alguns cryphalineos observados em sementes de cacaoeiro e de cafeeiro. Memórias do Instituto Oswaldo Cruz 21(Supplemento 4): 117–123."
+    },
+    {
+      "id": "orig_661c9d381a9d",
+      "label": "Schedl, 1941b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1941b). 77th Contribution to the morphology and taxonomy of the Scolytoidea. Proceedings of the Hawaiian Entomological Society 11(1): 109–116."
+    },
+    {
+      "id": "orig_12e277497cec",
+      "label": "Schedl, 1942c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1942c). Interessante und neue Scolytiden und Platypodiden aus der australischen Region. 79 Beitrag. Mitteilungen der Münchener Entomologischen Gesellschaft 32: 162–201. https://www.biodiversitylibrary.org/page/28982895."
+    },
+    {
+      "id": "orig_ec140ccd889f",
+      "label": "Blandford, 1898a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1898a). Scolytidae. Biologia Centrali-Americana, Coleoptera 4(6): 185–224."
+    },
+    {
+      "id": "orig_86032e28beea",
+      "label": "Eggers, 1940e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1940e). Neue Borkenkäfer (Col. Scolytidae) aus Africa. Nachtrag X. Revue de Zoologie et de Botanique Africaines 33: 227–239."
+    },
+    {
+      "id": "orig_df23847f2e11",
+      "label": "Eichhoff, 1878b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
+    },
+    {
+      "id": "orig_e43ea0dd3b7c",
+      "label": "Eggers, 1908a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1908a). Funf neue Borkenkäfer. Entomologische Blätter 4: 214–217."
+    },
+    {
+      "id": "orig_ab66983e937b",
+      "label": "Eggers, 1925",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1925). Ipidae aus Birma. Sborník Entomologického Oddělení Národního Musea v Praze 3(21): 151–160."
+    },
+    {
+      "id": "orig_c1149b148180",
+      "label": "Eggers, 1941a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1941a). Borkenkäfer aus Südamerika (Col. Ipid.) IX. Insel Guadeloupe. Arbeiten über Morphologische und Taxonomische Entomologie aus Berlin-Dahlem 8: 99–109."
+    },
+    {
+      "id": "orig_30887b352d84",
+      "label": "Eichhoff, 1872a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1872a). Neue exotische Tomiciden-Arten. Berliner Entomologische Zeitschrift 15: 131–136."
+    },
+    {
+      "id": "orig_ca6da2ca6883",
+      "label": "Schedl, 1954d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1954d). Scolytoidea from the Gold Coast, 1. 135 Contribution. Revue de Zoologie et de Botanique Africaines 50(1-2): 45–88."
+    },
+    {
+      "id": "orig_79520a8a3614",
+      "label": "Eggers, 1924",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1924). Neue Borkenkäfer (Ipidae) aus Afrika (Nachtrag II). Entomologische Blätter 20: 99–111."
+    }
+  ]
+}

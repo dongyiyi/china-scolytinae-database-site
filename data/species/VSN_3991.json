@@ -1,0 +1,125 @@
+{
+  "vsn": "VSN_3991",
+  "scientific_name": "Phloeosinopsioides formosanus",
+  "authorship": "(Schedl, 1935)",
+  "chinese_name": "",
+  "genus": "Phloeosinopsioides",
+  "subfamily": "Scolytinae",
+  "tribe": "Phloeosinini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾",
+    "narrative": "Beaver & Liu (2010) accepts Phloeosinopsioides formosanus as occurring in Taiwan."
+  },
+  "hosts": [],
+  "host_note": "Host is reported as unknown; no host is promoted.",
+  "taxonomy_summary": "The current accepted identity is Phloeosinopsioides formosanus (Schedl, 1935).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1935",
+      "event": "Original combination / basionym",
+      "name": "Xylechinus formosanus",
+      "authorship": "Schedl, 1935",
+      "note": "Original combination / basionym, original-description p. 479.",
+      "reference_ids": [
+        "orig_e2ef686a12e7",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1964",
+      "event": "Synonym",
+      "name": "Phloeosinopsis triseriatus",
+      "authorship": "Schedl, 1964",
+      "note": "Published name currently treated as a synonym; original-description p. 297.",
+      "reference_ids": [
+        "orig_a9e59487404c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1970",
+      "event": "Synonym",
+      "name": "Xylechinus papuanus",
+      "authorship": "Schedl, 1970",
+      "note": "Published name currently treated as a synonym; original-description p. 128.",
+      "reference_ids": [
+        "orig_b7092179c448",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1935",
+      "event": "Current accepted",
+      "name": "Phloeosinopsioides formosanus",
+      "authorship": "(Schedl, 1935)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_e2ef686a12e7",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Current identity follows integrated taxonomic backbone: Phloeosinopsioides formosanus (Schedl, 1935), VSN_3991.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_e2ef686a12e7",
+      "label": "Schedl, 1935e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1935e). Scolytidae and Platypodidae: new species from the Philippine Islands and Formosa. Philippine Journal of Science 57(4): 479–489."
+    },
+    {
+      "id": "orig_a9e59487404c",
+      "label": "Schedl, 1964k",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1964k). Neue und interessante Scolytoidea von den Sunda-Inseln, Neue Guinea und Australien. 202 Beitrag. Tijdschrift voor Entomologie 107(5): 297–306."
+    },
+    {
+      "id": "orig_b7092179c448",
+      "label": "Schedl, 1970g",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1970g). Another collection of Scolytidae and Platypodidae of economic importance from the territory of Papua and New Guinea. 254 Contribution. Proceedings of the Linnean Society of New South Wales 94(2): 128–132."
+    }
+  ]
+}

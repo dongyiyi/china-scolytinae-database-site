@@ -1,0 +1,86 @@
+{
+  "vsn": "VSN_2449",
+  "scientific_name": "Dryocoetiops apatoides",
+  "authorship": "(Eichhoff, 1876)",
+  "chinese_name": "",
+  "genus": "Dryocoetiops",
+  "subfamily": "Scolytinae",
+  "tribe": "Dryocoetini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "云南；台湾",
+    "narrative": "Beaver et al. (2019) reports Dryocoetiops apatoides from Yunnan and Taiwan; the Yunnan record includes Xishuangbanna locality detail."
+  },
+  "hosts": [],
+  "host_note": "No host evidence is supplied in the currently integrated Beaver et al. (2019) record.",
+  "taxonomy_summary": "The current accepted identity is Dryocoetiops apatoides (Eichhoff, 1876).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1876",
+      "event": "Original combination / basionym",
+      "name": "Dryocoetes apatoides",
+      "authorship": "Eichhoff, 1876",
+      "note": "Original combination / basionym, original-description p. 201.",
+      "reference_ids": [
+        "orig_16f436d94e7b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1876",
+      "event": "Current accepted",
+      "name": "Dryocoetiops apatoides",
+      "authorship": "(Eichhoff, 1876)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_16f436d94e7b",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Dryocoetiops apatoides (Eichhoff, 1876), VSN_2449, Scolytinae: Dryocoetini. Beaver et al. (2019) uses the same species name with authorship presented as Eichhoff.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaveretal2019_dryocoetiopsreview",
+      "label": "Beaver et al., 2019",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Beaver, R.A., Smith, S.M. & Sanguansub, S. (2019). A review of the genus Dryocoetiops Schedl, with new species, new synonymy and a key to species (Coleoptera: Curculionidae: Scolytinae). Zootaxa, 4712 (2), 236–250.",
+      "doi": "10.11646/zootaxa.4712.2.4"
+    },
+    {
+      "id": "orig_16f436d94e7b",
+      "label": "Chapuis & Eichhoff, 1876",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Chapuis, F. & Eichhoff, W.J. (1876). Scolytides recueillis au Japon par M. C. Lewis [cont.]. Annales de la Société Entomologique de Belgique 18: 197–204."
+    }
+  ]
+}

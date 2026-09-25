@@ -1,0 +1,82 @@
+{
+  "vsn": "VSN_0097",
+  "scientific_name": "Acanthotomicus spinosus",
+  "authorship": "Blandford, 1894",
+  "chinese_name": "",
+  "genus": "Acanthotomicus",
+  "subfamily": "Scolytinae",
+  "tribe": "Ipini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "China (SW, broad source wording); 台湾",
+    "narrative": "Beaver & Liu (2010) reports China (SW); Taiwan and directly documents Taiwan material from Nantou, Hui Son. The broad southwest-China wording is retained without province-level inference.",
+    "evidence": "BeaverLiu2010_TaiwanScolytinae_050; Taiwan locality: Nantou, Hui Son, at light, 5.viii.2006."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Quercus spp."
+    }
+  ],
+  "host_note": "The host is retained at genus level exactly as reported.",
+  "taxonomy_summary": "Current Taxa Master identity is Acanthotomicus spinosus Blandford, 1894, VSN_0097.",
+  "taxonomic_history": [
+    {
+      "year": "1894",
+      "event": "Original description / current accepted",
+      "name": "Acanthotomicus spinosus",
+      "authorship": "Blandford, 1894",
+      "note": "Original description, p. 90; retained as the current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "blandford1894",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "No additional nomenclatural history is presented in the current Notion Species Profile.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "The Taiwan locality is preserved in the Source Record; no dedicated specimen record is linked yet.",
+    "molecular": "No molecular records are reported in the integrated source.",
+    "symbionts": "No symbiont-association records are reported in the integrated source."
+  },
+  "references": [
+    {
+      "id": "beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "distribution",
+        "host"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "blandford1894",
+      "label": "Blandford, 1894c",
+      "role": [
+        "original description"
+      ],
+      "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "blandford1894",
+    "johnson2026"
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "vsn": "VSN_1676",
+  "scientific_name": "Cryphalus dilutus",
+  "authorship": "Eichhoff, 1878",
+  "chinese_name": "刺足梢小蠹",
+  "genus": "Cryphalus",
+  "subfamily": "Scolytinae",
+  "tribe": "Cryphalini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Guangdong; Yunnan; Hong Kong",
+    "narrative": "Johnson et al. (2020) confirms China occurrence in Guangdong and Yunnan; Taiwan is not included in the source-level China distribution. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Mangifera indica"
+    },
+    {
+      "scientific_name": "Ficus carica"
+    },
+    {
+      "scientific_name": "Ficus retusa"
+    },
+    {
+      "scientific_name": "Ficus microcarpa"
+    },
+    {
+      "scientific_name": "Ficus bengalensis"
+    }
+  ],
+  "host_note": "Recorded hosts retained at the scientific-name resolution reported by the source.",
+  "taxonomy_summary": "The current accepted identity is Cryphalus dilutus Eichhoff, 1878.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Cryphalus dilutus",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 490.",
+      "reference_ids": [
+        "orig_deaeb34a13a4",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Current accepted",
+      "name": "Cryphalus dilutus",
+      "authorship": "Eichhoff, 1878",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_d87a90ab173c",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 1 additional historical name usage to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_johnsonetal2020_cryphaluseastasia",
+      "label": "Johnson et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Johnson, A.J., Li, Y., Mandelshtam, M.Yu., Park, S., Lin, C.-S., Gao, L. & Hulcr, J. (2020). East Asian Cryphalus Erichson (Curculionidae, Scolytinae): new species, new synonymy and redescriptions of species. ZooKeys 995: 15–66.",
+      "doi": "10.3897/zookeys.995.55981"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "orig_deaeb34a13a4",
+      "label": "Eichhoff, 1878b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
+    },
+    {
+      "id": "orig_d87a90ab173c",
+      "label": "Eichhoff, 1878a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878a). Neue oder noch unbeschriebene Tomicinen. Stettiner Entomologische Zeitung 39: 383–392."
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "vsn": "VSN_2552",
+  "scientific_name": "Eidophelus fulvipennis",
+  "authorship": "(Nobuchi, 1975)",
+  "chinese_name": "",
+  "genus": "Eidophelus",
+  "subfamily": "Scolytinae",
+  "tribe": "Ernoporini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾",
+    "narrative": "Beaver & Liu (2010) accepts Taiwan occurrence under the source combination Scolytogenes fulvipennis."
+  },
+  "hosts": [],
+  "host_note": "Host unknown in Beaver & Liu (2010); no host is promoted.",
+  "taxonomy_summary": "The current accepted identity is Eidophelus fulvipennis (Nobuchi, 1975).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1975",
+      "event": "Original combination / basionym",
+      "name": "Cryphalomorphus fulvipennis",
+      "authorship": "Nobuchi, 1975",
+      "note": "Original combination / basionym, original-description p. 47.",
+      "reference_ids": [
+        "orig_d1fca2020cc2",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1975",
+      "event": "Current accepted",
+      "name": "Eidophelus fulvipennis",
+      "authorship": "(Nobuchi, 1975)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_d1fca2020cc2",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Eidophelus fulvipennis (Nobuchi, 1975), VSN_2552, Scolytinae: Ernoporini. Beaver & Liu (2010) uses Scolytogenes fulvipennis (Nobuchi); this source combination is retained at source layer only.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_d1fca2020cc2",
+      "label": "Nobuchi, 1975",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Nobuchi, A. (1975). Twenty-one new species of Cryphalini from Japan (Coleoptera). Studies on Scolytidae XIII. Bulletin of the Government Forest Experiment Station 277: 41–60."
+    }
+  ]
+}

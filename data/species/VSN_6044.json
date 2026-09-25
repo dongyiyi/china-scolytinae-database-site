@@ -1,0 +1,200 @@
+{
+  "vsn": "VSN_6044",
+  "scientific_name": "Xyleborinus andrewesi",
+  "authorship": "(Blandford, 1896)",
+  "chinese_name": "尖尾材小蠹",
+  "genus": "Xyleborinus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建；云南；香港；台湾",
+    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) record Yunnan. Smith et al. (2020) confirms Yunnan and adds Fujian, Hong Kong and Taiwan. Beaver & Liu (2010) independently reports the first Taiwan record in its treatment and also gives China (SW), which is retained as broad regional wording and not expanded to provinces. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Albizzia corniculata"
+    }
+  ],
+  "host_note": "Baseline host Albizzia corniculata is retained. Smith et al. (2020) adds no host in the promoted record. Beaver & Liu (2010) describes the species as polyphagous but enumerates no host taxon; no additional host is promoted.",
+  "taxonomy_summary": "The current accepted identity is Xyleborinus andrewesi (Blandford, 1896).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1896",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus andrewesi",
+      "authorship": "Blandford, 1896",
+      "note": "Original combination / basionym, original-description p. 227.",
+      "reference_ids": [
+        "orig_bb1f17fed112",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1957",
+      "event": "Synonym",
+      "name": "Xyleborus mimosae",
+      "authorship": "Schedl, 1957",
+      "note": "Published name currently treated as a synonym; original-description p. 109.",
+      "reference_ids": [
+        "orig_021c45cdf91f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1970",
+      "event": "Synonym",
+      "name": "Xyleborus persephenos",
+      "authorship": "Schedl, 1970",
+      "note": "Published name currently treated as a synonym; original-description p. 129.",
+      "reference_ids": [
+        "orig_b7092179c448",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1972",
+      "event": "Synonym",
+      "name": "Xyleborus insolitus",
+      "authorship": "Bright, 1972",
+      "note": "Published name currently treated as a synonym; original-description p. 77.",
+      "reference_ids": [
+        "orig_a2e6cbd86b0f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1984",
+      "event": "Synonym",
+      "name": "Cryptoxyleborus gracilior",
+      "authorship": "Browne, 1984",
+      "note": "Published name currently treated as a synonym; original-description p. 101.",
+      "reference_ids": [
+        "orig_34d3703a98b8",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1896",
+      "event": "Current accepted",
+      "name": "Xyleborinus andrewesi",
+      "authorship": "(Blandford, 1896)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_bb1f17fed112",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "殷蕙芬等 (1984) and 黄复生等 (2015) use Xyleborus andrewesi. Current canonical identity follows integrated taxonomic backbone: Xyleborinus andrewesi (Blandford, 1896), VSN_6044. Beaver & Liu (2010) uses the current genus and adds first-Taiwan source provenance.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_021c45cdf91f",
+      "label": "Schedl, 1957b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1957b). Scolytoidea nouveaux du Congo Belge, II. Mission R. Mayne -- K. E. Schedl 1952. Annales du Musée Royal de l'Afrique Centrale. Série 8. Sciences Zoologiques 56: 5–162."
+    },
+    {
+      "id": "orig_34d3703a98b8",
+      "label": "Browne, 1984e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Browne, F.G. (1984e). More new species of Scolytidae (Coleoptera) from Papua New Guinea. South Pacific Journal of Natural Science 6: 86–102."
+    },
+    {
+      "id": "orig_a2e6cbd86b0f",
+      "label": "Bright, 1972a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Bright, D.E. (1972a). The Scolytidae and Platypodidae of Jamaica. Bulletin of the Institute of Jamaica, Science Series 21: 1–108."
+    },
+    {
+      "id": "orig_b7092179c448",
+      "label": "Schedl, 1970g",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1970g). Another collection of Scolytidae and Platypodidae of economic importance from the territory of Papua and New Guinea. 254 Contribution. Proceedings of the Linnean Society of New South Wales 94(2): 128–132."
+    },
+    {
+      "id": "orig_bb1f17fed112",
+      "label": "Blandford, 1896e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1896e). Descriptions of new Scolytidae from the Indo-Malayan and Austro-Malayan regions. Transactions of the Entomological Society of London 1896: 191–228."
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "vsn": "VSN_1154",
+  "scientific_name": "Coccotrypes cardamomi",
+  "authorship": "Schaufuss, 1905",
+  "chinese_name": "",
+  "genus": "Coccotrypes",
+  "subfamily": "Scolytinae",
+  "tribe": "Dryocoetini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "中国大陆（区域记录，未细化至省级）；台湾",
+    "narrative": "Beaver & Liu (2010) accepts Taiwan occurrence and gives the broad distribution wording China (SE); Taiwan. The broad China (SE) wording is not expanded into province-level mainland records without additional province-level evidence."
+  },
+  "hosts": [],
+  "host_note": "The source reports seeds of broad-leaved trees, occurrence below bark, and Pteridium aquilinum fronds. These are broad ecological/host-context statements and are not converted into inferred host taxa in the current summary.",
+  "taxonomy_summary": "The current accepted identity is Coccotrypes cardamomi Schaufuss, 1905.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1905",
+      "event": "Current accepted",
+      "name": "Coccotrypes cardamomi",
+      "authorship": "Schaufuss, 1905",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_d60e8dac90c0",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Coccotrypes cardamomi Schaufuss, 1905, VSN_1154, Scolytinae: Dryocoetini. Beaver & Liu (2010) uses the same species name and authorship Schaufuss.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_d60e8dac90c0",
+      "label": "Schaufuss, 1905a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schaufuss, C.F.C. (1905a). Borkenkäferstudien. II. (Fortsetzung). Insekten-Börse 22(2): 8."
+    }
+  ]
+}

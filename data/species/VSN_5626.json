@@ -1,0 +1,124 @@
+{
+  "vsn": "VSN_5626",
+  "scientific_name": "Sphaerotrypes pila",
+  "authorship": "Blandford, 1894",
+  "chinese_name": "麻栎球小蠹",
+  "genus": "Sphaerotrypes",
+  "subfamily": "Scolytinae",
+  "tribe": "Diamerini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "河北；四川；云南；西藏；台湾",
+    "narrative": "殷蕙芬等 (1984) supports 河北、四川、云南; 黄复生等 (2015) adds 西藏. Beaver & Liu (2010) adds Taiwan and gives the broad source wording China (NO, SW); Taiwan. No additional mainland province is inferred from the broad regional wording."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Quercus acutissima"
+    },
+    {
+      "scientific_name": "Quercus semicarpifolia"
+    },
+    {
+      "scientific_name": "Quercus spp."
+    },
+    {
+      "scientific_name": "Prunus mume"
+    }
+  ],
+  "host_note": "殷蕙芬等 (1984) reports Quercus acutissima; 黄复生等 (2015) reports Q. acutissima and Q. semicarpifolia. Beaver & Liu (2010) states mostly Quercus spp. and specifically records Prunus mume in Taiwan. Species- and genus-level evidence are retained at source resolution.",
+  "taxonomy_summary": "The current accepted identity is Sphaerotrypes pila Blandford, 1894.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1926",
+      "event": "Synonym",
+      "name": "Sphaerotrypes imitans",
+      "authorship": "Eggers, 1926",
+      "note": "Published name currently treated as a synonym; original-description p. 134.",
+      "reference_ids": [
+        "orig_a1502709ef15",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1894",
+      "event": "Current accepted",
+      "name": "Sphaerotrypes pila",
+      "authorship": "Blandford, 1894",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_a1d45147b2c3",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Sphaerotrypes pila Blandford, 1894, VSN_5626, Scolytinae: Diamerini. 殷蕙芬等 (1984) and 黄复生等 (2015) use the source name Sphaerotrypes imitans Eggers in Hylesininae: Sphaerotrypini; Beaver & Liu (2010) uses Sphaerotrypes pila Blandford. Source nomenclature and historical higher classification are preserved separately from the current canonical identity.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "orig_a1502709ef15",
+      "label": "Eggers, 1926a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1926a). Japanische Borkenkäfer, I. Entomologische Blätter 22: 133–138."
+    },
+    {
+      "id": "orig_a1d45147b2c3",
+      "label": "Blandford, 1894c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
+    }
+  ]
+}

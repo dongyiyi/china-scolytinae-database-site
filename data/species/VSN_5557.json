@@ -1,0 +1,177 @@
+{
+  "vsn": "VSN_5557",
+  "scientific_name": "Scolytus ratzeburgi",
+  "authorship": "Janson, 1856",
+  "chinese_name": "白桦小蠹",
+  "genus": "Scolytus",
+  "subfamily": "Scolytinae",
+  "tribe": "Scolytini",
+  "checklist_status": "Unreviewed",
+  "review_status": "Not started",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Scolytus ratzeburgi Janson, 1856.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1908",
+      "event": "Synonym",
+      "name": "Eccoptogaster amurensis",
+      "authorship": "Eggers, 1908",
+      "note": "Published name currently treated as a synonym; original-description p. 144.",
+      "reference_ids": [
+        "orig_84bd6115cd97",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1912",
+      "event": "Synonym",
+      "name": "Eccoptogaster sahlbergi",
+      "authorship": "Eggers, 1912",
+      "note": "Published name currently treated as a synonym; original-description p. 204.",
+      "reference_ids": [
+        "orig_fe7b0c064b33",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1922",
+      "event": "Synonym",
+      "name": "Eccoptogaster sibiricus",
+      "authorship": "Eggers, 1922",
+      "note": "Published name currently treated as a synonym; original-description p. 14.",
+      "reference_ids": [
+        "orig_f7299f917024",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1941",
+      "event": "Synonym",
+      "name": "Scolytus lineatus",
+      "authorship": "Kurentsov, 1941",
+      "note": "Published name currently treated as a synonym; original-description p. 104.",
+      "reference_ids": [
+        "orig_7c3cf4067814",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1951",
+      "event": "Synonym",
+      "name": "Scolytus bituberculatus",
+      "authorship": "Puzyr, 1951",
+      "note": "Published name currently treated as a synonym; original-description p. 46.",
+      "reference_ids": [
+        "orig_b25b59669f0e",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1856",
+      "event": "Current accepted",
+      "name": "Scolytus ratzeburgi",
+      "authorship": "Janson, 1856",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_c51e0736729a",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 5 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "orig_7c3cf4067814",
+      "label": "Kurentsov, 1941",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Kurentsov, A.I. (1941). Koroedy Dal'nego Vostoka SSSR. Izdatel’stvo Akademii Nauk SSSR, Moskva, Leningrad 234 pp."
+    },
+    {
+      "id": "orig_84bd6115cd97",
+      "label": "Eggers, 1908d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1908d). Ein neuer Borkenkäfer aus Sibirien. Wiener Entomologische Zeitung 27: 144."
+    },
+    {
+      "id": "orig_b25b59669f0e",
+      "label": "Puzyr, 1951",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Puzyr, H. (1951). Eine neue Scolytus-Art. Allgemeine Forstzeitung 62: 46."
+    },
+    {
+      "id": "orig_c51e0736729a",
+      "label": "Janson, 1856",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Janson, E.W. (1856). Coleoptera. New British species noticed in 1855. The Entomologist’s Annual 1856: 86–92."
+    },
+    {
+      "id": "orig_f7299f917024",
+      "label": "Eggers, 1922a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1922a). Seltene und neue paläarktische Borkenkäfer, III. Entomologische Blätter 18: 12–18."
+    },
+    {
+      "id": "orig_fe7b0c064b33",
+      "label": "Eggers, 1912c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1912c). Beitrage zur Kenntnis der Borkenkäfer, IV. Entomologische Blätter 8: 203–210."
+    }
+  ]
+}

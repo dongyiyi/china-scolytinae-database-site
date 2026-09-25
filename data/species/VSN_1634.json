@@ -1,0 +1,131 @@
+{
+  "vsn": "VSN_1634",
+  "scientific_name": "Cryphalus artocarpus",
+  "authorship": "(Schedl, 1939)",
+  "chinese_name": "菠萝蜜梢小蠹",
+  "genus": "Cryphalus",
+  "subfamily": "Scolytinae",
+  "tribe": "Cryphalini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Hainan; Yunnan",
+    "narrative": "Johnson et al. (2020) documents examined material from Hainan and Yunnan."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Morus sp."
+    },
+    {
+      "scientific_name": "Ficus sp."
+    }
+  ],
+  "host_note": "Morus sp. and Ficus sp. are supported by source records; genus-level evidence is retained at genus level.",
+  "taxonomy_summary": "The current accepted identity is Cryphalus artocarpus (Schedl, 1939).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1958",
+      "event": "Synonym",
+      "name": "Cryphalus artocarpus",
+      "authorship": "Schedl, 1958",
+      "note": "Published name currently treated as a synonym; original-description p. 498.",
+      "reference_ids": [
+        "orig_29cb176ad024",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1992",
+      "event": "Synonym",
+      "name": "Cryphalus brownei",
+      "authorship": "Wood, 1992",
+      "note": "Published name currently treated as a synonym; original-description p. 79.",
+      "reference_ids": [
+        "orig_78a050cdfc59",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1939",
+      "event": "Original combination / basionym",
+      "name": "Ericryphalus artocarpus",
+      "authorship": "Schedl, 1939",
+      "note": "Original combination / basionym, original-description p. 342.",
+      "reference_ids": [
+        "orig_2a153b8c96b2",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1939",
+      "event": "Current accepted",
+      "name": "Cryphalus artocarpus",
+      "authorship": "(Schedl, 1939)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_2a153b8c96b2",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Cryphalus brownei Wood, 1992 is an unnecessary replacement name and existing synonym; no new synonymy is proposed here.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_johnsonetal2020_cryphaluseastasia",
+      "label": "Johnson et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Johnson, A.J., Li, Y., Mandelshtam, M.Yu., Park, S., Lin, C.-S., Gao, L. & Hulcr, J. (2020). East Asian Cryphalus Erichson (Curculionidae, Scolytinae): new species, new synonymy and redescriptions of species. ZooKeys 995: 15–66.",
+      "doi": "10.3897/zookeys.995.55981"
+    },
+    {
+      "id": "orig_2a153b8c96b2",
+      "label": "Schedl, 1939b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1939b). Malaysian Scolytidae and Platypodidae (IV). 57th contribution. Journal of the Federated Malay States Museums 18(3): 327–364."
+    },
+    {
+      "id": "orig_29cb176ad024",
+      "label": "Schedl, 1958h",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1958h). Scolytoidea from Borneo, II. Sarawak Museum Journal 8(11): 498–499."
+    },
+    {
+      "id": "orig_78a050cdfc59",
+      "label": "Wood, 1992",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Wood, S.L. (1992). Nomenclatural changes and new species in Platypodidae and Scolytidae (Coleoptera), Part II. The Great Basin Naturalist 52(1): 78–88."
+    }
+  ]
+}

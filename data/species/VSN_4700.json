@@ -1,0 +1,76 @@
+{
+  "vsn": "VSN_4700",
+  "scientific_name": "Polygraphus formosanus",
+  "authorship": "Nobuchi, 1967",
+  "chinese_name": "",
+  "genus": "Polygraphus",
+  "subfamily": "Scolytinae",
+  "tribe": "Polygraphini",
+  "checklist_status": "Questionable",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Questionable",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "Beaver & Liu (2010) lists Taiwan but clarifies that P. formosanus was described from pine wood imported from Taiwan to Japan and is known only from the type series. This is retained as Questionable Taiwan evidence rather than direct established occurrence."
+  },
+  "hosts": [],
+  "host_note": "Pinus sp. is preserved at the source-reported resolution, but because the evidence comes from imported type-series material it is not promoted to Current Host Summary.",
+  "taxonomy_summary": "The current accepted identity is Polygraphus formosanus Nobuchi, 1967.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1967",
+      "event": "Current accepted",
+      "name": "Polygraphus formosanus",
+      "authorship": "Nobuchi, 1967",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_aa1542f63988",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Current integrated taxonomic backbone retains Polygraphus formosanus Nobuchi, 1967 as VSN_4700. Beaver & Liu (2010) explicitly states that the taxon may be a synonym of P. taiwanensis; this unresolved synonymy is preserved as a taxonomic conflict.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_aa1542f63988",
+      "label": "Nobuchi, 1967",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Nobuchi, A. (1967). Formosan Scolytodies. Studies on Scolytidae VII. Bulletin of the Government Forest Experiment Station 207: 11–30."
+    }
+  ]
+}

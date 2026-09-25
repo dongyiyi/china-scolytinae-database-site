@@ -1,0 +1,120 @@
+{
+  "vsn": "VSN_2731",
+  "scientific_name": "Euwallacea sibsagaricus",
+  "authorship": "(Eggers, 1930)",
+  "chinese_name": "",
+  "genus": "Euwallacea",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "云南",
+    "narrative": "Smith et al. (2020) records Yunnan."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Hevea brasiliensis"
+    }
+  ],
+  "host_note": "Species-level host Hevea brasiliensis is retained.",
+  "taxonomy_summary": "The current accepted identity is Euwallacea sibsagaricus (Eggers, 1930).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1930",
+      "event": "Synonym",
+      "name": "Xyleborus dalbergiae",
+      "authorship": "Eggers, 1930",
+      "note": "Published name currently treated as a synonym; original-description p. 196.",
+      "reference_ids": [
+        "orig_2f66b1e00ee5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus sibsagaricus",
+      "authorship": "Eggers, 1930",
+      "note": "Original combination / basionym, original-description p. 196.",
+      "reference_ids": [
+        "orig_2f66b1e00ee5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1934",
+      "event": "Synonym",
+      "name": "Xyleborus tonkinensis",
+      "authorship": "Schedl, 1934",
+      "note": "Published name currently treated as a synonym; original-description p. 39.",
+      "reference_ids": [
+        "orig_46cbfcc30da1",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Current accepted",
+      "name": "Euwallacea sibsagaricus",
+      "authorship": "(Eggers, 1930)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_2f66b1e00ee5",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Euwallacea sibsagaricus (Eggers, 1930), VSN_2731.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_2f66b1e00ee5",
+      "label": "Eggers, 1930b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1930b). Neue Xyleborus-Arten (Col. Scolytidae) aus Indien. Indian Forest Records, Entomology 14(9): 177–208."
+    },
+    {
+      "id": "orig_46cbfcc30da1",
+      "label": "Schedl, 1934b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1934b). Neue Borkenkäfer. Entomologische Blätter 30: 37–39."
+    }
+  ]
+}

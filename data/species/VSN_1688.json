@@ -1,0 +1,81 @@
+{
+  "vsn": "VSN_1688",
+  "scientific_name": "Cryphalus eriobotryae",
+  "authorship": "Johnson, 2019",
+  "chinese_name": "",
+  "genus": "Cryphalus",
+  "subfamily": "Scolytinae",
+  "tribe": "Cryphalini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "江苏",
+    "narrative": "Zheng et al. (2019) describes Cryphalus eriobotryae from Dongshan, Suzhou, Jiangsu, and documents a severe outbreak in loquat plantations during 2018–2019. Jiangsu is therefore treated as confirmed mainland-China occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Eriobotrya japonica"
+    }
+  ],
+  "host_note": "The holotype and paratypes were collected ex Eriobotrya japonica, and the source documents all life stages, galleries, cankers and mortality on loquat. Eriobotrya japonica is therefore a confirmed current host. The paper notes no obvious fungal pathogen but did not systematically investigate pathogens; this is not interpreted as evidence of pathogen/symbiont absence.",
+  "taxonomy_summary": "The current accepted identity is Cryphalus eriobotryae Johnson, 2019.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2019",
+      "event": "Current accepted",
+      "name": "Cryphalus eriobotryae",
+      "authorship": "Johnson, 2019",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "src_zhengetal2019_cryphaluseriobotryae",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Cryphalus eriobotryae Johnson was described as a new species in 2019. Original-description evidence maps directly to the pre-existing integrated taxonomic backbone identity VSN_1688; no duplicate VSN is created.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_zhengetal2019_cryphaluseriobotryae",
+      "label": "Zheng et al., 2019",
+      "role": [
+        "published evidence",
+        "nomenclatural source"
+      ],
+      "citation": "Zheng, S., Johnson, A.J., Li, Y., Chu, C. & Hulcr, J. (2019). Cryphalus eriobotryae sp. nov. (Coleoptera: Curculionidae: Scolytinae), a New Insect Pest of Loquat Eriobotrya japonica in China. Insects 10: 180.",
+      "doi": "10.3390/insects10060180"
+    },
+    {
+      "id": "src_yangcryphaluschecklistal2020",
+      "label": "Yang, 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Yang, L. (2020). Checklist of the genus Cryphalus Erichson, 1836 (Coleoptera: Curculionidae: Scolytinae) with special attention to Chinese species. Zoological Systematics 45(3): 176–205.",
+      "doi": "10.11865/zs.202023"
+    }
+  ]
+}

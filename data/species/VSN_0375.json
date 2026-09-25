@@ -1,0 +1,234 @@
+{
+  "vsn": "VSN_0375",
+  "scientific_name": "Anisandrus hirtus",
+  "authorship": "(Hagedorn, 1904)",
+  "chinese_name": "",
+  "genus": "Anisandrus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Fujian; Guangxi; Jiangxi; Sichuan; Xizang; Yunnan; Taiwan",
+    "narrative": "Smith et al. (2020) records Anisandrus hirtus from Fujian, Guangxi, Jiangxi, Sichuan, Xizang, Yunnan and Taiwan. Beaver & Liu (2010) independently supports Taiwan; no new mainland province is inferred."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Lamiaceae"
+    },
+    {
+      "scientific_name": "Lauraceae"
+    },
+    {
+      "scientific_name": "Magnoliaceae"
+    },
+    {
+      "scientific_name": "Rutaceae"
+    },
+    {
+      "scientific_name": "Symplocaceae"
+    },
+    {
+      "scientific_name": "Zelkova formosana"
+    }
+  ],
+  "host_note": "Family-level associations from Smith et al. (2020) are retained at family resolution. Beaver & Liu (2010) adds the resolved Taiwan host Zelkova formosana, recorded under Xyleborus taiwanensis.",
+  "taxonomy_summary": "The current accepted identity is Anisandrus hirtus (Hagedorn, 1904).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1904",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus hirtus",
+      "authorship": "Hagedorn, 1904",
+      "note": "Original combination / basionym, original-description p. 126.",
+      "reference_ids": [
+        "orig_hagedorn1904",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1914",
+      "event": "Synonym",
+      "name": "Xyleborus hagedorni",
+      "authorship": "Stebbing, 1914",
+      "note": "Published name currently treated as a synonym; original-description p. 596.",
+      "reference_ids": [
+        "orig_stebbing1914",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Synonym",
+      "name": "Xyleborus hirtuosus",
+      "authorship": "Beeson, 1930",
+      "note": "Published name currently treated as a synonym; original-description p. 217.",
+      "reference_ids": [
+        "orig_beeson1930",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1952",
+      "event": "Synonym",
+      "name": "Xyleborus hagedornianus",
+      "authorship": "Schedl, 1952",
+      "note": "Published name currently treated as a synonym; original-description p. 164.",
+      "reference_ids": [
+        "orig_schedl1952",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1956",
+      "event": "Synonym",
+      "name": "Xyleborus tectonae",
+      "authorship": "Nunberg, 1956",
+      "note": "Published name currently treated as a synonym; original-description p. 209.",
+      "reference_ids": [
+        "orig_nunberg1956",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1969",
+      "event": "Synonym",
+      "name": "Xyleborus hirtipes",
+      "authorship": "Schedl, 1969",
+      "note": "Published name currently treated as a synonym; original-description p. 53.",
+      "reference_ids": [
+        "orig_schedl1969",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1980",
+      "event": "Synonym",
+      "name": "Xyleborus taiwanensis",
+      "authorship": "Browne, 1980",
+      "note": "Published name currently treated as a synonym; original-description p. 386.",
+      "reference_ids": [
+        "orig_browne1980",
+        "src_beaverliu2010",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "Current",
+      "event": "Current accepted",
+      "name": "Anisandrus hirtus",
+      "authorship": "(Hagedorn, 1904)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Beaver & Liu (2010) synonymized Xyleborus taiwanensis Browne under Anisandrus hirtus after type comparison.",
+  "nomenclature_note_reference_ids": [
+    "src_beaverliu2010"
+  ],
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_hagedorn1904",
+      "label": "Hagedorn, 1904b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hagedorn, J.M. (1904b). Enumeratio Scolytidarum e Sikkim et Japan natarum Musei historiconaturalis Parisiorum, quas dominus J. Harmand annis 1890 et 1901 collegit descriptionibus specierum novarum adjectis. Bulletin du Muséum d'Histoire Naturelle de Paris 10: 122–126."
+    },
+    {
+      "id": "orig_stebbing1914",
+      "label": "Stebbing, 1914",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Stebbing, E.P. (1914). Indian forest insects of economic importance. Coleoptera. Eyre & Spottiswoode, Ltd., London. xvi + 648 pp, 63 pls.",
+      "doi": "10.5962/bhl.title.9203"
+    },
+    {
+      "id": "orig_beeson1930",
+      "label": "Beeson, 1930",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1930). The biology of the genus Xyleborus, with more new species. Indian Forest Records, Entomology 14(10): 209–272."
+    },
+    {
+      "id": "orig_schedl1952",
+      "label": "Schedl, 1952f",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1952f). Zur Synonymie der Borkenkäfer. I. 121 Beitrag. Entomologische Blätter 47–48: 158–164."
+    },
+    {
+      "id": "orig_nunberg1956",
+      "label": "Nunberg, 1956c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Nunberg, M. (1956c). Zmiany nazw i synonimika niektórych korników (Coleoptera, Scolytidae) [Namensänderungen und Synonymie einiger Borkenkäfer (Coleoptera, Scolytidae)]. Annales Zoologici 16(15): 207–214 + Tab. XXIX–XXX."
+    },
+    {
+      "id": "orig_schedl1969",
+      "label": "Schedl, 1969d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1969d). Indian bark and timber beetles, V. 217 Contribution. Oriental Insects 3(1): 47–70.",
+      "doi": "10.1080/00305316.1969.10433895"
+    },
+    {
+      "id": "orig_browne1980",
+      "label": "Browne, 1980b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Browne, F.G. (1980b). Bark beetles and ambrosia beetles intercepted at Japanese ports, with descriptions of new species, II. Kontyû 48(3): 380–389."
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ]
+}

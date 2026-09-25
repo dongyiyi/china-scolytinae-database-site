@@ -1,0 +1,164 @@
+{
+  "vsn": "VSN_1971",
+  "scientific_name": "Cyclorhipidion bodoanum",
+  "authorship": "(Reitter, 1913)",
+  "chinese_name": "",
+  "genus": "Cyclorhipidion",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建；黑龙江；贵州；江西；云南；香港；台湾",
+    "narrative": "Smith et al. (2020) records Fujian, Heilongjiang, Guizhou, Jiangxi, Yunnan, Hong Kong and Taiwan. Lau (2025) provides additional secondary checklist evidence for Hong Kong occurrence. Lin & Smith (2022) independently records Taiwan; this confirms Taiwan occurrence without changing the reviewed province-level mainland synthesis."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Cyclobalanopsis glauca (= Quercus glauca)"
+    }
+  ],
+  "host_note": "The synonym-style source annotation Cyclobalanopsis glauca [= Quercus glauca] is retained explicitly. Lin & Smith (2022) adds no promoted host evidence for this taxon.",
+  "taxonomy_summary": "The current accepted identity is Cyclorhipidion bodoanum (Reitter, 1913).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1913",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus bodoanus",
+      "authorship": "Reitter, 1913",
+      "note": "Original combination / basionym, original-description p. 82.",
+      "reference_ids": [
+        "orig_772f13aee14a",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1981",
+      "event": "Synonym",
+      "name": "Xyleborus misatoensis",
+      "authorship": "Nobuchi, 1981",
+      "note": "Published name currently treated as a synonym; original-description p. 143.",
+      "reference_ids": [
+        "orig_a5984cac462c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1948",
+      "event": "Synonym",
+      "name": "Xyleborus punctulatus",
+      "authorship": "Kurentsov, 1948",
+      "note": "Published name currently treated as a synonym; original-description p. 52.",
+      "reference_ids": [
+        "orig_9452b91c9b25",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1953",
+      "event": "Synonym",
+      "name": "Xyleborus takinoyensis",
+      "authorship": "Murayama, 1953",
+      "note": "Published name currently treated as a synonym; original-description p. 109.",
+      "reference_ids": [
+        "orig_e3dbb9437d5c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1913",
+      "event": "Current accepted",
+      "name": "Cyclorhipidion bodoanum",
+      "authorship": "(Reitter, 1913)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_772f13aee14a",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 4 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "src_linsmith2022",
+      "label": "Lin & Smith, 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Lin, C.-S. & Smith, S.M. (2022). Four new species of Cyclorhipidion and five new records of other xyleborine genera (Coleoptera, Curculionidae, Scolytinae, Xyleborini) from Taiwan. Taiwania 67(3): 285–301.",
+      "doi": "10.6165/tai.2022.67.285"
+    },
+    {
+      "id": "orig_772f13aee14a",
+      "label": "Reitter, 1913",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Reitter, E. (1913). Bestimmungs-Tabelle der Borkenkäfer (Scolytidae) aus Europa und den angrenzenden Ländern. Wiener Entomologische Zeitung 32 (Supplement): 1–116."
+    },
+    {
+      "id": "orig_a5984cac462c",
+      "label": "Nobuchi, 1981c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Nobuchi, A. (1981c). Studies on Scolytidae (Coleoptera). XXII. Six new species and two new females of the genus Xyleborus from Japan. Kontyû 49(1): 143–154."
+    },
+    {
+      "id": "orig_9452b91c9b25",
+      "label": "Kurentsov, 1948",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Kurentsov, A.I. (1948). Novye damnye po faune koroedov (Coleoptera, Ipidae) Primorskogo Kraya [New data on the bark-beetle fauna of the Maritime Region (Soviet Far East)]. Entomologicheskoe Obozrenie 30(1-2): 50–52."
+    },
+    {
+      "id": "orig_e3dbb9437d5c",
+      "label": "Murayama, 1953a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1953a). Studies in the pine bark beetle control. Report of the Pine Bark Beetle Control Investigation Society, Development of Scientific Research. publisher unknown, presumably in Japan 113 pp."
+    }
+  ]
+}

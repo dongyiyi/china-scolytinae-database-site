@@ -1,0 +1,127 @@
+{
+  "vsn": "VSN_1699",
+  "scientific_name": "Cryphalus fulvus",
+  "authorship": "Niisima, 1908",
+  "chinese_name": "黄色梢小蠹",
+  "genus": "Cryphalus",
+  "subfamily": "Scolytinae",
+  "tribe": "Cryphalini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "辽宁; 台湾",
+    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) support occurrence in 辽宁, with 殷蕙芬等 (1984) specifying 鞍山. Beaver & Liu (2010) gives the source wording China (NE); Taiwan and documents Taiwan material from Hsinchu, Kinmen and Taipei (Xizhi). The broad China (NE) wording is not expanded beyond the baseline province-level evidence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Pinus thunbergii"
+    },
+    {
+      "scientific_name": "Pinus spp. (additional species unspecified)"
+    }
+  ],
+  "host_note": "殷蕙芬等 (1984) and 黄复生等 (2015) report Pinus thunbergii (黑松). Beaver & Liu (2010) reports Pinus spp. The current synthesis therefore retains the exact species record and separately notes additional Pinus hosts that are not identified to species in the 2010 source.",
+  "taxonomy_summary": "The current accepted identity is Cryphalus fulvus Niisima, 1908.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1921",
+      "event": "Synonym",
+      "name": "Cryphalus pini",
+      "authorship": "Eggers, 1921",
+      "note": "Published name currently treated as a synonym; original-description p. 39.",
+      "reference_ids": [
+        "orig_bcab9c9f7de7",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1908",
+      "event": "Current accepted",
+      "name": "Cryphalus fulvus",
+      "authorship": "Niisima, 1908",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_4a16ffaa3ec3",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Cryphalus fulvus Niisima, 1908, VSN_1699. 殷蕙芬等 (1984), 黄复生等 (2015) and Beaver & Liu (2010) all use Cryphalus fulvus with authorship Niisima. A previous profile record gave authorship Eichhoff, 1878 was inconsistent with the integrated taxonomic backbone and is not used for the current accepted authorship.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_yangcryphaluschecklistal2020",
+      "label": "Yang, 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Yang, L. (2020). Checklist of the genus Cryphalus Erichson, 1836 (Coleoptera: Curculionidae: Scolytinae) with special attention to Chinese species. Zoological Systematics 45(3): 176–205.",
+      "doi": "10.11865/zs.202023"
+    },
+    {
+      "id": "orig_4a16ffaa3ec3",
+      "label": "Niisima, 1908",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Niisima, Y. (1908). Über die japanischen Cryphalus-Arten. Verhandlungen der Kaiserlich-Königlichen Zoologische-Botanischen Gesellschaft in Wien 58: 89–92."
+    },
+    {
+      "id": "orig_bcab9c9f7de7",
+      "label": "Eggers, 1921",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1921). Seltene und neue paläarktische Borkenkäfer, II. Entomologische Blätter 17: 39–43."
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "vsn": "VSN_5934",
+  "scientific_name": "Truncaudum agnatum",
+  "authorship": "(Eggers, 1923)",
+  "chinese_name": "长截材小蠹",
+  "genus": "Truncaudum",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Unreviewed",
+  "review_status": "Not started",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Truncaudum agnatum (Eggers, 1923).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1923",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus agnatus",
+      "authorship": "Eggers, 1923",
+      "note": "Original combination / basionym, original-description p. 197.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Xyleborus polyodon",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 196.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1942",
+      "event": "Synonym",
+      "name": "Xyleborus nutans",
+      "authorship": "Schedl, 1942",
+      "note": "Published name currently treated as a synonym; original-description p. 199.",
+      "reference_ids": [
+        "orig_5405f00dff87",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1955",
+      "event": "Synonym",
+      "name": "Xyleborus delicatus",
+      "authorship": "Schedl, 1955",
+      "note": "Published name currently treated as a synonym; original-description p. 300.",
+      "reference_ids": [
+        "orig_e68b12b7cac1",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1975",
+      "event": "Synonym",
+      "name": "Xyleborus gratiosus",
+      "authorship": "Schedl, 1975",
+      "note": "Published name currently treated as a synonym; original-description p. 366.",
+      "reference_ids": [
+        "orig_cad9c6466d59",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1992",
+      "event": "Synonym",
+      "name": "Cyclorhipidion subagnatum",
+      "authorship": "Wood, 1992",
+      "note": "Published name currently treated as a synonym; original-description p. 85.",
+      "reference_ids": [
+        "orig_4713a42cfa88",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Current accepted",
+      "name": "Truncaudum agnatum",
+      "authorship": "(Eggers, 1923)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 6 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "orig_4713a42cfa88",
+      "label": "Wood, 1992",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Wood, S.L. (1992). Nomenclatural changes and new species in Platypodidae and Scolytidae (Coleoptera), Part II. The Great Basin Naturalist 52(1): 78–88."
+    },
+    {
+      "id": "orig_5405f00dff87",
+      "label": "Schedl, 1942b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1942b). Forschungberiche zur Scolytoiden-Fauna der Malayischen Halbinsel, V. 80 Betrag. Kolonialforstliche Mitteilungen 5(2-3): 169–218."
+    },
+    {
+      "id": "orig_c8c8b73ae935",
+      "label": "Eggers, 1923b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3-4): 129–220."
+    },
+    {
+      "id": "orig_cad9c6466d59",
+      "label": "Schedl, 1975a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1975a). New Scolytidae and Platypodidae from Papua and New Guinea, IV. 317 Contribution to the Morphology and Taxonomy of the Scolytoidea. Annalen des Naturhistorischen Museums in Wien. Serie B für Botanik und Zoologie 79: 337–399."
+    },
+    {
+      "id": "orig_e68b12b7cac1",
+      "label": "Schedl, 1955e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1955e). Borfken- und Ambrosiakäfer aus den Pazifischen Raum. 150 Beitrag zur Morphologie und Systematik der Scolytoidea. Entomologische Arbeiten aus dem Museum Georg Frey 6: 277–310."
+    }
+  ]
+}

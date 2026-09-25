@@ -1,0 +1,86 @@
+{
+  "vsn": "VSN_1717",
+  "scientific_name": "Cryphalus itinerans",
+  "authorship": "Johnson, 2020",
+  "chinese_name": "华南梢小蠹",
+  "genus": "Cryphalus",
+  "subfamily": "Scolytinae",
+  "tribe": "Cryphalini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Hainan; Fujian; Guangdong; Guangxi; Yunnan; Hong Kong; Taiwan",
+    "narrative": "Johnson et al. (2020) describes the species from southern China, Hong Kong and Taiwan. Guangxi is retained from directly examined material despite omission from the compact distribution sentence. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Ficus carica"
+    },
+    {
+      "scientific_name": "Ficus erecta var. beecheyana"
+    },
+    {
+      "scientific_name": "Broussonetia papyrifera"
+    }
+  ],
+  "host_note": "Three Moraceae hosts are directly supported.",
+  "taxonomy_summary": "The current accepted identity is Cryphalus itinerans Johnson, 2020.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2020",
+      "event": "Current accepted",
+      "name": "Cryphalus itinerans",
+      "authorship": "Johnson, 2020",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "src_johnsonetal2020_cryphaluseastasia",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Cryphalus itinerans Johnson, 2020 was described as new; previously referred to as Hypocryphalus sp.1422.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_johnsonetal2020_cryphaluseastasia",
+      "label": "Johnson et al., 2020",
+      "role": [
+        "published evidence",
+        "nomenclatural source"
+      ],
+      "citation": "Johnson, A.J., Li, Y., Mandelshtam, M.Yu., Park, S., Lin, C.-S., Gao, L. & Hulcr, J. (2020). East Asian Cryphalus Erichson (Curculionidae, Scolytinae): new species, new synonymy and redescriptions of species. ZooKeys 995: 15–66.",
+      "doi": "10.3897/zookeys.995.55981"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    }
+  ]
+}

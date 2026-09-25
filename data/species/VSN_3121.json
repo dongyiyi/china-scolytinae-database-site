@@ -1,0 +1,148 @@
+{
+  "vsn": "VSN_3121",
+  "scientific_name": "Hylurgops interstitialis",
+  "authorship": "(Chapuis, 1876)",
+  "chinese_name": "红松干小蠹",
+  "genus": "Hylurgops",
+  "subfamily": "Scolytinae",
+  "tribe": "Hylastini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Questionable",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "黑龙江；吉林；辽宁",
+    "narrative": "Mainland China is confirmed by 殷蕙芬等 (1984) and 黄复生等 (2015) (Heilongjiang, Jilin and Liaoning). Beaver & Liu (2010) separately treated the historical Taiwan attribution as doubtful, noting a northeastern Palaearctic species and a Taiwan report likely based on Shiraki material. Taiwan is therefore retained as Questionable and is not added to the current distribution summary."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Picea koraiensis"
+    },
+    {
+      "scientific_name": "Pinus koraiensis"
+    }
+  ],
+  "host_note": "Current hosts Picea koraiensis and Pinus koraiensis are supported by 殷蕙芬等 (1984) and 黄复生等 (2015). Beaver & Liu (2010) provides no host evidence for the doubtful Taiwan record.",
+  "taxonomy_summary": "The current accepted identity is Hylurgops interstitialis (Chapuis, 1876).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1876",
+      "event": "Original combination / basionym",
+      "name": "Hylastes interstitialis",
+      "authorship": "Chapuis, 1876",
+      "note": "Original combination / basionym, original-description p. 196.",
+      "reference_ids": [
+        "orig_16f436d94e7b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1900",
+      "event": "Synonym",
+      "name": "Hylastes imitator",
+      "authorship": "Reitter, 1900",
+      "note": "Published name currently treated as a synonym; original-description p. 59.",
+      "reference_ids": [
+        "orig_ad1007b9f410",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1936",
+      "event": "Synonym",
+      "name": "Hylurgops nipponicus",
+      "authorship": "Murayama, 1936",
+      "note": "Published name currently treated as a synonym; original-description p. 123.",
+      "reference_ids": [
+        "orig_0f30687b0155",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1876",
+      "event": "Current accepted",
+      "name": "Hylurgops interstitialis",
+      "authorship": "(Chapuis, 1876)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_16f436d94e7b",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Current identity is Hylurgops interstitialis (Chapuis, 1876), VSN_3121. The Beaver & Liu (2010) issue concerns Taiwan occurrence, not taxon identity.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_ad1007b9f410",
+      "label": "Reitter, 1900",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Reitter, E. (1900). Beitrag zur Coleopteren-Fauna des russischen Reiches. Deutsche Entomologische Zeitschrift 1900: 49–59."
+    },
+    {
+      "id": "orig_16f436d94e7b",
+      "label": "Chapuis & Eichhoff, 1876",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Chapuis, F. & Eichhoff, W.J. (1876). Scolytides recueillis au Japon par M. C. Lewis [cont.]. Annales de la Société Entomologique de Belgique 18: 197–204."
+    },
+    {
+      "id": "orig_0f30687b0155",
+      "label": "Murayama, 1936",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1936). Notes sur les Scolytides (Coléoptères) de Honshu et Kiushu, Japon. Tenthredo 1(2): 121–149."
+    }
+  ]
+}

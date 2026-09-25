@@ -1,0 +1,174 @@
+{
+  "vsn": "VSN_3356",
+  "scientific_name": "Hypothenemus tristis",
+  "authorship": "(Eichhoff, 1876)",
+  "chinese_name": "",
+  "genus": "Hypothenemus",
+  "subfamily": "Scolytinae",
+  "tribe": "Trypophloeini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾",
+    "narrative": "Beaver & Liu (2010) accepts Taiwan occurrence under the source name Hypothenemus taihokuensis."
+  },
+  "hosts": [],
+  "host_note": "Host unknown in Beaver & Liu (2010); no host is promoted.",
+  "taxonomy_summary": "The current accepted identity is Hypothenemus tristis (Eichhoff, 1876).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1876",
+      "event": "Synonym",
+      "name": "Dryocoetes apatoides",
+      "authorship": "Eichhoff, 1876",
+      "note": "Johnson et al. (2026) lists this name as a synonym of Hypothenemus tristis, although the same checklist also recognizes Dryocoetiops apatoides (Eichhoff, 1876) as a separate accepted species. This conflicting source assertion is retained for provenance and is not adopted as current synonymy in the present synthesis.",
+      "reference_ids": [
+        "orig_16f436d94e7b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1876",
+      "event": "Original combination / basionym",
+      "name": "Stephanoderes tristis",
+      "authorship": "Eichhoff, 1876",
+      "note": "Original combination / basionym, original-description p. 200.",
+      "reference_ids": [
+        "orig_16f436d94e7b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1894",
+      "event": "Synonym",
+      "name": "Hypothenemus expers",
+      "authorship": "Blandford, 1894",
+      "note": "Published name currently treated as a synonym; original-description p. 85.",
+      "reference_ids": [
+        "orig_a1d45147b2c3",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1952",
+      "event": "Synonym",
+      "name": "Stephanoderes taihokuensis",
+      "authorship": "Schedl, 1952",
+      "note": "Published name currently treated as a synonym; original-description p. 63.",
+      "reference_ids": [
+        "orig_22dc78abfd38",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1961",
+      "event": "Synonym",
+      "name": "Hypothenemus cosmoderoides",
+      "authorship": "Murayama, 1961",
+      "note": "Published name currently treated as a synonym; original-description p. 30.",
+      "reference_ids": [
+        "orig_96185fad7eec",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1989",
+      "event": "Synonym",
+      "name": "Hypothenemus seoulensis",
+      "authorship": "Choo & Woo, 1989",
+      "note": "Published name currently treated as a synonym; original-description p. 58.",
+      "reference_ids": [
+        "orig_3255a0fa714b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1876",
+      "event": "Current accepted",
+      "name": "Hypothenemus tristis",
+      "authorship": "(Eichhoff, 1876)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_16f436d94e7b",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Hypothenemus tristis (Eichhoff, 1876), VSN_3356. Johnson et al. (2026) lists Dryocoetes apatoides Eichhoff, 1876 as a synonym of H. tristis, but the same checklist also recognizes Dryocoetiops apatoides (Eichhoff, 1876) as a separate accepted species. This internally conflicting treatment is retained in the source-level taxonomic history for provenance, but Dryocoetes apatoides is not adopted as a current synonym of H. tristis in the present synthesis. Beaver & Liu (2010) treated Hypothenemus taihokuensis (Schedl) as the accepted name and synonymized H. cosmoderoides under it; that historical treatment is likewise retained at the source layer.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_16f436d94e7b",
+      "label": "Chapuis & Eichhoff, 1876",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Chapuis, F. & Eichhoff, W.J. (1876). Scolytides recueillis au Japon par M. C. Lewis [cont.]. Annales de la Société Entomologique de Belgique 18: 197–204."
+    },
+    {
+      "id": "orig_96185fad7eec",
+      "label": "Murayama, 1961",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1961). Scolytid-beetles from Niigata Prefecture, Japan [in Japanese]. Akitu 10: 23–32."
+    },
+    {
+      "id": "orig_a1d45147b2c3",
+      "label": "Blandford, 1894c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
+    },
+    {
+      "id": "orig_3255a0fa714b",
+      "label": "Choo & Woo, 1989",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Choo, H.Y. & Woo, K.S. (1989). Four new species of Scolytidae (Coleoptera) from Korea. Korean Journal of Applied Entomology 28(2): 57–60."
+    },
+    {
+      "id": "orig_22dc78abfd38",
+      "label": "Schedl, 1952h",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1952h). Formosan Scolytoidea, I. lll Contribution to the morphology and taxonomy of the Scolytoidea. Philippine Journal of Science 81(1): 61–65."
+    }
+  ]
+}

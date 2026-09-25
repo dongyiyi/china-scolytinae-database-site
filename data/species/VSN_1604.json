@@ -1,0 +1,97 @@
+{
+  "vsn": "VSN_1604",
+  "scientific_name": "Cosmoderes attenuatus",
+  "authorship": "(Nobuchi, 1981)",
+  "chinese_name": "",
+  "genus": "Cosmoderes",
+  "subfamily": "Scolytinae",
+  "tribe": "Trypophloeini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Taiwan",
+    "narrative": "Accepted for Taiwan from Beaver & Liu (2010), which treats Cosmoderes attenuatus as a first Taiwan record. Reported Taiwan localities are Ilan (Fushan) and Nantou (Tsuifeng)."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Actinidia polygama"
+    },
+    {
+      "scientific_name": "Akebia trifoliata"
+    },
+    {
+      "scientific_name": "Stauntonia hexaphylla"
+    }
+  ],
+  "host_note": "Exact host species Actinidia polygama, Akebia trifoliata and Stauntonia hexaphylla are reported from Japan in Beaver & Liu (2010). The source explicitly states that the host is unknown in Taiwan; these hosts must not be represented as Taiwan host records.",
+  "taxonomy_summary": "The current accepted identity is Cosmoderes attenuatus (Nobuchi, 1981).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1981",
+      "event": "Original combination / basionym",
+      "name": "Pseudocosmoderes attenuatus",
+      "authorship": "Nobuchi, 1981",
+      "note": "Original combination / basionym, original-description p. 17.",
+      "reference_ids": [
+        "orig_a9e3424ad3a3",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1981",
+      "event": "Current accepted",
+      "name": "Cosmoderes attenuatus",
+      "authorship": "(Nobuchi, 1981)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_a9e3424ad3a3",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Cosmoderes attenuatus (Nobuchi, 1981), VSN_1604. Beaver & Liu (2010) treats C. attenuatus as distinct from C. monilicollis despite earlier proposed synonymy.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_a9e3424ad3a3",
+      "label": "Nobuchi, 1981b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Nobuchi, A. (1981b). Studies on Scolytidae (Coleoptera) XXI. Three new genera and species from Japan. Kontyû 49(1): 12–18."
+    }
+  ]
+}

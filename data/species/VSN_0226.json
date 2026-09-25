@@ -1,0 +1,203 @@
+{
+  "vsn": "VSN_0226",
+  "scientific_name": "Ambrosiodmus lewisi",
+  "authorship": "(Blandford, 1894)",
+  "chinese_name": "瘤粒材小蠹",
+  "genus": "Ambrosiodmus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Guangdong; Guangxi; Guizhou; Hainan; Hong Kong; Sichuan; Xizang; Yunnan; Taiwan",
+    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) document occurrence in Sichuan, Guangdong, Yunnan, Xizang, Taiwan, and Hainan. Smith et al. (2020) confirms several of these areas and adds Guizhou, Guangxi, and Hong Kong. Beaver & Liu (2010) independently supports China and Taiwan occurrence. The current synthesis retains the union of supported records. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Populus sp."
+    },
+    {
+      "scientific_name": "Salix sp."
+    },
+    {
+      "scientific_name": "Alnus sp."
+    },
+    {
+      "scientific_name": "Castanopsis indica"
+    },
+    {
+      "scientific_name": "Quercus sp."
+    },
+    {
+      "scientific_name": "Ficus carica"
+    },
+    {
+      "scientific_name": "Ailanthus altissima"
+    },
+    {
+      "scientific_name": "Mallotus barbatus"
+    },
+    {
+      "scientific_name": "Cyclobalanopsis sp."
+    },
+    {
+      "scientific_name": "Brownea capitella"
+    }
+  ],
+  "host_note": "Baseline host records are retained. Beaver & Liu (2010) describes broad polyphagy and family-level preferences, which remain contextual, but explicitly names Brownea capitella; that species-level record is added to the current host summary.",
+  "taxonomy_summary": "The current accepted identity is Ambrosiodmus lewisi (Blandford, 1894).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1894",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus lewisi",
+      "authorship": "Blandford, 1894",
+      "note": "Original combination / basionym, original-description p. 104.",
+      "reference_ids": [
+        "orig_blandford1894",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1912",
+      "event": "Synonym",
+      "name": "Ozopemon tuberculatus",
+      "authorship": "Strohmeyer, 1912",
+      "note": "Published name currently treated as a synonym; original-description p. 38.",
+      "reference_ids": [
+        "orig_strohmeyer1912",
+        "src_beaverliu2010",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Xyleborus lewekianus",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 181.",
+      "reference_ids": [
+        "orig_eggers1923",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Xyleborus tegalensis",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 181.",
+      "reference_ids": [
+        "orig_eggers1923",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "Current",
+      "event": "Current accepted",
+      "name": "Ambrosiodmus lewisi",
+      "authorship": "(Blandford, 1894)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Beaver & Liu (2010) synonymized Ozopemon tuberculatus with Ambrosiodmus lewisi after type comparison; the current backbone retains that treatment.",
+  "nomenclature_note_reference_ids": [
+    "src_beaverliu2010"
+  ],
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "orig_blandford1894",
+      "label": "Blandford, 1894c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
+    },
+    {
+      "id": "orig_strohmeyer1912",
+      "label": "Strohmeyer, 1912",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Strohmeyer, H. (1912). Sauter's Formosa-Ausbeute. Ipidae und Platypodidae. Entomologische Mitteilungen 1(2): 38–42."
+    },
+    {
+      "id": "orig_eggers1923",
+      "label": "Eggers, 1923b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3–4): 129–220."
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "vsn": "VSN_3173",
+  "scientific_name": "Hypothenemus aulmanni",
+  "authorship": "(Hagedorn, 1912)",
+  "chinese_name": "斜平胸咪小蠹",
+  "genus": "Hypothenemus",
+  "subfamily": "Scolytinae",
+  "tribe": "Trypophloeini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾（南投）",
+    "narrative": "Lin & Beaver (2021) provides the first Taiwan record of Hypothenemus aulmanni, based on two females collected in a funnel trap at Sun Moon Lake, Nantou."
+  },
+  "hosts": [],
+  "host_note": "The Taiwan specimens were trap-caught and have no direct host association. The paper lists Bauhinia variegata, Sesbania grandiflora, Gossypium sp. and Artocarpus heterophyllus from earlier literature; these are retained in the historical/source-evidence layer rather than promoted as Taiwan current hosts.",
+  "taxonomy_summary": "The current accepted identity is Hypothenemus aulmanni (Hagedorn, 1912).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1912",
+      "event": "Original combination / basionym",
+      "name": "Cryphalus aulmanni",
+      "authorship": "Hagedorn, 1912",
+      "note": "Original combination / basionym, original-description p. 41.",
+      "reference_ids": [
+        "orig_f88b7646cd35",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1920",
+      "event": "Synonym",
+      "name": "Hypothenemus tonsus",
+      "authorship": "Eggers, 1920",
+      "note": "Published name currently treated as a synonym; original-description p. 242.",
+      "reference_ids": [
+        "orig_6b9452a65af5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1912",
+      "event": "Current accepted",
+      "name": "Hypothenemus aulmanni",
+      "authorship": "(Hagedorn, 1912)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_f88b7646cd35",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Hypothenemus aulmanni (Hagedorn, 1912), VSN_3173.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_linbeaver2021_taiwanbarkbeetles",
+      "label": "Lin & Beaver, 2021",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Lin, C.-S. & Beaver, R.A. (2021). A new species and five new records of bark beetles (Coleoptera, Curculionidae, Scolytinae) from Taiwan. Taiwania 66(1): 1–10.",
+      "doi": "10.6165/tai.2021.66.1"
+    },
+    {
+      "id": "orig_f88b7646cd35",
+      "label": "Hagedorn, 1912b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hagedorn, J.M. (1912b). Ipiden als Kaffeeschädlinge. Entomologische Blätter 8(2): 33–43."
+    },
+    {
+      "id": "orig_6b9452a65af5",
+      "label": "Eggers, 1920a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1920a). 60 neue Borkenkäfer (Ipidae) aus Afrika, nebst zehn neuen Gattungen, zwei Abarten. Entomologische Blätter 15(10–12): 229–243."
+    }
+  ]
+}

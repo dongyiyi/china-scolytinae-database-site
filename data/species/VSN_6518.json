@@ -1,0 +1,95 @@
+{
+  "vsn": "VSN_6518",
+  "scientific_name": "Xylosandrus dentipennis",
+  "authorship": "Park & Smith, 2020",
+  "chinese_name": "",
+  "genus": "Xylosandrus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建；贵州；湖南；江西；上海；云南",
+    "narrative": "Lin et al. (2024) adds Hunan to the prior reviewed range."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Magnolia"
+    },
+    {
+      "scientific_name": "Camptotheca"
+    },
+    {
+      "scientific_name": "Choerospondias axillaris"
+    }
+  ],
+  "host_note": "Lin et al. (2024) directly reports Choerospondias axillaris; prior genus-level hosts are retained.",
+  "taxonomy_summary": "The current accepted identity is Xylosandrus dentipennis Park & Smith, 2020.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2020",
+      "event": "Current accepted",
+      "name": "Xylosandrus dentipennis",
+      "authorship": "Park & Smith, 2020",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_640e7734659d",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Xylosandrus dentipennis Park & Smith, 2020, VSN_6518.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_linetal2024_xylosandruschina",
+      "label": "Lin et al., 2024",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Lin, W., Liao, Y.-L., Li, Y., Smith, S.M., Yu, Y.-L. & Gao, L. (2024). New species and new records of Xylosandrus Reitter, 1913 (Coleoptera: Curculionidae: Scolytinae: Xyleborini) from China. Zootaxa 5528(1): 633–647.",
+      "doi": "10.11646/zootaxa.5528.1.41"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_640e7734659d",
+      "label": "Park et al., 2020",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Park, S., Smith, S.M., Cognato, A.I. & Beaver, R.A. (2020). Catalogue of Korean Xyleborine ambrosia beetles (Coleoptera: Curculionidae: Scolytinae) with seven new species. Journal of Asia-Pacific Biodiversity 13: 210–228.",
+      "doi": "10.1016/j.japb.2020.01.002"
+    }
+  ]
+}

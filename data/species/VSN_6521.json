@@ -1,0 +1,218 @@
+{
+  "vsn": "VSN_6521",
+  "scientific_name": "Xylosandrus discolor",
+  "authorship": "(Blandford, 1898)",
+  "chinese_name": "两色材小蠹",
+  "genus": "Xylosandrus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "重庆；福建；广东；广西；贵州；海南；湖南；江西；上海；四川；云南；香港；台湾",
+    "narrative": "Lin et al. (2024) confirms the reviewed range and adds Guizhou, Hunan and Shanghai in its province synthesis. Beaver & Liu (2010) independently accepts Taiwan occurrence. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence. Smith et al. (2022) independently supports Chongqing, Fujian, Guangdong, Guizhou, Hainan, Hong Kong, Jiangxi, Sichuan, Yunnan and Taiwan and provides locality evidence from Guizhou, Guiyang; it adds no new region to the current synthesis."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Castanopsis fargesii"
+    },
+    {
+      "scientific_name": "Machilus thunbergii"
+    },
+    {
+      "scientific_name": "Sophora japonica"
+    },
+    {
+      "scientific_name": "Ailanthus altissima"
+    },
+    {
+      "scientific_name": "Rhus chinensis"
+    },
+    {
+      "scientific_name": "Mangifera indica"
+    },
+    {
+      "scientific_name": "Albizia julibrissin"
+    },
+    {
+      "scientific_name": "Camellia sinensis"
+    },
+    {
+      "scientific_name": "Cassia siamea"
+    },
+    {
+      "scientific_name": "Castanopsis sp."
+    },
+    {
+      "scientific_name": "Coffea arabica"
+    },
+    {
+      "scientific_name": "Cinnamomum camphora"
+    },
+    {
+      "scientific_name": "Grevillea robusta"
+    },
+    {
+      "scientific_name": "Hevea brasiliensis"
+    },
+    {
+      "scientific_name": "Juglans regia"
+    },
+    {
+      "scientific_name": "Phoebe sp."
+    },
+    {
+      "scientific_name": "Rhus verniciflua"
+    },
+    {
+      "scientific_name": "Theobroma cacao"
+    },
+    {
+      "scientific_name": "Vitis amurensis"
+    },
+    {
+      "scientific_name": "Acacia auriculiformis"
+    }
+  ],
+  "host_note": "Lin et al. (2024) directly reports Acacia auriculiformis; baseline hosts are retained. Beaver & Liu (2010) describes the species as polyphagous but records no hosts from Taiwan. Smith et al. (2022) reports no host in the integrated record; no host taxon is added.",
+  "taxonomy_summary": "The current accepted identity is Xylosandrus discolor (Blandford, 1898).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1898",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus discolor",
+      "authorship": "Blandford, 1898",
+      "note": "Original combination / basionym, original-description p. 429.",
+      "reference_ids": [
+        "orig_3ae896338940",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1939",
+      "event": "Synonym",
+      "name": "Xyleborus posticestriatus",
+      "authorship": "Eggers, 1939",
+      "note": "Published name currently treated as a synonym; original-description p. 119.",
+      "reference_ids": [
+        "orig_c08a9cbfe48d",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1898",
+      "event": "Current accepted",
+      "name": "Xylosandrus discolor",
+      "authorship": "(Blandford, 1898)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_3ae896338940",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Xylosandrus discolor (Blandford, 1898), VSN_6521. Earlier profile text displayed a later authorship and is superseded by the stable integrated taxonomic backbone identity. Beaver & Liu (2010) follows the synonymy of Xyleborus posticestriatus with Xylosandrus discolor after syntype comparison.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "src_linetal2024_xylosandruschina",
+      "label": "Lin et al., 2024",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Lin, W., Liao, Y.-L., Li, Y., Smith, S.M., Yu, Y.-L. & Gao, L. (2024). New species and new records of Xylosandrus Reitter, 1913 (Coleoptera: Curculionidae: Scolytinae: Xyleborini) from China. Zootaxa 5528(1): 633–647.",
+      "doi": "10.11646/zootaxa.5528.1.41"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_smith2022",
+      "label": "Smith et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
+      "doi": "10.11646/zootaxa.5209.1.1"
+    },
+    {
+      "id": "orig_3ae896338940",
+      "label": "Blandford, 1898b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1898b). On some Oriental Scolytidae of economic importance, with descriptions of five new species. Transactions of the Entomological Society of London 1898: 423–430."
+    },
+    {
+      "id": "orig_c08a9cbfe48d",
+      "label": "Eggers, 1939a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1939a). Japanische Borkenkäfer, II. Arbeiten über Morphologische und Taxonomische Entomologie aus Berlin-Dahlem 6: 114–123."
+    }
+  ]
+}

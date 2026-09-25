@@ -1,0 +1,385 @@
+{
+  "vsn": "VSN_6219",
+  "scientific_name": "Xyleborus ferrugineus",
+  "authorship": "(Fabricius, 1801)",
+  "chinese_name": "",
+  "genus": "Xyleborus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "广东；台湾",
+    "narrative": "Lin et al. (2021) reports Shenzhen, Guangdong. Beaver & Liu (2010) provides a first Taiwan record from Chiayi, Zhongpu, 13.xii.1961. Guangdong and Taiwan are retained as current reviewed occurrence evidence from distinct sources."
+  },
+  "hosts": [],
+  "host_note": "The probable Litchi chinensis association from Lin et al. (2021) remains questionable. Beaver & Liu (2010) characterizes the species as strongly polyphagous but enumerates no host taxon in the curated record, so no additional host is promoted.",
+  "taxonomy_summary": "The current accepted identity is Xyleborus ferrugineus (Fabricius, 1801).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1801",
+      "event": "Original combination / basionym",
+      "name": "Bostrichus ferrugineus",
+      "authorship": "Fabricius, 1801",
+      "note": "Original combination / basionym, original-description p. 388.",
+      "reference_ids": [
+        "orig_7d3cbf594e53",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1868",
+      "event": "Synonym",
+      "name": "Tomicus trypanaeoides",
+      "authorship": "Wollaston, 1868",
+      "note": "Published name currently treated as a synonym; original-description p. 114.",
+      "reference_ids": [
+        "orig_836a02a9355f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1868",
+      "event": "Synonym",
+      "name": "Xyleborus confusus",
+      "authorship": "Eichhoff, 1868",
+      "note": "Published name currently treated as a synonym; original-description p. 401.",
+      "reference_ids": [
+        "orig_47f5e513af32",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1868",
+      "event": "Synonym",
+      "name": "Xyleborus fuscatus",
+      "authorship": "Eichhoff, 1868",
+      "note": "Published name currently treated as a synonym; original-description p. 400.",
+      "reference_ids": [
+        "orig_47f5e513af32",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1868",
+      "event": "Synonym",
+      "name": "Xyleborus retusicollis",
+      "authorship": "Zimmermann, 1868",
+      "note": "Published name currently treated as a synonym; original-description p. 146.",
+      "reference_ids": [
+        "orig_4d2698e16779",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1869",
+      "event": "Synonym",
+      "name": "Xyleborus amplicollis",
+      "authorship": "Eichhoff, 1869",
+      "note": "Published name currently treated as a synonym; original-description p. 280.",
+      "reference_ids": [
+        "orig_8acb2be6921b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1885",
+      "event": "Synonym",
+      "name": "Xyleborus insularis",
+      "authorship": "Sharp, 1885",
+      "note": "Published name currently treated as a synonym; original-description p. 193.",
+      "reference_ids": [
+        "orig_af0baab27e68",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1910",
+      "event": "Synonym",
+      "name": "Xyleborus tanganus",
+      "authorship": "Hagedorn, 1910",
+      "note": "Published name currently treated as a synonym; original-description p. 8.",
+      "reference_ids": [
+        "orig_8e8ffceb408c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Xyleborus nyssae",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 66.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Xyleborus soltaui",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 66.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1929",
+      "event": "Synonym",
+      "name": "Xyleborus hopkinsi",
+      "authorship": "Beeson, 1929",
+      "note": "Published name currently treated as a synonym; original-description p. 246.",
+      "reference_ids": [
+        "orig_7ca7be5c1b19",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1931",
+      "event": "Synonym",
+      "name": "Xyleborus argentinensis",
+      "authorship": "Schedl, 1931",
+      "note": "Published name currently treated as a synonym; original-description p. 345.",
+      "reference_ids": [
+        "orig_be0f8bc898d0",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1932",
+      "event": "Synonym",
+      "name": "Xyleborus rufopiceus",
+      "authorship": "Eggers, 1932",
+      "note": "Published name currently treated as a synonym; original-description p. 303.",
+      "reference_ids": [
+        "orig_223d523b2c10",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1934",
+      "event": "Synonym",
+      "name": "Xyleborus schedli",
+      "authorship": "Eggers, 1934",
+      "note": "Published name currently treated as a synonym; original-description p. 83.",
+      "reference_ids": [
+        "orig_cf48867895c8",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1940",
+      "event": "Synonym",
+      "name": "Xyleborus nesianus",
+      "authorship": "Beeson, 1940",
+      "note": "Published name currently treated as a synonym; original-description p. 200.",
+      "reference_ids": [
+        "orig_a1c816367ea2",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1941",
+      "event": "Synonym",
+      "name": "Xyleborus notatus",
+      "authorship": "Eggers, 1941",
+      "note": "Published name currently treated as a synonym; original-description p. 107.",
+      "reference_ids": [
+        "orig_c1149b148180",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1949",
+      "event": "Synonym",
+      "name": "Xyleborus subitus",
+      "authorship": "Schedl, 1949",
+      "note": "Published name currently treated as a synonym; original-description p. 280.",
+      "reference_ids": [
+        "orig_04e3aff80cb3",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1801",
+      "event": "Current accepted",
+      "name": "Xyleborus ferrugineus",
+      "authorship": "(Fabricius, 1801)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_7d3cbf594e53",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Lin et al. (2021) uses Xyleborus ferrugineus (Fabricius, 1801), mapping directly to existing integrated taxonomic backbone identity VSN_6219. No nomenclatural change is involved.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_linetal2021_xyleborusmainlandchina",
+      "label": "Lin et al., 2021",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Lin, W., Xu, M., Gao, L., Ruan, Y., Lai, S., Xu, Y. & Li, Y. (2021). New records of two invasive ambrosia beetles (Curculionidae: Scolytinae: Xyleborini) to mainland China. BioInvasions Records 10(1): 74–80.",
+      "doi": "10.3391/bir.2021.10.1.09"
+    },
+    {
+      "id": "orig_04e3aff80cb3",
+      "label": "Schedl, 1949b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1949b). Neotropical Scolytoidea, I. 97th Contribution to the morphology and taxonomy of the Scolytoidea (Col.). Revista Brasileira de Biologia 9(3): 261–284."
+    },
+    {
+      "id": "orig_223d523b2c10",
+      "label": "Eggers, 1932c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1932c). Neue Borkenkäfer (Ipidae, Col.) aus Africa (Nachtrag V). Revue de Zoologie et de Botanique Africaines 22(3): 191–304."
+    },
+    {
+      "id": "orig_47f5e513af32",
+      "label": "Eichhoff, 1868c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1868c). Neue amerikanische Borkenkäfer-Gattungen und Arten. Berliner Entomologische Zeitschrift 11: 399–402."
+    },
+    {
+      "id": "orig_4d2698e16779",
+      "label": "Zimmermann, 1868",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Zimmermann, C. (1868). Synopsis of the Scolytidae of America North of Mexico. Transactions of the American Entomological Society 2: 141–149."
+    },
+    {
+      "id": "orig_7ca7be5c1b19",
+      "label": "Beeson, 1929",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1929). Platypodidae and Scolytidae. Insects of Samoa 4(4): 217–248."
+    },
+    {
+      "id": "orig_7d3cbf594e53",
+      "label": "Fabricius, 1801",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Fabricius, J.C. (1801). Systema eleutheratorum secundum ordines, genera, species: adiectis synonimis, locis, observationibus, descriptionibus. Tomus II. Impensis Bibliopolii Academici Novi, Kiliae 687 pp."
+    },
+    {
+      "id": "orig_836a02a9355f",
+      "label": "Wollaston, 1868",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Wollaston, T.V. (1868). Coleoptera Hesperidum; being an enumeration of the Coleopterous insects of the Cape Verde archipelago [1867]. John Van Voorst, London xxxix + 285 pages."
+    },
+    {
+      "id": "orig_8acb2be6921b",
+      "label": "Eichhoff, 1869",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1869). Neue Borkenkäfer. Berliner Entomologische Zeitschrift 12(3-4): 273–282."
+    },
+    {
+      "id": "orig_8e8ffceb408c",
+      "label": "Hagedorn, 1910",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hagedorn, J.M. (1910). Diagnosen bisher unbeschriebener Borkenkäfer (Col.). Deutsche Entomologische Zeitschrift 1910: 1–13."
+    },
+    {
+      "id": "orig_a1c816367ea2",
+      "label": "Beeson, 1940",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1940). Scolytidae and Platypodidae of the Mangarevan Expedition. Occasional Papers of Bernice P. Bishop Museum 15(18): 191–203."
+    },
+    {
+      "id": "orig_a6f1a8831ef5",
+      "label": "Hopkins, 1915d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hopkins, A.D. (1915d). Classification of the Cryphalinae with descriptions of new genera and species. United States Department of Agriculture, Office of the Secretary. Report 99: 1–75 + 4 plates."
+    },
+    {
+      "id": "orig_af0baab27e68",
+      "label": "Blackburn & Sharp, 1885",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blackburn, T. & Sharp, D. (1885). Memoirs on the Coleoptera of the Hawaiian Islands [Scolytidae, p. 192-194]. Transactions of the Royal Dublin Society 2(3): 119–300."
+    },
+    {
+      "id": "orig_be0f8bc898d0",
+      "label": "Schedl, 1931a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1931a). Notes on the genus Xyleborus Eichh. Annals and Magazine of Natural History. Ser. 10, 8(46): 339–347.",
+      "doi": "10.1080/00222933108673402"
+    },
+    {
+      "id": "orig_c1149b148180",
+      "label": "Eggers, 1941a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1941a). Borkenkäfer aus Südamerika (Col. Ipid.) IX. Insel Guadeloupe. Arbeiten über Morphologische und Taxonomische Entomologie aus Berlin-Dahlem 8: 99–109."
+    },
+    {
+      "id": "orig_cf48867895c8",
+      "label": "Eggers, 1934a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1934a). Borkenkäfer (Ipidae, Col.) aus Südamerika, VII. Entomologische Blätter 30(2): 78–84."
+    }
+  ]
+}

@@ -1,0 +1,197 @@
+{
+  "vsn": "VSN_6512",
+  "scientific_name": "Xylosandrus compactus",
+  "authorship": "(Eichhoff, 1876)",
+  "chinese_name": "小滑材小蠹",
+  "genus": "Xylosandrus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建；广东；广西；贵州；海南；河南；香港；湖北；湖南；江苏；江西；四川；云南；浙江；台湾",
+    "narrative": "Baseline sources and Smith et al. (2020) support the earlier reviewed range. Lin et al. (2024) adds Henan. Beaver & Liu (2010) independently supports Taiwan and Lau (2025) independently supports Hong Kong. Smith et al. (2022) reports Fujian, Guangdong, Guangxi, Guizhou, Hainan, Hong Kong, Hubei, Hunan, Jiangsu, Jiangxi, Sichuan, Yunnan, Zhejiang and Taiwan; these are all already contained in the current synthesis, so no region is added."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Gossypium spp."
+    },
+    {
+      "scientific_name": "Coffea arabica"
+    },
+    {
+      "scientific_name": "Acer sp."
+    },
+    {
+      "scientific_name": "Camellia sinensis"
+    },
+    {
+      "scientific_name": "Cinnamomum camphora"
+    },
+    {
+      "scientific_name": "Persea americana"
+    },
+    {
+      "scientific_name": "Quercus sp."
+    },
+    {
+      "scientific_name": "Rhizophora apiculata"
+    },
+    {
+      "scientific_name": "Bombax ceiba"
+    },
+    {
+      "scientific_name": "Pinus massoniana"
+    },
+    {
+      "scientific_name": "Castanea henryi"
+    },
+    {
+      "scientific_name": "Castanea mollissima"
+    },
+    {
+      "scientific_name": "Yulania denudata"
+    }
+  ],
+  "host_note": "The current host synthesis, including Yulania denudata added by Lin et al. (2024), is retained. Smith et al. (2022) reports no host in the integrated record and adds no host taxon.",
+  "taxonomy_summary": "The current accepted identity is Xylosandrus compactus (Eichhoff, 1876).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1876",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus compactus",
+      "authorship": "Eichhoff, 1876",
+      "note": "Original combination / basionym, original-description p. 201.",
+      "reference_ids": [
+        "orig_16f436d94e7b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1912",
+      "event": "Synonym",
+      "name": "Xyleborus morstatti",
+      "authorship": "Hagedorn, 1912",
+      "note": "Published name currently treated as a synonym; original-description p. 37.",
+      "reference_ids": [
+        "orig_f88b7646cd35",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1876",
+      "event": "Current accepted",
+      "name": "Xylosandrus compactus",
+      "authorship": "(Eichhoff, 1876)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_16f436d94e7b",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Xylosandrus compactus (Eichhoff, 1876), VSN_6512. 殷蕙芬等 (1984) uses Xyleborus compactus.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "src_linetal2024_xylosandruschina",
+      "label": "Lin et al., 2024",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Lin, W., Liao, Y.-L., Li, Y., Smith, S.M., Yu, Y.-L. & Gao, L. (2024). New species and new records of Xylosandrus Reitter, 1913 (Coleoptera: Curculionidae: Scolytinae: Xyleborini) from China. Zootaxa 5528(1): 633–647.",
+      "doi": "10.11646/zootaxa.5528.1.41"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_smith2022",
+      "label": "Smith et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
+      "doi": "10.11646/zootaxa.5209.1.1"
+    },
+    {
+      "id": "orig_16f436d94e7b",
+      "label": "Chapuis & Eichhoff, 1876",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Chapuis, F. & Eichhoff, W.J. (1876). Scolytides recueillis au Japon par M. C. Lewis [cont.]. Annales de la Société Entomologique de Belgique 18: 197–204."
+    },
+    {
+      "id": "orig_f88b7646cd35",
+      "label": "Hagedorn, 1912b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hagedorn, J.M. (1912b). Ipiden als Kaffeeschädlinge. Entomologische Blätter 8(2): 33–43."
+    }
+  ]
+}

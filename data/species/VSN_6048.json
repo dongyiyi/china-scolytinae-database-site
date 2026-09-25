@@ -1,0 +1,201 @@
+{
+  "vsn": "VSN_6048",
+  "scientific_name": "Xyleborinus artestriatus",
+  "authorship": "(Eichhoff, 1878)",
+  "chinese_name": "",
+  "genus": "Xyleborinus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "重庆；福建；广东；广西；海南；上海；云南；香港；台湾",
+    "narrative": "Smith et al. (2020) records Chongqing, Fujian, Guangdong, Guangxi, Hainan, Shanghai, Yunnan, Hong Kong and Taiwan, plus one unresolved 'unknown province' record. Beaver & Liu (2010) independently reports the first Taiwan record from Nantou (Hui Son). Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [],
+  "host_note": "No host is reported in the promoted Smith record. Beaver & Liu (2010) describes the species as polyphagous but enumerates no host taxon; no host is promoted.",
+  "taxonomy_summary": "The current accepted identity is Xyleborinus artestriatus (Eichhoff, 1878).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1878",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus artestriatus",
+      "authorship": "Eichhoff, 1878",
+      "note": "Original combination / basionym, original-description p. 507.",
+      "reference_ids": [
+        "orig_df23847f2e11",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1896",
+      "event": "Synonym",
+      "name": "Xyleborus laticollis",
+      "authorship": "Blandford, 1896",
+      "note": "Published name currently treated as a synonym; original-description p. 226.",
+      "reference_ids": [
+        "orig_bb1f17fed112",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1925",
+      "event": "Synonym",
+      "name": "Xyleborus angustior",
+      "authorship": "Eggers, 1925",
+      "note": "Published name currently treated as a synonym; original-description p. 158.",
+      "reference_ids": [
+        "orig_ab66983e937b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1953",
+      "event": "Synonym",
+      "name": "Xyleborus rugipennis",
+      "authorship": "Schedl, 1953",
+      "note": "Published name currently treated as a synonym; original-description p. 303.",
+      "reference_ids": [
+        "orig_18d1a96882cf",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1974",
+      "event": "Synonym",
+      "name": "Xyleborus undatus",
+      "authorship": "Schedl, 1974",
+      "note": "Published name currently treated as a synonym; original-description p. 264.",
+      "reference_ids": [
+        "orig_a2e3f91dc1c2",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1979",
+      "event": "Synonym",
+      "name": "Xyleborinus beaveri",
+      "authorship": "Browne, 1979",
+      "note": "Published name currently treated as a synonym; original-description p. 603.",
+      "reference_ids": [
+        "orig_fb52ef8da769",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Current accepted",
+      "name": "Xyleborinus artestriatus",
+      "authorship": "(Eichhoff, 1878)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_df23847f2e11",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Xyleborinus artestriatus (Eichhoff, 1878), VSN_6048. Beaver & Liu (2010) additionally synonymizes Xyleborus beaveri Browne under Xyleborinus artestriatus after type comparisons; retained as source-specific taxonomic provenance.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_18d1a96882cf",
+      "label": "Schedl, 1953f",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1953f). Fauna Indo-Malayensis, III. Contribution 133 to the morphology and taxonomy of the Scolytoidea. Annals and Magazine of Natural History. Ser. 12, 6(64): 288–304.",
+      "doi": "10.1080/00222935308654424"
+    },
+    {
+      "id": "orig_a2e3f91dc1c2",
+      "label": "Schedl, 1974d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1974d). Borken- und Ambrosiakäfer aus Vietnam (IV). 298 Beitrag zur Morphologie und Systematik der Scolytoidea. Travaux du Muséum d'Histoire Naturelle 'Grigore Antipa' 14: 261–266."
+    },
+    {
+      "id": "orig_ab66983e937b",
+      "label": "Eggers, 1925",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1925). Ipidae aus Birma. Sborník Entomologického Oddělení Národního Musea v Praze 3(21): 151–160."
+    },
+    {
+      "id": "orig_bb1f17fed112",
+      "label": "Blandford, 1896e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1896e). Descriptions of new Scolytidae from the Indo-Malayan and Austro-Malayan regions. Transactions of the Entomological Society of London 1896: 191–228."
+    },
+    {
+      "id": "orig_df23847f2e11",
+      "label": "Eichhoff, 1878b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
+    },
+    {
+      "id": "orig_fb52ef8da769",
+      "label": "Beaver & Browne, 1979",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beaver, R.A. & Browne, F.G. (1979). The Scolytidae and Platypodidae (Coleoptera) of Penang, Malaysia. Oriental Insects 12(4): 575–624.",
+      "doi": "10.1080/00305316.1978.10432538"
+    }
+  ]
+}

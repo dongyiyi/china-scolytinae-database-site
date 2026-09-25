@@ -1,0 +1,142 @@
+{
+  "vsn": "VSN_3697",
+  "scientific_name": "Microperus perparvus",
+  "authorship": "(Sampson, 1922)",
+  "chinese_name": "暗微材小蠹",
+  "genus": "Microperus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建；贵州；湖南；江西；四川；西藏；云南；香港；台湾",
+    "narrative": "黄复生等 (2015) records Hunan, Guizhou, Fujian and Xizang under Coptodryas. Smith et al. (2020) confirms those areas and adds Hong Kong, Jiangxi, Sichuan, Yunnan and Taiwan under Microperus perparvus. Beaver & Liu (2010) independently reports the first Taiwan record, including Nantou, Hui Son, 23.ix.2006. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Cinnamomum camphora"
+    },
+    {
+      "scientific_name": "Phoebe sp."
+    },
+    {
+      "scientific_name": "Quercus sp."
+    }
+  ],
+  "host_note": "Baseline host set retained: Cinnamomum camphora, Phoebe sp. and Quercus sp. Smith et al. (2020) adds no host in the promoted record. Beaver & Liu (2010) characterizes the species as polyphagous, perhaps with preference for Dipterocarpaceae; this broad statement is contextual and adds no host taxon.",
+  "taxonomy_summary": "The current accepted identity is Microperus perparvus (Sampson, 1922).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1922",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus perparvus",
+      "authorship": "Sampson, 1922",
+      "note": "Original combination / basionym, original-description p. 151.",
+      "reference_ids": [
+        "orig_29cb466caf74",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1954",
+      "event": "Synonym",
+      "name": "Xyleborus tsukubanus",
+      "authorship": "Murayama, 1954",
+      "note": "Published name currently treated as a synonym; original-description p. 195.",
+      "reference_ids": [
+        "orig_8bd5ac435930",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1922",
+      "event": "Current accepted",
+      "name": "Microperus perparvus",
+      "authorship": "(Sampson, 1922)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_29cb466caf74",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "黄复生等 (2015) source-level scientific name is stored as Coptodryas perρarvus (with Greek rho) and Source Note gives Coptodryas perparva. Current canonical identity is Microperus perparvus (Sampson, 1922), VSN_3697. Beaver & Liu (2010) notes the prior transfer from Coptodryas to Microperus; source-level anomalies remain preserved upstream.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "orig_29cb466caf74",
+      "label": "Sampson, 1922b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Sampson, F.W. (1922b). Previously undescribed Scolytidae and Platypodidae from the Indian area. Annals and Magazine of Natural History. Ser. 9, 10(55): 145–152.",
+      "doi": "10.1080/00222932208632753"
+    },
+    {
+      "id": "orig_8bd5ac435930",
+      "label": "Murayama, 1954",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1954). Scolytid-fauna on the northern half of Honshu with a distribution table of all the scolytid-species described from Japan. Bulletin of the Faculty of Agriculture, Yamaguchi University 5: 149–212."
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "vsn": "VSN_5443",
+  "scientific_name": "Scolytoplatypus sinensis",
+  "authorship": "Tsai & Huang, 1965",
+  "chinese_name": "",
+  "genus": "Scolytoplatypus",
+  "subfamily": "Scolytinae",
+  "tribe": "Scolytoplatypodini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "重庆；福建；江西；四川；云南；浙江；台湾",
+    "narrative": "Liao et al. (2022) recognizes Scolytoplatypus sinensis as a distinct species and reports examined mainland records from Chongqing, Fujian, Jiangxi, Sichuan, Yunnan and Zhejiang. The source also acknowledges earlier Taiwan records, which are retained in current regional occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Cinnamomum cassia"
+    },
+    {
+      "scientific_name": "Cinnamomum camphora"
+    }
+  ],
+  "host_note": "Direct/examined source evidence supports Cinnamomum cassia and C. camphora. Additional host records Alnus cremastogyne, Amygdalus davidiana, Phoebe zhennan and Theaceae are literature-context records and are retained separately.",
+  "taxonomy_summary": "The current accepted identity is Scolytoplatypus sinensis Tsai & Huang, 1965.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1965",
+      "event": "Current accepted",
+      "name": "Scolytoplatypus sinensis",
+      "authorship": "Tsai & Huang, 1965",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_323c65c88963",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Liao et al. (2022) resurrects Scolytoplatypus sinensis Tsai & Huang, 1965 from synonymy with S. mikado. Stable identity VSN_5443 is retained.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_liaoetal2022_scolytoplatypuschina",
+      "label": "Liao et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Liao, S., Lai, S., Beaver, R.A., Gebhardt, H. & Wang, J. (2022). New species and new records of Scolytoplatypus Schaufuss (Curculionidae, Scolytinae) from China, and resurrection of Scolytoplatypus sinensis (Tsai & Huang, 1965) as a distinct species. ZooKeys 1082: 27–50.",
+      "doi": "10.3897/zookeys.1082.77637"
+    },
+    {
+      "id": "orig_323c65c88963",
+      "label": "Tsai & Huang, 1965",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Tsai, P.H. & Huang, F.S. (1965). Two new species of the genus Scolytoplatypus Schauf. from China. Acta Zootaxonomica Sinica 2: 121–125."
+    }
+  ]
+}

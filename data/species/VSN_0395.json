@@ -1,0 +1,86 @@
+{
+  "vsn": "VSN_0395",
+  "scientific_name": "Anisandrus tuberculatus",
+  "authorship": "Lin, Smith, Xu & Li, 2025",
+  "chinese_name": "",
+  "genus": "Anisandrus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Chongqing; Shaanxi; Sichuan",
+    "narrative": "Lin et al. (2025) described Anisandrus tuberculatus from western China based on type material from Chongqing and additional material from Shaanxi and Sichuan."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Quercus × leana"
+    },
+    {
+      "scientific_name": "Schima superba"
+    },
+    {
+      "scientific_name": "Camphora officinarum"
+    },
+    {
+      "scientific_name": "Castanea sp."
+    },
+    {
+      "scientific_name": "Salix babylonica"
+    }
+  ],
+  "host_note": "These host taxa are supported by direct specimen-label records. Arundinaria fargesii is retained only as habitat context because the specimen was ground-trapped in that forest, not collected ex host.",
+  "taxonomy_summary": "Anisandrus tuberculatus Lin, Smith, Xu & Li, 2025 was described as a new species by Lin et al. (2025) and is the current accepted identity.",
+  "taxonomy_reference_ids": [
+    "src_lin2025",
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2025",
+      "event": "Original description / current accepted",
+      "name": "Anisandrus tuberculatus",
+      "authorship": "Lin, Smith, Xu & Li, 2025",
+      "note": "Described as a new species; original-description p. 196.",
+      "reference_ids": [
+        "src_lin2025",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "No additional synonyms or historical combinations are currently linked to this taxon in the integrated backbone.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "src_lin2025",
+      "label": "Lin et al., 2025",
+      "role": [
+        "original description",
+        "distribution",
+        "host"
+      ],
+      "citation": "Lin, W., Smith, S.M., Xu, M. & Li, Y. (2025). A new species of Anisandrus Ferrari, 1867 (Coleoptera: Curculionidae: Scolytinae: Xyleborini) from Western China. Zootaxa 5652(1): 195–200.",
+      "doi": "10.11646/zootaxa.5652.1.20"
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ]
+}

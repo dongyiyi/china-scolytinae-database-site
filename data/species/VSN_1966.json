@@ -1,0 +1,124 @@
+{
+  "vsn": "VSN_1966",
+  "scientific_name": "Cyclorhipidion armiger",
+  "authorship": "(Schedl, 1953)",
+  "chinese_name": "窝背材小蠹",
+  "genus": "Cyclorhipidion",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建；江西；四川；云南；台湾",
+    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) record Fujian and Yunnan. Smith et al. (2020) confirms Fujian/Yunnan and adds Jiangxi, Sichuan and Taiwan. Lin & Smith (2022) independently records Taiwan, confirming the existing Taiwan assessment without adding a new mainland province."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Castanopsis sp."
+    },
+    {
+      "scientific_name": "Lithocarpus sp."
+    },
+    {
+      "scientific_name": "Quercus sp."
+    },
+    {
+      "scientific_name": "Anacardiaceae"
+    }
+  ],
+  "host_note": "Baseline hosts Castanopsis sp., Lithocarpus sp. and Quercus sp. are retained. Smith et al. (2020) adds only a family-level Anacardiaceae host record. Lin & Smith (2022) adds no promoted host evidence for this taxon.",
+  "taxonomy_summary": "The current accepted identity is Cyclorhipidion armiger (Schedl, 1953).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1953",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus armiger",
+      "authorship": "Schedl, 1953",
+      "note": "Original combination / basionym, original-description p. 28.",
+      "reference_ids": [
+        "orig_2c827d67f3ff",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1953",
+      "event": "Current accepted",
+      "name": "Cyclorhipidion armiger",
+      "authorship": "(Schedl, 1953)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_2c827d67f3ff",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "殷蕙芬等 (1984)/黄复生等 (2015) use Xyleborus armiger; Smith et al. (2020) uses the current combination Cyclorhipidion armiger. Canonical authorship follows integrated taxonomic backbone: (Schedl, 1953).",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_linsmith2022",
+      "label": "Lin & Smith, 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Lin, C.-S. & Smith, S.M. (2022). Four new species of Cyclorhipidion and five new records of other xyleborine genera (Coleoptera, Curculionidae, Scolytinae, Xyleborini) from Taiwan. Taiwania 67(3): 285–301.",
+      "doi": "10.6165/tai.2022.67.285"
+    },
+    {
+      "id": "orig_2c827d67f3ff",
+      "label": "Schedl, 1953a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1953a). Fauna Sinensis, I. (120. Beitrag zur Morphologie und Systematik der Scolytoidea). Entomologische Blätter 49: 22–30."
+    }
+  ]
+}

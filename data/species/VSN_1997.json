@@ -1,0 +1,119 @@
+{
+  "vsn": "VSN_1997",
+  "scientific_name": "Cyclorhipidion inarmatum",
+  "authorship": "(Eggers, 1923)",
+  "chinese_name": "",
+  "genus": "Cyclorhipidion",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "云南",
+    "narrative": "Smith et al. (2020) records Yunnan, including Lijiang. Smith et al. (2022) independently records Yunnan. This additional source supports the existing reviewed distribution without changing it."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Pistacia weinmannifolia"
+    }
+  ],
+  "host_note": "Pistacia weinmannifolia is retained as a species-level host from Smith et al. (2020). Smith et al. (2022) provides no host in the curated record, so no host update is made.",
+  "taxonomy_summary": "The current accepted identity is Cyclorhipidion inarmatum (Eggers, 1923).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1923",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus inarmatus",
+      "authorship": "Eggers, 1923",
+      "note": "Original combination / basionym, original-description p. 209.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1977",
+      "event": "Synonym",
+      "name": "Xyleborus vagans",
+      "authorship": "Schedl, 1977",
+      "note": "Published name currently treated as a synonym; original-description p. 504.",
+      "reference_ids": [
+        "orig_a1d661f4815d",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Current accepted",
+      "name": "Cyclorhipidion inarmatum",
+      "authorship": "(Eggers, 1923)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 2 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_smith2022",
+      "label": "Smith et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
+      "doi": "10.11646/zootaxa.5209.1.1"
+    },
+    {
+      "id": "orig_c8c8b73ae935",
+      "label": "Eggers, 1923b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3–4): 129–220."
+    },
+    {
+      "id": "orig_a1d661f4815d",
+      "label": "Schedl, 1977c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1977c). Some new bark beetles from the Indomalayan region. 332 Contribution to the morphology and taxonomy of the Scolytoidea. Oriental Insects 11(4): 490–504.",
+      "doi": "10.1080/00305316.1977.11090920"
+    }
+  ]
+}

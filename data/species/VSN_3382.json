@@ -1,0 +1,72 @@
+{
+  "vsn": "VSN_3382",
+  "scientific_name": "Indocryphalus chiyui",
+  "authorship": "Lin & Beaver, 2024",
+  "chinese_name": "棘毛暗翅印木小蠹",
+  "genus": "Indocryphalus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyloterini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾（台中）",
+    "narrative": "Lin & Beaver (2024) described Indocryphalus chiyui from Taichung City, Heping District, Taiwan. Taiwan occurrence is confirmed from the type series; no mainland-China occurrence is reported."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Castanopsis cuspidata var. carlesii"
+    }
+  ],
+  "host_note": "The original description directly reports adults and larvae from unhealthy branches and twigs of Castanopsis cuspidata var. carlesii. This host is promoted at the exact taxonomic resolution used in the source.",
+  "taxonomy_summary": "The current accepted identity is Indocryphalus chiyui Lin & Beaver, 2024.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2024",
+      "event": "Current accepted",
+      "name": "Indocryphalus chiyui",
+      "authorship": "Lin & Beaver, 2024",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "src_linbeaver2024_indocryphalustaiwan",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Indocryphalus chiyui Lin & Beaver was described as a new species in 2024 and maps directly to pre-existing integrated taxonomic backbone identity VSN_3382. No duplicate VSN is created.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_linbeaver2024_indocryphalustaiwan",
+      "label": "Lin & Beaver, 2024",
+      "role": [
+        "published evidence",
+        "nomenclatural source"
+      ],
+      "citation": "Lin, C.-S. & Beaver, R.A. (2024). Review of the genus Indocryphalus Eggers, 1939 (Coleoptera, Curculionidae, Scolytinae) in Taiwan with a new species. Taiwania 69(2): 257–265.",
+      "doi": "10.6165/tai.2024.69.257"
+    }
+  ]
+}

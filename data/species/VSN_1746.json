@@ -1,0 +1,240 @@
+{
+  "vsn": "VSN_1746",
+  "scientific_name": "Cryphalus mangiferae",
+  "authorship": "Stebbing, 1914",
+  "chinese_name": "芒果梢小蠹",
+  "genus": "Cryphalus",
+  "subfamily": "Scolytinae",
+  "tribe": "Cryphalini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建；广东；湖南；云南；台湾；香港",
+    "narrative": "Current occurrence is supported by Johnson et al. (2020) from Fujian, Guangdong, Hunan, Yunnan and Taiwan. Beaver & Liu (2010) provides earlier Taiwan evidence under the source name Hypocryphalus mangiferae and treats it as a first Taiwan record, with material from Hualien (Liyutan), Pingtung (Kenting), Taichung (National Chunghsing University) and Taitung (Taimali). Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Mangifera indica"
+    },
+    {
+      "scientific_name": "Choerospondias axillaris"
+    },
+    {
+      "scientific_name": "Mangifera odorata"
+    }
+  ],
+  "host_note": "Mangifera indica, Mangifera odorata and molecularly verified Choerospondias axillaris are retained as current hosts from Johnson et al. (2020). Beaver & Liu (2010) independently reports Mangifera indica, which is concordant and adds no new host taxon.",
+  "taxonomy_summary": "The current accepted identity is Cryphalus mangiferae Stebbing, 1914.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1872",
+      "event": "Synonym",
+      "name": "Cryphalus inops",
+      "authorship": "Eichhoff, 1872",
+      "note": "Published name currently treated as a synonym; original-description p. 131.",
+      "reference_ids": [
+        "orig_30887b352d84",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1942",
+      "event": "Synonym",
+      "name": "Cryphalus mimicus",
+      "authorship": "Schedl, 1942",
+      "note": "Published name currently treated as a synonym; original-description p. 17.",
+      "reference_ids": [
+        "orig_180460ae7106",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1942",
+      "event": "Synonym",
+      "name": "Cryphalus subcylindricus",
+      "authorship": "Schedl, 1942",
+      "note": "Published name currently treated as a synonym; original-description p. 16.",
+      "reference_ids": [
+        "orig_180460ae7106",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1929",
+      "event": "Synonym",
+      "name": "Hypocryphalus mangiferae",
+      "authorship": "Beeson, 1929",
+      "note": "Published name currently treated as a synonym; original-description p. 226.",
+      "reference_ids": [
+        "orig_7ca7be5c1b19",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1928",
+      "event": "Synonym",
+      "name": "Hypocryphalus mangiferae",
+      "authorship": "Eggers, 1928",
+      "note": "Published name currently treated as a synonym; original-description p. 85.",
+      "reference_ids": [
+        "orig_58c7f4d69224",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1942",
+      "event": "Synonym",
+      "name": "Hypocryphalus opacus",
+      "authorship": "Schedl, 1942",
+      "note": "Published name currently treated as a synonym; original-description p. 20.",
+      "reference_ids": [
+        "orig_180460ae7106",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1885",
+      "event": "Synonym",
+      "name": "Hypothenemus griseus",
+      "authorship": "Blackburn, 1885",
+      "note": "Published name currently treated as a synonym; original-description p. 194.",
+      "reference_ids": [
+        "orig_af0baab27e68",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1970",
+      "event": "Synonym",
+      "name": "Taenioglyptes artestriatus",
+      "authorship": "Browne, 1970",
+      "note": "Published name currently treated as a synonym; original-description p. 553.",
+      "reference_ids": [
+        "orig_c0f10477bcc1",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1914",
+      "event": "Current accepted",
+      "name": "Cryphalus mangiferae",
+      "authorship": "Stebbing, 1914",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_3c2b62796c19",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Cryphalus mangiferae Stebbing, 1914, VSN_1746. Beaver & Liu (2010) uses the historical combination Hypocryphalus mangiferae (Stebbing). Johnson et al. (2020) uses Cryphalus mangiferae and newly synonymizes Taenioglyptes artestriatus Browne, 1970 with it. Both historical nomenclatural contexts are preserved without changing the stable VSN.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_johnsonetal2020_cryphaluseastasia",
+      "label": "Johnson et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Johnson, A.J., Li, Y., Mandelshtam, M.Yu., Park, S., Lin, C.-S., Gao, L. & Hulcr, J. (2020). East Asian Cryphalus Erichson (Curculionidae, Scolytinae): new species, new synonymy and redescriptions of species. ZooKeys 995: 15–66.",
+      "doi": "10.3897/zookeys.995.55981"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "orig_30887b352d84",
+      "label": "Eichhoff, 1872a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1872a). Neue exotische Tomiciden-Arten. Berliner Entomologische Zeitschrift 15: 131–136."
+    },
+    {
+      "id": "orig_3c2b62796c19",
+      "label": "Stebbing, 1914",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Stebbing, E.P. (1914). Indian forest insects of economic importance. Coleoptera. Eyre & Spottiswoode, Ltd., London. xvi + 648 pp, 63 pls.",
+      "doi": "10.5962/bhl.title.9203"
+    },
+    {
+      "id": "orig_180460ae7106",
+      "label": "Schedl, 1942d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1942d). Neue Scolytidae aus Java. 76 Beitrag. Tijdschrift voor Entomologie 85: 1–49."
+    },
+    {
+      "id": "orig_7ca7be5c1b19",
+      "label": "Beeson, 1929",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1929). Platypodidae and Scolytidae. Insects of Samoa 4(4): 217–248."
+    },
+    {
+      "id": "orig_58c7f4d69224",
+      "label": "Eggers, 1928a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1928a). Ipidae (Coleoptera) da America do Sul. Archivos do Instituto de Biologia Vegetal, Rio de Janeiro 1: 83–99."
+    },
+    {
+      "id": "orig_af0baab27e68",
+      "label": "Blackburn & Sharp, 1885",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blackburn, T. & Sharp, D. (1885). Memoirs on the Coleoptera of the Hawaiian Islands [Scolytidae, p. 192-194]. Transactions of the Royal Dublin Society 2(3): 119–300."
+    },
+    {
+      "id": "orig_c0f10477bcc1",
+      "label": "Browne, 1970",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Browne, F.G. (1970). Some Scolytidae and Platypodidae (Coleoptera) in the collection of the British Museum. Journal of Natural History 4: 539–583."
+    }
+  ]
+}

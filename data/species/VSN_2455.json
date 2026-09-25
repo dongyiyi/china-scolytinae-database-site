@@ -1,0 +1,96 @@
+{
+  "vsn": "VSN_2455",
+  "scientific_name": "Dryocoetiops nitidus",
+  "authorship": "(Schedl, 1942)",
+  "chinese_name": "",
+  "genus": "Dryocoetiops",
+  "subfamily": "Scolytinae",
+  "tribe": "Dryocoetini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "云南",
+    "narrative": "Beaver et al. (2019) reports Dryocoetiops nitidus from Yunnan, including Xishuangbanna locality detail."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Shorea acuminata"
+    },
+    {
+      "scientific_name": "Coffea sp."
+    },
+    {
+      "scientific_name": "Macaranga sp."
+    }
+  ],
+  "host_note": "Beaver et al. (2019) reports Shorea acuminata, Coffea sp., and Macaranga sp. Family annotations are retained at source layer; genus-level host records remain genus-level in the synthesis.",
+  "taxonomy_summary": "The current accepted identity is Dryocoetiops nitidus (Schedl, 1942).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1942",
+      "event": "Original combination / basionym",
+      "name": "Dryocoetes nitidus",
+      "authorship": "Schedl, 1942",
+      "note": "Original combination / basionym, original-description p. 179.",
+      "reference_ids": [
+        "orig_5405f00dff87",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1942",
+      "event": "Current accepted",
+      "name": "Dryocoetiops nitidus",
+      "authorship": "(Schedl, 1942)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_5405f00dff87",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Dryocoetiops nitidus (Schedl, 1942), VSN_2455, Scolytinae: Dryocoetini. Beaver et al. (2019) uses the same species name with authorship presented as Schedl.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaveretal2019_dryocoetiopsreview",
+      "label": "Beaver et al., 2019",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Beaver, R.A., Smith, S.M. & Sanguansub, S. (2019). A review of the genus Dryocoetiops Schedl, with new species, new synonymy and a key to species (Coleoptera: Curculionidae: Scolytinae). Zootaxa, 4712 (2), 236–250.",
+      "doi": "10.11646/zootaxa.4712.2.4"
+    },
+    {
+      "id": "orig_5405f00dff87",
+      "label": "Schedl, 1942b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1942b). Forschungberiche zur Scolytoiden-Fauna der Malayischen Halbinsel, V. 80 Betrag. Kolonialforstliche Mitteilungen 5(2-3): 169–218."
+    }
+  ]
+}

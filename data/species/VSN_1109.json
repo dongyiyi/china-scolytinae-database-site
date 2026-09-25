@@ -1,0 +1,113 @@
+{
+  "vsn": "VSN_1109",
+  "scientific_name": "Cnestus ater",
+  "authorship": "(Eggers, 1923)",
+  "chinese_name": "",
+  "genus": "Cnestus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建；云南",
+    "narrative": "Smith et al. (2020) records Cnestus ater from Fujian. Smith et al. (2022) records Fujian and Yunnan and adds locality evidence from Wenshan, Yunnan. The reviewed distribution is the union Fujian and Yunnan."
+  },
+  "hosts": [],
+  "host_note": "No confirmed host is promoted from either integrated Smith et al. source record.",
+  "taxonomy_summary": "The current accepted identity is Cnestus ater (Eggers, 1923).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1923",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus ater",
+      "authorship": "Eggers, 1923",
+      "note": "Original combination / basionym, original-description p. 210.",
+      "reference_ids": [
+        "orig_eggers1923",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1936",
+      "event": "Synonym",
+      "name": "Xyleborus retusiformis",
+      "authorship": "Schedl, 1936",
+      "note": "Published name currently treated as a synonym; original-description p. 31.",
+      "reference_ids": [
+        "orig_schedl1936",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "Current",
+      "event": "Current accepted",
+      "name": "Cnestus ater",
+      "authorship": "(Eggers, 1923)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated backbone retains Xyleborus retusiformis as a synonym of the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_smith2022",
+      "label": "Smith et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
+      "doi": "10.11646/zootaxa.5209.1.1"
+    },
+    {
+      "id": "orig_eggers1923",
+      "label": "Eggers, 1923b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3–4): 129–220."
+    },
+    {
+      "id": "orig_schedl1936",
+      "label": "Schedl, 1936c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1936c). Some new Scolytidae and Platypodidae from the Malay Peninsula. Journal of the Federated Malay States Museums 18(1): 19–35."
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ]
+}

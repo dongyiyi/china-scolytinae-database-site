@@ -1,0 +1,105 @@
+{
+  "vsn": "VSN_2140",
+  "scientific_name": "Cyrtogenius perakensis",
+  "authorship": "(Schedl, 1936)",
+  "chinese_name": "",
+  "genus": "Cyrtogenius",
+  "subfamily": "Scolytinae",
+  "tribe": "Dryocoetini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "香港",
+    "narrative": "Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence supporting occurrence in Hong Kong. No mainland-China, Taiwan, or Macao occurrence is inferred from this source."
+  },
+  "hosts": [],
+  "host_note": "This checklist provides no host information; no host is inferred.",
+  "taxonomy_summary": "The current accepted identity is Cyrtogenius perakensis (Schedl, 1936).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1936",
+      "event": "Original combination / basionym",
+      "name": "Dryocoetes perakensis",
+      "authorship": "Schedl, 1936",
+      "note": "Original combination / basionym, original-description p. 9.",
+      "reference_ids": [
+        "orig_061cbd29e0e2",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1949",
+      "event": "Synonym",
+      "name": "Dryocoetes castaneus",
+      "authorship": "Browne, 1949",
+      "note": "Published name currently treated as a synonym; original-description p. 896.",
+      "reference_ids": [
+        "orig_a94308f50248",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1936",
+      "event": "Current accepted",
+      "name": "Cyrtogenius perakensis",
+      "authorship": "(Schedl, 1936)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_061cbd29e0e2",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Cyrtogenius perakensis (Schedl, 1936), VSN_2140.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "orig_061cbd29e0e2",
+      "label": "Schedl, 1936b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1936b). Notes on Malayan Scolytidae and Platypodidae and descriptions of some new species. Journal of the Federated Malay States Museums 18(1): 1–18."
+    },
+    {
+      "id": "orig_a94308f50248",
+      "label": "Browne, 1949",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Browne, F.G. (1949). Notes on Malayan Scolytoidea (Coleoptera) with descriptions of new species. Annals and Magazine of Natural History. Ser. 12, 1(12): 892–912.",
+      "doi": "10.1080/00222934808653953"
+    }
+  ]
+}

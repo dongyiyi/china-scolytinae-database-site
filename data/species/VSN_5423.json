@@ -1,0 +1,144 @@
+{
+  "vsn": "VSN_5423",
+  "scientific_name": "Scolytoplatypus mikado",
+  "authorship": "Blandford, 1893",
+  "chinese_name": "大和锉小蠹",
+  "genus": "Scolytoplatypus",
+  "subfamily": "Scolytinae",
+  "tribe": "Scolytoplatypodini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "四川；福建；海南；台湾",
+    "narrative": "殷蕙芬等 (1984) records Sichuan and Fujian; 黄复生等 (2015) adds Hainan and Taiwan. Beaver & Liu (2010) independently reports Taiwan and broad China (SE, SW). The broad regional wording is retained as context only and does not generate new province records."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Machilus velutina"
+    },
+    {
+      "scientific_name": "Machilus microcarpa"
+    },
+    {
+      "scientific_name": "Prunus davidiana"
+    },
+    {
+      "scientific_name": "Camellia japonica"
+    },
+    {
+      "scientific_name": "Acer sp."
+    },
+    {
+      "scientific_name": "Alnus sp."
+    },
+    {
+      "scientific_name": "Cinnamomum camphora"
+    },
+    {
+      "scientific_name": "Phoebe sp."
+    },
+    {
+      "scientific_name": "Cornus sp."
+    },
+    {
+      "scientific_name": "Zelkova schneideriana"
+    },
+    {
+      "scientific_name": "Betula sp."
+    },
+    {
+      "scientific_name": "Prunus salicina"
+    },
+    {
+      "scientific_name": "Cinnamomum spp."
+    },
+    {
+      "scientific_name": "Cryptomeria spp."
+    },
+    {
+      "scientific_name": "Eugenia spp."
+    },
+    {
+      "scientific_name": "Styrax spp."
+    },
+    {
+      "scientific_name": "Wendlandia spp."
+    }
+  ],
+  "host_note": "殷蕙芬等 (1984)/黄复生等 (2015) species-level and genus-level hosts are retained. Beaver & Liu (2010) specifically records Cinnamomum, Cryptomeria, Eugenia, Styrax and Wendlandia in Taiwan; these are added at genus level. The broad word 'polyphagous' remains contextual only.",
+  "taxonomy_summary": "The current accepted identity is Scolytoplatypus mikado Blandford, 1893.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1893",
+      "event": "Current accepted",
+      "name": "Scolytoplatypus mikado",
+      "authorship": "Blandford, 1893",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_c6fa656f3cd9",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Current identity follows integrated taxonomic backbone: Scolytoplatypus mikado Blandford, 1893, VSN_5423. Earlier Profile display as Browne, 1981 is a presentation inconsistency and is corrected without changing the stable VSN.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_c6fa656f3cd9",
+      "label": "Blandford, 1893b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1893b). The Scolyto-platypini, a new subfamily of Scolytidae. Transactions of the Entomological Society of London 1893: 425–442."
+    }
+  ]
+}

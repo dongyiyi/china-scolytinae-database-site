@@ -1,0 +1,93 @@
+{
+  "vsn": "VSN_2299",
+  "scientific_name": "Dendroctonus valens",
+  "authorship": "LeConte, 1857",
+  "chinese_name": "红脂大小蠹",
+  "genus": "Dendroctonus",
+  "subfamily": "Scolytinae",
+  "tribe": "Hylurgini",
+  "checklist_status": "Unreviewed",
+  "review_status": "Not started",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "This species is an established non-native invasive species in mainland China. Detailed China occurrence records and supporting references have not yet been integrated into this profile."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Dendroctonus valens LeConte, 1857.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1954",
+      "event": "Synonym",
+      "name": "Dendroctonus beckeri",
+      "authorship": "Thatcher, 1954",
+      "note": "Published name currently treated as a synonym; original-description p. 4.",
+      "reference_ids": [
+        "orig_4a41b7b1667c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1857",
+      "event": "Current accepted",
+      "name": "Dendroctonus valens",
+      "authorship": "LeConte, 1857",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_ab2f4081e4ea",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 1 additional historical name usage to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "orig_ab2f4081e4ea",
+      "label": "LeConte, 1857",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "LeConte, J.L. (1857). Report upon insects collected on the survey. Reports of explorations and surveys for railroad route from the Mississippi River to the Pacific Ocean 12(3): 1–72."
+    },
+    {
+      "id": "orig_4a41b7b1667c",
+      "label": "Thatcher, 1954",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Thatcher, T.O. (1954). A new species of Dendroctonus from Guatemala (Scolytidae). The Coleopterists Bulletin 8: 3–6."
+    }
+  ]
+}

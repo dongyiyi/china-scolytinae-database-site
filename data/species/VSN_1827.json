@@ -1,0 +1,91 @@
+{
+  "vsn": "VSN_1827",
+  "scientific_name": "Cryphalus scopiger",
+  "authorship": "Berger, 1917",
+  "chinese_name": "胡桃楸梢小蠹",
+  "genus": "Cryphalus",
+  "subfamily": "Scolytinae",
+  "tribe": "Cryphalini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "辽宁；黑龙江",
+    "narrative": "Johnson et al. (2020) confirms Liaoning occurrence and corrects historical C. viburni misidentifications. Yang (2020) additionally lists Heilongjiang; the reviewed mainland distribution therefore includes Liaoning and Heilongjiang."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Juglans mandshurica"
+    },
+    {
+      "scientific_name": "Fraxinus mandshurica"
+    }
+  ],
+  "host_note": "Juglans mandshurica and Fraxinus mandshurica retained as current reviewed hosts.",
+  "taxonomy_summary": "The current accepted identity is Cryphalus scopiger Berger, 1917.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1917",
+      "event": "Current accepted",
+      "name": "Cryphalus scopiger",
+      "authorship": "Berger, 1917",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_111e5ef7b210",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Historical Juglans-associated Chinese C. viburni records likely represent C. scopiger.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_johnsonetal2020_cryphaluseastasia",
+      "label": "Johnson et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Johnson, A.J., Li, Y., Mandelshtam, M.Yu., Park, S., Lin, C.-S., Gao, L. & Hulcr, J. (2020). East Asian Cryphalus Erichson (Curculionidae, Scolytinae): new species, new synonymy and redescriptions of species. ZooKeys 995: 15–66.",
+      "doi": "10.3897/zookeys.995.55981"
+    },
+    {
+      "id": "src_yangcryphaluschecklistal2020",
+      "label": "Yang, 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Yang, L. (2020). Checklist of the genus Cryphalus Erichson, 1836 (Coleoptera: Curculionidae: Scolytinae) with special attention to Chinese species. Zoological Systematics 45(3): 176–205.",
+      "doi": "10.11865/zs.202023"
+    },
+    {
+      "id": "orig_111e5ef7b210",
+      "label": "Berger, 1917",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Berger, V.M. (1917). Koroědy Ûžno-Ussurìjskago Kraâ / Les Scolytiens de la province d'Oussourie du Sud. Russkoe Entomologicheskoe Obozrenie [Revue Russe D’Entomologie] 16(3-4): 226–248."
+    }
+  ]
+}

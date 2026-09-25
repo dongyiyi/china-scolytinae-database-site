@@ -1,0 +1,220 @@
+{
+  "vsn": "VSN_2760",
+  "scientific_name": "Ficicis porcatus",
+  "authorship": "(Chapuis, 1869)",
+  "chinese_name": "",
+  "genus": "Ficicis",
+  "subfamily": "Scolytinae",
+  "tribe": "Hylesinini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾；香港",
+    "narrative": "Beaver & Liu (2010) accepts Ficicis porcatus as occurring in Taiwan. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [],
+  "host_note": "The source states that hosts are usually Moraceae, especially Ficus and Artocarpus. Because no individual species is given, these host statements are retained as family/genus-level ecological context rather than expanded into species.",
+  "taxonomy_summary": "The current accepted identity is Ficicis porcatus (Chapuis, 1869).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1869",
+      "event": "Original combination / basionym",
+      "name": "Hylesinus porcatus",
+      "authorship": "Chapuis, 1869",
+      "note": "Original combination / basionym, original-description p. 31.",
+      "reference_ids": [
+        "orig_0091c8c88c80",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1910",
+      "event": "Synonym",
+      "name": "Hylesinus koebeli",
+      "authorship": "Lea, 1910",
+      "note": "Published name currently treated as a synonym; original-description p. 148.",
+      "reference_ids": [
+        "orig_2bd369b29d5a",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Hylesinus philippinensis",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 137.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Hylesinus subcostatus",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 137.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1929",
+      "event": "Synonym",
+      "name": "Hylesinus crassus",
+      "authorship": "Beeson, 1929",
+      "note": "Published name currently treated as a synonym; original-description p. 220.",
+      "reference_ids": [
+        "orig_7ca7be5c1b19",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Synonym",
+      "name": "Hylesinus subopacus",
+      "authorship": "Eggers, 1930",
+      "note": "Published name currently treated as a synonym; original-description p. 10.",
+      "reference_ids": [
+        "orig_b058bea717ad",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1940",
+      "event": "Synonym",
+      "name": "Hylesinus insularum",
+      "authorship": "Beeson, 1940",
+      "note": "Published name currently treated as a synonym; original-description p. 192.",
+      "reference_ids": [
+        "orig_a1c816367ea2",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1955",
+      "event": "Synonym",
+      "name": "Phloeosinus goliathoides",
+      "authorship": "Murayama, 1955",
+      "note": "Published name currently treated as a synonym; original-description p. 94.",
+      "reference_ids": [
+        "orig_901eee5cd2e6",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1869",
+      "event": "Current accepted",
+      "name": "Ficicis porcatus",
+      "authorship": "(Chapuis, 1869)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_0091c8c88c80",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Ficicis porcatus (Chapuis, 1869), VSN_2760. Beaver & Liu (2010) treated F. porcatus as distinct from F. despectus and listed associated synonyms.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "orig_0091c8c88c80",
+      "label": "Chapuis, 1869",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Chapuis, F. (1869). Synopsis des Scolytides. (Prodrome d’un travail monographique). J. Desoer, Liège 61 pp."
+    },
+    {
+      "id": "orig_7ca7be5c1b19",
+      "label": "Beeson, 1929",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1929). Platypodidae and Scolytidae. Insects of Samoa 4(4): 217–248."
+    },
+    {
+      "id": "orig_a1c816367ea2",
+      "label": "Beeson, 1940",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1940). Scolytidae and Platypodidae of the Mangarevan Expedition. Occasional Papers of Bernice P. Bishop Museum 15(18): 191–203."
+    },
+    {
+      "id": "orig_2bd369b29d5a",
+      "label": "Lea, 1910",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Lea, A.M. (1910). On Australian and Tasmanian Coleoptera, with descriptions of new species Part I. Proceedings of the Royal Society of Victoria 22: 113–152."
+    },
+    {
+      "id": "orig_c8c8b73ae935",
+      "label": "Eggers, 1923b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3–4): 129–220."
+    },
+    {
+      "id": "orig_b058bea717ad",
+      "label": "Eggers, 1930c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1930c). Ein neuer Hylesinus aus dem melanesischen Archipel. (Ipidae, Col.). Wiener Entomologische Zeitung 47: 10."
+    },
+    {
+      "id": "orig_901eee5cd2e6",
+      "label": "Murayama, 1955",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1955). Supplementary notes on the scolytid-fauna of Japan. Bulletin of the Faculty of Agriculture, Yamaguchi University 6: 81–106."
+    }
+  ]
+}

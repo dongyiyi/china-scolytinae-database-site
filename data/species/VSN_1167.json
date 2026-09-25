@@ -1,0 +1,262 @@
+{
+  "vsn": "VSN_1167",
+  "scientific_name": "Coccotrypes cyperi",
+  "authorship": "(Beeson, 1929)",
+  "chinese_name": "柏木鬃小蠹",
+  "genus": "Coccotrypes",
+  "subfamily": "Scolytinae",
+  "tribe": "Dryocoetini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "安徽; 四川; 贵州; 福建; 广西; 云南; 西藏; 台湾",
+    "narrative": "黄复生等 (2015) reports 安徽、四川、贵州、福建、广西、云南、西藏. Beaver & Liu (2010) adds the first Taiwan record from Nantou, Huison and Pingtung, Shantimen."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Cupressus funebris"
+    },
+    {
+      "scientific_name": "Pinus armandii"
+    },
+    {
+      "scientific_name": "Ficus sp."
+    },
+    {
+      "scientific_name": "Pinus massoniana"
+    },
+    {
+      "scientific_name": "Cunninghamia lanceolata"
+    },
+    {
+      "scientific_name": "Machilus sp."
+    }
+  ],
+  "host_note": "黄复生等 (2015) provides six explicit host taxa, which are retained at their published resolution. Beaver & Liu (2010) adds only the broad statement 'Polyphagous on angiosperms', so no additional host taxon is inferred.",
+  "taxonomy_summary": "The current accepted identity is Coccotrypes cyperi (Beeson, 1929).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1940",
+      "event": "Synonym",
+      "name": "Coccotrypes insularis",
+      "authorship": "Eggers, 1940",
+      "note": "Published name currently treated as a synonym; original-description p. 129.",
+      "reference_ids": [
+        "orig_ddf1d051426d",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1940",
+      "event": "Synonym",
+      "name": "Dryocoetes insularis",
+      "authorship": "Eggers, 1940",
+      "note": "Published name currently treated as a synonym; original-description p. 127.",
+      "reference_ids": [
+        "orig_ddf1d051426d",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1940",
+      "event": "Synonym",
+      "name": "Dryocoetes subimpresus",
+      "authorship": "Eggers, 1940",
+      "note": "Published name currently treated as a synonym; original-description p. 127.",
+      "reference_ids": [
+        "orig_ddf1d051426d",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1952",
+      "event": "Synonym",
+      "name": "Poecilips caraibicus",
+      "authorship": "Schedl, 1952",
+      "note": "Published name currently treated as a synonym; original-description p. 345.",
+      "reference_ids": [
+        "orig_f802d37e6e32",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1952",
+      "event": "Synonym",
+      "name": "Poecilips eggersi",
+      "authorship": "Schedl, 1952",
+      "note": "Published name currently treated as a synonym; original-description p. 347.",
+      "reference_ids": [
+        "orig_f802d37e6e32",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1970",
+      "event": "Synonym",
+      "name": "Poecilips pilifrons",
+      "authorship": "Browne, 1970",
+      "note": "Published name currently treated as a synonym; original-description p. 568.",
+      "reference_ids": [
+        "orig_a995b17d3d5c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1942",
+      "event": "Synonym",
+      "name": "Poecilips subaplanatus",
+      "authorship": "Schedl, 1942",
+      "note": "Published name currently treated as a synonym; original-description p. 23.",
+      "reference_ids": [
+        "orig_c56c9e6b1193",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1929",
+      "event": "Original combination / basionym",
+      "name": "Thamnurgides cyperi",
+      "authorship": "Beeson, 1929",
+      "note": "Original combination / basionym, original-description p. 230.",
+      "reference_ids": [
+        "orig_69b5bd8f8807",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1936",
+      "event": "Synonym",
+      "name": "Thamnurgides indicus",
+      "authorship": "Eggers, 1936",
+      "note": "Published name currently treated as a synonym; original-description p. 631.",
+      "reference_ids": [
+        "orig_eb104b0aee16",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1936",
+      "event": "Synonym",
+      "name": "Xyleborus conspiciens",
+      "authorship": "Schedl, 1936",
+      "note": "Published name currently treated as a synonym; original-description p. 110.",
+      "reference_ids": [
+        "orig_0e8d619b1030",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1929",
+      "event": "Current accepted",
+      "name": "Coccotrypes cyperi",
+      "authorship": "(Beeson, 1929)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_69b5bd8f8807",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Coccotrypes cyperi (Beeson, 1929), VSN_1167, Scolytinae: Dryocoetini. 黄复生等 (2015) uses the source spelling Coccotrypes cypri; Beaver & Liu (2010) uses Coccotrypes cyperi (Beeson). Source-specific spellings are preserved without changing the stable VSN.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_69b5bd8f8807",
+      "label": "Beeson, 1929",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1929). Platypodidae and Scolytidae. Insects of Samoa 4(4): 217–248."
+    },
+    {
+      "id": "orig_ddf1d051426d",
+      "label": "Eggers, 1940a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1940a). Borkenkäfer aus Südamerica (Coleoptera: Ipidae), IX. Insel Guadeloupe. Arbeiten über Morphologische und Taxonomische Entomologie aus Berlin-Dahlem 7(2): 123–141."
+    },
+    {
+      "id": "orig_f802d37e6e32",
+      "label": "Schedl, 1952e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1952e). Neotropische Scolytoidea, III. 110 Beitrag. Dusenia 3(5): 343–366."
+    },
+    {
+      "id": "orig_a995b17d3d5c",
+      "label": "Browne, 1970",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Browne, F.G. (1970). Some Scolytidae and Platypodidae (Coleoptera) in the collection of the British Museum. Journal of Natural History 4: 539–583."
+    },
+    {
+      "id": "orig_c56c9e6b1193",
+      "label": "Schedl, 1942d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1942d). Neue Scolytidae aus Java. 76 Beitrag. Tijdschrift voor Entomologie 85: 1–49."
+    },
+    {
+      "id": "orig_eb104b0aee16",
+      "label": "Eggers, 1936a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1936a). Neue Borkenkäfer (Scolytidae, Col.) aus Indien. Annals and Magazine of Natural History. Ser. 10, 17(102): 626–636.",
+      "doi": "10.1080/00222933608655163"
+    },
+    {
+      "id": "orig_0e8d619b1030",
+      "label": "Schedl, 1936a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1936a). Scolytidae und Platypodidae (Coleopt.) - neue Zentral- und Südamerikanische Arten (36 Beitrag). Archivos do Instituto de Biologia Vegetal, Rio de Janeiro 3(1): 99–110."
+    }
+  ]
+}

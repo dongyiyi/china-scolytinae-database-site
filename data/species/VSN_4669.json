@@ -1,0 +1,275 @@
+{
+  "vsn": "VSN_4669",
+  "scientific_name": "Planiculus bicolor",
+  "authorship": "(Blandford, 1894)",
+  "chinese_name": "",
+  "genus": "Planiculus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "海南；江西；云南；台湾",
+    "narrative": "Smith et al. (2020) records Hainan, Jiangxi and Yunnan under the current Planiculus bicolor concept. Beaver & Liu (2010), under the source-specific name Planiculus laevis, records Taiwan from Nantou, Hui Son. Under the current integrated taxonomic backbone reconciliation this evidence maps to VSN_4669, so Taiwan is added to the current synthesis while the historical species-boundary treatment remains explicit."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Cyclobalanopsis glauca"
+    }
+  ],
+  "host_note": "Species-level host Cyclobalanopsis glauca from Smith et al. (2020) is retained as published. Beaver & Liu (2010) describes Planiculus laevis as polyphagous but enumerates no host taxon in the curated field; no additional host is promoted.",
+  "taxonomy_summary": "The current accepted identity is Planiculus bicolor (Blandford, 1894).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1894",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus bicolor",
+      "authorship": "Blandford, 1894",
+      "note": "Original combination / basionym, original-description p. 113.",
+      "reference_ids": [
+        "orig_a1d45147b2c3",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Xyleborus laevis",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 201.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1929",
+      "event": "Synonym",
+      "name": "Xyleborus bicolor unimodus",
+      "authorship": "Beeson, 1929",
+      "note": "Published name currently treated as a synonym; original-description p. 238.",
+      "reference_ids": [
+        "orig_7ca7be5c1b19",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Synonym",
+      "name": "Xyleborus rodgeri",
+      "authorship": "Beeson, 1930",
+      "note": "Published name currently treated as a synonym; original-description p. 213.",
+      "reference_ids": [
+        "orig_f0b5be63e90e",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Synonym",
+      "name": "Xyleborus rodgeri privatus",
+      "authorship": "Beeson, 1930",
+      "note": "Published name currently treated as a synonym; original-description p. 213.",
+      "reference_ids": [
+        "orig_f0b5be63e90e",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1940",
+      "event": "Synonym",
+      "name": "Xyleborus rameus",
+      "authorship": "Schedl, 1940",
+      "note": "Published name currently treated as a synonym; original-description p. 441.",
+      "reference_ids": [
+        "orig_7a1fca452107",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1942",
+      "event": "Synonym",
+      "name": "Xyleborus artelaevis",
+      "authorship": "Schedl, 1942",
+      "note": "Published name currently treated as a synonym; original-description p. 196.",
+      "reference_ids": [
+        "orig_5405f00dff87",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1954",
+      "event": "Synonym",
+      "name": "Xyleborus ashuensis",
+      "authorship": "Murayama, 1954",
+      "note": "Published name currently treated as a synonym; original-description p. 193.",
+      "reference_ids": [
+        "orig_8bd5ac435930",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1975",
+      "event": "Synonym",
+      "name": "Xyleborus filiformis",
+      "authorship": "Schedl, 1975",
+      "note": "Published name currently treated as a synonym; original-description p. 364.",
+      "reference_ids": [
+        "orig_cad9c6466d59",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1975",
+      "event": "Synonym",
+      "name": "Xyleborus tumidus",
+      "authorship": "Schedl, 1975",
+      "note": "Published name currently treated as a synonym; original-description p. 371.",
+      "reference_ids": [
+        "orig_cad9c6466d59",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1983",
+      "event": "Synonym",
+      "name": "Xyleborus glabratulus",
+      "authorship": "Browne, 1983",
+      "note": "Published name currently treated as a synonym; original-description p. 560.",
+      "reference_ids": [
+        "orig_a468c5ac4c4a",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1894",
+      "event": "Current accepted",
+      "name": "Planiculus bicolor",
+      "authorship": "(Blandford, 1894)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_a1d45147b2c3",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Planiculus bicolor (Blandford, 1894), VSN_4669. Beaver & Liu (2010) considered Planiculus laevis distinct from P. bicolor; that 2010 treatment is preserved as source-specific taxonomic provenance and does not create a second canonical taxon or profile.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_a1d45147b2c3",
+      "label": "Blandford, 1894c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
+    },
+    {
+      "id": "orig_5405f00dff87",
+      "label": "Schedl, 1942b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1942b). Forschungberiche zur Scolytoiden-Fauna der Malayischen Halbinsel, V. 80 Betrag. Kolonialforstliche Mitteilungen 5(2-3): 169–218."
+    },
+    {
+      "id": "orig_8bd5ac435930",
+      "label": "Murayama, 1954",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1954). Scolytid-fauna on the northern half of Honshu with a distribution table of all the scolytid-species described from Japan. Bulletin of the Faculty of Agriculture, Yamaguchi University 5: 149–212."
+    },
+    {
+      "id": "orig_7ca7be5c1b19",
+      "label": "Beeson, 1929",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1929). Platypodidae and Scolytidae. Insects of Samoa 4(4): 217–248."
+    },
+    {
+      "id": "orig_cad9c6466d59",
+      "label": "Schedl, 1975a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1975a). New Scolytidae and Platypodidae from Papua and New Guinea, IV. 317 Contribution to the Morphology and Taxonomy of the Scolytoidea. Annalen des Naturhistorischen Museums in Wien. Serie B für Botanik und Zoologie 79: 337–399."
+    },
+    {
+      "id": "orig_a468c5ac4c4a",
+      "label": "Browne, 1983b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Browne, F.G. (1983b). Bark beetles and ambrosia beetles (Coleoptera, Scolytidae and Platypodidae) intercepted at Japanese ports, with descriptions of new species, VII. Kontyû 51(4): 554–572."
+    },
+    {
+      "id": "orig_c8c8b73ae935",
+      "label": "Eggers, 1923b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3–4): 129–220."
+    },
+    {
+      "id": "orig_7a1fca452107",
+      "label": "Schedl, 1940b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1940b). Scolytidae and Platypodidae. 61 Contribution. Annals and Magazine of Natural History. Ser. 11, 5(29): 433–442.",
+      "doi": "10.1080/00222934008527057"
+    },
+    {
+      "id": "orig_f0b5be63e90e",
+      "label": "Beeson, 1930",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1930). The biology of the genus Xyleborus, with more new species. Indian Forest Records, Entomology 14(10): 209–272."
+    }
+  ]
+}

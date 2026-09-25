@@ -1,0 +1,201 @@
+{
+  "vsn": "VSN_3703",
+  "scientific_name": "Microperus recidens",
+  "authorship": "(Sampson, 1923)",
+  "chinese_name": "",
+  "genus": "Microperus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "江西；云南",
+    "narrative": "Smith et al. (2020) records Jiangxi and Yunnan."
+  },
+  "hosts": [],
+  "host_note": "No host is reported in the integrated Smith record.",
+  "taxonomy_summary": "The current accepted identity is Microperus recidens (Sampson, 1923).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Xyleborus minusculus",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 212.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus recidens",
+      "authorship": "Sampson, 1923",
+      "note": "Original combination / basionym, original-description p. 287.",
+      "reference_ids": [
+        "orig_233852dfbab4",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Synonym",
+      "name": "Xyleborus minutissimus",
+      "authorship": "Eggers, 1930",
+      "note": "Published name currently treated as a synonym; original-description p. 204.",
+      "reference_ids": [
+        "orig_2f66b1e00ee5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1936",
+      "event": "Synonym",
+      "name": "Xyleborus crassitarsus",
+      "authorship": "Schedl, 1936",
+      "note": "Published name currently treated as a synonym; original-description p. 28.",
+      "reference_ids": [
+        "orig_3cdcd6e057aa",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1942",
+      "event": "Synonym",
+      "name": "Xyleborus artegraphus",
+      "authorship": "Schedl, 1942",
+      "note": "Published name currently treated as a synonym; original-description p. 44.",
+      "reference_ids": [
+        "orig_180460ae7106",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1955",
+      "event": "Synonym",
+      "name": "Xyleborus extensus",
+      "authorship": "Schedl, 1955",
+      "note": "Published name currently treated as a synonym; original-description p. 301.",
+      "reference_ids": [
+        "orig_e68b12b7cac1",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1981",
+      "event": "Synonym",
+      "name": "Xyleborus tuberculosus",
+      "authorship": "Browne, 1981",
+      "note": "Published name currently treated as a synonym; original-description p. 602.",
+      "reference_ids": [
+        "orig_838457ff0bc9",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Current accepted",
+      "name": "Microperus recidens",
+      "authorship": "(Sampson, 1923)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_233852dfbab4",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Microperus recidens (Sampson, 1923), VSN_3703.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_233852dfbab4",
+      "label": "Sampson, 1923",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Sampson, F.W. (1923). Previously undescribed Scolytidae and Platypodidae from the Indian area, Part II. Annals and Magazine of Natural History. Ser. 9, 11(63): 285–289.",
+      "doi": "10.1080/00222932308632858"
+    },
+    {
+      "id": "orig_180460ae7106",
+      "label": "Schedl, 1942d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1942d). Neue Scolytidae aus Java. 76 Beitrag. Tijdschrift voor Entomologie 85: 1–49."
+    },
+    {
+      "id": "orig_3cdcd6e057aa",
+      "label": "Schedl, 1936c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1936c). Some new Scolytidae and Platypodidae from the Malay Peninsula. Journal of the Federated Malay States Museums 18(1): 19–35."
+    },
+    {
+      "id": "orig_e68b12b7cac1",
+      "label": "Schedl, 1955e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1955e). Borfken- und Ambrosiakäfer aus den Pazifischen Raum. 150 Beitrag zur Morphologie und Systematik der Scolytoidea. Entomologische Arbeiten aus dem Museum Georg Frey 6: 277–310."
+    },
+    {
+      "id": "orig_c8c8b73ae935",
+      "label": "Eggers, 1923b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3–4): 129–220."
+    },
+    {
+      "id": "orig_2f66b1e00ee5",
+      "label": "Eggers, 1930b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1930b). Neue Xyleborus-Arten (Col. Scolytidae) aus Indien. Indian Forest Records, Entomology 14(9): 177–208."
+    },
+    {
+      "id": "orig_838457ff0bc9",
+      "label": "Browne, 1981b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Browne, F.G. (1981b). Bark beetles and ambrosia beetles (Coleoptera, Scolytidae and Platypodidae) intercepted at Japanese ports, with descriptions of new species, VI. Kontyû 49(4): 597–606."
+    }
+  ]
+}

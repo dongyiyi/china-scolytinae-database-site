@@ -1,0 +1,68 @@
+{
+  "vsn": "VSN_3378",
+  "scientific_name": "Immanus songi",
+  "authorship": "Lin, Li & Meng, 2023",
+  "chinese_name": "",
+  "genus": "Immanus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "云南",
+    "narrative": "Lin et al. (2023) reports Immanus from China for the first time and describes Immanus songi from the Jinuo Mountains, Xishuangbanna, Yunnan. This establishes confirmed mainland-China occurrence in Yunnan."
+  },
+  "hosts": [],
+  "host_note": "The holotype was collected using a flight intercept trap in fragmented primary forest. The source reports biology as unknown and gives no host plant; no host taxon is inferred from habitat context.",
+  "taxonomy_summary": "The current accepted identity is Immanus songi Lin, Li & Meng, 2023.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2023",
+      "event": "Current accepted",
+      "name": "Immanus songi",
+      "authorship": "Lin, Li & Meng, 2023",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "src_linetal2023_immanussongi",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Immanus songi Lin, Li & Meng was described as a new species in 2023 and represents the first record of the genus Immanus from China. Original-description evidence maps directly to existing integrated taxonomic backbone identity VSN_3378.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_linetal2023_immanussongi",
+      "label": "Lin et al., 2023",
+      "role": [
+        "published evidence",
+        "nomenclatural source"
+      ],
+      "citation": "Lin, W., Li, Y. & Meng, L.-Z. (2023). First record of the genus Immanus Hulcr & Cognato (Coleoptera: Curculionidae: Scolytinae: Xyleborini) from China, with description of a new species. Zootaxa 5352(3): 433–438.",
+      "doi": "10.11646/zootaxa.5352.3.7"
+    }
+  ]
+}

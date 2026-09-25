@@ -1,0 +1,104 @@
+{
+  "vsn": "VSN_4713",
+  "scientific_name": "Polygraphus kaimochii",
+  "authorship": "(Nobuchi, 1981)",
+  "chinese_name": "麻栎四眼小蠹",
+  "genus": "Polygraphus",
+  "subfamily": "Scolytinae",
+  "tribe": "Polygraphini",
+  "checklist_status": "Unreviewed",
+  "review_status": "Not started",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Polygraphus kaimochii (Nobuchi, 1981).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1981",
+      "event": "Original combination / basionym",
+      "name": "Nipponopolygraphus kaimochii",
+      "authorship": "Nobuchi, 1981",
+      "note": "Original combination / basionym, original-description p. 13.",
+      "reference_ids": [
+        "orig_af4dcbc9f19c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1988",
+      "event": "Synonym",
+      "name": "Polygraphus querci",
+      "authorship": "Wood, 1988",
+      "note": "Published name currently treated as a synonym; original-description p. 195.",
+      "reference_ids": [
+        "orig_e0450035ad20",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1981",
+      "event": "Current accepted",
+      "name": "Polygraphus kaimochii",
+      "authorship": "(Nobuchi, 1981)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_af4dcbc9f19c",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 2 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "orig_af4dcbc9f19c",
+      "label": "Nobuchi, 1981b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Nobuchi, A. (1981b). Studies on Scolytidae (Coleoptera) XXI. Three new genera and species from Japan. Kontyû 49(1): 12–18."
+    },
+    {
+      "id": "orig_e0450035ad20",
+      "label": "Wood, 1988b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Wood, S.L. (1988b). Nomenclatural changes and new species of Scolytidae (Coleoptera), part II. The Great Basin Naturalist 48(2): 188–195."
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "vsn": "VSN_3127",
+  "scientific_name": "Hylurgops palliatus",
+  "authorship": "(Gyllenhal, 1813)",
+  "chinese_name": "细干小蠹",
+  "genus": "Hylurgops",
+  "subfamily": "Scolytinae",
+  "tribe": "Hylastini",
+  "checklist_status": "Unreviewed",
+  "review_status": "Not started",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Hylurgops palliatus (Gyllenhal, 1813).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1802",
+      "event": "Synonym",
+      "name": "Ips piceus",
+      "authorship": "Marsham, 1802",
+      "note": "Published name currently treated as a synonym; original-description p. 58.",
+      "reference_ids": [
+        "orig_ee6ed1ffbba8",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1802",
+      "event": "Synonym",
+      "name": "Ips rufus",
+      "authorship": "Marsham, 1802",
+      "note": "Published name currently treated as a synonym; original-description p. 57.",
+      "reference_ids": [
+        "orig_ee6ed1ffbba8",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1813",
+      "event": "Original combination / basionym",
+      "name": "Hylesinus palliatus",
+      "authorship": "Gyllenhal, 1813",
+      "note": "Original combination / basionym, original-description p. 340.",
+      "reference_ids": [
+        "orig_78dc06fd2ea9",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1818",
+      "event": "Synonym",
+      "name": "Bostrichus abietiperda",
+      "authorship": "Bechstein, 1818",
+      "note": "Published name currently treated as a synonym; original-description p. 187.",
+      "reference_ids": [
+        "orig_049b0dbc1eec",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1825",
+      "event": "Synonym",
+      "name": "Hylesinus fuscus",
+      "authorship": "Duftschmid, 1825",
+      "note": "Published name currently treated as a synonym; original-description p. 105.",
+      "reference_ids": [
+        "orig_573e4961922f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1825",
+      "event": "Synonym",
+      "name": "Hylesinus marginatus",
+      "authorship": "Duftschmid, 1825",
+      "note": "Published name currently treated as a synonym; original-description p. 104.",
+      "reference_ids": [
+        "orig_573e4961922f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1830",
+      "event": "Synonym",
+      "name": "Hylurgus rufescens",
+      "authorship": "Stephens, 1830",
+      "note": "Published name currently treated as a synonym; original-description p. 364.",
+      "reference_ids": [
+        "orig_e453fb843992",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1835",
+      "event": "Synonym",
+      "name": "Hylurgus helferi",
+      "authorship": "Villa & Villa, 1835",
+      "note": "Published name currently treated as a synonym; original-description p. 49.",
+      "reference_ids": [
+        "orig_7a65fab2cb3e",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1933",
+      "event": "Synonym",
+      "name": "Hylurgops parvus",
+      "authorship": "Eggers, 1933",
+      "note": "Published name currently treated as a synonym; original-description p. 2.",
+      "reference_ids": [
+        "orig_2fa6c4c3f0de",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1813",
+      "event": "Current accepted",
+      "name": "Hylurgops palliatus",
+      "authorship": "(Gyllenhal, 1813)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_78dc06fd2ea9",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 9 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "orig_049b0dbc1eec",
+      "label": "Bechstein, 1818",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Bechstein, J.M. (1818). Forstinsektologie oder Naturgeschichte der für den Wald schädlichen und nützlichen Insecten nebst Einleitung in die Insectenkunde überhaupt, für angehende und ausübende Forstmänner und Cameralisten. Die Forst- und Jagdwissenschaft nach allen ihren Theilen für angehende und ausübende Forstmänner und Jäger. 4. Theil, Forstschutz, 2. Band. Beschreibung der schädlichen forstinsekten nebst ihrer VerHütungs-und Vertilgungsmitteln. Hennings, Gotha xii + pp 1– 552 + [8], 4 pls."
+    },
+    {
+      "id": "orig_573e4961922f",
+      "label": "Duftschmid, 1825",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Duftschmid, C.E. (1825). Fauna Austriae. Oder Beschreibung der Österrichischen Insecten, für angehende Freunde der Entomologie. Verlag der k.k. priv. akademischen Kunst-, Musik-und Buchhandlung, Linz 289 pp."
+    },
+    {
+      "id": "orig_78dc06fd2ea9",
+      "label": "Gyllenhal, 1813",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Gyllenhal, L. (1813). Insecta Svecica descripta a Leonardo Gyllenhal. Classis I. Coleoptera sive Eleuterata. Tomi I, Pars III. F. J. Leverentz, Scaris [4] + 730 + [2] pp."
+    },
+    {
+      "id": "orig_2fa6c4c3f0de",
+      "label": "Eggers, 1933a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1933a). Zur paläarktischen Borkenkäferfauna, I. Entomologische Blätter 29: 1–9."
+    },
+    {
+      "id": "orig_7a65fab2cb3e",
+      "label": "Villa & Villa, 1835",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Villa, A. & Villa, G.B. (1835). Supplementum Coleopterorum Europae dupletorum catalogo collectionis Villa id est species aliae, quae nunc pro mutua commutatione itidem offerri possunt; nec non emendationes aliquarum specierum in catalogo anni 1833 extantium. Villa, Mediolani 37–50."
+    },
+    {
+      "id": "orig_e453fb843992",
+      "label": "Stephens, 1830",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Stephens, J.F. (1830). Illustrations of British entomology; or, A synopsis of indigenous insects: containing their generic and specific distinctions. Mandibulata. Volume III. Baldwin and Cradock, London 247–374 + [4]."
+    },
+    {
+      "id": "orig_ee6ed1ffbba8",
+      "label": "Marsham, 1802",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Marsham, T. (1802). Entomologia britannica, sistens insecta Britanniae indigena, secundum methodum Linnaeanam disposita. Tomus 1. Coleoptera. J. White, London xxxi + 547 + [1] pp, 30 pls."
+    }
+  ]
+}

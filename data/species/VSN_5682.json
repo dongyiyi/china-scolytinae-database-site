@@ -1,0 +1,86 @@
+{
+  "vsn": "VSN_5682",
+  "scientific_name": "Streptocranus fragilis",
+  "authorship": "Browne, 1949",
+  "chinese_name": "",
+  "genus": "Streptocranus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建；云南",
+    "narrative": "Smith et al. (2020) records Fujian and Yunnan, including Fuzhou and Xishuangbanna."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Eugenia"
+    },
+    {
+      "scientific_name": "Palaquium"
+    },
+    {
+      "scientific_name": "Liquidambar"
+    }
+  ],
+  "host_note": "Direct host evidence is retained at genus level: Eugenia, Palaquium and Liquidambar; family names remain source-level context.",
+  "taxonomy_summary": "The current accepted identity is Streptocranus fragilis Browne, 1949.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1949",
+      "event": "Current accepted",
+      "name": "Streptocranus fragilis",
+      "authorship": "Browne, 1949",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_a94308f50248",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Streptocranus fragilis Browne, 1949, VSN_5682.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_a94308f50248",
+      "label": "Browne, 1949",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Browne, F.G. (1949). Notes on Malayan Scolytoidea (Coleoptera) with descriptions of new species. Annals and Magazine of Natural History. Ser. 12, 1(12): 892–912.",
+      "doi": "10.1080/00222934808653953"
+    }
+  ]
+}

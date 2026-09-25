@@ -1,0 +1,106 @@
+{
+  "vsn": "VSN_1241",
+  "scientific_name": "Coccotrypes sierraleonensis",
+  "authorship": "(Eggers, 1932)",
+  "chinese_name": "",
+  "genus": "Coccotrypes",
+  "subfamily": "Scolytinae",
+  "tribe": "Dryocoetini",
+  "checklist_status": "Questionable",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Questionable",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Taiwan (doubtful)",
+    "narrative": "Beaver & Liu (2010) treated Browne's imported-timber record as doubtful; the African species was not otherwise known from the Oriental region."
+  },
+  "hosts": [],
+  "host_note": "No host evidence is reported for this doubtful Taiwan record.",
+  "taxonomy_summary": "The current accepted identity is Coccotrypes sierraleonensis (Eggers, 1932).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1940",
+      "event": "Synonym",
+      "name": "Poecilips confusus",
+      "authorship": "Eggers, 1940",
+      "note": "Published name currently treated as a synonym; original-description p. 106.",
+      "reference_ids": [
+        "orig_e568fc8d0ac0",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1932",
+      "event": "Original combination / basionym",
+      "name": "Poecilips sierraleonensis",
+      "authorship": "Eggers, 1932",
+      "note": "Original combination / basionym, original-description p. 292.",
+      "reference_ids": [
+        "orig_f78914ce1720",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1932",
+      "event": "Current accepted",
+      "name": "Coccotrypes sierraleonensis",
+      "authorship": "(Eggers, 1932)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_f78914ce1720",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Current identity is Coccotrypes sierraleonensis (Eggers, 1932), VSN_1241.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_f78914ce1720",
+      "label": "Eggers, 1932c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1932c). Neue Borkenkäfer (Ipidae, Col.) aus Africa (Nachtrag V). Revue de Zoologie et de Botanique Africaines 22(3): 191–304."
+    },
+    {
+      "id": "orig_e568fc8d0ac0",
+      "label": "Eggers, 1940d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1940d). Neue Borkenkäfer (Col., Scolytidae) aus Africa. Nachtrag IX. Revue de Zoologie et de Botanique Africaines 33: 99–108."
+    }
+  ]
+}

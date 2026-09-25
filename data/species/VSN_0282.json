@@ -1,0 +1,136 @@
+{
+  "vsn": "VSN_0282",
+  "scientific_name": "Ambrosiophilus sulcatus",
+  "authorship": "(Eggers, 1930)",
+  "chinese_name": "",
+  "genus": "Ambrosiophilus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Fujian; Jiangxi; Yunnan; Taiwan",
+    "narrative": "Smith et al. (2020) records Ambrosiophilus sulcatus from Fujian, Jiangxi and Taiwan. Smith et al. (2022) confirms Fujian, Jiangxi and Taiwan and adds Yunnan, including Xishuangbanna locality evidence. The reviewed distribution is the union Fujian, Jiangxi, Yunnan and Taiwan."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Artocarpus"
+    }
+  ],
+  "host_note": "Artocarpus is retained as the genus-level host reported by Smith et al. (2020).",
+  "taxonomy_summary": "The current accepted identity is Ambrosiophilus sulcatus (Eggers, 1930).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1930",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus sulcatus",
+      "authorship": "Eggers, 1930",
+      "note": "Original combination / basionym, original-description p. 180.",
+      "reference_ids": [
+        "orig_eggers1930",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1939",
+      "event": "Synonym",
+      "name": "Xyleborus sulcatulus",
+      "authorship": "Eggers, 1939",
+      "note": "Published name currently treated as a synonym; original-description p. 13.",
+      "reference_ids": [
+        "orig_eggers1939b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1941",
+      "event": "Synonym",
+      "name": "Xyleborus sinensis",
+      "authorship": "Eggers, 1941",
+      "note": "Published name currently treated as a synonym; original-description p. 224.",
+      "reference_ids": [
+        "orig_eggers1941",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "Current",
+      "event": "Current accepted",
+      "name": "Ambrosiophilus sulcatus",
+      "authorship": "(Eggers, 1930)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links the original combination and two synonym names to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_smith2022",
+      "label": "Smith et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
+      "doi": "10.11646/zootaxa.5209.1.1"
+    },
+    {
+      "id": "orig_eggers1930",
+      "label": "Eggers, 1930b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1930b). Neue Xyleborus-Arten (Col. Scolytidae) aus Indien. Indian Forest Records, Entomology 14(9): 177–208."
+    },
+    {
+      "id": "orig_eggers1939b",
+      "label": "Eggers, 1939b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1939b). Entomological results from the Swedish expedition 1934 to Burma and British India. Coleoptera: Ipidae, gesammelt von Rene Malaise. Arkiv för Zoologi 31A(4): 1–14."
+    },
+    {
+      "id": "orig_eggers1941",
+      "label": "Eggers, 1941c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1941c). Neue Borkenkäfer (Ipidae, Col.) aus China. Entomologische Blätter 37: 222–226."
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ]
+}

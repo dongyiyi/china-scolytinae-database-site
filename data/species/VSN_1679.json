@@ -1,0 +1,115 @@
+{
+  "vsn": "VSN_1679",
+  "scientific_name": "Cryphalus discretus",
+  "authorship": "Eichhoff, 1878",
+  "chinese_name": "",
+  "genus": "Cryphalus",
+  "subfamily": "Scolytinae",
+  "tribe": "Cryphalini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Questionable",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Yunnan; Hainan",
+    "narrative": "Yang (2020) explicitly lists Yunnan and Hainan and is accepted as specialist-checklist evidence for mainland-China occurrence. The separate historical Taiwan record under Cryphalus scabricollis remains Questionable because Beaver & Liu (2010) regarded that imported-timber record as unconfirmed."
+  },
+  "hosts": [],
+  "host_note": "No host evidence is reported for this doubtful Taiwan record.",
+  "taxonomy_summary": "The current accepted identity is Cryphalus discretus Eichhoff, 1878.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1943",
+      "event": "Synonym",
+      "name": "Cryphalus brevisetosus",
+      "authorship": "Schedl, 1943",
+      "note": "Published name currently treated as a synonym; original-description p. 36.",
+      "reference_ids": [
+        "orig_e47e353be178",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Cryphalus scabricollis",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 491.",
+      "reference_ids": [
+        "orig_deaeb34a13a4",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Current accepted",
+      "name": "Cryphalus discretus",
+      "authorship": "Eichhoff, 1878",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_deaeb34a13a4",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Current identity is Cryphalus discretus Eichhoff, 1878, VSN_1679; source name is Cryphalus scabricollis.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_yangcryphaluschecklistal2020",
+      "label": "Yang, 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Yang, L. (2020). Checklist of the genus Cryphalus Erichson, 1836 (Coleoptera: Curculionidae: Scolytinae) with special attention to Chinese species. Zoological Systematics 45(3): 176–205.",
+      "doi": "10.11865/zs.202023"
+    },
+    {
+      "id": "orig_e47e353be178",
+      "label": "Schedl, 1943",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1943). Fauna Philippinensis, VII. 78 Beitrag zur Morphologie und Systematik der Scolytoidea. Entomologische Blätter 39(1-2): 34–41."
+    },
+    {
+      "id": "orig_deaeb34a13a4",
+      "label": "Eichhoff, 1878b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
+    }
+  ]
+}

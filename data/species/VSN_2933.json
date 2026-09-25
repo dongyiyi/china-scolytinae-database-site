@@ -1,0 +1,165 @@
+{
+  "vsn": "VSN_2933",
+  "scientific_name": "Hylastes plumbeus",
+  "authorship": "Blandford, 1894",
+  "chinese_name": "红松根小蠹",
+  "genus": "Hylastes",
+  "subfamily": "Scolytinae",
+  "tribe": "Hylastini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "黑龙江；吉林；辽宁；台湾",
+    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) consistently report 黑龙江、吉林、辽宁. Beaver & Liu (2010) adds Taiwan and gives broad China; Taiwan. No additional mainland province is inferred from the broad China wording."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Picea koraiensis"
+    },
+    {
+      "scientific_name": "Pinus koraiensis"
+    },
+    {
+      "scientific_name": "Abies spp."
+    },
+    {
+      "scientific_name": "Picea spp."
+    },
+    {
+      "scientific_name": "Pinus spp."
+    }
+  ],
+  "host_note": "Baseline hosts are Picea koraiensis and Pinus koraiensis. Beaver & Liu (2010) reports Abies, Picea and Pinus at genus level; these are retained without replacing the species-level records.",
+  "taxonomy_summary": "The current accepted identity is Hylastes plumbeus Blandford, 1894.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1876",
+      "event": "Synonym",
+      "name": "Hylastes obscurus",
+      "authorship": "Chapuis, 1876",
+      "note": "Published name currently treated as a synonym; original-description p. 197.",
+      "reference_ids": [
+        "orig_16f436d94e7b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Hylastes septentrionalis",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 135.",
+      "reference_ids": [
+        "orig_83bc9c8811d0",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1940",
+      "event": "Synonym",
+      "name": "Hylurgops fushunensis",
+      "authorship": "Murayama, 1940",
+      "note": "Published name currently treated as a synonym; original-description p. 235.",
+      "reference_ids": [
+        "orig_5d4f7bad9acd",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1894",
+      "event": "Current accepted",
+      "name": "Hylastes plumbeus",
+      "authorship": "Blandford, 1894",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_a1d45147b2c3",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Hylastes plumbeus Blandford, 1894, VSN_2933. Beaver & Liu (2010) uses Hylastes obscurus Chapuis and treats H. plumbeus as a synonym. Current synthesis follows integrated taxonomic backbone while preserving the 2010 nomenclatural treatment at source level.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_16f436d94e7b",
+      "label": "Chapuis & Eichhoff, 1876",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Chapuis, F. & Eichhoff, W.J. (1876). Scolytides recueillis au Japon par M. C. Lewis [cont.]. Annales de la Société Entomologique de Belgique 18: 197–204."
+    },
+    {
+      "id": "orig_a1d45147b2c3",
+      "label": "Blandford, 1894c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
+    },
+    {
+      "id": "orig_83bc9c8811d0",
+      "label": "Eggers, 1923a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923a). Seltene und neue paläarktische Borkenkäfer, V. Entomologische Blätter 19: 133–139."
+    },
+    {
+      "id": "orig_5d4f7bad9acd",
+      "label": "Murayama, 1940",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1940). Nouvelle note sur les Scolytides du Manchoukuo. Annotationes Zoologicae Japonenses 19(3): 229–237."
+    }
+  ]
+}

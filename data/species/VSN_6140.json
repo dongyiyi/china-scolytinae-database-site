@@ -1,0 +1,227 @@
+{
+  "vsn": "VSN_6140",
+  "scientific_name": "Xyleborus affinis",
+  "authorship": "Eichhoff, 1868",
+  "chinese_name": "",
+  "genus": "Xyleborus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "广东；广西；福建；海南；云南；台湾",
+    "narrative": "Smith et al. (2020) records Hainan, Yunnan and Taiwan. Lin et al. (2021) adds field records from Yunnan, Hainan, Fujian, Guangxi and Guangdong. Beaver & Liu (2010) independently reports the first Taiwan record in its treatment, based on 130 specimens from Ilan, Nantou, Pingtung and Taitung."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Eucalyptus robusta"
+    },
+    {
+      "scientific_name": "Eucalyptus sp."
+    },
+    {
+      "scientific_name": "Hevea brasiliensis"
+    },
+    {
+      "scientific_name": "Schefflera octophylla"
+    },
+    {
+      "scientific_name": "Sindora glabra"
+    }
+  ],
+  "host_note": "Lin et al. (2021) reports five identified hosts from Chinese field collections: Eucalyptus robusta, Eucalyptus sp., Hevea brasiliensis, Schefflera octophylla and Sindora glabra. Beaver & Liu (2010) characterizes X. affinis as strongly polyphagous with hundreds of host species reported, but no additional host taxon is enumerated in the curated field; no new host is promoted.",
+  "taxonomy_summary": "The current accepted identity is Xyleborus affinis Eichhoff, 1868.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Xyleborus affinis fuscobrunneus",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 372.",
+      "reference_ids": [
+        "orig_df23847f2e11",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Xyleborus affinis mascarensis",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 372.",
+      "reference_ids": [
+        "orig_df23847f2e11",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Xyleborus affinis parvus",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 372.",
+      "reference_ids": [
+        "orig_df23847f2e11",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Xyleborus sacchari",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 64.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1933",
+      "event": "Synonym",
+      "name": "Xyleborus subaffinis",
+      "authorship": "Eggers, 1933",
+      "note": "Published name currently treated as a synonym; original-description p. 36.",
+      "reference_ids": [
+        "orig_45cdf8efa3ae",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1935",
+      "event": "Synonym",
+      "name": "Xyleborus societatis",
+      "authorship": "Beeson, 1935",
+      "note": "Published name currently treated as a synonym; original-description p. 120.",
+      "reference_ids": [
+        "orig_ff40671241f4",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1943",
+      "event": "Synonym",
+      "name": "Xyleborus proximus",
+      "authorship": "Eggers, 1943",
+      "note": "Published name currently treated as a synonym; original-description p. 66.",
+      "reference_ids": [
+        "orig_8e1e490db5ff",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1868",
+      "event": "Current accepted",
+      "name": "Xyleborus affinis",
+      "authorship": "Eichhoff, 1868",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_47f5e513af32",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Xyleborus affinis Eichhoff, 1868, VSN_6140. Beaver & Liu (2010) introduces no nomenclatural change for this taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_linetal2021_xyleborusmainlandchina",
+      "label": "Lin et al., 2021",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Lin, W., Xu, M., Gao, L., Ruan, Y., Lai, S., Xu, Y. & Li, Y. (2021). New records of two invasive ambrosia beetles (Curculionidae: Scolytinae: Xyleborini) to mainland China. BioInvasions Records 10(1): 74–80.",
+      "doi": "10.3391/bir.2021.10.1.09"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_45cdf8efa3ae",
+      "label": "Eggers, 1933f",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1933f). Borkenkäfer (Ipidae, Col.) aus Südamerika, VI. Material des Muséum Paris aus Franz. Guayana und Venezuela. Travaux du Laboratoire d'Entomologie du Muséum National d'Histoire Naturelle 1(77): 1–37."
+    },
+    {
+      "id": "orig_47f5e513af32",
+      "label": "Eichhoff, 1868c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1868c). Neue amerikanische Borkenkäfer-Gattungen und Arten. Berliner Entomologische Zeitschrift 11: 399–402."
+    },
+    {
+      "id": "orig_8e1e490db5ff",
+      "label": "Eggers, 1943e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1943e). Ipidae (Scolytidae) (Coleoptera Phytophaga). Parc National Albert, I. Mission G. F. de Witte 1933-1935, 43(10): 63–68."
+    },
+    {
+      "id": "orig_a6f1a8831ef5",
+      "label": "Hopkins, 1915d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hopkins, A.D. (1915d). Classification of the Cryphalinae with descriptions of new genera and species. United States Department of Agriculture, Office of the Secretary. Report 99: 1–75 + 4 plates."
+    },
+    {
+      "id": "orig_df23847f2e11",
+      "label": "Eichhoff, 1878b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
+    },
+    {
+      "id": "orig_ff40671241f4",
+      "label": "Beeson, 1935b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1935b). Platypodidae and Scolytidae of the Society Islands. Bulletin of the Bernice P. Bishop Museum 142: 115–121."
+    }
+  ]
+}

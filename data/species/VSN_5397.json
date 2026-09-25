@@ -1,0 +1,89 @@
+{
+  "vsn": "VSN_5397",
+  "scientific_name": "Scolytoplatypus blandfordi",
+  "authorship": "Gebhardt, 2006",
+  "chinese_name": "",
+  "genus": "Scolytoplatypus",
+  "subfamily": "Scolytinae",
+  "tribe": "Scolytoplatypodini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "云南；台湾",
+    "narrative": "Liao et al. (2022) provides the first mainland-China records from Yunnan. Beaver & Liu (2010) independently documents the previously known Taiwan occurrence; the 2022 revision remains controlling for current mainland synthesis."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Cyclobalanopsis morii"
+    }
+  ],
+  "host_note": "Cyclobalanopsis morii is retained as literature host evidence. Beaver & Liu (2010) independently reports the same host for Taiwan; no additional host taxa are inferred.",
+  "taxonomy_summary": "The current accepted identity is Scolytoplatypus blandfordi Gebhardt, 2006.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2006",
+      "event": "Current accepted",
+      "name": "Scolytoplatypus blandfordi",
+      "authorship": "Gebhardt, 2006",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_9659308bfddd",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Current identity follows integrated taxonomic backbone and Liao et al. (2022): Scolytoplatypus blandfordi Gebhardt, 2006, VSN_5397. Beaver & Liu (2010) is retained as earlier Taiwan evidence and does not override the later revision.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_liaoetal2022_scolytoplatypuschina",
+      "label": "Liao et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Liao, S., Lai, S., Beaver, R.A., Gebhardt, H. & Wang, J. (2022). New species and new records of Scolytoplatypus Schaufuss (Curculionidae, Scolytinae) from China, and resurrection of Scolytoplatypus sinensis (Tsai & Huang, 1965) as a distinct species. ZooKeys 1082: 27–50.",
+      "doi": "10.3897/zookeys.1082.77637"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_9659308bfddd",
+      "label": "Beaver & Gebhardt, 2006",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beaver, R.A. & Gebhardt, H. (2006). A review of the Oriental species of Scolytoplatypus Schaufuss (Coleoptera, Curculionidae, Scolytinae). Deutsche Entomologische Zeitschrift. (N. S.) 53(2): 155–178."
+    }
+  ]
+}

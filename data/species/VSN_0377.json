@@ -1,0 +1,100 @@
+{
+  "vsn": "VSN_0377",
+  "scientific_name": "Anisandrus klapperichi",
+  "authorship": "(Schedl, 1955)",
+  "chinese_name": "刺窝壮材小蠹",
+  "genus": "Anisandrus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Fujian",
+    "narrative": "黄复生等 (2015) and Smith et al. (2020) both support occurrence in Fujian. Smith et al. (2020) includes locality evidence from Shaowu, Tachulan."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Cinnamomum austrosinense"
+    },
+    {
+      "scientific_name": "Cinnamomum camphora"
+    }
+  ],
+  "host_note": "黄复生等 (2015) reports Cinnamomum austrosinense and Cinnamomum camphora. Smith et al. (2020) reports Cinnamomum at genus level, consistent with the baseline evidence.",
+  "taxonomy_summary": "The current accepted identity is Anisandrus klapperichi (Schedl, 1955).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1955",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus klapperichi",
+      "authorship": "Schedl, 1955",
+      "note": "Original combination / basionym, original-description p. 46.",
+      "reference_ids": [
+        "orig_schedl1955",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "Current",
+      "event": "Current accepted",
+      "name": "Anisandrus klapperichi",
+      "authorship": "(Schedl, 1955)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "黄复生等 (2015) used Terminalinus klapperichi; this source-specific combination is retained as provenance without changing the stable VSN.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_schedl1955",
+      "label": "Schedl, 1955f",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1955f). Fauna Sinensis, II. 152 Beitrag. Entomologische Blätter 51: 45–46."
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ]
+}

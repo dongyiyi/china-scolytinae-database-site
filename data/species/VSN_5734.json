@@ -1,0 +1,101 @@
+{
+  "vsn": "VSN_5734",
+  "scientific_name": "Sueus pilosus",
+  "authorship": "(Eggers, 1936)",
+  "chinese_name": "",
+  "genus": "Sueus",
+  "subfamily": "Scolytinae",
+  "tribe": "Hyorrhynchini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "广东；海南；香港",
+    "narrative": "Cognato et al. (2024) documents verified specimens and molecular vouchers from Guangdong, Hainan and Hong Kong, supporting presence in mainland China and Hong Kong. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Bombacaceae"
+    },
+    {
+      "scientific_name": "Litsea glutinosa"
+    }
+  ],
+  "host_note": "The revision reports Bombacaceae and Litsea glutinosa. Litsea glutinosa is tied to the Hainan voucher; Bombacaceae is reported in the species treatment.",
+  "taxonomy_summary": "The current accepted identity is Sueus pilosus (Eggers, 1936).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1936",
+      "event": "Original combination / basionym",
+      "name": "Hyorrhynchus pilosus",
+      "authorship": "Eggers, 1936",
+      "note": "Original combination / basionym, original-description p. 81.",
+      "reference_ids": [
+        "orig_679cd0703a6e",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1936",
+      "event": "Current accepted",
+      "name": "Sueus pilosus",
+      "authorship": "(Eggers, 1936)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_679cd0703a6e",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Sueus pilosus (Eggers, 1936) is restored from synonymy with S. niisimai based on reciprocal monophyly, greater than 10% COI divergence and diagnostic morphology.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_cognatoetal2024_sueusrevision",
+      "label": "Cognato et al., 2024",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Cognato, A.I., Smith, S.M., Schiffer, M. & Li, Y. (2024). A taxonomic review of Sueus Murayama, 1951 ambrosia beetles (Coleoptera: Curculionidae: Scolytinae: Hyorrhynchini) aided by molecular phylogenetic analyses. Zootaxa 5477(4): 475–493.",
+      "doi": "10.11646/zootaxa.5477.4.5"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "orig_679cd0703a6e",
+      "label": "Eggers, 1936e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1936e). Neue indomalayische Borkenkäfer (Ipidae). III. Nachtrag. Tijdschrift voor Entomologie 79: 77–91."
+    }
+  ]
+}

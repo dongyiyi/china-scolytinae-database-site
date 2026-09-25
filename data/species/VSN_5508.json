@@ -1,0 +1,203 @@
+{
+  "vsn": "VSN_5508",
+  "scientific_name": "Scolytus japonicus",
+  "authorship": "Chapuis, 1876",
+  "chinese_name": "果树小蠹",
+  "genus": "Scolytus",
+  "subfamily": "Scolytinae",
+  "tribe": "Scolytini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "吉林；辽宁；内蒙古；北京；河北；陕西；四川；台湾",
+    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) establish mainland records from 吉林、辽宁、内蒙古、北京、河北、陕西、四川. Beaver & Liu (2010) adds accepted Taiwan occurrence and reports broad China (CE, NE, NO, SW); the broad regional wording is retained as context and does not generate additional province records."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Pyrus sp."
+    },
+    {
+      "scientific_name": "Malus pumila"
+    },
+    {
+      "scientific_name": "Prunus persica"
+    },
+    {
+      "scientific_name": "Prunus triloba"
+    },
+    {
+      "scientific_name": "Prunus armeniaca"
+    },
+    {
+      "scientific_name": "Prunus pseudocerasus"
+    },
+    {
+      "scientific_name": "Zelkova serrata"
+    },
+    {
+      "scientific_name": "Malus spp."
+    },
+    {
+      "scientific_name": "Padus spp."
+    },
+    {
+      "scientific_name": "Prunus spp."
+    },
+    {
+      "scientific_name": "Pyrus spp."
+    },
+    {
+      "scientific_name": "Ulmus spp."
+    },
+    {
+      "scientific_name": "Zelkova spp."
+    },
+    {
+      "scientific_name": "Lonicera spp."
+    }
+  ],
+  "host_note": "The six species-level baseline hosts are retained. Beaver & Liu (2010) explicitly records Zelkova serrata as bred in Taiwan and also gives broader genus-level host context for Malus, Padus, Prunus, Pyrus, Ulmus, Zelkova and Lonicera; those genera are retained at their reported resolution.",
+  "taxonomy_summary": "The current accepted identity is Scolytus japonicus Chapuis, 1876.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1922",
+      "event": "Synonym",
+      "name": "Eccoptogaster mandli",
+      "authorship": "Eggers, 1922",
+      "note": "Published name currently treated as a synonym; original-description p. 13.",
+      "reference_ids": [
+        "orig_f7299f917024",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1941",
+      "event": "Synonym",
+      "name": "Scolytus starki",
+      "authorship": "Kurentsov, 1941",
+      "note": "Published name currently treated as a synonym; original-description p. 101.",
+      "reference_ids": [
+        "orig_7c3cf4067814",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1941",
+      "event": "Synonym",
+      "name": "Scolytus subconfusus",
+      "authorship": "Eggers, 1941",
+      "note": "Published name currently treated as a synonym; original-description p. 123.",
+      "reference_ids": [
+        "orig_a23421669547",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1941",
+      "event": "Synonym",
+      "name": "Scolytus ussuriensis",
+      "authorship": "Kurentsov, 1941",
+      "note": "Published name currently treated as a synonym; original-description p. 102.",
+      "reference_ids": [
+        "orig_7c3cf4067814",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1876",
+      "event": "Current accepted",
+      "name": "Scolytus japonicus",
+      "authorship": "Chapuis, 1876",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_16f436d94e7b",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Current identity follows integrated taxonomic backbone: Scolytus japonicus Chapuis, 1876, VSN_5508. Beaver & Liu (2010) treats S. confusus as distinct; no synonymy change is inferred here.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "orig_16f436d94e7b",
+      "label": "Chapuis & Eichhoff, 1876",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Chapuis, F. & Eichhoff, W.J. (1876). Scolytides recueillis au Japon par M. C. Lewis [cont.]. Annales de la Société Entomologique de Belgique 18: 197–204."
+    },
+    {
+      "id": "orig_7c3cf4067814",
+      "label": "Kurentsov, 1941",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Kurentsov, A.I. (1941). Koroedy Dal'nego Vostoka SSSR. Izdatel’stvo Akademii Nauk SSSR, Moskva, Leningrad 234 pp."
+    },
+    {
+      "id": "orig_a23421669547",
+      "label": "Eggers, 1941d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1941d). Zur paläarktischen Borkenkäferfauna VI. Stettiner Entomologische Zeitung 102: 119–124."
+    },
+    {
+      "id": "orig_f7299f917024",
+      "label": "Eggers, 1922a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1922a). Seltene und neue paläarktische Borkenkäfer, III. Entomologische Blätter 18: 12–18."
+    }
+  ]
+}

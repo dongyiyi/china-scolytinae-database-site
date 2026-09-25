@@ -1,0 +1,123 @@
+{
+  "vsn": "VSN_0634",
+  "scientific_name": "Arixyleborus granifer",
+  "authorship": "(Eichhoff, 1878)",
+  "chinese_name": "",
+  "genus": "Arixyleborus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Yunnan",
+    "narrative": "Smith et al. (2020) records Arixyleborus granifer from Yunnan, including Xishuangbanna."
+  },
+  "hosts": [],
+  "host_note": "The imported host string is evidently concatenated or corrupted. The public host summary remains blank until checked against the publication.",
+  "taxonomy_summary": "The current accepted identity is Arixyleborus granifer (Eichhoff, 1878).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1878",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus granifer",
+      "authorship": "Eichhoff, 1878",
+      "note": "Original combination / basionym, original-description p. 391.",
+      "reference_ids": [
+        "orig_eichhoff1878a",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Xyleborus granifer",
+      "authorship": "Eichhoff, 1878",
+      "note": "Later published usage, p. 502, retained as a separate historical name usage in the integrated backbone.",
+      "reference_ids": [
+        "orig_eichhoff1878b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1965",
+      "event": "Synonym",
+      "name": "Xyleborus granifer borneensis",
+      "authorship": "Schedl, 1965",
+      "note": "Published name currently treated as a synonym; original-description p. 27.",
+      "reference_ids": [
+        "orig_schedl1965",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "Current",
+      "event": "Current accepted",
+      "name": "Arixyleborus granifer",
+      "authorship": "(Eichhoff, 1878)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The nomenclatural history distinguishes Eichhoff's 1878a original description from the separate 1878b usage and retains Schedl's subspecies name as a synonym.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_eichhoff1878a",
+      "label": "Eichhoff, 1878a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878a). Neue oder noch unbeschriebene Tomicinen. Stettiner Entomologische Zeitung 39: 383–392."
+    },
+    {
+      "id": "orig_eichhoff1878b",
+      "label": "Eichhoff, 1878b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
+    },
+    {
+      "id": "orig_schedl1965",
+      "label": "Schedl, 1965",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1965). Scolytidae und Platypodidae aus dem Naturhistoriska Riksmuseum in Stockholm. Arkiv för Zoologi 18(3): 17–31."
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ]
+}

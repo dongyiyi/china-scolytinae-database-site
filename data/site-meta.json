@@ -1,0 +1,14 @@
+{
+  "site_title": "China Scolytinae & Platypodinae Database",
+  "current_taxonomic_coverage": [
+    "Scolytinae"
+  ],
+  "planned_taxonomic_coverage": [
+    "Platypodinae"
+  ],
+  "coverage_note": "The current database contains Scolytinae records only. Platypodinae is part of the long-term project scope but has not yet been integrated into the database.",
+  "geographic_scope": "China checklist, including separately tracked Mainland China, Taiwan, Hong Kong, and Macao occurrence assessments where available.",
+  "identity_key": "VSN",
+  "profile_count_status": "481 China Scolytinae accepted-taxon profiles through VSN_6555.",
+  "profile_count_current": 481
+}

@@ -1,0 +1,147 @@
+{
+  "vsn": "VSN_3137",
+  "scientific_name": "Hylurgus ligniperda",
+  "authorship": "(Fabricius, 1787)",
+  "chinese_name": "",
+  "genus": "Hylurgus",
+  "subfamily": "Scolytinae",
+  "tribe": "Hylurgini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "山东",
+    "narrative": "Lin et al. (2021) provides the first reliable modern occurrence evidence in China: Taian, Shandong in 2019, followed by Yantai and Weihai in 2020–2021. Surveys in Fujian, Guangdong and Yunnan detected no H. ligniperda and are not treated as positive distribution. The historical 'Manchuria, China' record was reviewed by the authors and judged likely erroneous."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Pinus thunbergii"
+    }
+  ],
+  "host_note": "Taian trap captures had unresolved host. At Yantai and Weihai, specimens were collected from Pinus thunbergii stumps affected by pine wood nematode; more than 15 stumps were peeled and dissected and all were infested. Pinus thunbergii is therefore promoted as confirmed current host evidence.",
+  "taxonomy_summary": "The current accepted identity is Hylurgus ligniperda (Fabricius, 1787).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1787",
+      "event": "Original combination / basionym",
+      "name": "Bostrichus ligniperda",
+      "authorship": "Fabricius, 1787",
+      "note": "Original combination / basionym, original-description p. 37.",
+      "reference_ids": [
+        "orig_930c9ea52a4c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1793",
+      "event": "Synonym",
+      "name": "Bostrichus elongatus",
+      "authorship": "Herbst, 1793",
+      "note": "Published name currently treated as a synonym; original-description p. 117.",
+      "reference_ids": [
+        "orig_87d1351ccbc1",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1795",
+      "event": "Synonym",
+      "name": "Hylesinus flavipes",
+      "authorship": "Panzer, 1795",
+      "note": "Published name currently treated as a synonym; original-description p. 61.",
+      "reference_ids": [
+        "orig_09822a5c117c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1846",
+      "event": "Synonym",
+      "name": "Hylurgus longulus",
+      "authorship": "Kolenati, 1846",
+      "note": "Published name currently treated as a synonym; original-description p. 38.",
+      "reference_ids": [
+        "orig_3f80beb41204",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1787",
+      "event": "Current accepted",
+      "name": "Hylurgus ligniperda",
+      "authorship": "(Fabricius, 1787)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_930c9ea52a4c",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Hylurgus ligniperda (Fabricius, 1787), VSN_3137. Lin et al. (2021) argues that the species is likely invasive rather than native in East Asia, but invasion-status interpretation is retained in notes rather than encoded as taxonomic identity.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_linetal2021_hylurgusligniperda",
+      "label": "Lin et al., 2021",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Lin, W., Park, S., Jiang, Z.-R., Ji, Y.-C., Ernstsons, A.S., Li, J.J., Li, Y. & Hulcr, J. (2021). Native or Invasive? The Red-Haired Pine Bark Beetle Hylurgus ligniperda (Fabricius) (Curculionidae: Scolytinae) in East Asia. Forests 12: 950.",
+      "doi": "10.3390/f12070950"
+    },
+    {
+      "id": "orig_87d1351ccbc1",
+      "label": "Herbst, 1793",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Herbst, J.F.W. (1793). Natursystem aller bekannten in- und ausländischen Insekten, als eine Fortsetzung der von Büffonschen Naturgeschichte. Der Käfer fünfter Theil. Paulischen Buchhandlung, Berlin xvi + 392 pp + pls. XLIV–LIX."
+    },
+    {
+      "id": "orig_930c9ea52a4c",
+      "label": "Fabricius, 1787",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Fabricius, J.C. (1787). Mantissa insectorum sistens eorum species nuper detectas adiectis characteribus genericis, differentiis specificis, emendationibus, observationibus. Tom. I. Impensis Christ. Gottl. Proft, Hafniae xx + 348 pp."
+    },
+    {
+      "id": "orig_09822a5c117c",
+      "label": "Panzer, 1795",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Panzer, G.W.F. (1795). Deutschlands Insectenfaune oder entomologisches Taschenbuch für das Iahr 1795. Entomologica Germanica exhibens insecta per Germaniam indigena secundum classes, ordines, genre, species adiectis synonymis, locis, observationibus. I. Eleuterata. Cum Tabulis Aeneis. Apud Felseckeri haeredes, Norimbergae 8 unn. pp, Vorbericht] + 12 pl. + [24 unn. pp.] + 372 pp."
+    },
+    {
+      "id": "orig_3f80beb41204",
+      "label": "Kolenati, 1846",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Kolenati, F.A. (1846). Meletemata Entomologica. Fascicule III. Brachelytra Caucasi cum distrubutione geographica adnexis Pselaphinis, Scydmaenis, Notoxidibus et Xylophagis. Typis Imperialis Academiae Scientiarum, Petropoli [6] + pp 1–44, + pls 12–14."
+    }
+  ]
+}

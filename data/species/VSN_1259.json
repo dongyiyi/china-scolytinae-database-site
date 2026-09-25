@@ -1,0 +1,125 @@
+{
+  "vsn": "VSN_1259",
+  "scientific_name": "Coccotrypes tahitensis",
+  "authorship": "(Beeson, 1935)",
+  "chinese_name": "",
+  "genus": "Coccotrypes",
+  "subfamily": "Scolytinae",
+  "tribe": "Dryocoetini",
+  "checklist_status": "Questionable",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Questionable",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Taiwan (doubtful)",
+    "narrative": "Beaver & Liu (2010) treated Browne's imported-timber record as doubtful; the species is Pacific/Philippine in distribution and was not confirmed from Taiwan."
+  },
+  "hosts": [],
+  "host_note": "No host evidence is reported for this doubtful Taiwan record.",
+  "taxonomy_summary": "The current accepted identity is Coccotrypes tahitensis (Beeson, 1935).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1989",
+      "event": "Synonym",
+      "name": "Coccotryes striatulus",
+      "authorship": "Wood, 1989",
+      "note": "Published name currently treated as a synonym; original-description p. 178.",
+      "reference_ids": [
+        "orig_9bf300f887c2",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1927",
+      "event": "Synonym",
+      "name": "Thamnurgides striatus",
+      "authorship": "Eggers, 1927",
+      "note": "Published name currently treated as a synonym; original-description p. 82.",
+      "reference_ids": [
+        "orig_f939101af9fd",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1935",
+      "event": "Original combination / basionym",
+      "name": "Thamnurgides tahitensis",
+      "authorship": "Beeson, 1935",
+      "note": "Original combination / basionym, original-description p. 117.",
+      "reference_ids": [
+        "orig_94c041fb275b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1935",
+      "event": "Current accepted",
+      "name": "Coccotrypes tahitensis",
+      "authorship": "(Beeson, 1935)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_94c041fb275b",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Current identity is Coccotrypes tahitensis (Beeson, 1935), VSN_1259.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_9bf300f887c2",
+      "label": "Wood, 1989",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Wood, S.L. (1989). Nomenclatural changes and new species of Scolytidae (Coleoptera), part IV. The Great Basin Naturalist 49: 167–185."
+    },
+    {
+      "id": "orig_94c041fb275b",
+      "label": "Beeson, 1935b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1935b). Platypodidae and Scolytidae of the Society Islands. Bulletin of the Bernice P. Bishop Museum 142: 115–121."
+    },
+    {
+      "id": "orig_f939101af9fd",
+      "label": "Eggers, 1927b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1927b). Neue indomalayische Borkenkäfer (Ipidae). II. Nachtrag. Philippine Journal of Science 33(1): 67–108."
+    }
+  ]
+}

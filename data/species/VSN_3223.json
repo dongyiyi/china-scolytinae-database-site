@@ -1,0 +1,1246 @@
+{
+  "vsn": "VSN_3223",
+  "scientific_name": "Hypothenemus eruditus",
+  "authorship": "(Westwood, 1834)",
+  "chinese_name": "小咪小蠹",
+  "genus": "Hypothenemus",
+  "subfamily": "Scolytinae",
+  "tribe": "Trypophloeini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "河北；山东；湖南；四川；福建；云南；台湾；香港",
+    "narrative": "黄复生等 (2015) supports occurrence in 河北、山东、湖南、四川、福建和云南. Beaver & Liu (2010) adds a first Taiwan record based on more than 150 specimens from Changhua, Chiayi, Kinmen, Nantou, Pingtung, Taichung, Taipei and Taoyuan. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Cinnamomum camphora"
+    },
+    {
+      "scientific_name": "Albizzia corniculata"
+    },
+    {
+      "scientific_name": "Hevea brasiliensis"
+    },
+    {
+      "scientific_name": "Amygdalus persica"
+    },
+    {
+      "scientific_name": "Malus pumila"
+    },
+    {
+      "scientific_name": "Juglans regia"
+    },
+    {
+      "scientific_name": "Citrus reticulata"
+    },
+    {
+      "scientific_name": "Acer sp."
+    },
+    {
+      "scientific_name": "Cassia siamea"
+    },
+    {
+      "scientific_name": "Campylotropis rockii"
+    },
+    {
+      "scientific_name": "Robinia pseudoacacia"
+    },
+    {
+      "scientific_name": "Ziziphus jujuba"
+    },
+    {
+      "scientific_name": "Vitis vinifera"
+    },
+    {
+      "scientific_name": "Zanthoxylum bungeanum"
+    },
+    {
+      "scientific_name": "Castanea sp."
+    },
+    {
+      "scientific_name": "Saussurea costus"
+    },
+    {
+      "scientific_name": "Diospyros kaki"
+    }
+  ],
+  "host_note": "黄复生等 (2015) provides 17 explicit host taxa. Beaver & Liu (2010) states that Hypothenemus eruditus uses twigs, branches, seeds and fruits of hundreds of species. This broad host statement is retained as ecological context and is not expanded into inferred taxa.",
+  "taxonomy_summary": "The current accepted identity is Hypothenemus eruditus (Westwood, 1834).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1834",
+      "event": "Original combination / basionym",
+      "name": "Tomicus eruditus",
+      "authorship": "Westwood, 1834",
+      "note": "Original combination / basionym, original-description p. 34.",
+      "reference_ids": [
+        "orig_0e00e1c0e845",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1860",
+      "event": "Synonym",
+      "name": "Cryphalus aspericollis",
+      "authorship": "Wollaston, 1860",
+      "note": "Published name currently treated as a synonym; original-description p. 365.",
+      "reference_ids": [
+        "orig_29a2340f3da3",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1864",
+      "event": "Synonym",
+      "name": "Bostrichus boieldieui",
+      "authorship": "Perroud, 1864",
+      "note": "Published name currently treated as a synonym; original-description p. 188.",
+      "reference_ids": [
+        "orig_1357c9052c16",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1867",
+      "event": "Synonym",
+      "name": "Cryphalus obscurus",
+      "authorship": "Ferrari, 1867",
+      "note": "Published name currently treated as a synonym; original-description p. 17.",
+      "reference_ids": [
+        "orig_0bacdce59c6a",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Stephanoderes ehlersii",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 493.",
+      "reference_ids": [
+        "orig_df23847f2e11",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Stephanoderes germari",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 159.",
+      "reference_ids": [
+        "orig_df23847f2e11",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Stephanoderes myrmedon",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 159.",
+      "reference_ids": [
+        "orig_df23847f2e11",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1891",
+      "event": "Synonym",
+      "name": "Stephanopodius communis",
+      "authorship": "Schaufuss, 1891",
+      "note": "Published name currently treated as a synonym; original-description p. 11.",
+      "reference_ids": [
+        "orig_76abe31eb04d",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1900",
+      "event": "Synonym",
+      "name": "Hypothenemus insularis",
+      "authorship": "Perkins, 1900",
+      "note": "Published name currently treated as a synonym; original-description p. 181.",
+      "reference_ids": [
+        "orig_90772e5f79c0",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1903",
+      "event": "Synonym",
+      "name": "Cryphalus tectonae",
+      "authorship": "Stebbing, 1903",
+      "note": "Published name currently treated as a synonym; original-description p. 263.",
+      "reference_ids": [
+        "orig_5d88837c258f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1910",
+      "event": "Synonym",
+      "name": "Cryphalus basjoo",
+      "authorship": "Niisima, 1910",
+      "note": "Published name currently treated as a synonym; original-description p. 9.",
+      "reference_ids": [
+        "orig_3cfac939b2a2",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1910",
+      "event": "Synonym",
+      "name": "Cryphalus striatopunctatus",
+      "authorship": "Lea, 1910",
+      "note": "Published name currently treated as a synonym; original-description p. 142.",
+      "reference_ids": [
+        "orig_2bd369b29d5a",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1910",
+      "event": "Synonym",
+      "name": "Cryphalus tantillus",
+      "authorship": "Lea, 1910",
+      "note": "Published name currently treated as a synonym; original-description p. 142.",
+      "reference_ids": [
+        "orig_2bd369b29d5a",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1912",
+      "event": "Synonym",
+      "name": "Hypothenemus tuberculosus",
+      "authorship": "Hagedorn, 1912",
+      "note": "Published name currently treated as a synonym; original-description p. 339.",
+      "reference_ids": [
+        "orig_b08566b2aaef",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Cosmoderes schwarzii",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 11.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Hypothenemus asiminae",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 16.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Hypothenemus bradfordi",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 15.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Hypothenemus ferrugineus",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 20.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Hypothenemus flavipes",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 18.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Hypothenemus flavosquamosus",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 15.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Hypothenemus hamamelidis",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 16.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Hypothenemus heathi",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 20.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Hypothenemus koebelei",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 17.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Hypothenemus lineatifrons",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 17.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Hypothenemus mali",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 17.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Hypothenemus myristicae",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 16.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Hypothenemus nigricollis",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 16.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Hypothenemus nigripennis",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 19.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Hypothenemus parvus",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 17.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Hypothenemus pruni",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 16.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Hypothenemus punctifrons",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 18.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Hypothenemus punctipennis",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 20.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Hypothenemus rumseyi",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 16.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Hypothenemus sacchari",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 17.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Hypothenemus tenuis",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 16.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Hypothenemus webbi",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 17.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Stephanoderes elongatus",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 25.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Stephanoderes evonymi",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 26.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Stephanoderes flavicollis",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 24.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Stephanoderes pygmaeus",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 24.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Stephanoderes subconcentralis",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 25.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Stephanoderes unicolor",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 25.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1920",
+      "event": "Synonym",
+      "name": "Hypothenemus bicolor",
+      "authorship": "Eggers, 1920",
+      "note": "Published name currently treated as a synonym; original-description p. 241.",
+      "reference_ids": [
+        "orig_6b9452a65af5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1919",
+      "event": "Synonym",
+      "name": "Hypothenemus ehlersi rotroui",
+      "authorship": "Peyerimhoff, 1919",
+      "note": "Published name currently treated as a synonym; original-description p. 255.",
+      "reference_ids": [
+        "orig_d03a7620a620",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1922",
+      "event": "Synonym",
+      "name": "Hypothenemus juglandis",
+      "authorship": "Blackman, 1922",
+      "note": "Published name currently treated as a synonym; original-description p. 88.",
+      "reference_ids": [
+        "orig_684eacd1ac12",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1927",
+      "event": "Synonym",
+      "name": "Hypothenemus pusillus",
+      "authorship": "Eggers, 1927",
+      "note": "Published name currently treated as a synonym; original-description p. 173.",
+      "reference_ids": [
+        "orig_a49427c0353a",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1928",
+      "event": "Synonym",
+      "name": "Stephanoderes intersetosus",
+      "authorship": "Eggers, 1928",
+      "note": "Published name currently treated as a synonym; original-description p. 85.",
+      "reference_ids": [
+        "orig_58c7f4d69224",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1929",
+      "event": "Synonym",
+      "name": "Hypothenemus lezhavai",
+      "authorship": "Pyatnitskiy, 1929",
+      "note": "Published name currently treated as a synonym; original-description p. 15.",
+      "reference_ids": [
+        "orig_8b116e54d793",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1929",
+      "event": "Synonym",
+      "name": "Stephanoderes gracilis",
+      "authorship": "Eggers, 1929",
+      "note": "Published name currently treated as a synonym; original-description p. 51.",
+      "reference_ids": [
+        "orig_b5246bd8e10b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1935",
+      "event": "Synonym",
+      "name": "Hypothenemus citri",
+      "authorship": "Ebeling, 1935",
+      "note": "Published name currently treated as a synonym; original-description p. 21.",
+      "reference_ids": [
+        "orig_7ffd18c60c51",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1936",
+      "event": "Synonym",
+      "name": "Hypothenemus erythrinae",
+      "authorship": "Eggers, 1936",
+      "note": "Published name currently treated as a synonym; original-description p. 628.",
+      "reference_ids": [
+        "orig_4fb20b23d61b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1939",
+      "event": "Synonym",
+      "name": "Hypothenemus argentinensis",
+      "authorship": "Schedl, 1939",
+      "note": "Published name currently treated as a synonym; original-description p. 408.",
+      "reference_ids": [
+        "orig_c184919f4beb",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1939",
+      "event": "Synonym",
+      "name": "Hypothenemus bicolor",
+      "authorship": "Schedl, 1939",
+      "note": "Published name currently treated as a synonym; original-description p. 32.",
+      "reference_ids": [
+        "orig_455a9f4416f4",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1939",
+      "event": "Synonym",
+      "name": "Hypothenemus cylindricus",
+      "authorship": "Schedl, 1939",
+      "note": "Published name currently treated as a synonym; original-description p. 409.",
+      "reference_ids": [
+        "orig_c184919f4beb",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1940",
+      "event": "Synonym",
+      "name": "Hypothenemus asaroriensis",
+      "authorship": "Beeson, 1940",
+      "note": "Published name currently treated as a synonym; original-description p. 195.",
+      "reference_ids": [
+        "orig_a1c816367ea2",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1940",
+      "event": "Synonym",
+      "name": "Hypothenemus dubiosus",
+      "authorship": "Schedl, 1940",
+      "note": "Published name currently treated as a synonym; original-description p. 207.",
+      "reference_ids": [
+        "orig_ea710267d0e2",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1940",
+      "event": "Synonym",
+      "name": "Stephanoderes subcylindricus",
+      "authorship": "Eggers, 1940",
+      "note": "Published name currently treated as a synonym; original-description p. 233.",
+      "reference_ids": [
+        "orig_86032e28beea",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1941",
+      "event": "Synonym",
+      "name": "Hypothenemus mauiensis",
+      "authorship": "Schedl, 1941",
+      "note": "Published name currently treated as a synonym; original-description p. 110.",
+      "reference_ids": [
+        "orig_661c9d381a9d",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1942",
+      "event": "Synonym",
+      "name": "Hypothenemus glabratus",
+      "authorship": "Schedl, 1942",
+      "note": "Published name currently treated as a synonym; original-description p. 175.",
+      "reference_ids": [
+        "orig_5405f00dff87",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1944",
+      "event": "Synonym",
+      "name": "Archeophalus ealensis",
+      "authorship": "Eggers, 1944",
+      "note": "Published name currently treated as a synonym; original-description p. 94.",
+      "reference_ids": [
+        "orig_eedff0fd9dfc",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1949",
+      "event": "Synonym",
+      "name": "Stephanopodius nanulus",
+      "authorship": "Schedl, 1949",
+      "note": "Published name currently treated as a synonym; original-description p. 263.",
+      "reference_ids": [
+        "orig_04e3aff80cb3",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1951",
+      "event": "Synonym",
+      "name": "Hypothenemus parilis",
+      "authorship": "Schedl, 1951",
+      "note": "Published name currently treated as a synonym; original-description p. 100.",
+      "reference_ids": [
+        "orig_4d5799273e3e",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1952",
+      "event": "Synonym",
+      "name": "Hypothenemus hirtipennis",
+      "authorship": "Schedl, 1952",
+      "note": "Published name currently treated as a synonym; original-description p. 450.",
+      "reference_ids": [
+        "orig_5af90d2344cd",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1952",
+      "event": "Synonym",
+      "name": "Hypothenemus longipilis",
+      "authorship": "Schedl, 1952",
+      "note": "Published name currently treated as a synonym; original-description p. 451.",
+      "reference_ids": [
+        "orig_5af90d2344cd",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1952",
+      "event": "Synonym",
+      "name": "Hypothenemus obscuriceps",
+      "authorship": "Schedl, 1952",
+      "note": "Published name currently treated as a synonym; original-description p. 449.",
+      "reference_ids": [
+        "orig_5af90d2344cd",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1952",
+      "event": "Synonym",
+      "name": "Stephanoderes tigrensis",
+      "authorship": "Schedl, 1952",
+      "note": "Published name currently treated as a synonym; original-description p. 452.",
+      "reference_ids": [
+        "orig_5af90d2344cd",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1953",
+      "event": "Synonym",
+      "name": "Hypothenemus glabratellus",
+      "authorship": "Schedl, 1953",
+      "note": "Published name currently treated as a synonym; original-description p. 292.",
+      "reference_ids": [
+        "orig_18d1a96882cf",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1957",
+      "event": "Synonym",
+      "name": "Hypothenemus cylindripennis",
+      "authorship": "Schedl, 1957",
+      "note": "Published name currently treated as a synonym; original-description p. 51.",
+      "reference_ids": [
+        "orig_021c45cdf91f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1957",
+      "event": "Synonym",
+      "name": "Hypothenemus parcilus",
+      "authorship": "Schedl, 1957",
+      "note": "Published name currently treated as a synonym; original-description p. 49.",
+      "reference_ids": [
+        "orig_021c45cdf91f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1958",
+      "event": "Synonym",
+      "name": "Hypothenemus vianai",
+      "authorship": "Schedl, 1958",
+      "note": "Published name currently treated as a synonym; original-description p. 42.",
+      "reference_ids": [
+        "orig_0a833b1cffd3",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1959",
+      "event": "Synonym",
+      "name": "Hypothenemus mesoleius",
+      "authorship": "Schedl, 1959",
+      "note": "Published name currently treated as a synonym; original-description p. 480.",
+      "reference_ids": [
+        "orig_35cde45dd62c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1972",
+      "event": "Synonym",
+      "name": "Hypothenemus minutulus",
+      "authorship": "Schedl, 1972",
+      "note": "Published name currently treated as a synonym; original-description p. 225.",
+      "reference_ids": [
+        "orig_7cc4e0244ea2",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1978",
+      "event": "Synonym",
+      "name": "Cryphalus minutus",
+      "authorship": "Schedl, 1978",
+      "note": "Published name currently treated as a synonym; original-description p. 299.",
+      "reference_ids": [
+        "orig_e00ec22f6634",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1834",
+      "event": "Current accepted",
+      "name": "Hypothenemus eruditus",
+      "authorship": "(Westwood, 1834)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_0e00e1c0e845",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Hypothenemus eruditus (Westwood, 1834), VSN_3223, Scolytinae: Trypophloeini. 黄复生等 (2015) and Beaver & Liu (2010) both preserve authorship Westwood at source level. A previous profile record gave authorship Wollaston, 1854 was inconsistent with integrated taxonomic backbone and is not used for the current accepted authorship.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "orig_eedff0fd9dfc",
+      "label": "Eggers, 1944c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1944c). Neue Borkenkäfer (Col. Scolytidae) aus Afrika. Nachtrag XI. Revue de Zoologie et de Botanique Africaines 38: 92–98."
+    },
+    {
+      "id": "orig_1357c9052c16",
+      "label": "Perroud & Montrouzier, 1864",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Perroud, B.P. & Montrouzier, X. (1864). Essai sur la fauna entomologique de Kanala (Nouvelle-Caledonie) et description de quelques espèces nouvelles ou peu connue. Annales de la Société Linnéene de Lyon. (N. S.) 11: 46–257."
+    },
+    {
+      "id": "orig_a6f1a8831ef5",
+      "label": "Hopkins, 1915d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hopkins, A.D. (1915d). Classification of the Cryphalinae with descriptions of new genera and species. United States Department of Agriculture, Office of the Secretary. Report 99: 1–75 + 4 plates."
+    },
+    {
+      "id": "orig_29a2340f3da3",
+      "label": "Wollaston, 1860b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Wollaston, T.V. (1860b). Additions to Madeiran Coleoptera. Annals and Magazine of Natural History. Ser. 3, 5: 358–365."
+    },
+    {
+      "id": "orig_3cfac939b2a2",
+      "label": "Niisima, 1910",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Niisima, Y. (1910). Die Borkenkaefer nord- und mittel-Japans. Transactions of the Sapporo Natural History Society 3: 1–18."
+    },
+    {
+      "id": "orig_e00ec22f6634",
+      "label": "Schedl, 1978a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1978a). Neotropische Scolytoidea, XIV (Coleoptera). 335 Beitrag. Entomologische Abhandlungen, Staatliches Museum für Tierkunde in Dresden 41(8): 291–309."
+    },
+    {
+      "id": "orig_0bacdce59c6a",
+      "label": "Ferrari, 1867",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Ferrari, J.A. (1867). Die Forst- und Baumzuchtschädlichen Borkenkäfer (Tomicides Lac) aus der Familie der Holzverderber (Scolytides Lac), mit besonderer Berücksichtigung vorzüglich der europäischen Formen, und der Sammlung des k. k. zoologischen Kabinetes in Wien. Carl Gerold’s Sohn, Wien [2] + 96 pp."
+    },
+    {
+      "id": "orig_2bd369b29d5a",
+      "label": "Lea, 1910",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Lea, A.M. (1910). On Australian and Tasmanian Coleoptera, with descriptions of new species Part I. Proceedings of the Royal Society of Victoria 22: 113–152."
+    },
+    {
+      "id": "orig_5d88837c258f",
+      "label": "Stebbing, 1903",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Stebbing, E.P. (1903). Departmental notes on insects that affect forestry. 2. Office of the Superintendent of Government Printing, Calcutta 151–334, pls. VII–XIX."
+    },
+    {
+      "id": "orig_c184919f4beb",
+      "label": "Schedl, 1939f",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1939f). Fauna Argentinensis, III. 70 Comunicación. Notas del Museo de La Plata, Zoología 4(28): 407–412."
+    },
+    {
+      "id": "orig_a1c816367ea2",
+      "label": "Beeson, 1940",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1940). Scolytidae and Platypodidae of the Mangarevan Expedition. Occasional Papers of Bernice P. Bishop Museum 15(18): 191–203."
+    },
+    {
+      "id": "orig_6b9452a65af5",
+      "label": "Eggers, 1920a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1920a). 60 neue Borkenkäfer (Ipidae) aus Afrika, nebst zehn neuen Gattungen, zwei Abarten. Entomologische Blätter 15(10–12): 229–243."
+    },
+    {
+      "id": "orig_455a9f4416f4",
+      "label": "Schedl, 1939j",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1939j). Scolytidae and Platypodidae. 47 Beitrag. Tijdschrift voor Entomologie 82: 30–53."
+    },
+    {
+      "id": "orig_7ffd18c60c51",
+      "label": "Ebeling, 1935",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Ebeling, W. (1935). A new scolytid beetle found in the bark of lemon trees (Coleoptera, Scolytidae). The Pan-Pacific Entomologist 11: 21–23."
+    },
+    {
+      "id": "orig_021c45cdf91f",
+      "label": "Schedl, 1957b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1957b). Scolytoidea nouveaux du Congo Belge, II. Mission R. Mayne – K. E. Schedl 1952. Annales du Musée Royal de l'Afrique Centrale, Série 8, Sciences Zoologiques 56: 5–162."
+    },
+    {
+      "id": "orig_ea710267d0e2",
+      "label": "Schedl, 1940c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1940c). Scolytidae und Platypodidae (Coleoptera). Arbeiten über Morphologische und Taxonomische Entomologie aus Berlin-Dahlem 7(3): 203–208."
+    },
+    {
+      "id": "orig_d03a7620a620",
+      "label": "Peyerimhoff, 1919",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Peyerimhoff, P. (1919). Notes sur la biologie de quelques Coleoptéres phytophages du Nord Africain. Annales de la Société Entomologique de France 88: 169–258."
+    },
+    {
+      "id": "orig_0e00e1c0e845",
+      "label": "Westwood, 1834",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Westwood, J.O. (1834). Description of a minute coleopterous insect, forming the type of a new subgenus allied to Tomicus, with some observations upon the affinities of the xylophaga. Transactions of the Entomological Society of London 1: 34–36."
+    },
+    {
+      "id": "orig_4fb20b23d61b",
+      "label": "Eggers, 1936a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1936a). Neue Borkenkäfer (Scolytidae, Col.) aus Indien. Annals and Magazine of Natural History. Ser. 10, 17(102): 626–636.",
+      "doi": "10.1080/00222933608655163"
+    },
+    {
+      "id": "orig_18d1a96882cf",
+      "label": "Schedl, 1953f",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1953f). Fauna Indo-Malayensis, III. Contribution 133 to the morphology and taxonomy of the Scolytoidea. Annals and Magazine of Natural History. Ser. 12, 6(64): 288–304.",
+      "doi": "10.1080/00222935308654424"
+    },
+    {
+      "id": "orig_5405f00dff87",
+      "label": "Schedl, 1942b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1942b). Forschungberiche zur Scolytoiden-Fauna der Malayischen Halbinsel, V. 80 Betrag. Kolonialforstliche Mitteilungen 5(2-3): 169–218."
+    },
+    {
+      "id": "orig_5af90d2344cd",
+      "label": "Schedl, 1952a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1952a). Fauna Argentinensis V. 96. Contribution to the morphology and taxonomy of the Scolytoidea. Acta Zoologica Lilloana 12: 443–463."
+    },
+    {
+      "id": "orig_90772e5f79c0",
+      "label": "Perkins, 1900",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Perkins, R.C.L. (1900). Coleoptera. II. Coleoptera Rhynchophora, Proterhinidae, Heteromera and Cioidae. In: Sharp, D. (Ed.), Fauna Hawaiiensis or the Zoology of the Sandwich (Hawaiian) Isles, Vol. 2, Part 3. University Press, Cambridge, 117–270 + pl. VII–X."
+    },
+    {
+      "id": "orig_684eacd1ac12",
+      "label": "Blackman, 1922a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blackman, M.W. (1922a). Mississippi Bark Beetles. Mississippi Agricultural Experiment Station Technical Bulletin 11: 1–130, 18 pls."
+    },
+    {
+      "id": "orig_8b116e54d793",
+      "label": "Pyatnitskiy, 1929",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Pyatnitskiy, G.K. (1929). Hypothenemus lezhavai n. sp. P. 8. Narodnyy Komissariat Zemledeliya Gruzii, Leningrad 15 pp."
+    },
+    {
+      "id": "orig_661c9d381a9d",
+      "label": "Schedl, 1941b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1941b). 77th Contribution to the morphology and taxonomy of the Scolytoidea. Proceedings of the Hawaiian Entomological Society 11(1): 109–116."
+    },
+    {
+      "id": "orig_35cde45dd62c",
+      "label": "Schedl, 1959i",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1959i). A check list of the Scolytidae and Platypodidae (Coleoptera) of Ceylon with descriptions of new species and biological notes. Transactions of the Royal Entomological Society of London 111(15): 469–520.",
+      "doi": "10.1111/j.1365-2311.1959.tb02874.x"
+    },
+    {
+      "id": "orig_7cc4e0244ea2",
+      "label": "Schedl, 1972h",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1972h). Scolytidae of Ceylon. 287 Contribution. Mitteilungen der Schweizerischen Entomologischen Gesellschaft 45(1-3): 221–229."
+    },
+    {
+      "id": "orig_4d5799273e3e",
+      "label": "Schedl, 1951c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1951c). Neotropische Scolytoidea, IV. 112 Beitrag zur Morphologie und Systematik der Scolyroiden. Dusenia 2(2): 71–130."
+    },
+    {
+      "id": "orig_a49427c0353a",
+      "label": "Eggers, 1927c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1927c). Neue Borkenkäfer (Ipidae, Col.) aus Afrika (Nachtrag III). Revue de Zoologie et de Botanique Africaines 15(2): 172–199."
+    },
+    {
+      "id": "orig_b08566b2aaef",
+      "label": "Hagedorn, 1912c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hagedorn, J.M. (1912c). Borkenkäfer (Ipidae) welche in Kautschukbäumen leben. Revue Zoologique Africaine 1(3): 336–346, pl. xviii."
+    },
+    {
+      "id": "orig_0a833b1cffd3",
+      "label": "Schedl, 1958a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1958a). Fauna Argentinensis. VII. 137 Beitrag. Acta Zoologica Lilloana 16: 33–46."
+    },
+    {
+      "id": "orig_df23847f2e11",
+      "label": "Eichhoff, 1878b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
+    },
+    {
+      "id": "orig_b5246bd8e10b",
+      "label": "Eggers, 1929f",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1929f). Zur Synonymie der Borkenkäfer (Ipidae, Col.). I. Wiener Entomologische Zeitung 46: 41–55."
+    },
+    {
+      "id": "orig_58c7f4d69224",
+      "label": "Eggers, 1928a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1928a). Ipidae (Coleoptera) da America do Sul. Archivos do Instituto de Biologia Vegetal, Rio de Janeiro 1: 83–99."
+    },
+    {
+      "id": "orig_86032e28beea",
+      "label": "Eggers, 1940e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1940e). Neue Borkenkäfer (Col. Scolytidae) aus Africa. Nachtrag X. Revue de Zoologie et de Botanique Africaines 33: 227–239."
+    },
+    {
+      "id": "orig_76abe31eb04d",
+      "label": "Schaufuss, 1891",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schaufuss, C.F.C. (1891). Beitrag zur Käferfauna Madagascars II. Tijdschrift voor Entomologie 34: 1–35."
+    },
+    {
+      "id": "orig_04e3aff80cb3",
+      "label": "Schedl, 1949b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1949b). Neotropical Scolytoidea, I. 97th Contribution to the morphology and taxonomy of the Scolytoidea (Col.). Revista Brasileira de Biologia 9(3): 261–284."
+    }
+  ]
+}

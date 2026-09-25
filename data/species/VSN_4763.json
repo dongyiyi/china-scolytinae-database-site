@@ -1,0 +1,80 @@
+{
+  "vsn": "VSN_4763",
+  "scientific_name": "Polygraphus taiwanensis",
+  "authorship": "Schedl, 1967",
+  "chinese_name": "",
+  "genus": "Polygraphus",
+  "subfamily": "Scolytinae",
+  "tribe": "Polygraphini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾",
+    "narrative": "Beaver & Liu (2010) directly confirms Taiwan occurrence, including Nantou, Hui Son material collected http://18.vi.2006."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Picea morrisonicola"
+    }
+  ],
+  "host_note": "Picea morrisonicola is explicitly reported and retained at species level.",
+  "taxonomy_summary": "The current accepted identity is Polygraphus taiwanensis Schedl, 1967.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1967",
+      "event": "Current accepted",
+      "name": "Polygraphus taiwanensis",
+      "authorship": "Schedl, 1967",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_7bfbad2ee1e9",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Current identity follows integrated taxonomic backbone: Polygraphus taiwanensis Schedl, 1967, VSN_4763. Beaver & Liu (2010) notes that P. formosanus may be a synonym, but that uncertainty concerns VSN_4700 and does not invalidate the direct Taiwan evidence for P. taiwanensis.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_7bfbad2ee1e9",
+      "label": "Schedl, 1967b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1967b). Bark-beetles and pin-hole borers (Scolytidae) intercepted from imported logs and seeds in Japanese ports. II. 254 Beitrag. Kontyû 35(2): 119–129."
+    }
+  ]
+}

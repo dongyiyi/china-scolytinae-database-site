@@ -1,0 +1,313 @@
+{
+  "vsn": "VSN_1168",
+  "scientific_name": "Coccotrypes dactyliperda",
+  "authorship": "(Fabricius, 1801)",
+  "chinese_name": "枣核椰小蠹",
+  "genus": "Coccotrypes",
+  "subfamily": "Scolytinae",
+  "tribe": "Dryocoetini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "云南；香港",
+    "narrative": "Yan et al. (2010) explicitly list Coccotrypes dactyliperda among stored-grain insects in China, providing country-level evidence for Mainland China occurrence. Spennemann (2018) subsequently treats China as naturalised, citing Yan et al. (2010), supporting established/naturalised status. 黄昱舒等 (2026) reports Yunnan and presents the record as the first discovery in China; that priority claim is retained at source level only because earlier mainland China evidence already exists. Lau (2025) supports Hong Kong. 殷蕙芬等 (1984) records Tianjin and Qinhuangdao as input ports; those records are retained as pathway/interception evidence rather than current locality records. A previously attributed Hebei record is under re-review and is not included in the current reviewed distribution."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Areca catechu，Phoenix dactylifera"
+    }
+  ],
+  "host_note": "No reviewed host note is currently available.",
+  "taxonomy_summary": "The current accepted identity is Coccotrypes dactyliperda (Fabricius, 1801).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1801",
+      "event": "Original combination / basionym",
+      "name": "Bostrichus dactyliperda",
+      "authorship": "Fabricius, 1801",
+      "note": "Original combination / basionym, original-description p. 387.",
+      "reference_ids": [
+        "orig_7d3cbf594e53",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1842",
+      "event": "Synonym",
+      "name": "Bostrichus palmicola",
+      "authorship": "Hornung, 1842",
+      "note": "Published name currently treated as a synonym; original-description p. 116.",
+      "reference_ids": [
+        "orig_306508521495",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Coccotrypes bassiaevorus",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 47.",
+      "reference_ids": [
+        "orig_c0e022fe134c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1939",
+      "event": "Synonym",
+      "name": "Coccotrypes borassi",
+      "authorship": "Beeson, 1939",
+      "note": "Published name currently treated as a synonym; original-description p. 283.",
+      "reference_ids": [
+        "orig_c7bd4504c8e6",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1904",
+      "event": "Synonym",
+      "name": "Coccotrypes eggersi",
+      "authorship": "Hagedorn, 1904",
+      "note": "Published name currently treated as a synonym; original-description p. 449.",
+      "reference_ids": [
+        "orig_1bbe5728c517",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1939",
+      "event": "Synonym",
+      "name": "Coccotrypes elaeocarpi",
+      "authorship": "Beeson, 1939",
+      "note": "Published name currently treated as a synonym; original-description p. 284.",
+      "reference_ids": [
+        "orig_c7bd4504c8e6",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1890",
+      "event": "Synonym",
+      "name": "Coccotrypes laboulbenei",
+      "authorship": "Decaux, 1890",
+      "note": "Published name currently treated as a synonym; original-description p. 953.",
+      "reference_ids": [
+        "orig_81c603f2d33c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1928",
+      "event": "Synonym",
+      "name": "Coccotrypes moreirai",
+      "authorship": "Eggers, 1928",
+      "note": "Published name currently treated as a synonym; original-description p. 86.",
+      "reference_ids": [
+        "orig_72538c1dfe66",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1935",
+      "event": "Synonym",
+      "name": "Coccotrypes tanganus",
+      "authorship": "Eggers, 1935",
+      "note": "Published name currently treated as a synonym; original-description p. 307.",
+      "reference_ids": [
+        "orig_9736387338f8",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Coccotrypes tropicus",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 312.",
+      "reference_ids": [
+        "orig_deaeb34a13a4",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Coccotrypes tropicus",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 391.",
+      "reference_ids": [
+        "orig_d87a90ab173c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1801",
+      "event": "Current accepted",
+      "name": "Coccotrypes dactyliperda",
+      "authorship": "(Fabricius, 1801)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_7d3cbf594e53",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 11 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "orig_7d3cbf594e53",
+      "label": "Fabricius, 1801",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Fabricius, J.C. (1801). Systema eleutheratorum secundum ordines, genera, species: adiectis synonimis, locis, observationibus, descriptionibus. Tomus II. Impensis Bibliopolii Academici Novi, Kiliae 687 pp."
+    },
+    {
+      "id": "orig_306508521495",
+      "label": "Hornung, 1842",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hornung, E.G. (1842). Ueber einige in den Betelnüssen vorkommende Käfer. Entomologische Zeitung (Stettin) 3: 115–117."
+    },
+    {
+      "id": "orig_c0e022fe134c",
+      "label": "Hopkins, 1915d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hopkins, A.D. (1915d). Classification of the Cryphalinae with descriptions of new genera and species. United States Department of Agriculture, Office of the Secretary. Report 99: 1–75 + 4 plates."
+    },
+    {
+      "id": "orig_c7bd4504c8e6",
+      "label": "Beeson, 1939",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1939). New species and biology of Coccotrypes and Thamnurgides (Scolytidae, Col). Indian Forest Records, Entomology (New Series) 5: 279–308."
+    },
+    {
+      "id": "orig_1bbe5728c517",
+      "label": "Hagedorn, 1904a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hagedorn, J.M. (1904a). Steinnussbohrer. 9447-452. Allgemeinen Zeitschrift für Entomologie 9: 447–452."
+    },
+    {
+      "id": "orig_81c603f2d33c",
+      "label": "Decaux, 1890",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Decaux, F. (1890). Études sur les insectes nuisibles à l’agriculture recueillis à l’exposition universelle; moyens de les détruire. Bulletin de la Société des Agriculteurs de France 1890: 951–966."
+    },
+    {
+      "id": "orig_72538c1dfe66",
+      "label": "Eggers, 1928a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1928a). Ipidae (Coleoptera) da America do Sul. Archivos do Instituto de Biologia Vegetal, Rio de Janeiro 1: 83–99."
+    },
+    {
+      "id": "orig_9736387338f8",
+      "label": "Eggers, 1935e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1935e). Neue Borkenkäfer (Ipidae Col.) aus Africa, Nachtrag VI. Revue de Zoologie et de Botanique Africaines 27: 295–311."
+    },
+    {
+      "id": "orig_deaeb34a13a4",
+      "label": "Eichhoff, 1878b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
+    },
+    {
+      "id": "orig_d87a90ab173c",
+      "label": "Eichhoff, 1878a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878a). Neue oder noch unbeschriebene Tomicinen. Stettiner Entomologische Zeitung 39: 383–392."
+    },
+    {
+      "id": "src_spennemann2018_coccotrypesdactyliperda",
+      "label": "Spennemann, 2018",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Spennemann, D.H.R. (2018). Global distribution of the date stone beetle, Coccotrypes dactyliperda (Coleoptera: Curculionidae, Scolytinae). Journal of Insect Biodiversity and Systematics 4(3): 203-226.",
+      "doi": "10.52547/jibs.4.4.203"
+    },
+    {
+      "id": "src_huangetal2026_coccotrypesdactyliperdachina",
+      "label": "黄昱舒等 2026",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄昱舒, 陈超, 易传辉, 和秋菊. 2026. 中国首次发现椰枣种子害虫棕榈核小蠹. 中国森林病虫 45."
+    },
+    {
+      "id": "src_yanetal2010_storedgrainarthropodschina",
+      "label": "Yan et al., 2010",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Yan, X., Zhou, H., Shen, Z., Li, W., Guo, D., Song, Y., Lan, S. & Zhang, J. (2010). National investigations of stored grain arthropods in China. Julius-Kühn-Archiv 425: 212-218.",
+      "doi": "10.5073/jka.2010.425.145"
+    }
+  ]
+}

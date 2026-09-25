@@ -1,0 +1,61 @@
+{
+  "title": "About this database",
+  "subtitle": "An independently curated scholarly resource for tracing the taxonomy, nomenclature, distribution, hosts, and published evidence associated with bark and ambrosia beetles recorded from China.",
+  "sections": [
+    {
+      "heading": "What this database is",
+      "paragraphs": [
+        "This database is an independently curated scholarly resource maintained as an ongoing research project. At present, it is primarily maintained by a single researcher rather than by a formal institution or consortium, and it should not be interpreted as an official national checklist or regulatory database.",
+        "All records are compiled from traceable published sources, including journal articles, taxonomic revisions, monographs, books, and other citable literature. The aim is to make these scattered records searchable and to connect accepted taxa with historical name usages, distribution records, host associations, references, and source provenance."
+      ]
+    },
+    {
+      "heading": "Why I built it",
+      "paragraphs": [
+        "China has important foundational treatments of its bark and ambrosia beetle fauna, including the 1984 Economic Insect Fauna of China volume on Scolytidae and the 2015 Classification Outline of Scolytidae from China. Since those syntheses, however, relevant information has continued to accumulate across many separate papers, revisions, regional treatments, new species descriptions, new country or provincial records, and nomenclatural changes.",
+        "Recent work has substantially changed the available knowledge base. Large regional studies, such as the 2020 monograph of Xyleborini from the Indochinese Peninsula and China by Sarah M. Smith, Roger A. Beaver, and Anthony I. Cognato, added many new species and revised numerous taxa. Other groups have also been re-examined, including East Asian Cryphalus, where new species, synonymies, and redescriptions have altered how some taxa are understood. More recently, the 2026 global checklist of Scolytinae provided a modern taxonomic framework that can serve as a backbone for linking historical and current name usages.",
+        "A practical reason is equally important. In my own research and learning, I often need to trace the taxonomic and nomenclatural history of a species, determine which names have been used for it, and locate the evidence behind distribution or host records. I found that this information was usually scattered across many publications and was time-consuming to reconstruct. I therefore began collecting these records for my own use. Over time, that personal working collection developed into this database."
+      ]
+    },
+    {
+      "heading": "Current scope and limitations",
+      "paragraphs": [
+        "The current database implementation covers Scolytinae only. Platypodinae is part of the long-term project scope but has not yet been integrated.",
+        "This is an active and evolving database, not a finished catalogue. Some published literature may not yet have been collected; some older records may require reinterpretation; some entries remain candidate or unreviewed; and transcription, linkage, or interpretation errors are still possible. Critical records should therefore be checked against the cited original sources.",
+        "If you notice missing literature, an incorrect record, a questionable taxonomic interpretation, or any other problem, feedback and corrections are very welcome. Community feedback is especially valuable for improving coverage and identifying records that need re-review."
+      ]
+    },
+    {
+      "heading": "Why an updated synthesis matters",
+      "paragraphs": [
+        "A current, traceable overview of the fauna helps clarify not only which species are known from China, but also how confidently each record is supported and how names, distributions, and host associations have changed through time.",
+        "Such a resource can support species identification, taxonomic and nomenclatural research, biodiversity inventories, host and distribution synthesis, forest health and biosecurity work, and future ecological or evolutionary studies. Just as importantly, it makes gaps and uncertainties visible, helping direct attention to taxa and regions where additional evidence is still needed."
+      ]
+    }
+  ],
+  "foundational_sources": [
+    {
+      "label": "Yin et al. 1984",
+      "citation": "殷蕙芬, 黄复生, 李兆麟. 1984. 中国经济昆虫志·第二十九册·鞘翅目小蠹科. 北京: 科学出版社."
+    },
+    {
+      "label": "Huang & Lu 2015",
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "label": "Smith et al. 2020",
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "label": "Johnson et al. 2020",
+      "citation": "Johnson, A.J. et al. (2020). East Asian Cryphalus Erichson (Curculionidae, Scolytinae): new species, new synonymy and redescriptions of species. ZooKeys 995: 15–66.",
+      "doi": "10.3897/zookeys.995.55981"
+    },
+    {
+      "label": "Johnson et al. 2026",
+      "citation": "Johnson, A.J. et al. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ]
+}

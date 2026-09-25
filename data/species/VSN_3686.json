@@ -1,0 +1,98 @@
+{
+  "vsn": "VSN_3686",
+  "scientific_name": "Microperus latesalebrinus",
+  "authorship": "Smith, Beaver & Cognato, 2020",
+  "chinese_name": "",
+  "genus": "Microperus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建；贵州；海南；江西；云南；香港",
+    "narrative": "Smith et al. (2020) describes/records the species from Hong Kong, Tai Po Kau. Lau (2025) independently supports Hong Kong occurrence. Smith et al. (2022) records Fujian, Guizhou, Hainan, Hong Kong, Jiangxi and Yunnan, with locality evidence from Longyan City, Guiyang, Qiongzhong/Jinping, Honghe and Wenshan, thereby adding mainland China records."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Castanopsis"
+    },
+    {
+      "scientific_name": "Liquidambar formosana"
+    },
+    {
+      "scientific_name": "Cinnamomum camphora"
+    },
+    {
+      "scientific_name": "Litchi sp."
+    }
+  ],
+  "host_note": "The existing genus-level host Castanopsis is retained. Smith et al. (2022) additionally reports Liquidambar formosana (Altingiaceae), Cinnamomum camphora (Lauraceae), and Litchi sp. (Sapindaceae), which are promoted at their published taxonomic resolution.",
+  "taxonomy_summary": "The current accepted identity is Microperus latesalebrinus Smith, Beaver & Cognato, 2020.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2020",
+      "event": "Current accepted",
+      "name": "Microperus latesalebrinus",
+      "authorship": "Smith, Beaver & Cognato, 2020",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "src_smith2020",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Microperus latesalebrinus was described as a new species by Smith, Beaver & Cognato (2020), VSN_3686.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence",
+        "nomenclatural source"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "src_smith2022",
+      "label": "Smith et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
+      "doi": "10.11646/zootaxa.5209.1.1"
+    }
+  ]
+}

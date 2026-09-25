@@ -1,0 +1,85 @@
+{
+  "vsn": "VSN_4848",
+  "scientific_name": "Pseudohyorrhynchus blandfordi",
+  "authorship": "(Sampson, 1913)",
+  "chinese_name": "翘角近喙小蠹",
+  "genus": "Pseudohyorrhynchus",
+  "subfamily": "Scolytinae",
+  "tribe": "Hyorrhynchini",
+  "checklist_status": "Unreviewed",
+  "review_status": "Not started",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Pseudohyorrhynchus blandfordi (Sampson, 1913).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1913",
+      "event": "Original combination / basionym",
+      "name": "Hyorrhynchus blandfordi",
+      "authorship": "Sampson, 1913",
+      "note": "Original combination / basionym, original-description p. 446.",
+      "reference_ids": [
+        "orig_8b3db2edbc7b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1913",
+      "event": "Current accepted",
+      "name": "Pseudohyorrhynchus blandfordi",
+      "authorship": "(Sampson, 1913)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_8b3db2edbc7b",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 1 additional historical name usage to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "orig_8b3db2edbc7b",
+      "label": "Sampson, 1913",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Sampson, F.W. (1913). Some hitherto undescribed Ipidae and Platypodidae from India and Burma. Annals and Magazine of Natural History. Ser. 8, 12: 443–452."
+    }
+  ]
+}

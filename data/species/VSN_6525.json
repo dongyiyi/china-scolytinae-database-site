@@ -1,0 +1,146 @@
+{
+  "vsn": "VSN_6525",
+  "scientific_name": "Xylosandrus formosae",
+  "authorship": "(Wood, 1992)",
+  "chinese_name": "",
+  "genus": "Xylosandrus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建；广东；海南；江西；西藏；台湾",
+    "narrative": "Smith et al. (2020) and Lin et al. (2024) support Fujian, Guangdong, Hainan, Jiangxi, Xizang and Taiwan. Beaver & Liu (2010), under the source name Cyclorhipidion formosanum, adds earlier Taiwan locality evidence. Smith et al. (2022) independently supports Fujian, Jiangxi, Xizang and Taiwan; it adds no new region to the current synthesis."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Machilus leptophylla"
+    },
+    {
+      "scientific_name": "Mallotus sp."
+    },
+    {
+      "scientific_name": "Saurauia tristyla"
+    },
+    {
+      "scientific_name": "Ficus sp."
+    }
+  ],
+  "host_note": "Current hosts remain Machilus leptophylla, Mallotus sp., Saurauia tristyla, and Ficus sp. Beaver & Liu (2010) reports host unknown for the Cyclorhipidion formosanum source entry. Smith et al. (2022) reports no host in the integrated record; no host is added.",
+  "taxonomy_summary": "The current accepted identity is Xylosandrus formosae (Wood, 1992).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1981",
+      "event": "Synonym",
+      "name": "Xyleborus formosanus",
+      "authorship": "Browne, 1981",
+      "note": "Published name currently treated as a synonym; original-description p. 131.",
+      "reference_ids": [
+        "orig_94465fda7bed",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1992",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus formosae",
+      "authorship": "Wood, 1992",
+      "note": "Original combination / basionym, original-description p. 80.",
+      "reference_ids": [
+        "orig_4713a42cfa88",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1992",
+      "event": "Current accepted",
+      "name": "Xylosandrus formosae",
+      "authorship": "(Wood, 1992)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_4713a42cfa88",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Current canonical identity follows integrated taxonomic backbone: Xylosandrus formosae (Wood, 1992), VSN_6525. Beaver & Liu (2010) used Cyclorhipidion formosanum as a new combination; this historical source name is retained as nomenclatural provenance. Smith et al. (2020) later treated the taxon in Xylosandrus.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_linetal2024_xylosandruschina",
+      "label": "Lin et al., 2024",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Lin, W., Liao, Y.-L., Li, Y., Smith, S.M., Yu, Y.-L. & Gao, L. (2024). New species and new records of Xylosandrus Reitter, 1913 (Coleoptera: Curculionidae: Scolytinae: Xyleborini) from China. Zootaxa 5528(1): 633–647.",
+      "doi": "10.11646/zootaxa.5528.1.41"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_smith2022",
+      "label": "Smith et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
+      "doi": "10.11646/zootaxa.5209.1.1"
+    },
+    {
+      "id": "orig_4713a42cfa88",
+      "label": "Wood, 1992",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Wood, S.L. (1992). Nomenclatural changes and new species in Platypodidae and Scolytidae (Coleoptera), Part II. The Great Basin Naturalist 52(1): 78–88."
+    },
+    {
+      "id": "orig_94465fda7bed",
+      "label": "Browne, 1981a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Browne, F.G. (1981a). Bark beetles and ambrosia beetles (Coleoptera, Scolytidae and Platypodidae) intercepted at Japanese ports, with descriptions of new species, V. Kontyû 49(1): 125–136."
+    }
+  ]
+}

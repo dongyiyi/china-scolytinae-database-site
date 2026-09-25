@@ -1,0 +1,136 @@
+{
+  "vsn": "VSN_2869",
+  "scientific_name": "Hadrodemius pseudocomans",
+  "authorship": "(Eggers, 1930)",
+  "chinese_name": "圆穴材小蠹",
+  "genus": "Hadrodemius",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "重庆；福建；广东；广西；海南；江西；西藏；云南；香港",
+    "narrative": "殷蕙芬等 (1984) records Fujian, Guangdong and Xizang; 黄复生等 (2015) adds Hainan. Smith et al. (2020) confirms those areas and adds Chongqing, Guangxi, Jiangxi and Yunnan. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Ficus chlorocarpa"
+    },
+    {
+      "scientific_name": "Machilus sp."
+    }
+  ],
+  "host_note": "Baseline host records Ficus chlorocarpa and Machilus sp. are retained. Smith et al. (2020) adds no host in the promoted record.",
+  "taxonomy_summary": "The current accepted identity is Hadrodemius pseudocomans (Eggers, 1930).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1930",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus pseudocomans",
+      "authorship": "Eggers, 1930",
+      "note": "Original combination / basionym, original-description p. 187.",
+      "reference_ids": [
+        "orig_2f66b1e00ee5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1953",
+      "event": "Synonym",
+      "name": "Xyleborus artecomans",
+      "authorship": "Schedl, 1953",
+      "note": "Published name currently treated as a synonym; original-description p. 24.",
+      "reference_ids": [
+        "orig_2c827d67f3ff",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Current accepted",
+      "name": "Hadrodemius pseudocomans",
+      "authorship": "(Eggers, 1930)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_2f66b1e00ee5",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "殷蕙芬等 (1984) uses Xyleborus artecomans and 黄复生等 (2015) uses Hadrodemius artecomans. Smith et al. (2020) treats the stable taxon as Hadrodemius pseudocomans; canonical authorship follows integrated taxonomic backbone: (Eggers, 1930), VSN_2869.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "orig_2f66b1e00ee5",
+      "label": "Eggers, 1930b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1930b). Neue Xyleborus-Arten (Col. Scolytidae) aus Indien. Indian Forest Records, Entomology 14(9): 177–208."
+    },
+    {
+      "id": "orig_2c827d67f3ff",
+      "label": "Schedl, 1953a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1953a). Fauna Sinensis, I. (120. Beitrag zur Morphologie und Systematik der Scolytoidea). Entomologische Blätter 49: 22–30."
+    }
+  ]
+}

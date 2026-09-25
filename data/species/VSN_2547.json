@@ -1,0 +1,87 @@
+{
+  "vsn": "VSN_2547",
+  "scientific_name": "Eidophelus formosanus",
+  "authorship": "(Browne, 1981)",
+  "chinese_name": "",
+  "genus": "Eidophelus",
+  "subfamily": "Scolytinae",
+  "tribe": "Ernoporini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾",
+    "narrative": "Accepted for Taiwan from Beaver & Liu (2010), which reports examined material from Ilan (Fushan) and Nantou (Neimoupu)."
+  },
+  "hosts": [],
+  "host_note": "No host is reported in the Beaver & Liu (2010) Source Record; no host taxon is promoted.",
+  "taxonomy_summary": "The current accepted identity is Eidophelus formosanus (Browne, 1981).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1981",
+      "event": "Original combination / basionym",
+      "name": "Ptilopodius formosanus",
+      "authorship": "Browne, 1981",
+      "note": "Original combination / basionym, original-description p. 129.",
+      "reference_ids": [
+        "orig_94465fda7bed",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1981",
+      "event": "Current accepted",
+      "name": "Eidophelus formosanus",
+      "authorship": "(Browne, 1981)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_94465fda7bed",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Eidophelus formosanus (Browne, 1981), VSN_2547. Beaver & Liu (2010) publishes the name as Ernoporus formosanus (Browne) and records a new combination; the source-published combination is retained at evidence level while the current canonical identity remains Eidophelus formosanus.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_94465fda7bed",
+      "label": "Browne, 1981a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Browne, F.G. (1981a). Bark beetles and ambrosia beetles (Coleoptera, Scolytidae and Platypodidae) intercepted at Japanese ports, with descriptions of new species, V. Kontyû 49(1): 125–136."
+    }
+  ]
+}

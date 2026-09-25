@@ -1,0 +1,319 @@
+{
+  "vsn": "VSN_6514",
+  "scientific_name": "Xylosandrus crassiusculus",
+  "authorship": "(Motschulsky, 1866)",
+  "chinese_name": "暗翅材小蠹",
+  "genus": "Xylosandrus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "安徽；重庆；福建；广东；广西；贵州；海南；河北；香港；湖北；湖南；江苏；江西；陕西；山东；上海；四川；西藏；云南；浙江；台湾",
+    "narrative": "Baseline sources record Fujian, Sichuan, Hunan, Yunnan, Xizang, Taiwan and Hainan. Smith et al. (2020) expands the province summary to Anhui, Guangdong, Guangxi, Guizhou, Hebei, Hong Kong, Hubei, Jiangsu, Jiangxi, Shaanxi, Shandong, Shanghai and Zhejiang; its locality detail additionally records Chongqing, Peng Shui, which is included in the synthesis despite omission from the source province summary. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Populus sp."
+    },
+    {
+      "scientific_name": "Alnus spp."
+    },
+    {
+      "scientific_name": "Castanopsis spp."
+    },
+    {
+      "scientific_name": "Cinnamomum sp."
+    },
+    {
+      "scientific_name": "Machilus sp."
+    },
+    {
+      "scientific_name": "Malus pumila"
+    },
+    {
+      "scientific_name": "Prunus persica"
+    },
+    {
+      "scientific_name": "Sambucus chinensis"
+    },
+    {
+      "scientific_name": "Albizia julibrissin"
+    },
+    {
+      "scientific_name": "Hevea brasiliensis"
+    },
+    {
+      "scientific_name": "Castanea mollissima"
+    },
+    {
+      "scientific_name": "Castanopsis sp."
+    },
+    {
+      "scientific_name": "Cinnamomum camphora"
+    },
+    {
+      "scientific_name": "Dipterocarpus tubinatus"
+    },
+    {
+      "scientific_name": "Ficus sp."
+    },
+    {
+      "scientific_name": "Hopea chinensis"
+    },
+    {
+      "scientific_name": "Lithocarpus sp."
+    },
+    {
+      "scientific_name": "Malus baccata"
+    },
+    {
+      "scientific_name": "Phoebe sp."
+    },
+    {
+      "scientific_name": "Pinus sp."
+    },
+    {
+      "scientific_name": "Prunus salicina"
+    },
+    {
+      "scientific_name": "Quercus sp."
+    },
+    {
+      "scientific_name": "Shorea assamica"
+    },
+    {
+      "scientific_name": "Theobroma cacao"
+    },
+    {
+      "scientific_name": "Vatica mangachapoi"
+    },
+    {
+      "scientific_name": "Vitex negundo"
+    },
+    {
+      "scientific_name": "Grevillea robusta"
+    },
+    {
+      "scientific_name": "Choerospondias axillaris"
+    }
+  ],
+  "host_note": "Baseline sources provide a broad host list. Smith et al. (2020) adds Choerospondias axillaris and a source-level spelling issue for Castanea. Beaver & Liu (2010) independently records Cinnamomum camphora in Taiwan; this host is already present in the current synthesis, so it is retained as corroborating evidence rather than duplicated.",
+  "taxonomy_summary": "The current accepted identity is Xylosandrus crassiusculus (Motschulsky, 1866).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1866",
+      "event": "Original combination / basionym",
+      "name": "Phloeotrogus crassiusculus",
+      "authorship": "Motschulsky, 1866",
+      "note": "Original combination / basionym, original-description p. 403.",
+      "reference_ids": [
+        "orig_6876c5464b72",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Xyleborus semiopacus",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 334.",
+      "reference_ids": [
+        "orig_df23847f2e11",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1896",
+      "event": "Synonym",
+      "name": "Xyleborus semigranosus",
+      "authorship": "Blandford, 1896",
+      "note": "Published name currently treated as a synonym; original-description p. 211.",
+      "reference_ids": [
+        "orig_bb1f17fed112",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1908",
+      "event": "Synonym",
+      "name": "Dryocoetes bengalensis",
+      "authorship": "Stebbing, 1908",
+      "note": "Published name currently treated as a synonym; original-description p. 12.",
+      "reference_ids": [
+        "orig_997cab6a36cc",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1908",
+      "event": "Synonym",
+      "name": "Xyleborus mascarenus",
+      "authorship": "Hagedorn, 1908",
+      "note": "Published name currently treated as a synonym; original-description p. 379.",
+      "reference_ids": [
+        "orig_d47b2acfb804",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1909",
+      "event": "Synonym",
+      "name": "Xyleborus ebriosus",
+      "authorship": "Niisima, 1909",
+      "note": "Published name currently treated as a synonym; original-description p. 154.",
+      "reference_ids": [
+        "orig_29eb83d527d0",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1935",
+      "event": "Synonym",
+      "name": "Xyleborus okoumeensis",
+      "authorship": "Schedl, 1935",
+      "note": "Published name currently treated as a synonym; original-description p. 271.",
+      "reference_ids": [
+        "orig_791430dce567",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1866",
+      "event": "Current accepted",
+      "name": "Xylosandrus crassiusculus",
+      "authorship": "(Motschulsky, 1866)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_6876c5464b72",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Xylosandrus crassiusculus (Motschulsky, 1866), VSN_6514. 殷蕙芬等 (1984) uses Xyleborus semiopacus.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_29eb83d527d0",
+      "label": "Niisima, 1909",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Niisima, Y. (1909). Die Scolytiden Hokkaidos unter Berücksichtigung ihrer Bedeutung für Forstschaden. Journal of the College of Agriculture, Tohoku Imperial University, Sapporo 3: 109–179."
+    },
+    {
+      "id": "orig_6876c5464b72",
+      "label": "Motschulsky, 1866",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Motschulsky, V. de (1866). Essai d’un catalogue des insectes de l’île de Ceylan. Supplément. Bulletin de la Société Impériale des Naturalistes de Moscou 39(2): 393–446."
+    },
+    {
+      "id": "orig_791430dce567",
+      "label": "Schedl, 1935g",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1935g). New bark-beetles and ambrosia-beetles (Col.). Stylops 4(2): 270–276."
+    },
+    {
+      "id": "orig_997cab6a36cc",
+      "label": "Stebbing, 1908",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Stebbing, E.P. (1908). On some undescribed Scolytidae of economic importance from the Indian region. I. Indian Forest Memoirs, Forest Zoology Series 1: 1–12."
+    },
+    {
+      "id": "orig_bb1f17fed112",
+      "label": "Blandford, 1896e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1896e). Descriptions of new Scolytidae from the Indo-Malayan and Austro-Malayan regions. Transactions of the Entomological Society of London 1896: 191–228."
+    },
+    {
+      "id": "orig_d47b2acfb804",
+      "label": "Hagedorn, 1908",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hagedorn, J.M. (1908). Diagnosen bisher unbescriebener Borkenkäfer (Col.)). Deutsche Entomologische Zeitschrift 1908(3): 369–382."
+    },
+    {
+      "id": "orig_df23847f2e11",
+      "label": "Eichhoff, 1878b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
+    }
+  ]
+}

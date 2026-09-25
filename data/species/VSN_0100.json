@@ -1,0 +1,104 @@
+{
+  "vsn": "VSN_0100",
+  "scientific_name": "Acanthotomicus suncei",
+  "authorship": "Cognato, 2018",
+  "chinese_name": "枫香刺小蠹",
+  "genus": "Acanthotomicus",
+  "subfamily": "Scolytinae",
+  "tribe": "Ipini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "江苏；上海；浙江；福建；江西",
+    "narrative": "Occurrence in mainland China was initially confirmed by the original description from Jiangsu and Shanghai. Li et al. (2021) added positive field-survey records from Zhejiang, Fujian, Jiangxi, Jiangsu and Shanghai; Tan et al. (2021) independently documented Jiujiang, Jiangxi. MaxEnt-predicted suitable areas are not treated as occurrence records.",
+    "evidence": "Integrated source records GaoCognato2018_001, LiEtAl2021_001 and TanEtAl2021_001."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Liquidambar styraciflua",
+      "chinese_name": "北美枫香"
+    },
+    {
+      "scientific_name": "Liquidambar formosana",
+      "chinese_name": "枫香"
+    },
+    {
+      "scientific_name": "Liquidambar gracilipes",
+      "chinese_name": ""
+    }
+  ],
+  "host_note": "Liquidambar styraciflua is reported in the original description; later reviewed sources add L. formosana and L. gracilipes.",
+  "taxonomy_summary": "Acanthotomicus suncei was described as a new species by Gao & Cognato (2018). The currently accepted scientific name remains Acanthotomicus suncei Cognato, 2018.",
+  "taxonomic_history": [
+    {
+      "year": "2018",
+      "event": "Original description / current accepted",
+      "name": "Acanthotomicus suncei",
+      "authorship": "Cognato, 2018",
+      "note": "Original description, p. 596; retained as the current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "gaocognato2018",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "This species was described in 2018 and is new relative to the 2015 Chinese baseline.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "Type material from Jiangsu and Shanghai is documented in the original description; dedicated specimen records are not yet linked.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "gaocognato2018",
+      "label": "Gao & Cognato, 2018",
+      "role": [
+        "original description",
+        "distribution",
+        "host"
+      ],
+      "citation": "Gao, L. & Cognato, A.I. (2018). Acanthotomicus suncei, a new sweetgum tree pest in China (Coleoptera: Curculionidae: Scolytinae: Ipini). Zootaxa 4471(3): 595–599.",
+      "doi": "10.11646/zootaxa.4471.3.12"
+    },
+    {
+      "id": "li2021",
+      "label": "Li, Wan et al., 2021",
+      "role": [
+        "distribution",
+        "host"
+      ],
+      "citation": "Li, Y., Wan, Y., Lin, W., Ernstsons, A.S. & Gao, L. (2021). Estimating potential distribution of sweetgum pest Acanthotomicus suncei and potential economic losses in nursery stock and urban areas in China. Insects 12(2): 155.",
+      "doi": "10.3390/insects12020155"
+    },
+    {
+      "id": "tan2021",
+      "label": "Tan et al., 2021",
+      "role": [
+        "distribution",
+        "host"
+      ],
+      "citation": "Tan, S., Hu, X., Huang, L., et al. (2021). 江西首次发现重要枫香害虫——枫香刺小蠹 (Acanthotomicus suncei). 生物灾害科学 44(4): 469–472.",
+      "doi": "10.3969/j.issn.2095-3704.2021.04.77"
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "gaocognato2018",
+    "johnson2026"
+  ]
+}

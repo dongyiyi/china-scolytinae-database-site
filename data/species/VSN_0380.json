@@ -1,0 +1,94 @@
+{
+  "vsn": "VSN_0380",
+  "scientific_name": "Anisandrus maiche",
+  "authorship": "Kurentsov, 1941",
+  "chinese_name": "",
+  "genus": "Anisandrus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Heilongjiang; Shanghai",
+    "narrative": "Smith et al. (2020) records Heilongjiang and Shanghai, with locality evidence from Dongchuan, Shanghai."
+  },
+  "hosts": [],
+  "host_note": "The source describes the species as polyphagous; this ecological breadth statement is not converted into unspecified host taxa.",
+  "taxonomy_summary": "The current accepted identity is Anisandrus maiche Kurentsov, 1941.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1941",
+      "event": "Current accepted",
+      "name": "Anisandrus maiche",
+      "authorship": "Kurentsov, 1941",
+      "note": "Original description, p. 142; retained as the current accepted name.",
+      "reference_ids": [
+        "orig_kurentsov1941",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1942",
+      "event": "Synonym",
+      "name": "Xyleborus maiche",
+      "authorship": "Eggers, 1942",
+      "note": "Published name currently treated as a synonym; original-description p. 36.",
+      "reference_ids": [
+        "orig_eggers1942",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted name predates the later Xyleborus maiche usage retained as a synonym in the backbone.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_kurentsov1941",
+      "label": "Kurentsov, 1941",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Kurentsov, A.I. (1941). Koroedy Dal'nego Vostoka SSSR. Izdatel’stvo Akademii Nauk SSSR, Moskva, Leningrad. 234 pp."
+    },
+    {
+      "id": "orig_eggers1942",
+      "label": "Eggers, 1942a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1942a). Zur paläarktischen Borkenkäferfauna (Coleoptera: Ipidae). VIII. Borkenkäfer aus dem asiatischen Russland. Arbeiten über Morphologische und Taxonomische Entomologie aus Berlin-Dahlem 9: 27–36."
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "vsn": "VSN_5451",
+  "scientific_name": "Scolytoplatypus zahradniki",
+  "authorship": "Knížek, 2008",
+  "chinese_name": "",
+  "genus": "Scolytoplatypus",
+  "subfamily": "Scolytinae",
+  "tribe": "Scolytoplatypodini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "北京；陕西；四川",
+    "narrative": "Knížek (2008) described Scolytoplatypus zahradniki from type and paratype material collected in Beijing, Shaanxi and Sichuan, supporting presence in mainland China."
+  },
+  "hosts": [],
+  "host_note": "The paper states that the host plants are unknown. Specimens were found on broken thin stems of an evidently deciduous tree or shrub and the species was inferred to live in broadleaved trees. Because no host taxon was identified, no host is promoted to Current Host Summary.",
+  "taxonomy_summary": "The current accepted identity is Scolytoplatypus zahradniki Knížek, 2008.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2008",
+      "event": "Current accepted",
+      "name": "Scolytoplatypus zahradniki",
+      "authorship": "Knížek, 2008",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_b6702c4b8cdd",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Scolytoplatypus zahradniki Knížek, 2008 is the currently accepted taxon (Scolytinae: Scolytoplatypodini), mapped to pre-existing VSN_5451. The authorship string in integrated taxonomic backbone was corrected from a corrupted encoding to Knížek, 2008.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "orig_b6702c4b8cdd",
+      "label": "Knížek, 2008",
+      "role": [
+        "nomenclatural source",
+        "published evidence"
+      ],
+      "citation": "Knížek, M. (2008). A new species of Scolytoplatypus (Coleoptera: Scolytidae) from China. Studies and Reports of District Museum Prague-East, Taxonomical Series 4(1–2): 119–124."
+    }
+  ]
+}

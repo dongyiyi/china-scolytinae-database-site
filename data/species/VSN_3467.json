@@ -1,0 +1,152 @@
+{
+  "vsn": "VSN_3467",
+  "scientific_name": "Leptoxyleborus machili",
+  "authorship": "(Niisima, 1910)",
+  "chinese_name": "",
+  "genus": "Leptoxyleborus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "江西；云南",
+    "narrative": "Smith et al. (2020) records Jiangxi, including Long Nan. Smith et al. (2022) adds Yunnan, with locality evidence from Xishuangbanna. The reviewed current distribution is the union Jiangxi + Yunnan."
+  },
+  "hosts": [],
+  "host_note": "No confirmed host is reported in either integrated Smith record; no host is promoted.",
+  "taxonomy_summary": "The current accepted identity is Leptoxyleborus machili (Niisima, 1910).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1910",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus machili",
+      "authorship": "Niisima, 1910",
+      "note": "Original combination / basionym, original-description p. 14.",
+      "reference_ids": [
+        "orig_3cfac939b2a2",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Xyleborus depressus",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 190.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1936",
+      "event": "Synonym",
+      "name": "Xyleborus kojimai",
+      "authorship": "Murayama, 1936",
+      "note": "Published name currently treated as a synonym; original-description p. 143.",
+      "reference_ids": [
+        "orig_0f30687b0155",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1942",
+      "event": "Synonym",
+      "name": "Xyleborus sejugatus",
+      "authorship": "Schedl, 1942",
+      "note": "Published name currently treated as a synonym; original-description p. 188.",
+      "reference_ids": [
+        "orig_5405f00dff87",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1910",
+      "event": "Current accepted",
+      "name": "Leptoxyleborus machili",
+      "authorship": "(Niisima, 1910)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_3cfac939b2a2",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Smith et al. (2020) treats the taxon in the new combination Leptoxyleborus machili; canonical authorship follows integrated taxonomic backbone: (Niisima, 1910), VSN_3467.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_smith2022",
+      "label": "Smith et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
+      "doi": "10.11646/zootaxa.5209.1.1"
+    },
+    {
+      "id": "orig_3cfac939b2a2",
+      "label": "Niisima, 1910",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Niisima, Y. (1910). Die Borkenkaefer nord- und mittel-Japans. Transactions of the Sapporo Natural History Society 3: 1–18."
+    },
+    {
+      "id": "orig_c8c8b73ae935",
+      "label": "Eggers, 1923b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3–4): 129–220."
+    },
+    {
+      "id": "orig_0f30687b0155",
+      "label": "Murayama, 1936",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1936). Notes sur les Scolytides (Coléoptères) de Honshu et Kiushu, Japon. Tenthredo 1(2): 121–149."
+    },
+    {
+      "id": "orig_5405f00dff87",
+      "label": "Schedl, 1942b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1942b). Forschungberiche zur Scolytoiden-Fauna der Malayischen Halbinsel, V. 80 Betrag. Kolonialforstliche Mitteilungen 5(2-3): 169–218."
+    }
+  ]
+}

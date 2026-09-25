@@ -1,0 +1,76 @@
+{
+  "vsn": "VSN_0001",
+  "scientific_name": "Acacicis aphananthe",
+  "authorship": "Lin & Beaver, 2021",
+  "chinese_name": "糙叶树小球小蠹",
+  "genus": "Acacicis",
+  "subfamily": "Scolytinae",
+  "tribe": "Diamerini",
+  "checklist_status": "Accepted",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾（台中）",
+    "narrative": "The reviewed source records Acacicis aphananthe from Taiwan. The type locality is Taichung City, Heping District, 654 m, 24°9.8210'N, 120°57.4140'E; the type series was collected on 29 July 2020.",
+    "evidence": "Lin & Beaver (2021), type locality: Taichung City, Heping District, Taiwan."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Aphananthe aspera",
+      "family": "Cannabaceae"
+    }
+  ],
+  "host_note": "The complete type series was collected from Aphananthe aspera; the reviewed source describes phloeophagous development in twigs, branches and limbs.",
+  "taxonomy_summary": "Acacicis aphananthe Lin & Beaver, 2021 is the currently accepted name for VSN_0001.",
+  "taxonomic_history": [
+    {
+      "year": "2021",
+      "event": "Original description",
+      "name": "Acacicis aphananthe",
+      "authorship": "Lin & Beaver, 2021",
+      "note": "Described as a new species. The original name and current accepted name are the same in the integrated nomenclatural backbone.",
+      "reference_ids": [
+        "linbeaver2021",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "No additional synonyms, historical combinations, misspellings, replacement names, or homonyms are currently linked to VSN_0001.",
+  "resources": {
+    "images": "Adult morphology, galleries and life stages are illustrated in Fig. 1; proventriculus in Fig. 7A of the original description.",
+    "specimens": "Holotype female and 51 male + 28 female paratypes from the type locality; specimens distributed among NMNS and cited collections.",
+    "molecular": "No molecular accession is reported in the integrated source.",
+    "symbionts": "No symbiont association is reported."
+  },
+  "references": [
+    {
+      "id": "linbeaver2021",
+      "label": "Lin & Beaver, 2021",
+      "role": [
+        "original description",
+        "distribution",
+        "host"
+      ],
+      "citation": "Lin, C.-S. & Beaver, R.A. (2021). A new species and five new records of bark beetles (Coleoptera, Curculionidae, Scolytinae) from Taiwan. Taiwania 66(1): 1–10.",
+      "doi": "10.6165/tai.2021.66.1"
+    },
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    }
+  ],
+  "taxonomy_reference_ids": [
+    "linbeaver2021",
+    "johnson2026"
+  ],
+  "review_status": "Reviewed"
+}

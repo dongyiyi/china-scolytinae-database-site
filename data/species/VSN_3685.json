@@ -1,0 +1,96 @@
+{
+  "vsn": "VSN_3685",
+  "scientific_name": "Microperus kirishimanus",
+  "authorship": "(Murayama, 1955)",
+  "chinese_name": "",
+  "genus": "Microperus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建；云南；台湾",
+    "narrative": "Beaver & Liu (2010) reports the first Taiwan record from Nantou, Hui Son and Neimoupu, with multiple records from 2004–2007. Smith et al. (2022) adds mainland China records from Fujian and Yunnan, with locality evidence from Fujian, Sanming City and Yunnan, Xishuangbanna Tropical Botanical Garden, and independently reports Taiwan."
+  },
+  "hosts": [],
+  "host_note": "Beaver & Liu (2010) reports Quercus spp. and Ilex spp. from Japan; these non-China host records remain source context only. Smith et al. (2022) reports no host for the China record, so no host is promoted into the China host synthesis.",
+  "taxonomy_summary": "The current accepted identity is Microperus kirishimanus (Murayama, 1955).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1955",
+      "event": "Original combination / basionym",
+      "name": "Coptodryas kirishimanus",
+      "authorship": "Murayama, 1955",
+      "note": "Original combination / basionym, original-description p. 85.",
+      "reference_ids": [
+        "orig_901eee5cd2e6",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1955",
+      "event": "Current accepted",
+      "name": "Microperus kirishimanus",
+      "authorship": "(Murayama, 1955)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_901eee5cd2e6",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Beaver & Liu (2010) transfers the species to Microperus. Canonical identity and authorship follow integrated taxonomic backbone: Microperus kirishimanus (Murayama, 1955), VSN_3685.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_smith2022",
+      "label": "Smith et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
+      "doi": "10.11646/zootaxa.5209.1.1"
+    },
+    {
+      "id": "orig_901eee5cd2e6",
+      "label": "Murayama, 1955",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1955). Supplementary notes on the scolytid-fauna of Japan. Bulletin of the Faculty of Agriculture, Yamaguchi University 6: 81–106."
+    }
+  ]
+}

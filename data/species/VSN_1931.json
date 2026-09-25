@@ -1,0 +1,209 @@
+{
+  "vsn": "VSN_1931",
+  "scientific_name": "Crypturgus pusillus",
+  "authorship": "(Gyllenhal, 1813)",
+  "chinese_name": "寡毛微小蠹",
+  "genus": "Crypturgus",
+  "subfamily": "Scolytinae",
+  "tribe": "Crypturgini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Questionable",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "黑龙江；四川；云南；西藏；香港",
+    "narrative": "Mainland China is confirmed by 殷蕙芬等 (1984) and 黄复生等 (2015) (Heilongjiang, Sichuan, Yunnan and Xizang). Beaver & Liu (2010) separately treated the historical Taiwan attribution as doubtful because the record was based on Shiraki specimens of uncertain origin. Taiwan is therefore retained as Questionable and is not added to the current distribution summary. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Picea asperata"
+    },
+    {
+      "scientific_name": "Picea koraiensis"
+    },
+    {
+      "scientific_name": "Pinus koraiensis"
+    },
+    {
+      "scientific_name": "Abies sp."
+    },
+    {
+      "scientific_name": "Pinus densata"
+    },
+    {
+      "scientific_name": "Picea glauca"
+    },
+    {
+      "scientific_name": "Picea rubens"
+    }
+  ],
+  "host_note": "Current hosts are synthesized from 殷蕙芬等 (1984) and 黄复生等 (2015). Beaver & Liu (2010) provides no host evidence for the doubtful Taiwan record, so it does not alter the current host synthesis.",
+  "taxonomy_summary": "The current accepted identity is Crypturgus pusillus (Gyllenhal, 1813).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1833",
+      "event": "Synonym",
+      "name": "Bostrichus aphodiodes",
+      "authorship": "Villa & Villa, 1833",
+      "note": "Published name currently treated as a synonym; original-description p. 36.",
+      "reference_ids": [
+        "orig_ab4e35095e6e",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1813",
+      "event": "Original combination / basionym",
+      "name": "Bostrichus pusillus",
+      "authorship": "Gyllenhal, 1813",
+      "note": "Original combination / basionym, original-description p. 371.",
+      "reference_ids": [
+        "orig_78dc06fd2ea9",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1868",
+      "event": "Synonym",
+      "name": "Crypturgus atomus",
+      "authorship": "LeConte, 1868",
+      "note": "Published name currently treated as a synonym; original-description p. 152.",
+      "reference_ids": [
+        "orig_95bba582ad63",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1932",
+      "event": "Synonym",
+      "name": "Crypturgus danicus",
+      "authorship": "Eggers, 1932",
+      "note": "Published name currently treated as a synonym; original-description p. 80.",
+      "reference_ids": [
+        "orig_8764e10e0e48",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1903",
+      "event": "Synonym",
+      "name": "Polygraphus minimus",
+      "authorship": "Stebbing, 1903",
+      "note": "Published name currently treated as a synonym; original-description p. 252.",
+      "reference_ids": [
+        "orig_5d88837c258f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1813",
+      "event": "Current accepted",
+      "name": "Crypturgus pusillus",
+      "authorship": "(Gyllenhal, 1813)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_78dc06fd2ea9",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Current identity is Crypturgus pusillus (Gyllenhal, 1813), VSN_1931. The Beaver & Liu (2010) issue concerns Taiwan occurrence, not taxon identity.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "orig_ab4e35095e6e",
+      "label": "Villa & Villa, 1833",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Villa, A. & Villa, G.B. (1833). Coleoptera Europae dupleta in collectione Villa quae pro muttua commutatione offerri possunt. Villa, Mediolani 36 pp."
+    },
+    {
+      "id": "orig_78dc06fd2ea9",
+      "label": "Gyllenhal, 1813",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Gyllenhal, L. (1813). Insecta Svecica descripta a Leonardo Gyllenhal. Classis I. Coleoptera sive Eleuterata. Tomi I, Pars III. F. J. Leverentz, Scaris [4] + 730 + [2] pp."
+    },
+    {
+      "id": "orig_95bba582ad63",
+      "label": "LeConte, 1868",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "LeConte, J.L. (1868). Appendix to Synopsis of the Scolytidae of America North of Mexico. Transactions of the American Entomological Society 2: 150–178."
+    },
+    {
+      "id": "orig_8764e10e0e48",
+      "label": "Eggers, 1932a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1932a). Zur paläarktischen Borkenkäferfauna, II. Entomologiske Meddelelser 18: 80–83."
+    },
+    {
+      "id": "orig_5d88837c258f",
+      "label": "Stebbing, 1903",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Stebbing, E.P. (1903). Departmental notes on insects that affect forestry. 2. Office of the Superintendent of Government Printing, Calcutta 151–334, pls. VII–XIX."
+    }
+  ]
+}

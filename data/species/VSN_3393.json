@@ -1,0 +1,104 @@
+{
+  "vsn": "VSN_3393",
+  "scientific_name": "Ips amitinus",
+  "authorship": "(Eichhoff, 1872)",
+  "chinese_name": "",
+  "genus": "Ips",
+  "subfamily": "Scolytinae",
+  "tribe": "Ipini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "香港",
+    "narrative": "Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence supporting occurrence in Hong Kong. No mainland-China, Taiwan, or Macao occurrence is inferred from this source."
+  },
+  "hosts": [],
+  "host_note": "This checklist provides no host information; no host is inferred.",
+  "taxonomy_summary": "The current accepted identity is Ips amitinus (Eichhoff, 1872).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1872",
+      "event": "Original combination / basionym",
+      "name": "Tomicus amitinus",
+      "authorship": "Eichhoff, 1872",
+      "note": "Original combination / basionym, original-description p. 138.",
+      "reference_ids": [
+        "orig_cc789635519b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1913",
+      "event": "Synonym",
+      "name": "Tomicus amitinus montanus",
+      "authorship": "Fuchs, 1913",
+      "note": "Published name currently treated as a synonym; original-description p. 80.",
+      "reference_ids": [
+        "orig_301f8a269519",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1872",
+      "event": "Current accepted",
+      "name": "Ips amitinus",
+      "authorship": "(Eichhoff, 1872)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_cc789635519b",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Ips amitinus (Eichhoff, 1872), VSN_3393.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "orig_cc789635519b",
+      "label": "Eichhoff, 1872b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1872b). Zwei neue deutsche Tomicus -Arten. Berliner Entomologische Zeitschrift 15: 138–139."
+    },
+    {
+      "id": "orig_301f8a269519",
+      "label": "Fuchs, 1913",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Fuchs, A.G. (1913). Forstzoologische Ergebnisse einer Sommerreise ins Engadin. III. Die Arven-, Lärchen- und Fichtenborkenkäfer des Engadin. Naturwissenschaftliche Zeitschrift für Forst- und Landwirtschaft, 11(2): 65–86."
+    }
+  ]
+}

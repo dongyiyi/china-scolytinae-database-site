@@ -1,0 +1,197 @@
+{
+  "vsn": "VSN_2023",
+  "scientific_name": "Cyclorhipidion pelliculosum",
+  "authorship": "(Eichhoff, 1878)",
+  "chinese_name": "细点材小蠹",
+  "genus": "Cyclorhipidion",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "山西；四川；云南；台湾",
+    "narrative": "殷蕙芬等 (1984) records Sichuan; 黄复生等 (2015) adds Yunnan. Smith et al. (2020) records Shanxi, Sichuan and Taiwan. Lin & Smith (2022) independently records Taiwan, confirming the existing Taiwan assessment."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Castanopsis sp."
+    },
+    {
+      "scientific_name": "Quercus sp."
+    },
+    {
+      "scientific_name": "Acer sp."
+    }
+  ],
+  "host_note": "Baseline hosts Castanopsis sp., Quercus sp. and Acer sp. are retained. Smith et al. (2020) and Lin & Smith (2022) add no promoted host evidence in the integrated records.",
+  "taxonomy_summary": "The current accepted identity is Cyclorhipidion pelliculosum (Eichhoff, 1878).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1961",
+      "event": "Synonym",
+      "name": "Xyleborus okinosenensis",
+      "authorship": "Murayama, 1961",
+      "note": "Published name currently treated as a synonym; original-description p. 31.",
+      "reference_ids": [
+        "orig_96185fad7eec",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus pelliculosus",
+      "authorship": "Eichhoff, 1878",
+      "note": "Original combination / basionym, original-description p. 336.",
+      "reference_ids": [
+        "orig_df23847f2e11",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1948",
+      "event": "Synonym",
+      "name": "Xyleborus quercus",
+      "authorship": "Kurentsov, 1948",
+      "note": "Published name currently treated as a synonym; original-description p. 51.",
+      "reference_ids": [
+        "orig_9452b91c9b25",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Synonym",
+      "name": "Xyleborus seiryorense",
+      "authorship": "Murayama, 1930",
+      "note": "Published name currently treated as a synonym; original-description p. 21.",
+      "reference_ids": [
+        "orig_205c89164ad9",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1956",
+      "event": "Synonym",
+      "name": "Xyleborus starki",
+      "authorship": "Nunberg, 1956",
+      "note": "Published name currently treated as a synonym; original-description p. 209.",
+      "reference_ids": [
+        "orig_ec88fd481fff",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Current accepted",
+      "name": "Cyclorhipidion pelliculosum",
+      "authorship": "(Eichhoff, 1878)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_df23847f2e11",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Historical sources use Xyleborus pelliculosus. Current canonical identity is Cyclorhipidion pelliculosum (Eichhoff, 1878), following integrated taxonomic backbone.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_linsmith2022",
+      "label": "Lin & Smith, 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Lin, C.-S. & Smith, S.M. (2022). Four new species of Cyclorhipidion and five new records of other xyleborine genera (Coleoptera, Curculionidae, Scolytinae, Xyleborini) from Taiwan. Taiwania 67(3): 285–301.",
+      "doi": "10.6165/tai.2022.67.285"
+    },
+    {
+      "id": "orig_df23847f2e11",
+      "label": "Eichhoff, 1878b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
+    },
+    {
+      "id": "orig_96185fad7eec",
+      "label": "Murayama, 1961",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1961). Scolytid-beetles from Niigata Prefecture, Japan [in Japanese]. Akitu 10: 23–32."
+    },
+    {
+      "id": "orig_9452b91c9b25",
+      "label": "Kurentsov, 1948",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Kurentsov, A.I. (1948). Novye damnye po faune koroedov (Coleoptera, Ipidae) Primorskogo Kraya [New data on the bark-beetle fauna of the Maritime Region (Soviet Far East)]. Entomologicheskoe Obozrenie 30(1-2): 50–52."
+    },
+    {
+      "id": "orig_205c89164ad9",
+      "label": "Murayama, 1930",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1930). Revisions des familles des Ipides et des Platypides de Corée. Journal of the Chosen Natural History Society 11: 1–34, 2 pls."
+    },
+    {
+      "id": "orig_ec88fd481fff",
+      "label": "Nunberg, 1956c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Nunberg, M. (1956c). Zmiany nazw i synonimika niektórych korników (Coleoptera, Scolytidae) [Namensänderungen und Synonymie einiger Borkenkäfer (Coleoptera, Scolytidae)]. Annales Zoologici 16(15): 207–214 + Tab. XXIX–XXX."
+    }
+  ]
+}

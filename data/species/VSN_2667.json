@@ -1,0 +1,211 @@
+{
+  "vsn": "VSN_2667",
+  "scientific_name": "Euwallacea andamanensis",
+  "authorship": "(Blandford, 1896)",
+  "chinese_name": "",
+  "genus": "Euwallacea",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "江西；云南；香港",
+    "narrative": "Smith et al. (2020) records Jiangxi, Yunnan and Hong Kong. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [],
+  "host_note": "No host is reported in the integrated record.",
+  "taxonomy_summary": "The current accepted identity is Euwallacea andamanensis (Blandford, 1896).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1896",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus andamanensis",
+      "authorship": "Blandford, 1896",
+      "note": "Original combination / basionym, original-description p. 222.",
+      "reference_ids": [
+        "orig_bb1f17fed112",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1913",
+      "event": "Synonym",
+      "name": "Xyleborus noxius",
+      "authorship": "Sampson, 1913",
+      "note": "Published name currently treated as a synonym; original-description p. 445.",
+      "reference_ids": [
+        "orig_8b3db2edbc7b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Xyleborus siobanus",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 186.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Synonym",
+      "name": "Xyleborus burmanicus",
+      "authorship": "Beeson, 1930",
+      "note": "Published name currently treated as a synonym; original-description p. 210.",
+      "reference_ids": [
+        "orig_f0b5be63e90e",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Synonym",
+      "name": "Xyleborus granulipennis",
+      "authorship": "Eggers, 1930",
+      "note": "Published name currently treated as a synonym; original-description p. 194.",
+      "reference_ids": [
+        "orig_2f66b1e00ee5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Synonym",
+      "name": "Xyleborus intextus",
+      "authorship": "Beeson, 1930",
+      "note": "Published name currently treated as a synonym; original-description p. 211.",
+      "reference_ids": [
+        "orig_f0b5be63e90e",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Synonym",
+      "name": "Xyleborus senchalensis",
+      "authorship": "Beeson, 1930",
+      "note": "Published name currently treated as a synonym; original-description p. 212.",
+      "reference_ids": [
+        "orig_f0b5be63e90e",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1966",
+      "event": "Synonym",
+      "name": "Xyleborus talumalai",
+      "authorship": "Browne, 1966",
+      "note": "Published name currently treated as a synonym; original-description p. 248.",
+      "reference_ids": [
+        "orig_1f4677b3f869",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1896",
+      "event": "Current accepted",
+      "name": "Euwallacea andamanensis",
+      "authorship": "(Blandford, 1896)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_bb1f17fed112",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Euwallacea andamanensis (Blandford, 1896), VSN_2667.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "orig_bb1f17fed112",
+      "label": "Blandford, 1896e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1896e). Descriptions of new Scolytidae from the Indo-Malayan and Austro-Malayan regions. Transactions of the Entomological Society of London 1896: 191–228."
+    },
+    {
+      "id": "orig_f0b5be63e90e",
+      "label": "Beeson, 1930",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1930). The biology of the genus Xyleborus, with more new species. Indian Forest Records, Entomology 14(10): 209–272."
+    },
+    {
+      "id": "orig_2f66b1e00ee5",
+      "label": "Eggers, 1930b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1930b). Neue Xyleborus-Arten (Col. Scolytidae) aus Indien. Indian Forest Records, Entomology 14(9): 177–208."
+    },
+    {
+      "id": "orig_8b3db2edbc7b",
+      "label": "Sampson, 1913",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Sampson, F.W. (1913). Some hitherto undescribed Ipidae and Platypodidae from India and Burma. Annals and Magazine of Natural History. Ser. 8, 12: 443–452."
+    },
+    {
+      "id": "orig_c8c8b73ae935",
+      "label": "Eggers, 1923b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3–4): 129–220."
+    },
+    {
+      "id": "orig_1f4677b3f869",
+      "label": "Browne, 1966",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Browne, F.G. (1966). Some Platypodidae and Scolytidae (Coleoptera) from the Philippine, Bismarck and Solomon islands. Entomologiske Meddelelser 34(30): 233–257."
+    }
+  ]
+}

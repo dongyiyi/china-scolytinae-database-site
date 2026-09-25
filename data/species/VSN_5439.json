@@ -1,0 +1,75 @@
+{
+  "vsn": "VSN_5439",
+  "scientific_name": "Scolytoplatypus ruficauda",
+  "authorship": "Eggers, 1939",
+  "chinese_name": "",
+  "genus": "Scolytoplatypus",
+  "subfamily": "Scolytinae",
+  "tribe": "Scolytoplatypodini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "云南",
+    "narrative": "Liao et al. (2022) provides the first China record of Scolytoplatypus ruficauda from Ailoshan, Jingdong, Yunnan."
+  },
+  "hosts": [],
+  "host_note": "Host is not known in the source; no host is promoted.",
+  "taxonomy_summary": "The current accepted identity is Scolytoplatypus ruficauda Eggers, 1939.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1939",
+      "event": "Current accepted",
+      "name": "Scolytoplatypus ruficauda",
+      "authorship": "Eggers, 1939",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_2e8a2accb177",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The 2022 source uses Scolytoplatypus ruficauda Eggers, 1939, mapping directly to VSN_5439.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_liaoetal2022_scolytoplatypuschina",
+      "label": "Liao et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Liao, S., Lai, S., Beaver, R.A., Gebhardt, H. & Wang, J. (2022). New species and new records of Scolytoplatypus Schaufuss (Curculionidae, Scolytinae) from China, and resurrection of Scolytoplatypus sinensis (Tsai & Huang, 1965) as a distinct species. ZooKeys 1082: 27–50.",
+      "doi": "10.3897/zookeys.1082.77637"
+    },
+    {
+      "id": "orig_2e8a2accb177",
+      "label": "Eggers, 1939b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1939b). Entomological results from the Swedish expedition 1934 to Burma and British India. Coleoptera: Ipidae, gesammelt von Rene Malaise. Arkiv för Zoologi 31A(4): 1–14."
+    }
+  ]
+}

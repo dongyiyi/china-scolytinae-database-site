@@ -1,0 +1,216 @@
+{
+  "vsn": "VSN_3684",
+  "scientific_name": "Microperus kadoyamaensis",
+  "authorship": "(Murayama, 1934)",
+  "chinese_name": "黄氏材小蠹",
+  "genus": "Microperus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建；广东；广西；贵州；湖南；江西；云南；浙江；香港；台湾",
+    "narrative": "黄复生等 (2015) records Hunan, Guizhou, Fujian and Guangxi under Xyleborus huangi. Smith et al. (2020) confirms Fujian, Guangxi and Hunan and adds Guangdong, Hong Kong, Jiangxi, Yunnan, Zhejiang and Taiwan under the current species concept. Beaver & Liu (2010) independently accepts Taiwan occurrence. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence. Smith et al. (2022) independently reports Fujian, Guangdong, Guangxi, Hong Kong, Hunan, Jiangxi, Yunnan, Zhejiang and Taiwan, supporting the existing current distribution without expanding it."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Litsea cubeba"
+    },
+    {
+      "scientific_name": "Dalbergia sp."
+    },
+    {
+      "scientific_name": "Rhododendron sp."
+    },
+    {
+      "scientific_name": "Ziziphus jujuba"
+    },
+    {
+      "scientific_name": "Cinnamomum camphora"
+    },
+    {
+      "scientific_name": "Cyclobalanopsis glauca"
+    }
+  ],
+  "host_note": "黄复生等 (2015) host set is retained and Smith et al. (2020) adds Cyclobalanopsis glauca. Beaver & Liu (2010) describes broad polyphagy on gymnosperms and angiosperms but enumerates no additional host taxon in the curated field; no host is added. Source-level host names remain pending separate host-taxonomy normalization.",
+  "taxonomy_summary": "The current accepted identity is Microperus kadoyamaensis (Murayama, 1934).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1934",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus kadoyamaensis",
+      "authorship": "Murayama, 1934",
+      "note": "Original combination / basionym, original-description p. 290.",
+      "reference_ids": [
+        "orig_b35ef8db7bdd",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1941",
+      "event": "Synonym",
+      "name": "Xyleborus denseseriatus",
+      "authorship": "Eggers, 1941",
+      "note": "Published name currently treated as a synonym; original-description p. 225.",
+      "reference_ids": [
+        "orig_3298e66e2cf8",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1954",
+      "event": "Synonym",
+      "name": "Xyleborus nameranus",
+      "authorship": "Murayama, 1954",
+      "note": "Published name currently treated as a synonym; original-description p. 194.",
+      "reference_ids": [
+        "orig_8bd5ac435930",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1974",
+      "event": "Synonym",
+      "name": "Xyleborus pubipennis",
+      "authorship": "Schedl, 1974",
+      "note": "Published name currently treated as a synonym; original-description p. 263.",
+      "reference_ids": [
+        "orig_a2e3f91dc1c2",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1983",
+      "event": "Synonym",
+      "name": "Xyleborus huangi",
+      "authorship": "Browne, 1983",
+      "note": "Published name currently treated as a synonym; original-description p. 34.",
+      "reference_ids": [
+        "orig_00fcf37ea0cf",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1934",
+      "event": "Current accepted",
+      "name": "Microperus kadoyamaensis",
+      "authorship": "(Murayama, 1934)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_b35ef8db7bdd",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "黄复生等 (2015) uses Xyleborus huangi. Current canonical identity is Microperus kadoyamaensis (Murayama, 1934), VSN_3684. Beaver & Liu (2010) notes the transfer from Xyleborus to Microperus; stable VSN identity is unchanged.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "src_smith2022",
+      "label": "Smith et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
+      "doi": "10.11646/zootaxa.5209.1.1"
+    },
+    {
+      "id": "orig_b35ef8db7bdd",
+      "label": "Murayama, 1934a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1934a). Notes on the Ipidae (Coleoptera) from Kiushu. Annotationes Zoologicae Japonenses 14(3): 287–300."
+    },
+    {
+      "id": "orig_3298e66e2cf8",
+      "label": "Eggers, 1941c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1941c). Neue Borkenkäfer (Ipidae, Col.) aus China. Entomologische Blätter 37: 222–226."
+    },
+    {
+      "id": "orig_00fcf37ea0cf",
+      "label": "Browne, 1983a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Browne, F.G. (1983a). Three new species of Scolytidae (Coleoptera) from southern China. Entomologist's Monthly Magazine 119: 33–34."
+    },
+    {
+      "id": "orig_8bd5ac435930",
+      "label": "Murayama, 1954",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1954). Scolytid-fauna on the northern half of Honshu with a distribution table of all the scolytid-species described from Japan. Bulletin of the Faculty of Agriculture, Yamaguchi University 5: 149–212."
+    },
+    {
+      "id": "orig_a2e3f91dc1c2",
+      "label": "Schedl, 1974d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1974d). Borken- und Ambrosiakäfer aus Vietnam (IV). 298 Beitrag zur Morphologie und Systematik der Scolytoidea. Travaux du Muséum d'Histoire Naturelle 'Grigore Antipa' 14: 261–266."
+    }
+  ]
+}

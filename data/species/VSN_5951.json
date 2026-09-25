@@ -1,0 +1,237 @@
+{
+  "vsn": "VSN_5951",
+  "scientific_name": "Trypodendron lineatum",
+  "authorship": "(Olivier, 1800)",
+  "chinese_name": "黑条木小蠹",
+  "genus": "Trypodendron",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyloterini",
+  "checklist_status": "Unreviewed",
+  "review_status": "Not started",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Trypodendron lineatum (Olivier, 1800).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1800",
+      "event": "Original combination / basionym",
+      "name": "Bostrichus lineatus",
+      "authorship": "Olivier, 1800",
+      "note": "Original combination / basionym, original-description p. 18.",
+      "reference_ids": [
+        "orig_b2c1b4f216bb",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1837",
+      "event": "Synonym",
+      "name": "Apate bivittata",
+      "authorship": "Kirby, 1837",
+      "note": "Published name currently treated as a synonym; original-description p. 192.",
+      "reference_ids": [
+        "orig_e3f905b61e42",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1843",
+      "event": "Synonym",
+      "name": "Bostrichus cavifrons",
+      "authorship": "Mannerheim, 1843",
+      "note": "Published name currently treated as a synonym; original-description p. 297.",
+      "reference_ids": [
+        "orig_5d1c4fd4f1ce",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1881",
+      "event": "Synonym",
+      "name": "Trypodendron vittiger",
+      "authorship": "Eichhoff, 1881",
+      "note": "Published name currently treated as a synonym; original-description p. 298.",
+      "reference_ids": [
+        "orig_98434d9ab182",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1917",
+      "event": "Synonym",
+      "name": "Trypodendron borealis",
+      "authorship": "Swaine, 1917",
+      "note": "Published name currently treated as a synonym; original-description p. 21.",
+      "reference_ids": [
+        "orig_d8c460c48888",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1933",
+      "event": "Synonym",
+      "name": "Trypodendron granulatum",
+      "authorship": "Eggers, 1933",
+      "note": "Published name currently treated as a synonym; original-description p. 51.",
+      "reference_ids": [
+        "orig_65fd30cc3028",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1940",
+      "event": "Synonym",
+      "name": "Trypodendron meridionale",
+      "authorship": "Eggers, 1940",
+      "note": "Published name currently treated as a synonym; original-description p. 38.",
+      "reference_ids": [
+        "orig_fc15c6e9703f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1957",
+      "event": "Synonym",
+      "name": "Xyloterus lineatus lineellus",
+      "authorship": "Endrödi, 1957",
+      "note": "Published name currently treated as a synonym; original-description p. 309.",
+      "reference_ids": [
+        "orig_b2e15ddc6c09",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1957",
+      "event": "Synonym",
+      "name": "Xyloterus lineatus pauper",
+      "authorship": "Endrödi, 1957",
+      "note": "Published name currently treated as a synonym; original-description p. 309.",
+      "reference_ids": [
+        "orig_b2e15ddc6c09",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1800",
+      "event": "Current accepted",
+      "name": "Trypodendron lineatum",
+      "authorship": "(Olivier, 1800)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_b2c1b4f216bb",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 9 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "orig_5d1c4fd4f1ce",
+      "label": "Mannerheim, 1843",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Mannerheim, C.G. von (1843). Beitrag zur Kaefer-fauna der Aleutischen Inseln, der Insel Sitkha und Neu-Californiens. Bulletin de la Société Impériale des Naturalistes de Moscou 16(2): 175–314."
+    },
+    {
+      "id": "orig_65fd30cc3028",
+      "label": "Eggers, 1933b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1933b). Zur paläarktischen Borkenkäferfauna. Entomologische Blätter 29: 49–56."
+    },
+    {
+      "id": "orig_98434d9ab182",
+      "label": "Eichhoff, 1881",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1881). Die Europäischen Borkenkäfer. Für Forstleute, Baumzüchter und Entomologen. J. Springer, Berlin vi + [2] + 315 pp."
+    },
+    {
+      "id": "orig_b2c1b4f216bb",
+      "label": "Olivier, 1800b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Olivier, A.G. (1800b). No. 77. Bostriche: Bostrichus. In: Entomologie ou histoire naturelle des insectes, Coléoptères, Tome IV. Lanneau, Paris, 1–18."
+    },
+    {
+      "id": "orig_b2e15ddc6c09",
+      "label": "Endrödi, 1957",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Endrödi, S. (1957). Einige Ergebnisse der Revision der im Karpaten-Becken einheimischen Borkenkäfer (Scolytoidea). Annales Historico-Naturales Musei Nationalis Hungarici (Series Nova) 8: 307–309."
+    },
+    {
+      "id": "orig_d8c460c48888",
+      "label": "Swaine, 1917",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Swaine, J.M. (1917). Canadian bark-beetles. Part I. Descriptions of new species. Dominion of Canada Department of Agriculture, Entomological Branch, Bulletin 14(1): 1–32."
+    },
+    {
+      "id": "orig_e3f905b61e42",
+      "label": "Kirby, 1837",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Kirby, W. (1837). Part the fourth and last. The insects. In: Richardson J. Fauna Boreali-Americana; or the zoology of the northern parts of British America: containing descriptions of the objects of natural history collected on the late Northern land Expeditions, under command of Captain Sir John Franklin, R. N.. Josian Fletcher, Norwich, xxxix + 325 + [1] pp, 8 pls."
+    },
+    {
+      "id": "orig_fc15c6e9703f",
+      "label": "Eggers, 1940g",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1940g). Zur paläarktischen Borkenkäferfauna. VII. Fünf neue Arten aus Anatolien. Zentralblatt für das Gesamtgebeit der Entomologie 66(2): 36–40."
+    }
+  ]
+}

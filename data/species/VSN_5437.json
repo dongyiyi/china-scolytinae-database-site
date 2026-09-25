@@ -1,0 +1,162 @@
+{
+  "vsn": "VSN_5437",
+  "scientific_name": "Scolytoplatypus raja",
+  "authorship": "Blandford, 1893",
+  "chinese_name": "毛刺锉小蠹",
+  "genus": "Scolytoplatypus",
+  "subfamily": "Scolytinae",
+  "tribe": "Scolytoplatypodini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "陕西；四川；云南；西藏；台湾",
+    "narrative": "黄复生等 (2015) establishes mainland records from Shaanxi, Sichuan, Yunnan and Xizang. Beaver & Liu (2010) adds accepted Taiwan occurrence and reports broad China (WP); the broad regional wording is retained as source context and is not converted into provinces."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Picea asperata"
+    },
+    {
+      "scientific_name": "Salix sp."
+    },
+    {
+      "scientific_name": "Cinnamomum camphora"
+    },
+    {
+      "scientific_name": "Cinnamomum glanduliferum"
+    },
+    {
+      "scientific_name": "Machilus sp."
+    },
+    {
+      "scientific_name": "Quercus rubra"
+    },
+    {
+      "scientific_name": "Castanea mollissima"
+    },
+    {
+      "scientific_name": "Castanopsis fargesii"
+    },
+    {
+      "scientific_name": "Albizia julibrissin"
+    },
+    {
+      "scientific_name": "Rhus chinensis"
+    },
+    {
+      "scientific_name": "Robinia pseudoacacia"
+    },
+    {
+      "scientific_name": "Betula sp."
+    },
+    {
+      "scientific_name": "Prunus sp."
+    },
+    {
+      "scientific_name": "Phoebe sp."
+    },
+    {
+      "scientific_name": "Alnus sp."
+    },
+    {
+      "scientific_name": "Cyclobalanopsis sp."
+    },
+    {
+      "scientific_name": "Rhododendron sp."
+    },
+    {
+      "scientific_name": "Viburnum dilatatum"
+    },
+    {
+      "scientific_name": "Rhus verniciflua"
+    }
+  ],
+  "host_note": "The 黄复生等 (2015) host list is retained unchanged. Beaver & Liu (2010) describes the species broadly as polyphagous on conifers and angiosperms but does not provide resolved host taxa in this entry, so no new host taxon is added.",
+  "taxonomy_summary": "The current accepted identity is Scolytoplatypus raja Blandford, 1893.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1914",
+      "event": "Synonym",
+      "name": "Scolytoplatypus himalayensis",
+      "authorship": "Stebbing, 1914",
+      "note": "Published name currently treated as a synonym; original-description p. 604.",
+      "reference_ids": [
+        "orig_3c2b62796c19",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1893",
+      "event": "Current accepted",
+      "name": "Scolytoplatypus raja",
+      "authorship": "Blandford, 1893",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_c6fa656f3cd9",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Current identity follows integrated taxonomic backbone: Scolytoplatypus raja Blandford, 1893, VSN_5437. Earlier Profile display as Browne, 1962 is a presentation inconsistency and is corrected without changing the stable VSN.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "orig_3c2b62796c19",
+      "label": "Stebbing, 1914",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Stebbing, E.P. (1914). Indian forest insects of economic importance. Coleoptera. Eyre & Spottiswoode, Ltd., London. xvi + 648 pp, 63 pls.",
+      "doi": "10.5962/bhl.title.9203"
+    },
+    {
+      "id": "orig_c6fa656f3cd9",
+      "label": "Blandford, 1893b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1893b). The Scolyto-platypini, a new subfamily of Scolytidae. Transactions of the Entomological Society of London 1893: 425–442."
+    }
+  ]
+}

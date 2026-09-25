@@ -1,0 +1,79 @@
+{
+  "vsn": "VSN_3405",
+  "scientific_name": "Ips chinensis",
+  "authorship": "Kurentsov & Kononov, 1966",
+  "chinese_name": "中华齿小蠹",
+  "genus": "Ips",
+  "subfamily": "Scolytinae",
+  "tribe": "Ipini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "黑龙江；河北；四川；青海；云南",
+    "narrative": "Wang et al. (2021) documents I. chinensis from Heilongjiang, Hebei, Sichuan, Qinghai and Yunnan; the Heilongjiang sample is explicitly discussed as an additional geographic population."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Pinus koraiensis"
+    }
+  ],
+  "host_note": "Wang et al. (2021) reports Pinus koraiensis (红松).",
+  "taxonomy_summary": "The current accepted identity is Ips chinensis Kurentsov & Kononov, 1966.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1966",
+      "event": "Current accepted",
+      "name": "Ips chinensis",
+      "authorship": "Kurentsov & Kononov, 1966",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_b5630d73a783",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Wang et al. (2021) argues that at least some historical mainland-Chinese records published as Ips acuminatus may be misidentified I. chinensis based on the older morphological description. This is retained as a reassessment issue and does not automatically exclude I. acuminatus from China.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_wangetal2021",
+      "label": "王正等 2021",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "王正, 马晓乾, 周勤政, 郑桂恒, 夏吾加, 张艳明, 王成立, 晋鹏非, 吕全, 张星耀. 2021. 中国齿小蠹属昆虫的鉴定. 林业科学 57(12): 79–91.",
+      "doi": "10.11707/j.1001-7488.20211208"
+    },
+    {
+      "id": "orig_b5630d73a783",
+      "label": "Kurentsov & Kononov, 1966",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Kurentsov, A.I. & Kononov, D.G. (1966). Novye vidy koroedov (Ipidae Coleoptera). In: Cherepanov, A.I., Novye vidy fauny Sibiri i prilegayushchikh stran. Nauka, Novosibirsk, 29–33."
+    }
+  ]
+}

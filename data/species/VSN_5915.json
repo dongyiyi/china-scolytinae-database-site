@@ -1,0 +1,116 @@
+{
+  "vsn": "VSN_5915",
+  "scientific_name": "Tricosa metacuneolus",
+  "authorship": "(Eggers, 1940)",
+  "chinese_name": "",
+  "genus": "Tricosa",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾",
+    "narrative": "Beaver & Liu (2010) accepts Taiwan occurrence for the taxon treated there as Xyleborus metacuneolus. No mainland-China province is inferred from this source."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Buchanania"
+    },
+    {
+      "scientific_name": "Mangifera"
+    },
+    {
+      "scientific_name": "Swietenia"
+    }
+  ],
+  "host_note": "The source explicitly reports Buchanania, Mangifera and Swietenia and additionally describes the species as probably polyphagous. The three named genera are promoted at source resolution; broad polyphagy remains contextual.",
+  "taxonomy_summary": "The current accepted identity is Tricosa metacuneolus (Eggers, 1940).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1940",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus metacuneolus",
+      "authorship": "Eggers, 1940",
+      "note": "Original combination / basionym, original-description p. 150.",
+      "reference_ids": [
+        "orig_bbb66ec92a58",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1981",
+      "event": "Synonym",
+      "name": "Xyleborus kaimochii",
+      "authorship": "Nobuchi, 1981",
+      "note": "Published name currently treated as a synonym; original-description p. 143.",
+      "reference_ids": [
+        "orig_a5984cac462c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1940",
+      "event": "Current accepted",
+      "name": "Tricosa metacuneolus",
+      "authorship": "(Eggers, 1940)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_bbb66ec92a58",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Beaver & Liu (2010) uses Xyleborus metacuneolus Eggers. Current canonical identity follows integrated taxonomic backbone: Tricosa metacuneolus (Eggers, 1940), VSN_5915.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_a5984cac462c",
+      "label": "Nobuchi, 1981c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Nobuchi, A. (1981c). Studies on Scolytidae (Coleoptera). XXII. Six new species and two new females of the genus Xyleborus from Japan. Kontyû 49(1): 143–154."
+    },
+    {
+      "id": "orig_bbb66ec92a58",
+      "label": "Eggers, 1940f",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1940f). Neue indomolayische Borkenkäfer (Ipidae). III. Nachrag (Forstsetzung). Tijdschrift voor Entomologie 83: 132–154."
+    }
+  ]
+}

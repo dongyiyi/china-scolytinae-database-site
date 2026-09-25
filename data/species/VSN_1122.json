@@ -1,0 +1,199 @@
+{
+  "vsn": "VSN_1122",
+  "scientific_name": "Cnestus mutilatus",
+  "authorship": "(Blandford, 1894)",
+  "chinese_name": "削尾材小蠹",
+  "genus": "Cnestus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "安徽；福建；贵州；海南；香港；江苏；江西；陕西；上海；四川；云南；浙江；台湾",
+    "narrative": "殷蕙芬等 (1984), 黄复生等 (2015) and Smith et al. (2020) already support the current distribution including Taiwan. Beaver & Liu (2010) independently supports Taiwan; its broad China regional wording is not converted into province records. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Castanea mollissima"
+    },
+    {
+      "scientific_name": "Ormosia hosiei"
+    },
+    {
+      "scientific_name": "Camellia sp."
+    },
+    {
+      "scientific_name": "Osmanthus fragrans"
+    },
+    {
+      "scientific_name": "Liquidambar"
+    },
+    {
+      "scientific_name": "Cinnamomum camphora"
+    },
+    {
+      "scientific_name": "Pinus spp."
+    }
+  ],
+  "host_note": "Baseline and Smith et al. (2020) hosts are retained. Beaver & Liu (2010) adds the resolved Taiwan hosts Cinnamomum camphora and Pinus spp.",
+  "taxonomy_summary": "The current accepted identity is Cnestus mutilatus (Blandford, 1894).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1939",
+      "event": "Synonym",
+      "name": "Xyleborus banjoewangi",
+      "authorship": "Schedl, 1939",
+      "note": "Published name currently treated as a synonym; original-description p. 41.",
+      "reference_ids": [
+        "orig_46d20317c06c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1894",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus mutilatus",
+      "authorship": "Blandford, 1894",
+      "note": "Original combination / basionym, original-description p. 103.",
+      "reference_ids": [
+        "orig_3c59ec2fb93b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Synonym",
+      "name": "Xyleborus sampsoni",
+      "authorship": "Eggers, 1930",
+      "note": "Published name currently treated as a synonym; original-description p. 184.",
+      "reference_ids": [
+        "orig_e495fa6a1efa",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1939",
+      "event": "Synonym",
+      "name": "Xyleborus taitonus",
+      "authorship": "Eggers, 1939",
+      "note": "Published name currently treated as a synonym; original-description p. 118.",
+      "reference_ids": [
+        "orig_9d06738123b7",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1894",
+      "event": "Current accepted",
+      "name": "Cnestus mutilatus",
+      "authorship": "(Blandford, 1894)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_3c59ec2fb93b",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "殷蕙芬等 (1984) used Xyleborus mutilatus and 黄复生等 (2015) used Hadrodemius mutilatus. Beaver & Liu (2010) uses Cnestus mutilatus. The current canonical identity remains Cnestus mutilatus (Blandford, 1894), VSN_1122.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "orig_3c59ec2fb93b",
+      "label": "Blandford, 1894c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
+    },
+    {
+      "id": "orig_46d20317c06c",
+      "label": "Schedl, 1939j",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1939j). Scolytidae and Platypodidae. 47 Beitrag. Tijdschrift voor Entomologie 82: 30–53."
+    },
+    {
+      "id": "orig_e495fa6a1efa",
+      "label": "Eggers, 1930b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1930b). Neue Xyleborus-Arten (Col. Scolytidae) aus Indien. Indian Forest Records, Entomology 14(9): 177–208."
+    },
+    {
+      "id": "orig_9d06738123b7",
+      "label": "Eggers, 1939a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1939a). Japanische Borkenkäfer, II. Arbeiten über Morphologische und Taxonomische Entomologie aus Berlin-Dahlem 6: 114–123."
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "vsn": "VSN_5501",
+  "scientific_name": "Scolytus frontalis",
+  "authorship": "Blandford, 1894",
+  "chinese_name": "",
+  "genus": "Scolytus",
+  "subfamily": "Scolytinae",
+  "tribe": "Scolytini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "China (NE；broad source wording)；台湾",
+    "narrative": "Beaver & Liu (2010) reports China (NE) and Taiwan. The broad northeastern-China wording supports Mainland China = Present but is not expanded into provinces. Taiwan was historically recorded under the synonym Scolytus formosanus Eggers and is accepted by Beaver & Liu as S. frontalis."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Ulmus spp."
+    },
+    {
+      "scientific_name": "Zelkova spp."
+    },
+    {
+      "scientific_name": "Quercus spp."
+    },
+    {
+      "scientific_name": "Prunus spp."
+    }
+  ],
+  "host_note": "Usually Ulmus and Zelkova, with Quercus and Prunus also reported; all are retained at genus level and no species-level host is inferred.",
+  "taxonomy_summary": "The current accepted identity is Scolytus frontalis Blandford, 1894.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1939",
+      "event": "Synonym",
+      "name": "Scolytus formosanus",
+      "authorship": "Eggers, 1939",
+      "note": "Published name currently treated as a synonym; original-description p. 115.",
+      "reference_ids": [
+        "orig_c08a9cbfe48d",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1894",
+      "event": "Current accepted",
+      "name": "Scolytus frontalis",
+      "authorship": "Blandford, 1894",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_a1d45147b2c3",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Current identity follows integrated taxonomic backbone: Scolytus frontalis Blandford, 1894, VSN_5501. The Taiwan evidence was published historically under Scolytus formosanus Eggers; that nomenclatural provenance is retained without creating a separate taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_a1d45147b2c3",
+      "label": "Blandford, 1894c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
+    },
+    {
+      "id": "orig_c08a9cbfe48d",
+      "label": "Eggers, 1939a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1939a). Japanische Borkenkäfer, II. Arbeiten über Morphologische und Taxonomische Entomologie aus Berlin-Dahlem 6: 114–123."
+    }
+  ]
+}

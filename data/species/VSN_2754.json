@@ -1,0 +1,161 @@
+{
+  "vsn": "VSN_2754",
+  "scientific_name": "Ficicis despectus",
+  "authorship": "(Walker, 1859)",
+  "chinese_name": "南方海小蠹",
+  "genus": "Ficicis",
+  "subfamily": "Scolytinae",
+  "tribe": "Hylesinini",
+  "checklist_status": "Unreviewed",
+  "review_status": "Not started",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Ficicis despectus (Walker, 1859).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1859",
+      "event": "Original combination / basionym",
+      "name": "Hylesinus despectus",
+      "authorship": "Walker, 1859",
+      "note": "Original combination / basionym, original-description p. 261.",
+      "reference_ids": [
+        "orig_40a063c1eae1",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1863",
+      "event": "Synonym",
+      "name": "Hylesinus granulifer",
+      "authorship": "Motschulsky, 1863",
+      "note": "Published name currently treated as a synonym; original-description p. 516.",
+      "reference_ids": [
+        "orig_8606915d2315",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1869",
+      "event": "Synonym",
+      "name": "Hylesinus scobipennis",
+      "authorship": "Chapuis, 1869",
+      "note": "Published name currently treated as a synonym; original-description p. 30.",
+      "reference_ids": [
+        "orig_0091c8c88c80",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Hylesinus similis",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 136.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1951",
+      "event": "Synonym",
+      "name": "Hylesinus samoanus",
+      "authorship": "Schedl, 1951",
+      "note": "Published name currently treated as a synonym; original-description p. 142.",
+      "reference_ids": [
+        "orig_eff7175717bd",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1859",
+      "event": "Current accepted",
+      "name": "Ficicis despectus",
+      "authorship": "(Walker, 1859)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_40a063c1eae1",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 5 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "orig_40a063c1eae1",
+      "label": "Walker, 1859",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Walker, F. (1859). Characters of some apparently undescribed Ceylon insects. Annals and Magazine of Natural History. Ser. 3, 3: 258–265."
+    },
+    {
+      "id": "orig_8606915d2315",
+      "label": "Motschulsky, 1863",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Motschulsky, V. de (1863). Essai d’un catalogue des insectes de l’île Ceylan. Bulletin de la Société Impériale des Naturalistes de Moscou 36(2): 421–532."
+    },
+    {
+      "id": "orig_eff7175717bd",
+      "label": "Schedl, 1951f",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1951f). Fauna Samoanus (Scolytoidea), I. 109 Contribution. Occasional Papers of Bernice P. Bishop Museum 20(10): 131–156."
+    },
+    {
+      "id": "orig_0091c8c88c80",
+      "label": "Chapuis, 1869",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Chapuis, F. (1869). Synopsis des Scolytides. (Prodrome d’un travail monographique). J. Desoer, Liège 61 pp."
+    },
+    {
+      "id": "orig_c8c8b73ae935",
+      "label": "Eggers, 1923b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3–4): 129–220."
+    }
+  ]
+}

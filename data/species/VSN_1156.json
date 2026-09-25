@@ -1,0 +1,406 @@
+{
+  "vsn": "VSN_1156",
+  "scientific_name": "Coccotrypes carpophagus",
+  "authorship": "(Hornung, 1842)",
+  "chinese_name": "",
+  "genus": "Coccotrypes",
+  "subfamily": "Scolytinae",
+  "tribe": "Dryocoetini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "台湾",
+    "narrative": "Beaver & Liu (2010) accepts Coccotrypes carpophagus as occurring in Taiwan."
+  },
+  "hosts": [],
+  "host_note": "The source states that the species is polyphagous in seeds and fruits, especially palms. This broad ecological statement is retained without inferring particular host taxa.",
+  "taxonomy_summary": "The current accepted identity is Coccotrypes carpophagus (Hornung, 1842).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1842",
+      "event": "Original combination / basionym",
+      "name": "Bostrichus carpophagus",
+      "authorship": "Hornung, 1842",
+      "note": "Original combination / basionym, original-description p. 116.",
+      "reference_ids": [
+        "orig_306508521495",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Coccotrypes anonae",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 46.",
+      "reference_ids": [
+        "orig_c0e022fe134c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Coccotrypes bakeri",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 46.",
+      "reference_ids": [
+        "orig_c0e022fe134c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1928",
+      "event": "Synonym",
+      "name": "Coccotrypes canariensis",
+      "authorship": "Eggers, 1928",
+      "note": "Published name currently treated as a synonym; original-description p. 117.",
+      "reference_ids": [
+        "orig_cce645fc2463",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1948",
+      "event": "Synonym",
+      "name": "Coccotrypes ceylonicus",
+      "authorship": "Schedl, 1948",
+      "note": "Published name currently treated as a synonym; original-description p. 119.",
+      "reference_ids": [
+        "orig_9d5d754aaa5d",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1975",
+      "event": "Synonym",
+      "name": "Coccotrypes exasperatus",
+      "authorship": "Schedl, 1975",
+      "note": "Published name currently treated as a synonym; original-description p. 455.",
+      "reference_ids": [
+        "orig_31deb6db2cca",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1972",
+      "event": "Synonym",
+      "name": "Coccotrypes grisseopuberulus",
+      "authorship": "Schedl, 1972",
+      "note": "Published name currently treated as a synonym; original-description p. 59.",
+      "reference_ids": [
+        "orig_82c88c499bfd",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Coccotrypes hubbardi",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 46.",
+      "reference_ids": [
+        "orig_c0e022fe134c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Coccotrypes integer",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 311.",
+      "reference_ids": [
+        "orig_deaeb34a13a4",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Coccotrypes integer",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 391.",
+      "reference_ids": [
+        "orig_d87a90ab173c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Coccotrypes liberiensis",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 47.",
+      "reference_ids": [
+        "orig_c0e022fe134c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1920",
+      "event": "Synonym",
+      "name": "Coccotrypes nanus",
+      "authorship": "Eggers, 1920",
+      "note": "Published name currently treated as a synonym; original-description p. 33.",
+      "reference_ids": [
+        "orig_c0fba74ce7ed",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1939",
+      "event": "Synonym",
+      "name": "Coccotrypes phoenicola",
+      "authorship": "Beeson, 1939",
+      "note": "Published name currently treated as a synonym; original-description p. 281.",
+      "reference_ids": [
+        "orig_c7bd4504c8e6",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1948",
+      "event": "Synonym",
+      "name": "Coccotrypes pilosulus",
+      "authorship": "Schedl, 1948",
+      "note": "Published name currently treated as a synonym; original-description p. 118.",
+      "reference_ids": [
+        "orig_9d5d754aaa5d",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1948",
+      "event": "Synonym",
+      "name": "Coccotrypes pubescens",
+      "authorship": "Schedl, 1948",
+      "note": "Published name currently treated as a synonym; original-description p. 119.",
+      "reference_ids": [
+        "orig_9d5d754aaa5d",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1951",
+      "event": "Synonym",
+      "name": "Coccotrypes punctulatus",
+      "authorship": "Eggers, 1951",
+      "note": "Published name currently treated as a synonym; original-description p. 151.",
+      "reference_ids": [
+        "orig_dd18c2609f8d",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Coccotrypes pygmaeus",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 310.",
+      "reference_ids": [
+        "orig_deaeb34a13a4",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Coccotrypes pygmaeus",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 391.",
+      "reference_ids": [
+        "orig_d87a90ab173c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Coccotrypes rolliniae",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 47.",
+      "reference_ids": [
+        "orig_c0e022fe134c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Coccotrypes thrinacis",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 46.",
+      "reference_ids": [
+        "orig_c0e022fe134c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1939",
+      "event": "Synonym",
+      "name": "Coccotrypes trevori",
+      "authorship": "Beeson, 1939",
+      "note": "Published name currently treated as a synonym; original-description p. 282.",
+      "reference_ids": [
+        "orig_c7bd4504c8e6",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1908",
+      "event": "Synonym",
+      "name": "Cryphaloides donisthorpei",
+      "authorship": "Formanek, 1908",
+      "note": "Published name currently treated as a synonym; original-description p. 91.",
+      "reference_ids": [
+        "orig_2dac5c5704db",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1842",
+      "event": "Current accepted",
+      "name": "Coccotrypes carpophagus",
+      "authorship": "(Hornung, 1842)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_306508521495",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The current accepted identity is Coccotrypes carpophagus (Hornung, 1842), VSN_1156, Scolytinae: Dryocoetini. Beaver & Liu (2010) uses the same species name with authorship Hornung.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "orig_306508521495",
+      "label": "Hornung, 1842",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hornung, E.G. (1842). Ueber einige in den Betelnüssen vorkommende Käfer. Entomologische Zeitung (Stettin) 3: 115–117."
+    },
+    {
+      "id": "orig_c0e022fe134c",
+      "label": "Hopkins, 1915d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hopkins, A.D. (1915d). Classification of the Cryphalinae with descriptions of new genera and species. United States Department of Agriculture, Office of the Secretary. Report 99: 1–75 + 4 plates."
+    },
+    {
+      "id": "orig_cce645fc2463",
+      "label": "Eggers, 1928c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1928c). Ein neuer Coccotrypes (Ipidae, Col.). Tijdschrift voor Entomologie 71: 117–118."
+    },
+    {
+      "id": "orig_9d5d754aaa5d",
+      "label": "Schedl, 1948e",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1948e). Tropical seed beetles of the genus Coccotrypes Eichhoff. 99 Contribution to the morphology and taxonomy of the Scolytoidea. Tijdschrift voor Entomologie 91: 113–120."
+    },
+    {
+      "id": "orig_31deb6db2cca",
+      "label": "Schedl, 1975j",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1975j). Indian bark and timber beetles, VI. 312 Contribution. Revue Suisse de Zoologie 82(3): 445–458."
+    },
+    {
+      "id": "orig_82c88c499bfd",
+      "label": "Schedl, 1972f",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1972f). Neotropische Scolytoidea, XI. 293 Beitrag zur Morphologie und Systematik der Scolytidae. Koleopterologische Rundschau 50: 37–86."
+    },
+    {
+      "id": "orig_deaeb34a13a4",
+      "label": "Eichhoff, 1878b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
+    },
+    {
+      "id": "orig_d87a90ab173c",
+      "label": "Eichhoff, 1878a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878a). Neue oder noch unbeschriebene Tomicinen. Stettiner Entomologische Zeitung 39: 383–392."
+    },
+    {
+      "id": "orig_c0fba74ce7ed",
+      "label": "Eggers, 1920b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1920b). 60 neue Borkenkäfer (Ipidae) aus Afrika, nebst zehn neuen Gattungen, zwei Abarten. Entomologische Blätter 16: 33–45."
+    },
+    {
+      "id": "orig_c7bd4504c8e6",
+      "label": "Beeson, 1939",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1939). New species and biology of Coccotrypes and Thamnurgides (Scolytidae, Col). Indian Forest Records, Entomology (New Series) 5: 279–308."
+    },
+    {
+      "id": "orig_dd18c2609f8d",
+      "label": "Eggers, 1951",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1951). Borkenkäfer (Ipidae, Col.) aus Südamerika, XII. Entomologische Blätter 45-46: 144–154."
+    },
+    {
+      "id": "orig_2dac5c5704db",
+      "label": "Formanek, 1908",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Formanek, R. (1908). Eine neue Borkenkäfer-Gattung. Entomologische Blätter 4(5): 91–."
+    }
+  ]
+}

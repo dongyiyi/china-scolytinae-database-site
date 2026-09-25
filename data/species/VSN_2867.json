@@ -1,0 +1,177 @@
+{
+  "vsn": "VSN_2867",
+  "scientific_name": "Hadrodemius comans",
+  "authorship": "(Sampson, 1919)",
+  "chinese_name": "粗阔材小蠹",
+  "genus": "Hadrodemius",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Present",
+    "Hong Kong": "Present",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建；广东；广西；贵州；海南；湖南；江西；四川；西藏；云南；浙江；香港；台湾",
+    "narrative": "殷蕙芬等 (1984) records Xizang; 黄复生等 (2015) expands the baseline to Hunan, Jiangxi, Sichuan, Guizhou, Fujian, Hainan and Guangxi. Smith et al. (2020) confirms much of this range and adds Guangdong, Hong Kong, Yunnan, Zhejiang and Taiwan. Beaver & Liu (2010) independently accepts Taiwan occurrence. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Quercus sp."
+    },
+    {
+      "scientific_name": "Ficus carica"
+    },
+    {
+      "scientific_name": "Machilus sp."
+    },
+    {
+      "scientific_name": "Rhus verniciflua"
+    },
+    {
+      "scientific_name": "Camellia oleifera"
+    },
+    {
+      "scientific_name": "Phoebe sp."
+    }
+  ],
+  "host_note": "Baseline host evidence is retained as a union of 殷蕙芬等 (1984) and 黄复生等 (2015): Quercus sp., Ficus carica, Machilus sp., Rhus verniciflua, Camellia oleifera and Phoebe sp. Smith et al. (2020) adds no host in the promoted record. Beaver & Liu (2010) notes broad polyphagy and Taiwan records spanning seven genera in four families under Xyleborus amorphus, but because those genera are not enumerated in the curated field, no new host taxa are promoted.",
+  "taxonomy_summary": "The current accepted identity is Hadrodemius comans (Sampson, 1919).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1919",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus comans",
+      "authorship": "Sampson, 1919",
+      "note": "Original combination / basionym, original-description p. 109.",
+      "reference_ids": [
+        "orig_87fe8aa7a9d3",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1926",
+      "event": "Synonym",
+      "name": "Xyleborus amorphus",
+      "authorship": "Eggers, 1926",
+      "note": "Published name currently treated as a synonym; original-description p. 147.",
+      "reference_ids": [
+        "orig_2e88af87a81b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Synonym",
+      "name": "Xyleborus metacomans",
+      "authorship": "Eggers, 1930",
+      "note": "Published name currently treated as a synonym; original-description p. 188.",
+      "reference_ids": [
+        "orig_2f66b1e00ee5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1919",
+      "event": "Current accepted",
+      "name": "Hadrodemius comans",
+      "authorship": "(Sampson, 1919)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_87fe8aa7a9d3",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "殷蕙芬等 (1984) uses Xyleborus amorphus and 黄复生等 (2015) uses Hadrodemius amorphus. Smith et al. (2020) treats the stable taxon as Hadrodemius comans. Beaver & Liu (2010) follows synonymy involving Xyleborus amorphus and X. metacomans; this is retained as nomenclatural provenance without changing the stable VSN. Canonical authorship follows integrated taxonomic backbone: (Sampson, 1919), VSN_2867.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_beaverliu2010",
+      "label": "Beaver & Liu, 2010",
+      "role": [
+        "published evidence",
+        "taxonomic treatment"
+      ],
+      "citation": "Beaver, R.A. & Liu, L.Y. (2010). An annotated synopsis of Taiwanese bark and ambrosia beetles, with new synonymy, new combinations and new records (Coleoptera: Curculionidae: Scolytinae). Zootaxa 2602: 1–47.",
+      "doi": "10.11646/zootaxa.2602.1.1"
+    },
+    {
+      "id": "src_lau2025",
+      "label": "Lau, 2025",
+      "role": [
+        "regional checklist"
+      ],
+      "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "orig_87fe8aa7a9d3",
+      "label": "Sampson, 1919",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Sampson, F.W. (1919). Notes on Platypodidae and Scolytidae collected by Mr. G.E. Bryant and others. Annals and Magazine of Natural History. Ser. 9, 4: 105–114."
+    },
+    {
+      "id": "orig_2e88af87a81b",
+      "label": "Eggers, 1926b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1926b). Japanische Borkenkäfer, I. Entomologische Blätter 22: 145–148."
+    },
+    {
+      "id": "orig_2f66b1e00ee5",
+      "label": "Eggers, 1930b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1930b). Neue Xyleborus-Arten (Col. Scolytidae) aus Indien. Indian Forest Records, Entomology 14(9): 177–208."
+    }
+  ]
+}

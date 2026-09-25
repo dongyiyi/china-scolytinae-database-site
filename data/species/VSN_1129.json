@@ -1,0 +1,110 @@
+{
+  "vsn": "VSN_1129",
+  "scientific_name": "Cnestus protensus",
+  "authorship": "(Eggers, 1930)",
+  "chinese_name": "",
+  "genus": "Cnestus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "福建；云南",
+    "narrative": "Smith et al. (2020) records Fujian and Yunnan with multiple locality records."
+  },
+  "hosts": [
+    {
+      "scientific_name": "Machilus thunbergii"
+    }
+  ],
+  "host_note": "Machilus thunbergii is retained as a species-level host record.",
+  "taxonomy_summary": "The current accepted identity is Cnestus protensus (Eggers, 1930).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1977",
+      "event": "Synonym",
+      "name": "Cnestus rostratus",
+      "authorship": "Schedl, 1977",
+      "note": "Published name currently treated as a synonym; original-description p. 502.",
+      "reference_ids": [
+        "orig_395812d0c007",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Original combination / basionym",
+      "name": "Xyleborus protensus",
+      "authorship": "Eggers, 1930",
+      "note": "Original combination / basionym, original-description p. 201.",
+      "reference_ids": [
+        "orig_e495fa6a1efa",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Current accepted",
+      "name": "Cnestus protensus",
+      "authorship": "(Eggers, 1930)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_e495fa6a1efa",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 2 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_e495fa6a1efa",
+      "label": "Eggers, 1930b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1930b). Neue Xyleborus-Arten (Col. Scolytidae) aus Indien. Indian Forest Records, Entomology 14(9): 177–208."
+    },
+    {
+      "id": "orig_395812d0c007",
+      "label": "Schedl, 1977c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1977c). Some new bark beetles from the Indomalayan region. 332 Contribution to the morphology and taxonomy of the Scolytoidea. Oriental Insects 11(4): 490–504.",
+      "doi": "10.1080/00305316.1977.11090920"
+    }
+  ]
+}
