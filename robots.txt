@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dongyiyi.github.io/china-scolytinae-database-site/sitemap.xml
