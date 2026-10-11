@@ -2621,7 +2621,7 @@
     "vsn": "VSN_2732",
     "scientific_name": "Euwallacea similis",
     "authorship": "(Ferrari, 1867)",
-    "chinese_name": "",
+    "chinese_name": "四粒材小蠹",
     "genus": "Euwallacea",
     "subfamily": "Scolytinae",
     "tribe": "Xyleborini",
@@ -5971,17 +5971,6 @@
     "tribe": "Xyleborini",
     "checklist_status": "Accepted",
     "review_status": "Reviewed"
-  },
-  {
-    "vsn": "VSN_6345",
-    "scientific_name": "Xyleborus rufobrunneus",
-    "authorship": "Eggers, 1929",
-    "chinese_name": "四粒材小蠹",
-    "genus": "Xyleborus",
-    "subfamily": "Scolytinae",
-    "tribe": "Xyleborini",
-    "checklist_status": "Unreviewed",
-    "review_status": "Not started"
   },
   {
     "vsn": "VSN_6378",

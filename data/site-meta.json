@@ -9,6 +9,6 @@
   "coverage_note": "The current database contains Scolytinae records only. Platypodinae is part of the long-term project scope but has not yet been integrated into the database.",
   "geographic_scope": "China checklist, including separately tracked Mainland China, Taiwan, Hong Kong, and Macao occurrence assessments where available.",
   "identity_key": "VSN",
-  "profile_count_status": "578 China Scolytinae taxon profiles through VSN_6555; the mislinked VSN_4713 China record is retained in Notion audit history, not as a website profile.",
-  "profile_count_current": 578
+  "profile_count_status": "577 source-supported China Scolytinae taxon profiles through VSN_6555; VSN_6345 (Xyleborus rufobrunneus Eggers, 1929) is retained in the Notion taxonomic backbone as Excluded from the China checklist following authorship-based correction of historical Xyleborus similis records to VSN_2732 (Euwallacea similis). VSN_4713 also remains excluded from the website.",
+  "profile_count_current": 577
 }

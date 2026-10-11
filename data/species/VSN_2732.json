@@ -2,7 +2,7 @@
   "vsn": "VSN_2732",
   "scientific_name": "Euwallacea similis",
   "authorship": "(Ferrari, 1867)",
-  "chinese_name": "",
+  "chinese_name": "四粒材小蠹",
   "genus": "Euwallacea",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -23,7 +23,7 @@
       "scientific_name": "Broussonetia sp."
     }
   ],
-  "host_note": "Broussonetia is retained at genus level from Smith et al. (2020). Beaver & Liu (2010) describes the species as strongly polyphagous but enumerates no host taxon in the curated field; no additional host is promoted.",
+  "host_note": "Broussonetia is retained at genus level from Smith et al. (2020). Beaver & Liu (2010) describes the species as strongly polyphagous but enumerates no host taxon in the curated field; no additional host is promoted. Yin et al. (1984) and Huang et al. (2015) historically reported Hevea brasiliensis and Cassia siamea under Xyleborus similis Ferrari; these source-level host reports have not been independently reviewed and are not included in the verified host list.",
   "taxonomy_summary": "The current accepted identity is Euwallacea similis (Ferrari, 1867).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -140,7 +140,7 @@
       ]
     }
   ],
-  "nomenclature_note": "Beaver & Liu (2010) uses Wallacellus similis. Current canonical identity follows integrated taxonomic backbone: Euwallacea similis (Ferrari, 1867), VSN_2732.",
+  "nomenclature_note": "Beaver & Liu (2010) uses Wallacellus similis. Current canonical identity follows integrated taxonomic backbone: Euwallacea similis (Ferrari, 1867), VSN_2732. Yin et al. (1984) and Huang et al. (2015) report Xyleborus similis Ferrari, 1867, the original combination of this species, not the distinct later homonym Xyleborus similis Eggers, 1927 (associated with Xyleborus rufobrunneus Eggers, 1929).",
   "resources": {
     "images": "No image records are linked yet.",
     "specimens": "No specimen records are linked yet.",
@@ -183,6 +183,22 @@
         "regional checklist"
       ],
       "citation": "Lau, C.S.K. (2025). Checklist of Insects of Hong Kong, 2nd edition."
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "src_ef1984",
+      "label": "殷蕙芬等 1984",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "殷蕙芬, 黄复生, 李兆麟 编著. 1984. 中国经济昆虫志 第29册 鞘翅目 小蠹科. 北京: 科学出版社."
     },
     {
       "id": "orig_afa9e366e29c",
