@@ -1,7 +1,7 @@
 const app=document.querySelector('#app');
 const SITE_ROOT='/china-scolytinae-database-site/';
 const taxonUrl=vsn=>SITE_ROOT+'taxa/'+encodeURIComponent(vsn)+'/';
-async function getJSON(path){const r=await fetch(SITE_ROOT+path.replace(/^\//,''));if(!r.ok)throw new Error('Could not load '+path);return r.json();}
+async function getJSON(path){const r=await fetch(SITE_ROOT+path.replace(/^\//,''), {cache:'no-store'});if(!r.ok)throw new Error('Could not load '+path);return r.json();}
 function esc(s){return String(s||'').replace(/[&<>\"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#039;'}[m]));}
 function publicSourceText(text){
   return String(text||'')
