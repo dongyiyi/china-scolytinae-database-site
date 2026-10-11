@@ -5863,17 +5863,6 @@
     "review_status": "Reviewed"
   },
   {
-    "vsn": "VSN_6154",
-    "scientific_name": "Xyleborus aquilus",
-    "authorship": "Blandford, 1894",
-    "chinese_name": "狭面材小蠹",
-    "genus": "Xyleborus",
-    "subfamily": "Scolytinae",
-    "tribe": "Xyleborini",
-    "checklist_status": "Accepted",
-    "review_status": "Reviewed"
-  },
-  {
     "vsn": "VSN_6171",
     "scientific_name": "Xyleborus bidentatus",
     "authorship": "(Motschulsky, 1863)",
