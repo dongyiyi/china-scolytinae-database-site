@@ -1,0 +1,75 @@
+{
+  "vsn": "VSN_2915",
+  "scientific_name": "Hylastes attenuatus",
+  "authorship": "Erichson, 1836",
+  "chinese_name": "",
+  "genus": "Hylastes",
+  "subfamily": "Scolytinae",
+  "tribe": "Hylastini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Candidate",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Hylastes attenuatus Erichson, 1836.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1836",
+      "event": "Current accepted",
+      "name": "Hylastes attenuatus",
+      "authorship": "Erichson, 1836",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_04be716f4635",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "No additional synonyms or historical combinations are currently linked to this taxon in the integrated backbone.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_mandelshtampetrov2019_hylastini",
+      "label": "Mandelshtam & Petrov, 2019",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Mandelshtam, M.Yu. & Petrov, A.V. (2019). A key to species of the tribe Hylastini LeConte, 1876 (Coleoptera: Curculionidae: Scolytinae) from Russia and adjacent countries. Russian Entomological Journal 28(4): 389–399.",
+      "doi": "10.15298/rusentj.28.4.08"
+    },
+    {
+      "id": "orig_04be716f4635",
+      "label": "Erichson, 1836",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Erichson, W.F. (1836). Systematische Auseinandersetzung der Familie der Borkenkäfer (Bostrichidae). Archiv für Naturgeschichte 2: 45–65."
+    }
+  ]
+}

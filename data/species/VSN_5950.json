@@ -1,0 +1,93 @@
+{
+  "vsn": "VSN_5950",
+  "scientific_name": "Trypodendron laeve",
+  "authorship": "Eggers, 1939",
+  "chinese_name": "",
+  "genus": "Trypodendron",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyloterini",
+  "checklist_status": "Accepted",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "The source reports China without specifying a subregion. Mainland China, Taiwan, Hong Kong and Macao have not been independently assessed."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Trypodendron laeve Eggers, 1939.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1946",
+      "event": "Synonym",
+      "name": "Trypodendron piceum",
+      "authorship": "Strand, 1946",
+      "note": "Published name currently treated as a synonym; original-description p. 172.",
+      "reference_ids": [
+        "orig_964336075bc8",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1939",
+      "event": "Current accepted",
+      "name": "Trypodendron laeve",
+      "authorship": "Eggers, 1939",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_c08a9cbfe48d",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 1 additional historical name usage to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_alonsozarazagaetal2023_palaearcticcatalogue2ed",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Bouchard, P., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
+    },
+    {
+      "id": "orig_964336075bc8",
+      "label": "Strand, 1946",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Strand, A. (1946). Seven new species of Coleoptera from Norway. Norsk Entomologisk Tidsskrift 7 [1945]: 168–172."
+    },
+    {
+      "id": "orig_c08a9cbfe48d",
+      "label": "Eggers, 1939a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1939a). Japanische Borkenkäfer, II. Arbeiten über Morphologische und Taxonomische Entomologie aus Berlin-Dahlem 6: 114–123."
+    }
+  ]
+}

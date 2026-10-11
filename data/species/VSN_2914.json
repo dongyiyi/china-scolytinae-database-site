@@ -1,0 +1,191 @@
+{
+  "vsn": "VSN_2914",
+  "scientific_name": "Hylastes ater",
+  "authorship": "Erichson, 1836",
+  "chinese_name": "",
+  "genus": "Hylastes",
+  "subfamily": "Scolytinae",
+  "tribe": "Hylastini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Hylastes ater Erichson, 1836.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1800",
+      "event": "Synonym",
+      "name": "Bostrichus ater",
+      "authorship": "Paykull, 1800",
+      "note": "Published name currently treated as a synonym; original-description p. 153.",
+      "reference_ids": [
+        "orig_3ee38747b9b3",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1802",
+      "event": "Synonym",
+      "name": "Ips niger",
+      "authorship": "Marsham, 1802",
+      "note": "Published name currently treated as a synonym; original-description p. 59.",
+      "reference_ids": [
+        "orig_ee6ed1ffbba8",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1825",
+      "event": "Synonym",
+      "name": "Hylesinus chloropus",
+      "authorship": "Duftschmid, 1825",
+      "note": "Published name currently treated as a synonym; original-description p. 102.",
+      "reference_ids": [
+        "orig_573e4961922f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1888",
+      "event": "Source accepted",
+      "name": "Hylastes pinicola",
+      "authorship": "(Bedel, 1888)",
+      "note": "Accepted name in the source dataset; the current canonical identity is Hylastes ater Erichson, 1836.",
+      "reference_ids": [
+        "orig_f15e453ac10c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1888",
+      "event": "Original combination / basionym",
+      "name": "Tomicus pinicola",
+      "authorship": "Bedel, 1888",
+      "note": "Original combination / basionym, original-description p. 390.",
+      "reference_ids": [
+        "orig_f15e453ac10c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1929",
+      "event": "Synonym",
+      "name": "Hylastes angusticollis",
+      "authorship": "Eggers, 1929",
+      "note": "Published name currently treated as a synonym; original-description p. 9.",
+      "reference_ids": [
+        "orig_73f0745747af",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1934",
+      "event": "Synonym",
+      "name": "Ipsocossonus anomalus",
+      "authorship": "Oke, 1934",
+      "note": "Published name currently treated as a synonym; original-description p. 251.",
+      "reference_ids": [
+        "orig_cd1c563a50b4",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1836",
+      "event": "Current accepted",
+      "name": "Hylastes ater",
+      "authorship": "Erichson, 1836",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 7 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_mandelshtampetrov2019_hylastini",
+      "label": "Mandelshtam & Petrov, 2019",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Mandelshtam, M.Yu. & Petrov, A.V. (2019). A key to species of the tribe Hylastini LeConte, 1876 (Coleoptera: Curculionidae: Scolytinae) from Russia and adjacent countries. Russian Entomological Journal 28(4): 389–399.",
+      "doi": "10.15298/rusentj.28.4.08"
+    },
+    {
+      "id": "orig_3ee38747b9b3",
+      "label": "Paykull, 1800",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Paykull, G. von (1800). Fauna Svecica. Insecta. Tomus III. Joh. F. Edman, Upsaliae, 459 pp."
+    },
+    {
+      "id": "orig_573e4961922f",
+      "label": "Duftschmid, 1825",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Duftschmid, C.E. (1825). Fauna Austriae. Oder Beschreibung der Österrichischen Insecten, für angehende Freunde der Entomologie. Verlag der k.k. priv. akademischen Kunst-, Musik-und Buchhandlung, Linz 289 pp."
+    },
+    {
+      "id": "orig_73f0745747af",
+      "label": "Eggers, 1929c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1929c). Fünf neue Borkenkäfer (Ipidae) aus dem Osten. Entomologisches Nachrichtenblatt 3: 9–11."
+    },
+    {
+      "id": "orig_cd1c563a50b4",
+      "label": "Oke, 1934",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Oke, C. (1934). On some Australian Curculionoidea. Part 2. Proceedings of the Royal Society of Victoria 46: 250–263."
+    },
+    {
+      "id": "orig_ee6ed1ffbba8",
+      "label": "Marsham, 1802",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Marsham, T. (1802). Entomologia britannica, sistens insecta Britanniae indigena, secundum methodum Linnaeanam disposita. Tomus 1. Coleoptera. J. White, London xxxi + 547 + [1] pp, 30 pls."
+    },
+    {
+      "id": "orig_f15e453ac10c",
+      "label": "Bedel, 1888",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Bedel, L. (1888). Faune des coléoptères du Bassin de la Seine. Vol. VI. Rhynchophora (Cont.). Annales de la Société Entomologique de France. Publication Hors Série. 7(4 ): 385–444."
+    }
+  ]
+}

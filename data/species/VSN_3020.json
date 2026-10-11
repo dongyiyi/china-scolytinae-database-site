@@ -1,0 +1,297 @@
+{
+  "vsn": "VSN_3020",
+  "scientific_name": "Hylesinus varius",
+  "authorship": "(Fabricius, 1775)",
+  "chinese_name": "",
+  "genus": "Hylesinus",
+  "subfamily": "Scolytinae",
+  "tribe": "Hylesinini",
+  "checklist_status": "Accepted",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Hylesinus varius (Fabricius, 1775).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1775",
+      "event": "Original combination / basionym",
+      "name": "Bostrichus varius",
+      "authorship": "Fabricius, 1775",
+      "note": "Original combination / basionym, original-description p. 60.",
+      "reference_ids": [
+        "orig_6021c71035bb",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1777",
+      "event": "Synonym",
+      "name": "Bostrichus minutus",
+      "authorship": "Fabricius, 1777",
+      "note": "Published name currently treated as a synonym; original-description p. 211.",
+      "reference_ids": [
+        "orig_3c557d48f1be",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1792",
+      "event": "Synonym",
+      "name": "Bostrichus melanocephalus",
+      "authorship": "Fabricius, 1792",
+      "note": "Published name currently treated as a synonym; original-description p. 368.",
+      "reference_ids": [
+        "orig_f19cfacb1c7d",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1798",
+      "event": "Synonym",
+      "name": "Anthribus pubescens",
+      "authorship": "Fabricius, 1798",
+      "note": "Published name currently treated as a synonym; original-description p. 161.",
+      "reference_ids": [
+        "orig_5817c06d34d8",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1799",
+      "event": "Synonym",
+      "name": "Bostrichus fraxini",
+      "authorship": "Panzer, 1799",
+      "note": "Published name currently treated as a synonym; original-description p. 15.",
+      "reference_ids": [
+        "orig_e48b54843460",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1800",
+      "event": "Synonym",
+      "name": "Scolytus varius",
+      "authorship": "Olivier, 1800",
+      "note": "Published name currently treated as a synonym; original-description p. 11.",
+      "reference_ids": [
+        "orig_4ad4a26fdfca",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1801",
+      "event": "Synonym",
+      "name": "Hylesinus varius",
+      "authorship": "Fabricius, 1801",
+      "note": "Published name currently treated as a synonym; original-description p. 391.",
+      "reference_ids": [
+        "orig_7d3cbf594e53",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1802",
+      "event": "Synonym",
+      "name": "Ips griseus",
+      "authorship": "Marsham, 1802",
+      "note": "Published name currently treated as a synonym; original-description p. 55.",
+      "reference_ids": [
+        "orig_ee6ed1ffbba8",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1802",
+      "event": "Synonym",
+      "name": "Ips haemorrhoidalis",
+      "authorship": "Marsham, 1802",
+      "note": "Published name currently treated as a synonym; original-description p. 56.",
+      "reference_ids": [
+        "orig_ee6ed1ffbba8",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1802",
+      "event": "Synonym",
+      "name": "Ips rufescens",
+      "authorship": "Marsham, 1802",
+      "note": "Published name currently treated as a synonym; original-description p. 55.",
+      "reference_ids": [
+        "orig_ee6ed1ffbba8",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1804",
+      "event": "Synonym",
+      "name": "Bostrichus fraxini",
+      "authorship": "Bechstein, 1804",
+      "note": "Published name currently treated as a synonym; original-description p. 107.",
+      "reference_ids": [
+        "orig_79b54aa911b0",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1830",
+      "event": "Synonym",
+      "name": "Hylesinus picipennis",
+      "authorship": "Stephens, 1830",
+      "note": "Published name currently treated as a synonym; original-description p. 359.",
+      "reference_ids": [
+        "orig_e453fb843992",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1892",
+      "event": "Synonym",
+      "name": "Hylesinus henscheli",
+      "authorship": "Knotek, 1892",
+      "note": "Published name currently treated as a synonym; original-description p. 234.",
+      "reference_ids": [
+        "orig_5b16d7b946f0",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1775",
+      "event": "Current accepted",
+      "name": "Hylesinus varius",
+      "authorship": "(Fabricius, 1775)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_6021c71035bb",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 13 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_alonsozarazagaetal2023_palaearcticcatalogue2ed",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Bouchard, P., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
+    },
+    {
+      "id": "orig_3c557d48f1be",
+      "label": "Fabricius, 1777",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Fabricius, J.C. (1777). Genera insectorum eorumque characteres naturales secundum numerum, figuram, situm et proportionem omnium partium oris adjecta mantissa specierum nuper detectarum. Litteris Mich. Fried. Bartschii, Chilonii xvi + 310 pp."
+    },
+    {
+      "id": "orig_4ad4a26fdfca",
+      "label": "Olivier, 1800a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Olivier, A.G. (1800a). No. 78. Scolyte: Scolytus. In: Entomologie ou histoire naturelle des insectes, Coléoptères, Tome IV. Lanneau, Paris, 1–14."
+    },
+    {
+      "id": "orig_5817c06d34d8",
+      "label": "Fabricius, 1798",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Fabricius, J.C. (1798). Supplementum entomologiae systematicae. apud Proft et Storch, Hafniae [2] + 572 pp."
+    },
+    {
+      "id": "orig_5b16d7b946f0",
+      "label": "Knotek, 1892",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Knotek, J. (1892). Zwei neue Scolytidae aus dem Occupationsgebiete. Wiener Entomologische Zeitung 11: 234–236, pl. II."
+    },
+    {
+      "id": "orig_6021c71035bb",
+      "label": "Fabricius, 1775",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Fabricius, J.C. (1775). Systema entomologiae, sistens insectorum classes, ordines, genera, species adiectis synonymis, locis, descriptionibus, observationibus. Officina Libraria Kortii, Flensburgi et Lipsiae xxxii + 832 pp."
+    },
+    {
+      "id": "orig_79b54aa911b0",
+      "label": "Bechstein & Scharfenberg, 1804",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Bechstein, J.M. & Scharfenberg, G.L. (1804). Vollständige Naturgeschichte der schädlichen Forstinsekten. Ein Handbuch für Forstmänner, Cameralisten und Oekonomen. Erster Theil. bey Carl Friedrich Knoch Richter, Leipzig VIII + 292 pp. + 1 + 3 pl."
+    },
+    {
+      "id": "orig_7d3cbf594e53",
+      "label": "Fabricius, 1801",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Fabricius, J.C. (1801). Systema eleutheratorum secundum ordines, genera, species: adiectis synonimis, locis, observationibus, descriptionibus. Tomus II. Impensis Bibliopolii Academici Novi, Kiliae 687 pp."
+    },
+    {
+      "id": "orig_e453fb843992",
+      "label": "Stephens, 1830",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Stephens, J.F. (1830). Illustrations of British entomology; or, A synopsis of indigenous insects: containing their generic and specific distinctions. Mandibulata. Volume III. Baldwin and Cradock, London 247–374 + [4]."
+    },
+    {
+      "id": "orig_e48b54843460",
+      "label": "Panzer, 1799",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Panzer, G.W.F. (1799). Faunae insectorum germanicae initia oder Deutschlands Insecten. Heft 61. Felsecker, Nürnberg 24 pp, 24 pls."
+    },
+    {
+      "id": "orig_ee6ed1ffbba8",
+      "label": "Marsham, 1802",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Marsham, T. (1802). Entomologia britannica, sistens insecta Britanniae indigena, secundum methodum Linnaeanam disposita. Tomus 1. Coleoptera. J. White, London xxxi + 547 + [1] pp, 30 pls."
+    },
+    {
+      "id": "orig_f19cfacb1c7d",
+      "label": "Fabricius, 1792",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Fabricius, J.C. (1792). Entomologia systematica emendata et aucta. Secundum classes, ordines, genera, species adjectis synonimis, locis, observationibus, descriptionibus. Tomus I. Pars II. Impensis Christ. Gottl. Proft, Hafniae xx + 538 pp."
+    }
+  ]
+}

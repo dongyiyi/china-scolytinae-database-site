@@ -1,0 +1,142 @@
+{
+  "vsn": "VSN_0789",
+  "scientific_name": "Carphoborus minimus",
+  "authorship": "(Fabricius, 1798)",
+  "chinese_name": "",
+  "genus": "Carphoborus",
+  "subfamily": "Scolytinae",
+  "tribe": "Polygraphini",
+  "checklist_status": "Accepted",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "Broad NE China occurrence, no individual provinces inferred."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Carphoborus minimus (Fabricius, 1798).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1798",
+      "event": "Original combination / basionym",
+      "name": "Bostrichus minimus",
+      "authorship": "Fabricius, 1798",
+      "note": "Original combination / basionym, original-description p. 158.",
+      "reference_ids": [
+        "orig_5817c06d34d8",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1801",
+      "event": "Synonym",
+      "name": "Hylesinus minimus",
+      "authorship": "Fabricius, 1801",
+      "note": "Published name currently treated as a synonym; original-description p. 395.",
+      "reference_ids": [
+        "orig_7d3cbf594e53",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1858",
+      "event": "Synonym",
+      "name": "Hylesinus squamulatus",
+      "authorship": "Redtenbacher, 1858",
+      "note": "Published name currently treated as a synonym; original-description p. 369.",
+      "reference_ids": [
+        "orig_fb11e970ec63",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1943",
+      "event": "Synonym",
+      "name": "Carphoborus balgensis",
+      "authorship": "Murayama, 1943",
+      "note": "Published name currently treated as a synonym; original-description p. 99.",
+      "reference_ids": [
+        "orig_963960169ba4",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1798",
+      "event": "Current accepted",
+      "name": "Carphoborus minimus",
+      "authorship": "(Fabricius, 1798)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_5817c06d34d8",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 4 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_alonsozarazagaetal2023_palaearcticcatalogue2ed",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Bouchard, P., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
+    },
+    {
+      "id": "orig_5817c06d34d8",
+      "label": "Fabricius, 1798",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Fabricius, J.C. (1798). Supplementum entomologiae systematicae. apud Proft et Storch, Hafniae [2] + 572 pp."
+    },
+    {
+      "id": "orig_7d3cbf594e53",
+      "label": "Fabricius, 1801",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Fabricius, J.C. (1801). Systema eleutheratorum secundum ordines, genera, species: adiectis synonimis, locis, observationibus, descriptionibus. Tomus II. Impensis Bibliopolii Academici Novi, Kiliae 687 pp."
+    },
+    {
+      "id": "orig_963960169ba4",
+      "label": "Murayama, 1943",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1943). Nouvelles espèces des Scolytides (Coléoptères) du Manchoukuo [New species of Manchurian Scolytidae]. Annotationes Zoologicae Japonenses 22: 96–100."
+    },
+    {
+      "id": "orig_fb11e970ec63",
+      "label": "Redtenbacher, 1858",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Redtenbacher, L. (1858). Fauna austriaca. Die Käfer. Nach der analytischen Methode bearbeitet. Zweite, gänzlich umgearbeitet, mit mehreren Hunderten von Arten und mit der Charakteristik sämmtlicher europäischen Käfergattungen vermehrte Auflage. Fasc. 7-8, pp. 769-1008. Carl Gerald’s Sohn, Wien cxxxvi + 1017 pp, 2 pl."
+    }
+  ]
+}

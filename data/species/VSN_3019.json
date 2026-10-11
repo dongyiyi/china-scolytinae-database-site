@@ -1,0 +1,112 @@
+{
+  "vsn": "VSN_3019",
+  "scientific_name": "Hylesinus tupolevi",
+  "authorship": "Stark, 1936",
+  "chinese_name": "",
+  "genus": "Hylesinus",
+  "subfamily": "Scolytinae",
+  "tribe": "Hylesinini",
+  "checklist_status": "Accepted",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Hylesinus tupolevi Stark, 1936.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1942",
+      "event": "Synonym",
+      "name": "Hylesinus tupolevi",
+      "authorship": "Eggers, 1942",
+      "note": "Published name currently treated as a synonym; original-description p. 28.",
+      "reference_ids": [
+        "orig_a3e54575f40c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1956",
+      "event": "Synonym",
+      "name": "Hylesinus tupolevi denticulosus",
+      "authorship": "Sokanovskiy, 1956",
+      "note": "Published name currently treated as a synonym; original-description p. 44.",
+      "reference_ids": [
+        "orig_a2c49fe72559",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1936",
+      "event": "Current accepted",
+      "name": "Hylesinus tupolevi",
+      "authorship": "Stark, 1936",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_af646839bb52",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 2 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_alonsozarazagaetal2023_palaearcticcatalogue2ed",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Bouchard, P., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
+    },
+    {
+      "id": "orig_a2c49fe72559",
+      "label": "Sokanovskiy, 1956",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Sokanovskiy, B.V. (1956). Novye formy koroedov iz Sredney Azii. Doklady Akademii Nauk Tadzhikskoi SSR 17: 43–44."
+    },
+    {
+      "id": "orig_a3e54575f40c",
+      "label": "Eggers, 1942a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1942a). Zur paläarktischen Borkenkäferfauna (Coleoptera: Ipidae). VIII. Borkenkäfer aus dem asiatischen Russland. Arbeiten über Morphologische und Taxonomische Entomologie aus Berlin-Dahlem 9: 27–36."
+    },
+    {
+      "id": "orig_af646839bb52",
+      "label": "Stark, 1936",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Stark, V.N. (1936). Novye vidy koroedov iz Aziatskoi chasti SSSR [Neue Borkenkäferarten aus dem asiatischen Teile der USSR]. Vestnik Dalʼnevostochnogo Filiala Akademii Nauk SSSR 18: 141–154."
+    }
+  ]
+}

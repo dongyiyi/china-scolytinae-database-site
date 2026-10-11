@@ -1,0 +1,113 @@
+{
+  "vsn": "VSN_2931",
+  "scientific_name": "Hylastes opacus",
+  "authorship": "Erichson, 1836",
+  "chinese_name": "",
+  "genus": "Hylastes",
+  "subfamily": "Scolytinae",
+  "tribe": "Hylastini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+  },
+  "hosts": [],
+  "host_note": "Reported hosts (unreviewed): Pinus sylvestris, Pinus spp., rarely on Picea abies",
+  "taxonomy_summary": "The current accepted identity is Hylastes opacus Erichson, 1836.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1813",
+      "event": "Synonym",
+      "name": "Hylesinus angustatus",
+      "authorship": "Gyllenhal, 1813",
+      "note": "Published name currently treated as a synonym; original-description p. 342.",
+      "reference_ids": [
+        "orig_78dc06fd2ea9",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1892",
+      "event": "Synonym",
+      "name": "Hylastes simplex",
+      "authorship": "Rey, 1892",
+      "note": "Published name currently treated as a synonym; original-description p. 30.",
+      "reference_ids": [
+        "orig_c68cd5e11e60",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1836",
+      "event": "Current accepted",
+      "name": "Hylastes opacus",
+      "authorship": "Erichson, 1836",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_04be716f4635",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 2 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_mandelshtampetrov2019_hylastini",
+      "label": "Mandelshtam & Petrov, 2019",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Mandelshtam, M.Yu. & Petrov, A.V. (2019). A key to species of the tribe Hylastini LeConte, 1876 (Coleoptera: Curculionidae: Scolytinae) from Russia and adjacent countries. Russian Entomological Journal 28(4): 389–399.",
+      "doi": "10.15298/rusentj.28.4.08"
+    },
+    {
+      "id": "orig_04be716f4635",
+      "label": "Erichson, 1836",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Erichson, W.F. (1836). Systematische Auseinandersetzung der Familie der Borkenkäfer (Bostrichidae). Archiv für Naturgeschichte 2: 45–65."
+    },
+    {
+      "id": "orig_78dc06fd2ea9",
+      "label": "Gyllenhal, 1813",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Gyllenhal, L. (1813). Insecta Svecica descripta a Leonardo Gyllenhal. Classis I. Coleoptera sive Eleuterata. Tomi I, Pars III. F. J. Leverentz, Scaris [4] + 730 + [2] pp."
+    },
+    {
+      "id": "orig_c68cd5e11e60",
+      "label": "Rey, 1892",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Rey, C. (1892). Remarques en passant. [Cont.]. L'Échange, Revue Linnéenne 8(87): 30–31."
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "vsn": "VSN_5845",
+  "scientific_name": "Tomicus brevipilosus",
+  "authorship": "(Eggers, 1929)",
+  "chinese_name": "",
+  "genus": "Tomicus",
+  "subfamily": "Scolytinae",
+  "tribe": "Hylurgini",
+  "checklist_status": "Accepted",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Tomicus brevipilosus (Eggers, 1929).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1929",
+      "event": "Original combination / basionym",
+      "name": "Blastophagus brevipilosus",
+      "authorship": "Eggers, 1929",
+      "note": "Original combination / basionym, original-description p. 103.",
+      "reference_ids": [
+        "orig_001bfb20158a",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1959",
+      "event": "Synonym",
+      "name": "Blastophagus khasianus",
+      "authorship": "Murayama, 1959",
+      "note": "Published name currently treated as a synonym; original-description p. 75.",
+      "reference_ids": [
+        "orig_7de505c4cdcb",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1963",
+      "event": "Synonym",
+      "name": "Blastophagus multisetosus",
+      "authorship": "Murayama, 1963",
+      "note": "Published name currently treated as a synonym; original-description p. 37.",
+      "reference_ids": [
+        "orig_630776cd9f28",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1929",
+      "event": "Current accepted",
+      "name": "Tomicus brevipilosus",
+      "authorship": "(Eggers, 1929)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_001bfb20158a",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 3 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_alonsozarazagaetal2023_palaearcticcatalogue2ed",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Bouchard, P., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
+    },
+    {
+      "id": "orig_001bfb20158a",
+      "label": "Eggers, 1929a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1929a). Zwei neue Blastophagus -Arten (Ipidae, Col.). Entomologische Blätter 25: 103–104."
+    },
+    {
+      "id": "orig_630776cd9f28",
+      "label": "Murayama, 1963a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1963a). Studies in the scolytid fauna of the northern half of the Far East, V: Hylesininae. Shukosha Press, Fukuoka, Japan 72 pp."
+    },
+    {
+      "id": "orig_7de505c4cdcb",
+      "label": "Murayama, 1959",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Murayama, J.J. (1959). Description of Blastophagus khasianus, new species (Coleoptera: Scolytidae). Bulletin of the Brooklyn Entomological Society 54(3): 75–76."
+    }
+  ]
+}

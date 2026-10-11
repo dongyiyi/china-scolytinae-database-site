@@ -1,0 +1,74 @@
+{
+  "vsn": "VSN_2652",
+  "scientific_name": "Ernoporus japonicus",
+  "authorship": "Nobuchi, 1966",
+  "chinese_name": "",
+  "genus": "Ernoporus",
+  "subfamily": "Scolytinae",
+  "tribe": "Ernoporini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Ernoporus japonicus Nobuchi, 1966.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1966",
+      "event": "Current accepted",
+      "name": "Ernoporus japonicus",
+      "authorship": "Nobuchi, 1966",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_f2bed0011da5",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "No additional synonyms or historical combinations are currently linked to this taxon in the integrated backbone.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_shanetal2025_barkbeetlesmangrove",
+      "label": "Shan et al., 2025",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Shan, Z., Xu, M., Guan, W., Zhang, W., Cao, Y., & Lin, W. (2025). Investigation and identification of bark beetle species in mangrove forest of Zhuhai. Journal of Hebei Forestry Science and Technology, (2), 62–66. (In Chinese)."
+    },
+    {
+      "id": "orig_f2bed0011da5",
+      "label": "Nobuchi, 1966",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Nobuchi, A. (1966). Studies on Scolytidae, VI. Bulletin of the Government Forest Experiment Station 185: 51–56."
+    }
+  ]
+}

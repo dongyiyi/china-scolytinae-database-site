@@ -1,0 +1,123 @@
+{
+  "vsn": "VSN_4203",
+  "scientific_name": "Pityogenes bistridentatus",
+  "authorship": "(Eichhoff, 1878)",
+  "chinese_name": "",
+  "genus": "Pityogenes",
+  "subfamily": "Scolytinae",
+  "tribe": "Ipini",
+  "checklist_status": "Accepted",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "The source reports Northeast China only at regional resolution. Individual provinces have not been independently verified."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Pityogenes bistridentatus (Eichhoff, 1878).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1878",
+      "event": "Original combination / basionym",
+      "name": "Tomicus bistridentatus",
+      "authorship": "Eichhoff, 1878",
+      "note": "Original combination / basionym, original-description p. 282.",
+      "reference_ids": [
+        "orig_df23847f2e11",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1895",
+      "event": "Synonym",
+      "name": "Pityogenes pilidens",
+      "authorship": "Reitter, 1895",
+      "note": "Published name currently treated as a synonym; original-description p. 78.",
+      "reference_ids": [
+        "orig_c71476c026af",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1896",
+      "event": "Synonym",
+      "name": "Pityogenes pilidens albanicus",
+      "authorship": "Apfelbeck, 1896",
+      "note": "Published name currently treated as a synonym; original-description p. 539.",
+      "reference_ids": [
+        "orig_69f73420bf22",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Current accepted",
+      "name": "Pityogenes bistridentatus",
+      "authorship": "(Eichhoff, 1878)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_df23847f2e11",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 3 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_alonsozarazagaetal2023_palaearcticcatalogue2ed",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Bouchard, P., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
+    },
+    {
+      "id": "orig_69f73420bf22",
+      "label": "Apfelbeck, 1896",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Apfelbeck, V. (1896). Fauna insectorum balcanica II. Wissenschaftliche Mittheilungen aus Bosnien und der Hercegovina 4: 539–559."
+    },
+    {
+      "id": "orig_c71476c026af",
+      "label": "Reitter, 1895",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Reitter, E. (1895). Bestimmungs-Tabelle der Borkenkäfer (Scolytidae) aus Europa und den angrenzenden Ländern. Verhandlungen des naturforschenden Vereines in Brünn 33: 36–97."
+    },
+    {
+      "id": "orig_df23847f2e11",
+      "label": "Eichhoff, 1878b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
+    }
+  ]
+}

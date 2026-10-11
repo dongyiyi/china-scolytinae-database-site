@@ -1,0 +1,68 @@
+{
+  "vsn": "VSN_4029",
+  "scientific_name": "Phloeosinus metasequoiae",
+  "authorship": "Ning, 2025",
+  "chinese_name": "",
+  "genus": "Phloeosinus",
+  "subfamily": "Scolytinae",
+  "tribe": "Phloeosinini",
+  "checklist_status": "Questionable",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Questionable",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "Ning et al. (2025) described Phloeosinus metasequoiae from Hubei, China. Its taxonomic distinction from Phloeosinus rudis remains under review; no synonymy is accepted here. The checklist occurrence status remains Questionable."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Phloeosinus metasequoiae Ning, 2025.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2025",
+      "event": "Current accepted",
+      "name": "Phloeosinus metasequoiae",
+      "authorship": "Ning, 2025",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_6e07309f4ed9",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "No additional synonyms or historical combinations are currently linked to this taxon in the integrated backbone.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "orig_6e07309f4ed9",
+      "label": "Ning et al., 2025",
+      "role": [
+        "nomenclatural source",
+        "published evidence"
+      ],
+      "citation": "Ning, H., Deng, R., Huang, B., Xiao, K., Huang, J., Hong, J. & Yi, Y. (2025). Phloeosinus metasequoiae sp. nov. (Coleoptera, Curculionidae, Scolytinae, Phloeosinini), a new insect pest of Metasequoia glyptostroboides in China. ZooKeys 1228: 161–172.",
+      "doi": "10.3897/zookeys.1228.138084"
+    }
+  ]
+}

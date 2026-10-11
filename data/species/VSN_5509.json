@@ -1,0 +1,167 @@
+{
+  "vsn": "VSN_5509",
+  "scientific_name": "Scolytus jaroschewskii jaroschewskii",
+  "authorship": "Schevyrew, 1893",
+  "chinese_name": "",
+  "genus": "Scolytus",
+  "subfamily": "Scolytinae",
+  "tribe": "Scolytini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "Cao et al. (2022) reported Scolytus jaroschewskii from Xinjiang at species rank, without identifying a subspecies. The record is linked provisionally to Scolytus jaroschewskii jaroschewskii for database indexing only. This does not establish occurrence of the nominate subspecies in Xinjiang. Subspecies assignment remains unresolved.",
+    "reference_ids": [
+      "src_caoetal2022_scolytuschina"
+    ]
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Scolytus jaroschewskii jaroschewskii Schevyrew, 1893.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1890",
+      "event": "Synonym",
+      "name": "Scolytus unispinosus",
+      "authorship": "Schevyrew, 1890",
+      "note": "Published name currently treated as a synonym; original-description p. 470.",
+      "reference_ids": [
+        "orig_f51058f9aafd",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1893",
+      "event": "Synonym",
+      "name": "Scolytus jaroschewskii",
+      "authorship": "Schevyrew, 1893",
+      "note": "Published name currently treated as a synonym; original-description p. 90.",
+      "reference_ids": [
+        "orig_01a56b244e2c",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1893",
+      "event": "Original combination / basionym",
+      "name": "Scolytus jaroschewskii",
+      "authorship": "Schevyrew, 1893",
+      "note": "Original combination / basionym, original-description p. 31.",
+      "reference_ids": [
+        "orig_81a4a4293c1f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1913",
+      "event": "Synonym",
+      "name": "Scolytus granulifer",
+      "authorship": "Reitter, 1913",
+      "note": "Published name currently treated as a synonym; original-description p. 98.",
+      "reference_ids": [
+        "orig_772f13aee14a",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1914",
+      "event": "Synonym",
+      "name": "Eccoptogaster tauricus",
+      "authorship": "Eggers, 1914",
+      "note": "Published name currently treated as a synonym; original-description p. 185.",
+      "reference_ids": [
+        "orig_5d3005ecf711",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1893",
+      "event": "Current accepted",
+      "name": "Scolytus jaroschewskii jaroschewskii",
+      "authorship": "Schevyrew, 1893",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_81a4a4293c1f",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The Xinjiang record concerns Scolytus jaroschewskii at species rank. Its assignment to the nominate subspecies is provisional, not a taxonomic determination.",
+  "nomenclature_note_reference_ids": [
+    "src_caoetal2022_scolytuschina"
+  ],
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_caoetal2022_scolytuschina",
+      "label": "Cao et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Cao, Y., Zhang, L., Liao, S., Li, T., Yu, G., Li, J., Xu, Y., & Wang, J. (2022). Two new recorded species of Scolytus Geoffroy, 1762 from China. Sichuan Journal of Zoology, 41(6), 666–670. (In Chinese)."
+    },
+    {
+      "id": "orig_01a56b244e2c",
+      "label": "Schevyrew, 1893a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schevyrew, I. (1893a). Vrednie lesnyya nasekomyya v 1891 godu. III. Koroedy stepnyh lesov. V. Demakova, S-Petersburg 106 pp."
+    },
+    {
+      "id": "orig_5d3005ecf711",
+      "label": "Eggers, 1914b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1914b). Bemerkungen zu Reitters Borkenkäferbestimmungstabellen, 2. Aufl. (Fortsetzung). Entomologische Blätter 10(7/8): 183–189."
+    },
+    {
+      "id": "orig_772f13aee14a",
+      "label": "Reitter, 1913",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Reitter, E. (1913). Bestimmungs-Tabelle der Borkenkäfer (Scolytidae) aus Europa und den angrenzenden Ländern. Wiener Entomologische Zeitung 32 (Supplement): 1–116."
+    },
+    {
+      "id": "orig_81a4a4293c1f",
+      "label": "Schevyrew, 1893b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schevyrew, I. (1893b). Koroedy stepnyh lesov (prodolyenie). Sel’koye Khozyaistvo i Lesovodstvo 172(1): 15–46."
+    },
+    {
+      "id": "orig_f51058f9aafd",
+      "label": "Schevyrew, 1890",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schevyrew, I. (1890). Liste des espèces du genre Scolytus de la collection du Musée de l’Académie Impériale des Sciences de St. Petersburg. Bulletin de l'Académie Impériale des Sciences de Saint-Pétersbourg (Nouvelle Série) 33: 469–471."
+    }
+  ]
+}

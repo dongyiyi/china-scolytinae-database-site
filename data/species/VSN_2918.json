@@ -1,0 +1,121 @@
+{
+  "vsn": "VSN_2918",
+  "scientific_name": "Hylastes brunneus",
+  "authorship": "Erichson, 1836",
+  "chinese_name": "",
+  "genus": "Hylastes",
+  "subfamily": "Scolytinae",
+  "tribe": "Hylastini",
+  "checklist_status": "Accepted",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "The source reports Northeast China only at regional resolution. Individual provinces have not been independently verified."
+  },
+  "hosts": [],
+  "host_note": "Mandelshtam & Petrov (2019) reports Pinus sylvestris, P. koraiensis, Pinus spp., Picea spp. and P. schrenkiana; host evidence is pending review.",
+  "taxonomy_summary": "The current accepted identity is Hylastes brunneus Erichson, 1836.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1895",
+      "event": "Synonym",
+      "name": "Hylastes ater rotundicollis",
+      "authorship": "Reitter, 1895",
+      "note": "Published name currently treated as a synonym; original-description p. 60.",
+      "reference_ids": [
+        "orig_c71476c026af",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1933",
+      "event": "Synonym",
+      "name": "Hylastes aterrimus",
+      "authorship": "Eggers, 1933",
+      "note": "Published name currently treated as a synonym; original-description p. 3.",
+      "reference_ids": [
+        "orig_2fa6c4c3f0de",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1836",
+      "event": "Current accepted",
+      "name": "Hylastes brunneus",
+      "authorship": "Erichson, 1836",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_04be716f4635",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 2 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_alonsozarazagaetal2023_palaearcticcatalogue2ed",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Bouchard, P., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
+    },
+    {
+      "id": "src_mandelshtampetrov2019_hylastini",
+      "label": "Mandelshtam & Petrov, 2019",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Mandelshtam, M.Yu. & Petrov, A.V. (2019). A key to species of the tribe Hylastini LeConte, 1876 (Coleoptera: Curculionidae: Scolytinae) from Russia and adjacent countries. Russian Entomological Journal 28(4): 389–399.",
+      "doi": "10.15298/rusentj.28.4.08"
+    },
+    {
+      "id": "orig_04be716f4635",
+      "label": "Erichson, 1836",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Erichson, W.F. (1836). Systematische Auseinandersetzung der Familie der Borkenkäfer (Bostrichidae). Archiv für Naturgeschichte 2: 45–65."
+    },
+    {
+      "id": "orig_2fa6c4c3f0de",
+      "label": "Eggers, 1933a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1933a). Zur paläarktischen Borkenkäferfauna, I. Entomologische Blätter 29: 1–9."
+    },
+    {
+      "id": "orig_c71476c026af",
+      "label": "Reitter, 1895",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Reitter, E. (1895). Bestimmungs-Tabelle der Borkenkäfer (Scolytidae) aus Europa und den angrenzenden Ländern. Verhandlungen des naturforschenden Vereines in Brünn 33: 36–97."
+    }
+  ]
+}

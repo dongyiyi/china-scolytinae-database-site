@@ -1,0 +1,68 @@
+{
+  "vsn": "VSN_5844",
+  "scientific_name": "Tomicus armandii",
+  "authorship": "Li & Zhang, 2010",
+  "chinese_name": "",
+  "genus": "Tomicus",
+  "subfamily": "Scolytinae",
+  "tribe": "Hylurgini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Tomicus armandii Li & Zhang, 2010.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2010",
+      "event": "Current accepted",
+      "name": "Tomicus armandii",
+      "authorship": "Li & Zhang, 2010",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_2d7eb39c4f2c",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "No additional synonyms or historical combinations are currently linked to this taxon in the integrated backbone.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "orig_2d7eb39c4f2c",
+      "label": "Li et al., 2010",
+      "role": [
+        "nomenclatural source",
+        "published evidence"
+      ],
+      "citation": "Li, X., Zhang, Z., Wang, H., Wu, W., Cao, P. & Zhang, P.Y. (2010). Tomicus armandii Li & Zhang (Curculionidae, Scolytinae), a new pine shoot borer from China. Zootaxa 2572: 57–64.",
+      "doi": "10.11646/zootaxa.2572.1.4"
+    }
+  ]
+}

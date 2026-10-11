@@ -1,0 +1,93 @@
+{
+  "vsn": "VSN_5483",
+  "scientific_name": "Scolytus claviger",
+  "authorship": "Blandford, 1894",
+  "chinese_name": "",
+  "genus": "Scolytus",
+  "subfamily": "Scolytinae",
+  "tribe": "Scolytini",
+  "checklist_status": "Accepted",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "The source reports China without specifying a subregion. Mainland China, Taiwan, Hong Kong and Macao have not been independently assessed."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Scolytus claviger Blandford, 1894.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Eccoptogaster platystylus",
+      "authorship": "Wichmann, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 213.",
+      "reference_ids": [
+        "orig_dddd5600c26f",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1894",
+      "event": "Current accepted",
+      "name": "Scolytus claviger",
+      "authorship": "Blandford, 1894",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_a1d45147b2c3",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 1 additional historical name usage to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_alonsozarazagaetal2023_palaearcticcatalogue2ed",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Bouchard, P., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
+    },
+    {
+      "id": "orig_a1d45147b2c3",
+      "label": "Blandford, 1894c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
+    },
+    {
+      "id": "orig_dddd5600c26f",
+      "label": "Wichmann, 1915b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Wichmann, H.E. (1915b). Zur Kenntnis der Ipiden, IV . E. Entomologische Blätter 11: 213–217."
+    }
+  ]
+}

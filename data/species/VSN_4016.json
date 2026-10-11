@@ -1,0 +1,74 @@
+{
+  "vsn": "VSN_4016",
+  "scientific_name": "Phloeosinus granosus",
+  "authorship": "Schedl, 1962",
+  "chinese_name": "",
+  "genus": "Phloeosinus",
+  "subfamily": "Scolytinae",
+  "tribe": "Phloeosinini",
+  "checklist_status": "Questionable",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Questionable",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "Historical reports have attributed Phloeosinus granosus to South China, but the precise locality and supporting specimen evidence remain unresolved. A proposed Guangdong interpretation of 'Lilong' and a separate Liaoning attribution have not been confirmed from reviewed specimens. China occurrence is therefore Questionable."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Phloeosinus granosus Schedl, 1962.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1962",
+      "event": "Current accepted",
+      "name": "Phloeosinus granosus",
+      "authorship": "Schedl, 1962",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_3b130b9d213d",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "No additional synonyms or historical combinations are currently linked to this taxon in the integrated backbone.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_bright2021_scolytidaesupplement4",
+      "label": "Bright, 2021",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Bright, D.E. (2021). A catalog of Scolytidae (Coleoptera), Supplement 4 (2011–2019) with an annotated checklist of the world fauna."
+    },
+    {
+      "id": "orig_3b130b9d213d",
+      "label": "Schedl, 1962f",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1962f). Borken- und Ambrosiakäfer aus Hinterindien. 207 Beitrag zur Morphologie und Systematik der Scolytoidea. Verhandlungen der Naturforschende Gesellschaft in Basel 73: 184–193."
+    }
+  ]
+}

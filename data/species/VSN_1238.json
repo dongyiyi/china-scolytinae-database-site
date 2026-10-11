@@ -1,0 +1,142 @@
+{
+  "vsn": "VSN_1238",
+  "scientific_name": "Coccotrypes salakensis",
+  "authorship": "(Schedl, 1939)",
+  "chinese_name": "",
+  "genus": "Coccotrypes",
+  "subfamily": "Scolytinae",
+  "tribe": "Dryocoetini",
+  "checklist_status": "Accepted",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "The source reports China without specifying a subregion. Mainland China, Taiwan, Hong Kong and Macao have not been independently assessed."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Coccotrypes salakensis (Schedl, 1939).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1927",
+      "event": "Synonym",
+      "name": "Poecilips punctatus",
+      "authorship": "Eggers, 1927",
+      "note": "Published name currently treated as a synonym; original-description p. 85.",
+      "reference_ids": [
+        "orig_f7b264dff599",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1939",
+      "event": "Original combination / basionym",
+      "name": "Poecilips salakensis",
+      "authorship": "Schedl, 1939",
+      "note": "Original combination / basionym, original-description p. 38.",
+      "reference_ids": [
+        "orig_455a9f4416f4",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1939",
+      "event": "Synonym",
+      "name": "Thamnurgides opacifrons",
+      "authorship": "Beeson, 1939",
+      "note": "Published name currently treated as a synonym; original-description p. 294.",
+      "reference_ids": [
+        "orig_b7d91dde9765",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1966",
+      "event": "Synonym",
+      "name": "Poecilips acuminatus",
+      "authorship": "Schedl, 1966",
+      "note": "Published name currently treated as a synonym; original-description p. 34.",
+      "reference_ids": [
+        "orig_0d6930589d72",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1939",
+      "event": "Current accepted",
+      "name": "Coccotrypes salakensis",
+      "authorship": "(Schedl, 1939)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_455a9f4416f4",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 4 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_alonsozarazagaetal2023_palaearcticcatalogue2ed",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Bouchard, P., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
+    },
+    {
+      "id": "orig_0d6930589d72",
+      "label": "Schedl, 1966c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1966c). Check list of the Scolytidae and Platypodidae from the Philippine Islands. 196 Contribution. Entomologische Abhandlungen, Staatliches Museum für Tierkunde in Dresden 35(1): 1–122."
+    },
+    {
+      "id": "orig_455a9f4416f4",
+      "label": "Schedl, 1939j",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Schedl, K.E. (1939j). Scolytidae and Platypodidae. 47 Beitrag. Tijdschrift voor Entomologie 82: 30–53."
+    },
+    {
+      "id": "orig_b7d91dde9765",
+      "label": "Beeson, 1939",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Beeson, C.F.C. (1939). New species and biology of Coccotrypes and Thamnurgides (Scolytidae, Col). Indian Forest Records, Entomology (New Series) 5: 279–308."
+    },
+    {
+      "id": "orig_f7b264dff599",
+      "label": "Eggers, 1927b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1927b). Neue indomalayische Borkenkäfer (Ipidae). II. Nachtrag. Philippine Journal of Science 33(1): 67–108."
+    }
+  ]
+}

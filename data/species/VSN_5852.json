@@ -1,0 +1,68 @@
+{
+  "vsn": "VSN_5852",
+  "scientific_name": "Tomicus yunnanensis",
+  "authorship": "Kirkendall & Faccoli, 2008",
+  "chinese_name": "",
+  "genus": "Tomicus",
+  "subfamily": "Scolytinae",
+  "tribe": "Hylurgini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Tomicus yunnanensis Kirkendall & Faccoli, 2008.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2008",
+      "event": "Current accepted",
+      "name": "Tomicus yunnanensis",
+      "authorship": "Kirkendall & Faccoli, 2008",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_5a53f96333cd",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "No additional synonyms or historical combinations are currently linked to this taxon in the integrated backbone.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "orig_5a53f96333cd",
+      "label": "Kirkendall et al., 2008",
+      "role": [
+        "nomenclatural source",
+        "published evidence"
+      ],
+      "citation": "Kirkendall, L.R., Faccoli, M. & Ye, H. (2008). Description of the Yunnan shoot borer, Tomicus yunnanensis Kirkendall & Faccoli sp. n. (Curculionidae, Scolytinae), an unusually aggressive pine shoot beetle from southern China, with a key to the species of Tomicus. Zootaxa 1819: 25–39.",
+      "doi": "10.11646/zootaxa.1819.1.2"
+    }
+  ]
+}

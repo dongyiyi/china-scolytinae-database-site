@@ -1,0 +1,123 @@
+{
+  "vsn": "VSN_3893",
+  "scientific_name": "Orthotomicus proximus",
+  "authorship": "(Eichhoff, 1868)",
+  "chinese_name": "",
+  "genus": "Orthotomicus",
+  "subfamily": "Scolytinae",
+  "tribe": "Ipini",
+  "checklist_status": "Accepted",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Orthotomicus proximus (Eichhoff, 1868).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1868",
+      "event": "Original combination / basionym",
+      "name": "Tomicus proximus",
+      "authorship": "Eichhoff, 1868",
+      "note": "Original combination / basionym, original-description p. 403.",
+      "reference_ids": [
+        "orig_b89553c57d35",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1872",
+      "event": "Synonym",
+      "name": "Tomicus omissus",
+      "authorship": "Eichhoff, 1872",
+      "note": "Published name currently treated as a synonym; original-description p. 138.",
+      "reference_ids": [
+        "orig_cc789635519b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1925",
+      "event": "Synonym",
+      "name": "Ips fejferi",
+      "authorship": "Keler, 1925",
+      "note": "Published name currently treated as a synonym; original-description p. 191.",
+      "reference_ids": [
+        "orig_d4ee36b67312",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1868",
+      "event": "Current accepted",
+      "name": "Orthotomicus proximus",
+      "authorship": "(Eichhoff, 1868)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_b89553c57d35",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 3 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_alonsozarazagaetal2023_palaearcticcatalogue2ed",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Bouchard, P., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
+    },
+    {
+      "id": "orig_b89553c57d35",
+      "label": "Eichhoff, 1868a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1868a). Neue südeuropäische Borkenkäfer. Berliner Entomologische Zeitschrift 11: 403–404."
+    },
+    {
+      "id": "orig_cc789635519b",
+      "label": "Eichhoff, 1872b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1872b). Zwei neue deutsche Tomicus -Arten. Berliner Entomologische Zeitschrift 15: 138–139."
+    },
+    {
+      "id": "orig_d4ee36b67312",
+      "label": "Keler, 1925",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Keler, S. (1925). Ein Versuch der Anwendung mathematisch-statistischer Methoden auf die entomologische Systematik mit Beschreibung einer neuen Borkenkäferart Ips fejferi n. sp. und Bemerkungen über Ips erosus Woll. Polskie Pismo Entomologiczne 4: 149–197, 4 pls."
+    }
+  ]
+}

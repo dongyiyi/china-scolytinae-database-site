@@ -1,0 +1,93 @@
+{
+  "vsn": "VSN_4464",
+  "scientific_name": "Pityophthorus knoteki",
+  "authorship": "Reitter, 1898",
+  "chinese_name": "",
+  "genus": "Pityophthorus",
+  "subfamily": "Scolytinae",
+  "tribe": "Corthylini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Pityophthorus knoteki Reitter, 1898.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1940",
+      "event": "Synonym",
+      "name": "Pityophthorus lichtensteinii robustus",
+      "authorship": "Pfeffer, 1940",
+      "note": "Published name currently treated as a synonym; original-description p. 118.",
+      "reference_ids": [
+        "orig_ebdedf4815ff",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1898",
+      "event": "Current accepted",
+      "name": "Pityophthorus knoteki",
+      "authorship": "Reitter, 1898",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_947e8811b2a3",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 1 additional historical name usage to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_bright2021_scolytidaesupplement4",
+      "label": "Bright, 2021",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Bright, D.E. (2021). A catalog of Scolytidae (Coleoptera), Supplement 4 (2011–2019) with an annotated checklist of the world fauna."
+    },
+    {
+      "id": "orig_947e8811b2a3",
+      "label": "Reitter, 1898",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Reitter, E. (1898). Neue Coleopteren aus Europa und den angrenzenden Landern. Deutsche Entomologische Zeitschrift 1898: 337–360."
+    },
+    {
+      "id": "orig_ebdedf4815ff",
+      "label": "Pfeffer, 1940a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Pfeffer, A. (1940a). Notulae Ipidologicae II. Symbolae ad cognitionem generis Pityophthorus Eichh. Sborník Entomologického Oddělení Národního Musea v Praze 18: 107–127."
+    }
+  ]
+}

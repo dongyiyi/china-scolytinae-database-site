@@ -1,0 +1,221 @@
+{
+  "vsn": "VSN_5523",
+  "scientific_name": "Scolytus mali",
+  "authorship": "(Bechstein, 1805)",
+  "chinese_name": "",
+  "genus": "Scolytus",
+  "subfamily": "Scolytinae",
+  "tribe": "Scolytini",
+  "checklist_status": "Accepted",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Scolytus mali (Bechstein, 1805).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1805",
+      "event": "Original combination / basionym",
+      "name": "Bostrichus mali",
+      "authorship": "Bechstein, 1805",
+      "note": "Original combination / basionym, original-description p. 882.",
+      "reference_ids": [
+        "orig_a0c92445c6de",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1808",
+      "event": "Synonym",
+      "name": "Bostrichus castaneus",
+      "authorship": "Illiger, 1808",
+      "note": "Published name currently treated as a synonym; original-description p. 304.",
+      "reference_ids": [
+        "orig_2ca3ceb0fb98",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1837",
+      "event": "Synonym",
+      "name": "Eccoptogaster castaneus",
+      "authorship": "Ratzeburg, 1837",
+      "note": "Published name currently treated as a synonym; original-description p. 187.",
+      "reference_ids": [
+        "orig_08aea4519dab",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1837",
+      "event": "Synonym",
+      "name": "Eccoptogaster pruni",
+      "authorship": "Ratzeburg, 1837",
+      "note": "Published name currently treated as a synonym; original-description p. 187.",
+      "reference_ids": [
+        "orig_08aea4519dab",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1837",
+      "event": "Synonym",
+      "name": "Eccoptogaster pyri",
+      "authorship": "Ratzeburg, 1837",
+      "note": "Published name currently treated as a synonym; original-description p. 186.",
+      "reference_ids": [
+        "orig_08aea4519dab",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1868",
+      "event": "Synonym",
+      "name": "Scolytus sulcatus",
+      "authorship": "LeConte, 1868",
+      "note": "Published name currently treated as a synonym; original-description p. 167.",
+      "reference_ids": [
+        "orig_95bba582ad63",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1869",
+      "event": "Synonym",
+      "name": "Scolytus nitidulus",
+      "authorship": "Chapuis, 1869",
+      "note": "Published name currently treated as a synonym; original-description p. 59.",
+      "reference_ids": [
+        "orig_0091c8c88c80",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1908",
+      "event": "Synonym",
+      "name": "Scolytus pruni strigilatus",
+      "authorship": "Reitter, 1908",
+      "note": "Published name currently treated as a synonym; original-description p. 23.",
+      "reference_ids": [
+        "orig_731012e3ed34",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1933",
+      "event": "Synonym",
+      "name": "Scolytus bicallosus",
+      "authorship": "Eggers, 1933",
+      "note": "Published name currently treated as a synonym; original-description p. 75.",
+      "reference_ids": [
+        "orig_35ffbcfe8f2b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1805",
+      "event": "Current accepted",
+      "name": "Scolytus mali",
+      "authorship": "(Bechstein, 1805)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_a0c92445c6de",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 9 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_alonsozarazagaetal2023_palaearcticcatalogue2ed",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Bouchard, P., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
+    },
+    {
+      "id": "orig_0091c8c88c80",
+      "label": "Chapuis, 1869",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Chapuis, F. (1869). Synopsis des Scolytides. (Prodrome d’un travail monographique). J. Desoer, Liège 61 pp."
+    },
+    {
+      "id": "orig_08aea4519dab",
+      "label": "Ratzeburg, 1837",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Ratzeburg, J.T.C. (1837). Die Forst-Insecten oder Abbildung und Beschreibung der in den Wäldern Preussens und der Nachbarstaaten als schädlich oder nützlich bekannt gewordenen Insecten. Erster Theil. Die Käfer. Nicolai, Berlin x + 4 + 202 pp, 21 pls."
+    },
+    {
+      "id": "orig_2ca3ceb0fb98",
+      "label": "Illiger, 1808",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Illiger, J.C.W. (1808). Nachlese zu den Bemerkungen, Berichtigungen und Zusätzen zu Fabricii Systema Eleutheratorum. Magazin für Insektenkunde 6([1807]): 296–317."
+    },
+    {
+      "id": "orig_35ffbcfe8f2b",
+      "label": "Eggers, 1933c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1933c). Ein neuer Scolytus aus Ungarn. Entomologisches Nachrichtenblatt 7: 75–76."
+    },
+    {
+      "id": "orig_731012e3ed34",
+      "label": "Reitter, 1908b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Reitter, E. (1908b). Siebzehn Coleopteren-Neuheiten aus der palaearktischen Fauna. Wiener Entomologische Zeitung 27(1): 17–24."
+    },
+    {
+      "id": "orig_95bba582ad63",
+      "label": "LeConte, 1868",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "LeConte, J.L. (1868). Appendix to Synopsis of the Scolytidae of America North of Mexico. Transactions of the American Entomological Society 2: 150–178."
+    },
+    {
+      "id": "orig_a0c92445c6de",
+      "label": "Bechstein, 1805",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Bechstein, J.M. (1805). Vollständige Naturgeschichte der schädlichen Forstinsekten, nebst einem Nachtrag der schonenswerthen Insekten, welche die schädlichen vertilgen helfen. Ein Handbuch für Forstmänner, Cameralisten und Oekonomen. 3. Theil. Carl Friedrich Knoch Richter,. Leipzig 1042 pp."
+    }
+  ]
+}

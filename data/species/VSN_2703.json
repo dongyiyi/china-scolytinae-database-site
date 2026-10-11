@@ -1,0 +1,76 @@
+{
+  "vsn": "VSN_2703",
+  "scientific_name": "Euwallacea kuroshio",
+  "authorship": "Gomez & Hulcr, 2018",
+  "chinese_name": "",
+  "genus": "Euwallacea",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Candidate",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+  },
+  "hosts": [],
+  "host_note": "A broad host range has been reported, but individual host taxa have not been independently reviewed.",
+  "taxonomy_summary": "The current accepted identity is Euwallacea kuroshio Gomez & Hulcr, 2018.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2018",
+      "event": "Current accepted",
+      "name": "Euwallacea kuroshio",
+      "authorship": "Gomez & Hulcr, 2018",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_3ac9feee3550",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "No additional synonyms or historical combinations are currently linked to this taxon in the integrated backbone.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_smithetal2020_xyleborini",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_3ac9feee3550",
+      "label": "Gomez et al., 2018",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Gomez, D.F., Skelton, J., Steininger, M.S., Stouthamer, R., Rugman-Jones, P., Sittichaya, W., Rabaglia, R.J. & Hulcr, J. (2018). Species delineation within the Euwallacea fornicatus (Coleoptera: Curculionidae) complex revealed by morphometric and phylogenetic analyses. Insect Systematics and Diversity 2(6): 1–11.",
+      "doi": "10.1093/isd/ixy018"
+    }
+  ]
+}

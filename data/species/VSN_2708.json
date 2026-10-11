@@ -1,9 +1,9 @@
 {
   "vsn": "VSN_2708",
-  "scientific_name": "Euwallacea minutus",
+  "scientific_name": "Blandfordium minutus",
   "authorship": "(Blandford, 1894)",
   "chinese_name": "",
-  "genus": "Euwallacea",
+  "genus": "Blandfordium",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
   "checklist_status": "Accepted",
@@ -20,11 +20,49 @@
   },
   "hosts": [],
   "host_note": "No host is promoted from the Smith record. Beaver & Liu (2010) characterizes the species as polyphagous but enumerates no host taxon in the curated field; broad polyphagy remains contextual.",
-  "taxonomy_summary": "The current accepted identity is Euwallacea minutus (Blandford, 1894).",
+  "taxonomy_summary": "The current accepted identity is Blandfordium minutus (Blandford, 1894).",
   "taxonomy_reference_ids": [
-    "johnson2026"
+    "johnson2026",
+    "src_smithcognato2026_paleotropicalxyleborini"
   ],
   "taxonomic_history": [
+    {
+      "year": "1894",
+      "event": "Source accepted",
+      "name": "Blandfordium minutus",
+      "authorship": "Blandford, 1894",
+      "note": "Accepted name in the source dataset; the current canonical identity is Blandfordium minutus (Blandford, 1894).",
+      "reference_ids": [
+        "src_smithcognato2026_paleotropicalxyleborini",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1894",
+      "event": "historical combination",
+      "name": "Euwallacea minutus",
+      "authorship": "(Blandford, 1894)",
+      "note": "Historical taxonomic usage in the integrated backbone.",
+      "reference_ids": [
+        "orig_a1d45147b2c3"
+      ]
+    },
+    {
+      "year": "1894",
+      "event": "historical combination",
+      "name": "Planiculus minutus",
+      "authorship": "Blandford, 1894",
+      "note": "Historical taxonomic usage in the integrated backbone.",
+      "reference_ids": []
+    },
+    {
+      "year": "1894",
+      "event": "historical combination",
+      "name": "Wallacellus minutus",
+      "authorship": "Blandford, 1894",
+      "note": "Historical taxonomic usage in the integrated backbone.",
+      "reference_ids": []
+    },
     {
       "year": "1894",
       "event": "Original combination / basionym",
@@ -61,16 +99,21 @@
     {
       "year": "1894",
       "event": "Current accepted",
-      "name": "Euwallacea minutus",
+      "name": "Blandfordium minutus",
       "authorship": "(Blandford, 1894)",
       "note": "Current accepted name in the integrated taxonomic backbone.",
       "reference_ids": [
-        "orig_a1d45147b2c3",
+        "src_smithcognato2026_paleotropicalxyleborini",
         "johnson2026"
       ]
     }
   ],
-  "nomenclature_note": "Beaver & Liu (2010) treats the species as Planiculus minutus in a 2010 new combination; Smith et al. (2020) treats the current combination Euwallacea minutus. Canonical identity follows integrated taxonomic backbone: Euwallacea minutus (Blandford, 1894), VSN_2708.",
+  "nomenclature_note": "Smith & Cognato (2026) transferred this taxon to Blandfordium minutus. Earlier treatments used Planiculus minutus (Beaver & Liu, 2010) and Euwallacea minutus (Smith et al., 2020). The current integrated taxonomic backbone identifies Blandfordium minutus (Blandford, 1894) as the accepted combination. The earlier mainland China and Taiwan occurrence evidence is retained.",
+  "nomenclature_note_reference_ids": [
+    "src_smithcognato2026_paleotropicalxyleborini",
+    "src_beaverliu2010",
+    "src_smith2020"
+  ],
   "resources": {
     "images": "No image records are linked yet.",
     "specimens": "No specimen records are linked yet.",
@@ -88,15 +131,6 @@
       "doi": "10.3897/zookeys.1271.168928"
     },
     {
-      "id": "src_smith2020",
-      "label": "Smith et al., 2020",
-      "role": [
-        "published evidence"
-      ],
-      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
-      "doi": "10.3897/zookeys.983.52630"
-    },
-    {
       "id": "src_beaverliu2010",
       "label": "Beaver & Liu, 2010",
       "role": [
@@ -107,12 +141,22 @@
       "doi": "10.11646/zootaxa.2602.1.1"
     },
     {
-      "id": "orig_a1d45147b2c3",
-      "label": "Blandford, 1894c",
+      "id": "src_smith2020",
+      "label": "Smith et al., 2020",
       "role": [
-        "nomenclatural source"
+        "published evidence"
       ],
-      "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_smithcognato2026_paleotropicalxyleborini",
+      "label": "Smith & Cognato, 2026",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M. & Cognato, A.I. (2026). New Paleotropical Xyleborini genera (Coleoptera: Curculionidae: Scolytinae: Xyleborini). Zootaxa 5853(2): 189–215.",
+      "doi": "10.11646/zootaxa.5853.2.2"
     },
     {
       "id": "orig_5405f00dff87",
@@ -129,6 +173,14 @@
         "nomenclatural source"
       ],
       "citation": "Schedl, K.E. (1954c). Fauna Indomalayensis, IV. 141 Beitrag zur morphologie und systematik der Scolytoidea. Philippine Journal of Science 83(2): 137–159."
+    },
+    {
+      "id": "orig_a1d45147b2c3",
+      "label": "Blandford, 1894c",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
     }
   ]
 }

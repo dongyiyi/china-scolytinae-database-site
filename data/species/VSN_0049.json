@@ -1,0 +1,68 @@
+{
+  "vsn": "VSN_0049",
+  "scientific_name": "Acanthotomicus diaboliculus",
+  "authorship": "Cognato & Smith, 2020",
+  "chinese_name": "",
+  "genus": "Acanthotomicus",
+  "subfamily": "Scolytinae",
+  "tribe": "Ipini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Acanthotomicus diaboliculus Cognato & Smith, 2020.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2020",
+      "event": "Current accepted",
+      "name": "Acanthotomicus diaboliculus",
+      "authorship": "Cognato & Smith, 2020",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_1ab95416fcf6",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "No additional synonyms or historical combinations are currently linked to this taxon in the integrated backbone.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "orig_1ab95416fcf6",
+      "label": "Cognato & Smith, 2020",
+      "role": [
+        "nomenclatural source",
+        "published evidence"
+      ],
+      "citation": "Cognato, A.I. & Smith, S.M. (2020). Acanthotomicus diaboliculus and A. enzoi (Coleoptera: Curculionidae: Scolytinae: Ipini), new species from Southeast Asia. The Coleopterists Bulletin 74(3): 538–541.",
+      "doi": "10.1649/0010-065x-74.3.538"
+    }
+  ]
+}

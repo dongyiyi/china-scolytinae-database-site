@@ -1,0 +1,75 @@
+{
+  "vsn": "VSN_3669",
+  "scientific_name": "Microperus bucolicus",
+  "authorship": "Sittichaya, Smith & Beaver, 2021",
+  "chinese_name": "",
+  "genus": "Microperus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Candidate",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Microperus bucolicus Sittichaya, Smith & Beaver, 2021.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2021",
+      "event": "Current accepted",
+      "name": "Microperus bucolicus",
+      "authorship": "Sittichaya, Smith & Beaver, 2021",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_1e9c00fa1990",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "No additional synonyms or historical combinations are currently linked to this taxon in the integrated backbone.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_linsmith2024_microperustaiwan",
+      "label": "Lin & Smith, 2024",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Lin, C.S., & Smith, S.M. (2024). Review of the genus Microperus Wood, 1980 of Taiwan. Taiwania, 69(2), 151–167."
+    },
+    {
+      "id": "orig_1e9c00fa1990",
+      "label": "Sittichaya et al., 2021",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Sittichaya, W., Smith, S.M., Beaver, R.A. & Thaochan, N. (2021). Revision of the xyleborine ambrosia beetle genus Microperus Wood, 1980 (Curculionidae, Scolytinae, Xyleborini) of Thailand with four new species and four newly recorded species. ZooKeys 1074: 191–214.",
+      "doi": "10.3897/zookeys.1074.76235"
+    }
+  ]
+}

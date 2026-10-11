@@ -1,0 +1,150 @@
+{
+  "vsn": "VSN_5461",
+  "scientific_name": "Scolytus amygdali",
+  "authorship": "Guérin-Méneville, 1847",
+  "chinese_name": "",
+  "genus": "Scolytus",
+  "subfamily": "Scolytinae",
+  "tribe": "Scolytini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Scolytus amygdali Guérin-Méneville, 1847.",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1874",
+      "event": "Synonym",
+      "name": "Scolytus amygdali rufipennis",
+      "authorship": "Brancsik, 1874",
+      "note": "Published name currently treated as a synonym; original-description p. 135.",
+      "reference_ids": [
+        "orig_ac69475e2f38",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1911",
+      "event": "Synonym",
+      "name": "Eccoptogaster anatolicus",
+      "authorship": "Eggers, 1911",
+      "note": "Published name currently treated as a synonym; original-description p. 74.",
+      "reference_ids": [
+        "orig_1b4ec7d9a9d0",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1912",
+      "event": "Synonym",
+      "name": "Scolytus mailleri",
+      "authorship": "Eggers, 1912",
+      "note": "Published name currently treated as a synonym; original-description p. 49.",
+      "reference_ids": [
+        "orig_0dcf82e2e0c6",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1920",
+      "event": "Synonym",
+      "name": "Scolytus aegyptiacus",
+      "authorship": "Pic, 1920",
+      "note": "Published name currently treated as a synonym; original-description p. 55.",
+      "reference_ids": [
+        "orig_734b9e5f2d39",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1847",
+      "event": "Current accepted",
+      "name": "Scolytus amygdali",
+      "authorship": "Guérin-Méneville, 1847",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_eea38eb7d9ae",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 4 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_caoetal2022_scolytuschina",
+      "label": "Cao et al., 2022",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Cao, Y., Zhang, L., Liao, S., Li, T., Yu, G., Li, J., Xu, Y., & Wang, J. (2022). Two new recorded species of Scolytus Geoffroy, 1762 from China. Sichuan Journal of Zoology, 41(6), 666–670. (In Chinese)."
+    },
+    {
+      "id": "orig_0dcf82e2e0c6",
+      "label": "Eggers, 1912b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1912b). Beitrage zur Kenntnis der Borkenkäfer, II. Entomologische Blätter 8: 47–49."
+    },
+    {
+      "id": "orig_1b4ec7d9a9d0",
+      "label": "Eggers, 1911a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1911a). Beiträge zur Kenntnis der Borkenkäfer. Entomologische Blätter 7: 73–76."
+    },
+    {
+      "id": "orig_734b9e5f2d39",
+      "label": "Pic, 1920",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Pic, M. (1920). Sur divers coléotèpres [sic] d’Egypte et Sinai en partie nouveaux. Bulletin de la Société Entomologique d’Egypte 6(1919): 44–56."
+    },
+    {
+      "id": "orig_ac69475e2f38",
+      "label": "Brancsik, 1874",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Brancsik, K. (1874). Zwei neue deutsche Käfer. Berliner Entomologische Zeitschrift 18: 135–136."
+    },
+    {
+      "id": "orig_eea38eb7d9ae",
+      "label": "Guérin-Méneville, 1847",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Guérin-Méneville, F.E. (1847). [new taxon]. Bulletin de la Société Entomologique de France. Sér. 2, 5: xliv–xlvii."
+    }
+  ]
+}

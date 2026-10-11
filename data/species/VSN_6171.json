@@ -1,0 +1,241 @@
+{
+  "vsn": "VSN_6171",
+  "scientific_name": "Xyleborus bidentatus",
+  "authorship": "(Motschulsky, 1863)",
+  "chinese_name": "",
+  "genus": "Xyleborus",
+  "subfamily": "Scolytinae",
+  "tribe": "Xyleborini",
+  "checklist_status": "Unreviewed",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Candidate",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+  },
+  "hosts": [],
+  "host_note": "Smith et al. (2020): polyphagous, host evidence pending synthesis.",
+  "taxonomy_summary": "The current accepted identity is Xyleborus bidentatus (Motschulsky, 1863).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1863",
+      "event": "Original combination / basionym",
+      "name": "Phloeotrogus bidentatus",
+      "authorship": "Motschulsky, 1863",
+      "note": "Original combination / basionym, original-description p. 514.",
+      "reference_ids": [
+        "orig_8606915d2315",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1869",
+      "event": "Synonym",
+      "name": "Xyleborus subcostatus",
+      "authorship": "Eichhoff, 1869",
+      "note": "Published name currently treated as a synonym; original-description p. 281.",
+      "reference_ids": [
+        "orig_8acb2be6921b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1878",
+      "event": "Synonym",
+      "name": "Xyleborus riehli",
+      "authorship": "Eichhoff, 1878",
+      "note": "Published name currently treated as a synonym; original-description p. 346.",
+      "reference_ids": [
+        "orig_df23847f2e11",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1896",
+      "event": "Synonym",
+      "name": "Progenius fleutiauxi",
+      "authorship": "Blandford, 1896",
+      "note": "Published name currently treated as a synonym; original-description p. 21.",
+      "reference_ids": [
+        "orig_6ae178190d1a",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1896",
+      "event": "Synonym",
+      "name": "Xyleborus laeviusculus",
+      "authorship": "Blandford, 1896",
+      "note": "Published name currently treated as a synonym; original-description p. 21.",
+      "reference_ids": [
+        "orig_6ae178190d1a",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Boroxylon stephegynis",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 58.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1915",
+      "event": "Synonym",
+      "name": "Boroxylon webbi",
+      "authorship": "Hopkins, 1915",
+      "note": "Published name currently treated as a synonym; original-description p. 59.",
+      "reference_ids": [
+        "orig_a6f1a8831ef5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1923",
+      "event": "Synonym",
+      "name": "Xyleborus subcostatus dearmatus",
+      "authorship": "Eggers, 1923",
+      "note": "Published name currently treated as a synonym; original-description p. 205.",
+      "reference_ids": [
+        "orig_c8c8b73ae935",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Synonym",
+      "name": "Xyleborus brevidentatus",
+      "authorship": "Eggers, 1930",
+      "note": "Published name currently treated as a synonym; original-description p. 190.",
+      "reference_ids": [
+        "orig_2f66b1e00ee5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1930",
+      "event": "Synonym",
+      "name": "Xyleborus quadridens",
+      "authorship": "Eggers, 1930",
+      "note": "Published name currently treated as a synonym; original-description p. 191.",
+      "reference_ids": [
+        "orig_2f66b1e00ee5",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1863",
+      "event": "Current accepted",
+      "name": "Xyleborus bidentatus",
+      "authorship": "(Motschulsky, 1863)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_8606915d2315",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 10 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_caoetal2026_xyleborusbidentatus",
+      "label": "Cao et al., 2026",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Cao, L., Zhu, Y., Wang, X., Yao, Y., Lin, G., & Song, Q. (2026). A newly invasive alien pest, Xyleborus bidentatus (Motschulsky, 1863), discovered in mangrove forests in Chinese mainland. Forest Pest and Disease, 45(1), 57–59."
+    },
+    {
+      "id": "src_smithetal2020_xyleborini",
+      "label": "Smith et al., 2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
+      "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "orig_2f66b1e00ee5",
+      "label": "Eggers, 1930b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1930b). Neue Xyleborus-Arten (Col. Scolytidae) aus Indien. Indian Forest Records, Entomology 14(9): 177–208."
+    },
+    {
+      "id": "orig_6ae178190d1a",
+      "label": "Blandford, 1896b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Blandford, W.F.H. (1896b). Contributions à la Faune indo-chinoise 16e Memoire (1). Scolytidae. Annales de la Société Entomologique de France 65: 19–22."
+    },
+    {
+      "id": "orig_8606915d2315",
+      "label": "Motschulsky, 1863",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Motschulsky, V. de (1863). Essai d’un catalogue des insectes de l’île Ceylan. Bulletin de la Société Impériale des Naturalistes de Moscou 36(2): 421–532."
+    },
+    {
+      "id": "orig_8acb2be6921b",
+      "label": "Eichhoff, 1869",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1869). Neue Borkenkäfer. Berliner Entomologische Zeitschrift 12(3-4): 273–282."
+    },
+    {
+      "id": "orig_a6f1a8831ef5",
+      "label": "Hopkins, 1915d",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Hopkins, A.D. (1915d). Classification of the Cryphalinae with descriptions of new genera and species. United States Department of Agriculture, Office of the Secretary. Report 99: 1–75 + 4 plates."
+    },
+    {
+      "id": "orig_c8c8b73ae935",
+      "label": "Eggers, 1923b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3-4): 129–220."
+    },
+    {
+      "id": "orig_df23847f2e11",
+      "label": "Eichhoff, 1878b",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
+    }
+  ]
+}

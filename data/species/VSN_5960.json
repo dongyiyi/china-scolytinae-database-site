@@ -1,0 +1,104 @@
+{
+  "vsn": "VSN_5960",
+  "scientific_name": "Trypophloeus alni",
+  "authorship": "(Lindemann, 1875)",
+  "chinese_name": "",
+  "genus": "Trypophloeus",
+  "subfamily": "Scolytinae",
+  "tribe": "Trypophloeini",
+  "checklist_status": "Accepted",
+  "review_status": "In review",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+  },
+  "hosts": [],
+  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "taxonomy_summary": "The current accepted identity is Trypophloeus alni (Lindemann, 1875).",
+  "taxonomy_reference_ids": [
+    "johnson2026"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1875",
+      "event": "Original combination / basionym",
+      "name": "Cryphalus alni",
+      "authorship": "Lindemann, 1875",
+      "note": "Original combination / basionym, original-description p. 136.",
+      "reference_ids": [
+        "orig_9f208eaa7917",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1912",
+      "event": "Synonym",
+      "name": "Trypophloeus holdhausi",
+      "authorship": "Wichmann, 1912",
+      "note": "Published name currently treated as a synonym; original-description p. 186.",
+      "reference_ids": [
+        "orig_2be6ab1eee5b",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "1875",
+      "event": "Current accepted",
+      "name": "Trypophloeus alni",
+      "authorship": "(Lindemann, 1875)",
+      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "reference_ids": [
+        "orig_9f208eaa7917",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The integrated taxonomic backbone links 2 additional historical name usages to the current accepted taxon.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_alonsozarazagaetal2023_palaearcticcatalogue2ed",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Bouchard, P., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
+    },
+    {
+      "id": "orig_2be6ab1eee5b",
+      "label": "Wichmann, 1912",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Wichmann, H.E. (1912). Beschreibung eines neuen Trypophloeus. Wiener Entomologische Zeitung 31: 186."
+    },
+    {
+      "id": "orig_9f208eaa7917",
+      "label": "Lindemann, 1875a",
+      "role": [
+        "nomenclatural source"
+      ],
+      "citation": "Lindemann, K. (1875a). Beiträge zur Kenntniss der Borkenkäfer Russlands. Bulletin de la Société Impériale des Naturalistes de Moscou 49(2): 131–146."
+    }
+  ]
+}
