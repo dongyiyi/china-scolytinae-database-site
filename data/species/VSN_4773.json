@@ -1,0 +1,102 @@
+{
+  "vsn": "VSN_4773",
+  "scientific_name": "Polygraphus yunnanensis",
+  "authorship": "Bright, 2002",
+  "chinese_name": "麻栎四眼小蠹",
+  "genus": "Polygraphus",
+  "subfamily": "Scolytinae",
+  "tribe": "Polygraphini",
+  "checklist_status": "Unreviewed",
+  "review_status": "Not started",
+  "china_occurrence": {
+    "Mainland China": "Candidate",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "",
+    "narrative": "Huang et al. (2015) reported Polygraphus querci Yin & Huang, 1996 from Yunnan. Bright (2002) replaced this junior primary homonym with Polygraphus yunnanensis. The Yunnan report belongs to VSN_4773 rather than P. kaimochii (VSN_4713). Occurrence evidence remains a candidate pending independent review.",
+    "reference_ids": [
+      "src_co2015"
+    ]
+  },
+  "hosts": [],
+  "host_note": "Quercus acutissima (麻栎) was reported in Huang et al. (2015) under P. querci Yin & Huang, 1996. The host association has not been independently reviewed and is not listed as confirmed.",
+  "taxonomy_summary": "The current accepted identity is Polygraphus yunnanensis Bright, 2002, a replacement name for Polygraphus querci Yin & Huang, 1996 (junior primary homonym of P. querci Wood, 1988).",
+  "taxonomy_reference_ids": [
+    "johnson2026",
+    "bright2002"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1996",
+      "event": "Replaced junior homonym",
+      "name": "Polygraphus querci",
+      "authorship": "Yin & Huang, 1996",
+      "note": "Junior primary homonym of Polygraphus querci Wood, 1988, a separate name associated with P. kaimochii.",
+      "reference_ids": [
+        "yinhuang1996",
+        "bright2002",
+        "johnson2026"
+      ]
+    },
+    {
+      "year": "2002",
+      "event": "Current accepted",
+      "name": "Polygraphus yunnanensis",
+      "authorship": "Bright, 2002",
+      "note": "Replacement name proposed for Polygraphus querci Yin & Huang, 1996; the Wood (1988) senior homonym applies to a different species.",
+      "reference_ids": [
+        "bright2002",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Do not combine the two Polygraphus querci names: Yin & Huang (1996) refers to this taxon and was replaced by Bright (2002); Wood (1988) is associated with P. kaimochii (VSN_4713). CO2015_081 was formerly linked to VSN_4713 in error.",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_co2015",
+      "label": "黄复生等 2015",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
+    },
+    {
+      "id": "yinhuang1996",
+      "label": "Yin & Huang, 1996",
+      "role": [
+        "original description of replaced homonym"
+      ],
+      "citation": "Yin, H.F. & Huang, F.S. (1996). A taxonomic study on Chinese Polygraphus Erichson with descriptions of three new species and a new subspecies (Coleoptera: Scolytidae). Acta Zootaxonomica Sinica 21: 345–354."
+    },
+    {
+      "id": "bright2002",
+      "label": "Bright & Skidmore, 2002",
+      "role": [
+        "replacement name"
+      ],
+      "citation": "Bright, D.E. & Skidmore, R.E. (2002). A Catalog of Scolytidae and Platypodidae (Coleoptera), Supplement 2 (1995–1999). NRC Research Press, Ottawa, 523 pp."
+    }
+  ],
+  "nomenclature_note_reference_ids": [
+    "yinhuang1996",
+    "bright2002"
+  ]
+}

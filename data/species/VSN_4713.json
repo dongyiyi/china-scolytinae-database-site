@@ -2,24 +2,24 @@
   "vsn": "VSN_4713",
   "scientific_name": "Polygraphus kaimochii",
   "authorship": "(Nobuchi, 1981)",
-  "chinese_name": "麻栎四眼小蠹",
+  "chinese_name": "",
   "genus": "Polygraphus",
   "subfamily": "Scolytinae",
   "tribe": "Polygraphini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Excluded",
   "review_status": "Not started",
   "china_occurrence": {
-    "Mainland China": "Candidate",
+    "Mainland China": "Excluded",
     "Taiwan": "Not assessed",
     "Hong Kong": "Not assessed",
     "Macao": "Not assessed"
   },
   "distribution": {
     "summary": "",
-    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+    "narrative": "The former China occurrence assigned to this species was a name-homonym mapping error. Huang et al. (2015) reported Polygraphus querci Yin & Huang, 1996 from Yunnan. That junior homonym was replaced by Polygraphus yunnanensis Bright, 2002 (VSN_4773), and does not refer to Polygraphus querci Wood, 1988, a synonym of P. kaimochii. No China occurrence of P. kaimochii is established from that record."
   },
   "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "host_note": "The previously linked Quercus acutissima record belongs to Polygraphus yunnanensis (VSN_4773), not to this species. No host is confirmed here.",
   "taxonomy_summary": "The current accepted identity is Polygraphus kaimochii (Nobuchi, 1981).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -59,7 +59,7 @@
       ]
     }
   ],
-  "nomenclature_note": "The integrated taxonomic backbone links 2 additional historical name usages to the current accepted taxon.",
+  "nomenclature_note": "Polygraphus querci Wood, 1988 (synonym of P. kaimochii) and Polygraphus querci Yin & Huang, 1996 (junior primary homonym, replaced by P. yunnanensis Bright, 2002) are different nominal species. The historical CO2015_081 association to this VSN was erroneous and has been corrected in Notion.",
   "resources": {
     "images": "No image records are linked yet.",
     "specimens": "No specimen records are linked yet.",
@@ -77,14 +77,6 @@
       "doi": "10.3897/zookeys.1271.168928"
     },
     {
-      "id": "src_co2015",
-      "label": "黄复生等 2015",
-      "role": [
-        "published evidence"
-      ],
-      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
-    },
-    {
       "id": "orig_af4dcbc9f19c",
       "label": "Nobuchi, 1981b",
       "role": [
@@ -99,6 +91,17 @@
         "nomenclatural source"
       ],
       "citation": "Wood, S.L. (1988b). Nomenclatural changes and new species of Scolytidae (Coleoptera), part II. The Great Basin Naturalist 48(2): 188–195."
+    },
+    {
+      "id": "bright2002",
+      "label": "Bright & Skidmore, 2002",
+      "role": [
+        "homonym correction"
+      ],
+      "citation": "Bright, D.E. & Skidmore, R.E. (2002). A Catalog of Scolytidae and Platypodidae (Coleoptera), Supplement 2 (1995–1999). NRC Research Press, Ottawa, 523 pp."
     }
+  ],
+  "nomenclature_note_reference_ids": [
+    "bright2002"
   ]
 }
