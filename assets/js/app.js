@@ -78,7 +78,7 @@ function groupByKey(taxa,key){
 }
 function genusDisclosure(name,rows){
   const species=rows.slice().sort((a,b)=>a.scientific_name.localeCompare(b.scientific_name,'en'));
-  return '<details class="taxonomy-group genus-group"><summary><span class="group-label scientific">'+esc(name)+'</span><span class="group-count">'+rows.length+' species</span></summary><div class="taxonomy-group-body">'+species.map(speciesResult).join('')+'</div></details>';
+  return '<details class="taxonomy-group genus-group"><summary><span class="group-label"><span class="scientific">'+esc(name)+'</span> · <span class="group-count">'+rows.length+' species</span></span></summary><div class="taxonomy-group-body">'+species.map(speciesResult).join('')+'</div></details>';
 }
 async function groupedBrowse(mode){
   const taxa=await getJSON('data/taxa.json');
@@ -89,7 +89,7 @@ async function groupedBrowse(mode){
   if(byTribe){
     content=groups.map(([tribe,rows])=>{
       const genera=groupByKey(rows,'genus');
-      return '<details class="taxonomy-group tribe-group"><summary><span class="group-label">'+esc(tribe)+'</span><span class="group-count">'+genera.length+' '+(genera.length===1?'genus':'genera')+' · '+rows.length+' species</span></summary><div class="taxonomy-group-body">'+genera.map(([name,species])=>genusDisclosure(name,species)).join('')+'</div></details>';
+      return '<details class="taxonomy-group tribe-group"><summary><span class="group-label">'+esc(tribe)+' · <span class="group-count">'+genera.length+' '+(genera.length===1?'genus':'genera')+' · '+rows.length+' species</span></span></summary><div class="taxonomy-group-body">'+genera.map(([name,species])=>genusDisclosure(name,species)).join('')+'</div></details>';
     }).join('');
   }else{
     content=groups.map(([name,rows])=>genusDisclosure(name,rows)).join('');
