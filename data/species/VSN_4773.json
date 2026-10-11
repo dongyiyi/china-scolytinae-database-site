@@ -31,10 +31,10 @@
   "taxonomic_history": [
     {
       "year": "1996",
-      "event": "Replaced junior homonym",
+      "event": "Original description",
       "name": "Polygraphus querci",
       "authorship": "Yin & Huang, 1996",
-      "note": "Junior primary homonym of Polygraphus querci Wood, 1988, a separate name associated with P. kaimochii.",
+      "note": "Originally described as a new species (sp. nov.) under the name Polygraphus querci by Yin & Huang (1996: 346). This name was subsequently recognized as a junior primary homonym of Polygraphus querci Wood, 1988.",
       "reference_ids": [
         "yinhuang1996",
         "bright2002",
@@ -43,10 +43,10 @@
     },
     {
       "year": "2002",
-      "event": "Current accepted",
+      "event": "Replacement name (current accepted)",
       "name": "Polygraphus yunnanensis",
       "authorship": "Bright, 2002",
-      "note": "Replacement name proposed for Polygraphus querci Yin & Huang, 1996; the Wood (1988) senior homonym applies to a different species.",
+      "note": "Bright (2002: 4) established Polygraphus yunnanensis as a replacement name (nomen novum) for Polygraphus querci Yin & Huang, 1996, not Polygraphus querci Wood, 1988. This was a change in nomenclature, not the description of another new species.",
       "reference_ids": [
         "bright2002",
         "johnson2026"
