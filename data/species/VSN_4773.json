@@ -16,13 +16,14 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "Huang et al. (2015) reported Polygraphus querci Yin & Huang, 1996 from Yunnan. Bright (2002) replaced this junior primary homonym with Polygraphus yunnanensis. The Yunnan report belongs to P. yunnanensis, not to P. kaimochii. Occurrence evidence remains a candidate pending independent review.",
+    "narrative": "Yin and Huang (1996) originally described Polygraphus querci as a new species from Xishuangbanna, Yunnan, China. Bright (2002) subsequently proposed Polygraphus yunnanensis as a replacement name because Polygraphus querci Yin & Huang, 1996 was a junior primary homonym of Polygraphus querci Wood, 1988. This is original type-locality evidence, but the China occurrence assessment remains Candidate pending independent review.",
     "reference_ids": [
-      "src_co2015"
+      "yinhuang1996",
+      "bright2002"
     ]
   },
   "hosts": [],
-  "host_note": "Quercus acutissima (麻栎) was reported in Huang et al. (2015) under P. querci Yin & Huang, 1996. The host association has not been independently reviewed and is not listed as confirmed.",
+  "host_note": "Yin and Huang (1996) recorded the holotype from Quercus acutissima (麻栎) in Xishuangbanna, Yunnan. This published host association has not yet been independently reviewed and is therefore not listed as confirmed.",
   "taxonomy_summary": "The current accepted identity is Polygraphus yunnanensis Bright, 2002, a replacement name for Polygraphus querci Yin & Huang, 1996 (junior primary homonym of P. querci Wood, 1988).",
   "taxonomy_reference_ids": [
     "johnson2026",
