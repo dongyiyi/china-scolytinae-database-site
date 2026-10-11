@@ -4301,17 +4301,6 @@
     "review_status": "Not started"
   },
   {
-    "vsn": "VSN_4713",
-    "scientific_name": "Polygraphus kaimochii",
-    "authorship": "(Nobuchi, 1981)",
-    "chinese_name": "",
-    "genus": "Polygraphus",
-    "subfamily": "Scolytinae",
-    "tribe": "Polygraphini",
-    "checklist_status": "Excluded",
-    "review_status": "Not started"
-  },
-  {
     "vsn": "VSN_4720",
     "scientific_name": "Polygraphus major",
     "authorship": "Stebbing, 1903",

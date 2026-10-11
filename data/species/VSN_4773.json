@@ -16,7 +16,7 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "Huang et al. (2015) reported Polygraphus querci Yin & Huang, 1996 from Yunnan. Bright (2002) replaced this junior primary homonym with Polygraphus yunnanensis. The Yunnan report belongs to VSN_4773 rather than P. kaimochii (VSN_4713). Occurrence evidence remains a candidate pending independent review.",
+    "narrative": "Huang et al. (2015) reported Polygraphus querci Yin & Huang, 1996 from Yunnan. Bright (2002) replaced this junior primary homonym with Polygraphus yunnanensis. The Yunnan report belongs to P. yunnanensis, not to P. kaimochii. Occurrence evidence remains a candidate pending independent review.",
     "reference_ids": [
       "src_co2015"
     ]
@@ -53,7 +53,7 @@
       ]
     }
   ],
-  "nomenclature_note": "Do not combine the two Polygraphus querci names: Yin & Huang (1996) refers to this taxon and was replaced by Bright (2002); Wood (1988) is associated with P. kaimochii (VSN_4713). CO2015_081 was formerly linked to VSN_4713 in error.",
+  "nomenclature_note": "Do not combine the two Polygraphus querci names: Yin & Huang (1996) refers to this taxon and was replaced by Bright (2002); Wood (1988) is associated with P. kaimochii. The CO2015_081 record had previously been assigned to that different species in error.",
   "resources": {
     "images": "No image records are linked yet.",
     "specimens": "No specimen records are linked yet.",
