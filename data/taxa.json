@@ -2596,17 +2596,6 @@
     "review_status": "Reviewed"
   },
   {
-    "vsn": "VSN_2721",
-    "scientific_name": "Euwallacea praevius",
-    "authorship": "(Blandford, 1894)",
-    "chinese_name": "长亮材小蠹",
-    "genus": "Euwallacea",
-    "subfamily": "Scolytinae",
-    "tribe": "Xyleborini",
-    "checklist_status": "Unreviewed",
-    "review_status": "Not started"
-  },
-  {
     "vsn": "VSN_2731",
     "scientific_name": "Euwallacea sibsagaricus",
     "authorship": "(Eggers, 1930)",
