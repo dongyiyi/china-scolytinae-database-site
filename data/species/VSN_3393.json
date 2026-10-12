@@ -22,7 +22,8 @@
   "host_note": "This checklist provides no host information; no host is inferred.",
   "taxonomy_summary": "The current accepted identity is Ips amitinus (Eichhoff, 1872).",
   "taxonomy_reference_ids": [
-    "johnson2026"
+    "johnson2026",
+    "douglas2019_ips"
   ],
   "taxonomic_history": [
     {
@@ -48,6 +49,16 @@
       ]
     },
     {
+      "year": "1913",
+      "event": "Synonym (source-specific combination)",
+      "name": "Ips montanus",
+      "authorship": "Fuchs, 1913",
+      "note": "Listed under Ips amitinus by Douglas et al. (2019), explicitly distinguished from Ips montanus (Eichhoff, 1881). The nomenclatural rank and original combination require further review; no separate TNU usage ID has yet been assigned.",
+      "reference_ids": [
+        "douglas2019_ips"
+      ]
+    },
+    {
       "year": "1872",
       "event": "Current accepted",
       "name": "Ips amitinus",
@@ -59,7 +70,7 @@
       ]
     }
   ],
-  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Ips amitinus (Eichhoff, 1872), VSN_3393.",
+  "nomenclature_note": "Canonical identity follows integrated taxonomic backbone: Ips amitinus (Eichhoff, 1872), VSN_3393. Taxonomic caution: Ips montanus Fuchs, 1913 has been listed as a synonym of Ips amitinus. It should not be confused with Ips montanus (Eichhoff, 1881), a distinct North American species (Douglas et al., 2019).",
   "resources": {
     "images": "No image records are linked yet.",
     "specimens": "No specimen records are linked yet.",
@@ -99,6 +110,20 @@
         "nomenclatural source"
       ],
       "citation": "Fuchs, A.G. (1913). Forstzoologische Ergebnisse einer Sommerreise ins Engadin. III. Die Arven-, Lärchen- und Fichtenborkenkäfer des Engadin. Naturwissenschaftliche Zeitschrift für Forst- und Landwirtschaft, 11(2): 65–86."
+    },
+    {
+      "id": "douglas2019_ips",
+      "label": "Douglas et al., 2019",
+      "role": [
+        "taxonomic treatment",
+        "nomenclatural caution"
+      ],
+      "citation": "Douglas, H.B., Cognato, A.I., Grebennikov, V. & Savard, K. (2019). Dichotomous and matrix-based keys to the Ips bark beetles of the World (Coleoptera: Curculionidae: Scolytinae). Canadian Journal of Arthropod Identification 38: 234 pp.",
+      "doi": "10.3752/cjai.2019.38"
     }
+  ],
+  "nomenclature_note_reference_ids": [
+    "johnson2026",
+    "douglas2019_ips"
   ]
 }
