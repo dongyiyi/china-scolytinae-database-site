@@ -924,17 +924,6 @@
     "review_status": "Reviewed"
   },
   {
-    "vsn": "VSN_1355",
-    "scientific_name": "Coptoborus vespatorius",
-    "authorship": "(Schedl, 1931)",
-    "chinese_name": "凹缘缺刻小蠹",
-    "genus": "Coptoborus",
-    "subfamily": "Scolytinae",
-    "tribe": "Xyleborini",
-    "checklist_status": "Unreviewed",
-    "review_status": "Not started"
-  },
-  {
     "vsn": "VSN_1364",
     "scientific_name": "Coptodryas carinata",
     "authorship": "Smith, Beaver & Cognato, 2020",
