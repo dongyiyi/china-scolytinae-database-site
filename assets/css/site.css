@@ -94,3 +94,6 @@
 .tribe-group{border-left:4px solid var(--accent)}
 .genus-group{box-shadow:none}
 @media(max-width:560px){.taxonomy-group summary{padding:12px}.taxonomy-group-body{padding:0 10px 12px 18px}}
+
+/* Pilot invasive-species label; displayed only for explicitly flagged profiles. */
+.pill-invasive{background:#fff0e6;border-color:#e5b597;color:#964321;font-weight:700}

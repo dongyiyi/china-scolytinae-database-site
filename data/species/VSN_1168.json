@@ -8,6 +8,7 @@
   "tribe": "Dryocoetini",
   "checklist_status": "Accepted",
   "review_status": "Reviewed",
+  "invasive_status": "Invasive",
   "china_occurrence": {
     "Mainland China": "Present",
     "Taiwan": "Not assessed",
