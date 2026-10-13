@@ -4436,23 +4436,12 @@
     "vsn": "VSN_4811",
     "scientific_name": "Procryphalus fraxini",
     "authorship": "(Berger, 1917)",
-    "chinese_name": "",
+    "chinese_name": "水曲柳前隐小蠹",
     "genus": "Procryphalus",
     "subfamily": "Scolytinae",
     "tribe": "Ernoporini",
     "checklist_status": "Accepted",
     "review_status": "In review"
-  },
-  {
-    "vsn": "VSN_4812",
-    "scientific_name": "Procryphalus mucronatus",
-    "authorship": "(LeConte, 1879)",
-    "chinese_name": "水曲柳枝小蠹",
-    "genus": "Procryphalus",
-    "subfamily": "Scolytinae",
-    "tribe": "Ernoporini",
-    "checklist_status": "Unreviewed",
-    "review_status": "Not started"
   },
   {
     "vsn": "VSN_4817",
