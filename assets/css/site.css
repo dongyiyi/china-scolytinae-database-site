@@ -97,3 +97,13 @@
 
 /* Pilot invasive-species label; displayed only for explicitly flagged profiles. */
 .pill-invasive{background:#fff0e6;border-color:#e5b597;color:#964321;font-weight:700}
+
+/* Recommended and former Chinese names. Activated only when usage fields exist. */
+.primary-line{display:flex;gap:11px;align-items:center;flex-wrap:wrap;margin:0 0 11px}
+.name-label{color:var(--muted);font-size:.86rem;white-space:nowrap}
+.rec-name{font-size:1.25rem;font-weight:750;letter-spacing:.01em;margin-right:8px}
+.former-line{display:flex;gap:11px;align-items:baseline;flex-wrap:wrap;color:var(--muted);font-size:.92rem;margin-top:8px;padding-top:9px;border-top:1px solid rgba(39,93,59,.1)}
+.former-label{font-size:.86rem;color:var(--muted);white-space:nowrap}
+.former-names{color:#465448}
+.separator{color:#a6b0a8;padding:0 9px}
+@media(max-width:760px){.primary-line{gap:8px}.rec-name{width:100%;margin-right:0}.former-line{display:block}.former-names{display:block;margin-top:4px}}

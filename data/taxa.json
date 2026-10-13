@@ -366,12 +366,16 @@
     "vsn": "VSN_0371",
     "scientific_name": "Anisandrus eggersi",
     "authorship": "(Beeson, 1930)",
-    "chinese_name": "桃面壮材小蠹",
+    "chinese_name": "桃面毛胸小蠹",
     "genus": "Anisandrus",
     "subfamily": "Scolytinae",
     "tribe": "Xyleborini",
     "checklist_status": "Accepted",
-    "review_status": "Reviewed"
+    "review_status": "Reviewed",
+    "former_chinese_names": [
+      "埃氏毛胸材小蠹",
+      "桃面壮材小蠹"
+    ]
   },
   {
     "vsn": "VSN_0372",
