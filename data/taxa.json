@@ -778,7 +778,8 @@
     "subfamily": "Scolytinae",
     "tribe": "Dryocoetini",
     "checklist_status": "Accepted",
-    "review_status": "Reviewed"
+    "review_status": "Reviewed",
+    "invasive_status": "Invasive"
   },
   {
     "vsn": "VSN_1184",
@@ -2021,7 +2022,8 @@
     "subfamily": "Scolytinae",
     "tribe": "Hylurgini",
     "checklist_status": "Unreviewed",
-    "review_status": "Not started"
+    "review_status": "Not started",
+    "invasive_status": "Invasive"
   },
   {
     "vsn": "VSN_2328",
@@ -3066,7 +3068,8 @@
     "subfamily": "Scolytinae",
     "tribe": "Hylurgini",
     "checklist_status": "Accepted",
-    "review_status": "Reviewed"
+    "review_status": "Reviewed",
+    "invasive_status": "Invasive"
   },
   {
     "vsn": "VSN_3142",
@@ -3231,7 +3234,8 @@
     "subfamily": "Scolytinae",
     "tribe": "Trypophloeini",
     "checklist_status": "Accepted",
-    "review_status": "Reviewed"
+    "review_status": "Reviewed",
+    "invasive_status": "Invasive"
   },
   {
     "vsn": "VSN_3247",
@@ -3385,7 +3389,8 @@
     "subfamily": "Scolytinae",
     "tribe": "Ipini",
     "checklist_status": "Accepted",
-    "review_status": "Reviewed"
+    "review_status": "Reviewed",
+    "invasive_status": "Invasive"
   },
   {
     "vsn": "VSN_3404",
@@ -3429,7 +3434,8 @@
     "subfamily": "Scolytinae",
     "tribe": "Ipini",
     "checklist_status": "Accepted",
-    "review_status": "Reviewed"
+    "review_status": "Reviewed",
+    "invasive_status": "Invasive"
   },
   {
     "vsn": "VSN_3411",
@@ -5827,7 +5833,8 @@
     "subfamily": "Scolytinae",
     "tribe": "Xyleborini",
     "checklist_status": "Accepted",
-    "review_status": "Reviewed"
+    "review_status": "Reviewed",
+    "invasive_status": "Invasive"
   },
   {
     "vsn": "VSN_6171",
@@ -5838,7 +5845,8 @@
     "subfamily": "Scolytinae",
     "tribe": "Xyleborini",
     "checklist_status": "Unreviewed",
-    "review_status": "In review"
+    "review_status": "In review",
+    "invasive_status": "Invasive"
   },
   {
     "vsn": "VSN_6219",
@@ -5849,7 +5857,8 @@
     "subfamily": "Scolytinae",
     "tribe": "Xyleborini",
     "checklist_status": "Accepted",
-    "review_status": "Reviewed"
+    "review_status": "Reviewed",
+    "invasive_status": "Invasive"
   },
   {
     "vsn": "VSN_6220",
