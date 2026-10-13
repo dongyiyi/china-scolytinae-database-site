@@ -2,7 +2,7 @@
   "vsn": "VSN_4043",
   "scientific_name": "Phloeosinus sannohensis",
   "authorship": "Murayama, 1954",
-  "chinese_name": "",
+  "chinese_name": "山野肤小蠹",
   "genus": "Phloeosinus",
   "subfamily": "Scolytinae",
   "tribe": "Phloeosinini",
@@ -70,5 +70,7 @@
       ],
       "citation": "Murayama, J.J. (1954). Scolytid-fauna on the northern half of Honshu with a distribution table of all the scolytid-species described from Japan. Bulletin of the Faculty of Agriculture, Yamaguchi University 5: 149–212."
     }
-  ]
+  ],
+  "recommended_chinese_name": "山野肤小蠹",
+  "former_chinese_names": []
 }

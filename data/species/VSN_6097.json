@@ -2,7 +2,7 @@
   "vsn": "VSN_6097",
   "scientific_name": "Xyleborinus octiesdentatus",
   "authorship": "(Murayama, 1931)",
-  "chinese_name": "穴齿材小蠹",
+  "chinese_name": "穴齿绒盾小蠹",
   "genus": "Xyleborinus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -135,5 +135,9 @@
       ],
       "citation": "Murayama, J.J. (1931). Revision des familles des Ipides et Platypides (Coléoptères ) de l'ile de Quelpart. Annotationes Zoologicae Japonenses 13(2): 39–62."
     }
+  ],
+  "recommended_chinese_name": "穴齿绒盾小蠹",
+  "former_chinese_names": [
+    "穴齿材小蠹"
   ]
 }

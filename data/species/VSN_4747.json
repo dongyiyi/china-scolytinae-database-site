@@ -2,7 +2,7 @@
   "vsn": "VSN_4747",
   "scientific_name": "Polygraphus rudis rudis",
   "authorship": "Eggers, 1933",
-  "chinese_name": "多鳞四眼小蠹",
+  "chinese_name": "露滴四眼小蠹指名亚种",
   "genus": "Polygraphus",
   "subfamily": "Scolytinae",
   "tribe": "Polygraphini",
@@ -149,5 +149,9 @@
       ],
       "citation": "Yin, H.F. & Huang, F.S. (1981). Coleoptera: Scolytidae [In Chinese]. Insects of Xizang 1: 555–570."
     }
+  ],
+  "recommended_chinese_name": "露滴四眼小蠹指名亚种",
+  "former_chinese_names": [
+    "南方四眼小蠹"
   ]
 }

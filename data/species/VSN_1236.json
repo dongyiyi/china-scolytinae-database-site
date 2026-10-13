@@ -2,7 +2,7 @@
   "vsn": "VSN_1236",
   "scientific_name": "Coccotrypes rugicollis",
   "authorship": "(Eggers, 1925)",
-  "chinese_name": "",
+  "chinese_name": "皱胸椰小蠹",
   "genus": "Coccotrypes",
   "subfamily": "Scolytinae",
   "tribe": "Dryocoetini",
@@ -81,5 +81,7 @@
       ],
       "citation": "Eggers, H. (1925). Ipidae aus Birma. Sborník Entomologického Oddělení Národního Musea v Praze 3(21): 151–160."
     }
-  ]
+  ],
+  "recommended_chinese_name": "皱胸椰小蠹",
+  "former_chinese_names": []
 }

@@ -2,7 +2,7 @@
   "vsn": "VSN_4887",
   "scientific_name": "Pseudopityophthorus peregrinus",
   "authorship": "Wood & Yin, 1986",
-  "chinese_name": "",
+  "chinese_name": "奇鬃额小蠹",
   "genus": "Pseudopityophthorus",
   "subfamily": "Scolytinae",
   "tribe": "Corthylini",
@@ -70,5 +70,7 @@
       ],
       "citation": "Wood, S.L. & Yin, H.F. (1986). Relict occurrence of three 'American' Scolytidae (Coleoptera) in Asia. The Great Basin Naturalist 46(3): 461–464."
     }
-  ]
+  ],
+  "recommended_chinese_name": "奇鬃额小蠹",
+  "former_chinese_names": []
 }

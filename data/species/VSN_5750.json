@@ -2,7 +2,7 @@
   "vsn": "VSN_5750",
   "scientific_name": "Taphrorychus picipennis",
   "authorship": "(Eggers, 1926)",
-  "chinese_name": "黑色毛小蠹",
+  "chinese_name": "黑色细毛小蠹",
   "genus": "Taphrorychus",
   "subfamily": "Scolytinae",
   "tribe": "Dryocoetini",
@@ -89,5 +89,9 @@
       ],
       "citation": "Eggers, H. (1926a). Japanische Borkenkäfer, I. Entomologische Blätter 22: 133–138."
     }
+  ],
+  "recommended_chinese_name": "黑色细毛小蠹",
+  "former_chinese_names": [
+    "黑色毛小蠹"
   ]
 }

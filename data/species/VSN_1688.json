@@ -2,7 +2,7 @@
   "vsn": "VSN_1688",
   "scientific_name": "Cryphalus eriobotryae",
   "authorship": "Johnson, 2019",
-  "chinese_name": "",
+  "chinese_name": "枇杷梢小蠹",
   "genus": "Cryphalus",
   "subfamily": "Scolytinae",
   "tribe": "Cryphalini",
@@ -77,5 +77,7 @@
       "citation": "Yang, L. (2020). Checklist of the genus Cryphalus Erichson, 1836 (Coleoptera: Curculionidae: Scolytinae) with special attention to Chinese species. Zoological Systematics 45(3): 176–205.",
       "doi": "10.11865/zs.202023"
     }
-  ]
+  ],
+  "recommended_chinese_name": "枇杷梢小蠹",
+  "former_chinese_names": []
 }

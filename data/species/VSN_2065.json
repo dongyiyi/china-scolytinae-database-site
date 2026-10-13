@@ -2,7 +2,7 @@
   "vsn": "VSN_2065",
   "scientific_name": "Cyclorhipidion xeniolum",
   "authorship": "Smith, Beaver & Cognato, 2020",
-  "chinese_name": "",
+  "chinese_name": "橘胸环小蠹",
   "genus": "Cyclorhipidion",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -68,5 +68,7 @@
       "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
       "doi": "10.3897/zookeys.983.52630"
     }
-  ]
+  ],
+  "recommended_chinese_name": "橘胸环小蠹",
+  "former_chinese_names": []
 }

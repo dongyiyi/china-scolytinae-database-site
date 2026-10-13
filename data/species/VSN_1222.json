@@ -2,7 +2,7 @@
   "vsn": "VSN_1222",
   "scientific_name": "Coccotrypes perditor",
   "authorship": "Blandford, 1894",
-  "chinese_name": "",
+  "chinese_name": "毁椰小蠹",
   "genus": "Coccotrypes",
   "subfamily": "Scolytinae",
   "tribe": "Dryocoetini",
@@ -72,5 +72,7 @@
       ],
       "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
     }
-  ]
+  ],
+  "recommended_chinese_name": "毁椰小蠹",
+  "former_chinese_names": []
 }

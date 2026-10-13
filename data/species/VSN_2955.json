@@ -2,7 +2,7 @@
   "vsn": "VSN_2955",
   "scientific_name": "Hyledius cribratus",
   "authorship": "(Blandford, 1896)",
-  "chinese_name": "",
+  "chinese_name": "多孔类肤小蠹",
   "genus": "Hyledius",
   "subfamily": "Scolytinae",
   "tribe": "Phloeosinini",
@@ -138,5 +138,7 @@
       ],
       "citation": "Browne, F.G. (1970). Some Scolytidae and Platypodidae (Coleoptera) in the collection of the British Museum. Journal of Natural History 4: 539–583."
     }
-  ]
+  ],
+  "recommended_chinese_name": "多孔类肤小蠹",
+  "former_chinese_names": []
 }

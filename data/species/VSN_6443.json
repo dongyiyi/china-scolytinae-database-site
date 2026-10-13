@@ -2,7 +2,7 @@
   "vsn": "VSN_6443",
   "scientific_name": "Xylechinus padus",
   "authorship": "Wood, 1988",
-  "chinese_name": "",
+  "chinese_name": "稠李鳞小蠹",
   "genus": "Xylechinus",
   "subfamily": "Scolytinae",
   "tribe": "Hylurgini",
@@ -70,5 +70,7 @@
       ],
       "citation": "Wood, S.L. (1988a). Nomenclatural changes and new species of Scolytidae. The Great Basin Naturalist 48(1): 31–38."
     }
-  ]
+  ],
+  "recommended_chinese_name": "稠李鳞小蠹",
+  "former_chinese_names": []
 }

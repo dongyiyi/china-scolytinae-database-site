@@ -2,7 +2,7 @@
   "vsn": "VSN_3121",
   "scientific_name": "Hylurgops interstitialis",
   "authorship": "(Chapuis, 1876)",
-  "chinese_name": "红松干小蠹",
+  "chinese_name": "粗野干小蠹",
   "genus": "Hylurgops",
   "subfamily": "Scolytinae",
   "tribe": "Hylastini",
@@ -144,5 +144,7 @@
       ],
       "citation": "Murayama, J.J. (1936). Notes sur les Scolytides (Coléoptères) de Honshu et Kiushu, Japon. Tenthredo 1(2): 121–149."
     }
-  ]
+  ],
+  "recommended_chinese_name": "粗野干小蠹",
+  "former_chinese_names": []
 }

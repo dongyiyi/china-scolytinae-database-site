@@ -2,7 +2,7 @@
   "vsn": "VSN_4478",
   "scientific_name": "Pityophthorus lichtensteinii",
   "authorship": "(Ratzeburg, 1837)",
-  "chinese_name": "",
+  "chinese_name": "利细小蠹",
   "genus": "Pityophthorus",
   "subfamily": "Scolytinae",
   "tribe": "Corthylini",
@@ -100,5 +100,7 @@
       ],
       "citation": "Eggers, H. (1915a). Pityophthorus rossicus nov. spec. Entomologische Blätter 11: 13–14."
     }
-  ]
+  ],
+  "recommended_chinese_name": "利细小蠹",
+  "former_chinese_names": []
 }

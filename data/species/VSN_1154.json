@@ -2,7 +2,7 @@
   "vsn": "VSN_1154",
   "scientific_name": "Coccotrypes cardamomi",
   "authorship": "Schaufuss, 1905",
-  "chinese_name": "",
+  "chinese_name": "卡氏椰小蠹",
   "genus": "Coccotrypes",
   "subfamily": "Scolytinae",
   "tribe": "Dryocoetini",
@@ -72,5 +72,7 @@
       ],
       "citation": "Schaufuss, C.F.C. (1905a). Borkenkäferstudien. II. (Fortsetzung). Insekten-Börse 22(2): 8."
     }
-  ]
+  ],
+  "recommended_chinese_name": "卡氏椰小蠹",
+  "former_chinese_names": []
 }

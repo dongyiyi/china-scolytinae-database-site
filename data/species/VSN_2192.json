@@ -2,7 +2,7 @@
   "vsn": "VSN_2192",
   "scientific_name": "Debus adusticollis",
   "authorship": "(Motschulsky, 1863)",
-  "chinese_name": "",
+  "chinese_name": "微凹凹鞘小蠹",
   "genus": "Debus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -102,5 +102,7 @@
       "citation": "Schedl, K.E. (1931a). Notes on the genus Xyleborus Eichh. Annals and Magazine of Natural History. Ser. 10, 8(46): 339–347.",
       "doi": "10.1080/00222933108673402"
     }
-  ]
+  ],
+  "recommended_chinese_name": "微凹凹鞘小蠹",
+  "former_chinese_names": []
 }

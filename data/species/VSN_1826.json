@@ -2,7 +2,7 @@
   "vsn": "VSN_1826",
   "scientific_name": "Cryphalus schedli",
   "authorship": "Johnson, 2020",
-  "chinese_name": "",
+  "chinese_name": "舍德尔梢小蠹",
   "genus": "Cryphalus",
   "subfamily": "Scolytinae",
   "tribe": "Cryphalini",
@@ -101,5 +101,7 @@
       ],
       "citation": "Schedl, K.E. (1952h). Formosan Scolytoidea, I. lll Contribution to the morphology and taxonomy of the Scolytoidea. Philippine Journal of Science 81(1): 61–65."
     }
-  ]
+  ],
+  "recommended_chinese_name": "舍德尔梢小蠹",
+  "former_chinese_names": []
 }

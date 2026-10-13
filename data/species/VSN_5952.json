@@ -2,7 +2,7 @@
   "vsn": "VSN_5952",
   "scientific_name": "Trypodendron niponicum",
   "authorship": "Blandford, 1894",
-  "chinese_name": "",
+  "chinese_name": "日本木小蠹",
   "genus": "Trypodendron",
   "subfamily": "Scolytinae",
   "tribe": "Xyloterini",
@@ -83,5 +83,7 @@
       ],
       "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
     }
-  ]
+  ],
+  "recommended_chinese_name": "日本木小蠹",
+  "former_chinese_names": []
 }

@@ -2,7 +2,7 @@
   "vsn": "VSN_3684",
   "scientific_name": "Microperus kadoyamaensis",
   "authorship": "(Murayama, 1934)",
-  "chinese_name": "黄氏材小蠹",
+  "chinese_name": "角山小材小蠹",
   "genus": "Microperus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -212,5 +212,9 @@
       ],
       "citation": "Schedl, K.E. (1974d). Borken- und Ambrosiakäfer aus Vietnam (IV). 298 Beitrag zur Morphologie und Systematik der Scolytoidea. Travaux du Muséum d'Histoire Naturelle 'Grigore Antipa' 14: 261–266."
     }
+  ],
+  "recommended_chinese_name": "角山小材小蠹",
+  "former_chinese_names": [
+    "黄氏材小蠹"
   ]
 }

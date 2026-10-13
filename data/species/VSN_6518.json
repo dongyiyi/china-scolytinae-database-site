@@ -2,7 +2,7 @@
   "vsn": "VSN_6518",
   "scientific_name": "Xylosandrus dentipennis",
   "authorship": "Park & Smith, 2020",
-  "chinese_name": "",
+  "chinese_name": "齿鞘足距小蠹",
   "genus": "Xylosandrus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -91,5 +91,7 @@
       "citation": "Park, S., Smith, S.M., Cognato, A.I. & Beaver, R.A. (2020). Catalogue of Korean Xyleborine ambrosia beetles (Coleoptera: Curculionidae: Scolytinae) with seven new species. Journal of Asia-Pacific Biodiversity 13: 210–228.",
       "doi": "10.1016/j.japb.2020.01.002"
     }
-  ]
+  ],
+  "recommended_chinese_name": "齿鞘足距小蠹",
+  "former_chinese_names": []
 }

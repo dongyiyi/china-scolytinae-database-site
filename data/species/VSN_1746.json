@@ -2,7 +2,7 @@
   "vsn": "VSN_1746",
   "scientific_name": "Cryphalus mangiferae",
   "authorship": "Stebbing, 1914",
-  "chinese_name": "芒果梢小蠹",
+  "chinese_name": "杧果梢小蠹",
   "genus": "Cryphalus",
   "subfamily": "Scolytinae",
   "tribe": "Cryphalini",
@@ -236,5 +236,7 @@
       ],
       "citation": "Browne, F.G. (1970). Some Scolytidae and Platypodidae (Coleoptera) in the collection of the British Museum. Journal of Natural History 4: 539–583."
     }
-  ]
+  ],
+  "recommended_chinese_name": "杧果梢小蠹",
+  "former_chinese_names": []
 }

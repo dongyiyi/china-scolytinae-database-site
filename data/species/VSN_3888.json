@@ -2,7 +2,7 @@
   "vsn": "VSN_3888",
   "scientific_name": "Orthotomicus mannsfeldi",
   "authorship": "(Wachtl, 1880)",
-  "chinese_name": "中重齿小蠹",
+  "chinese_name": "中重瘤小蠹",
   "genus": "Orthotomicus",
   "subfamily": "Scolytinae",
   "tribe": "Ipini",
@@ -89,5 +89,9 @@
       ],
       "citation": "Wachtl, F.A. (1880). Ein neuer Feind der Schwarzkiefer. Verhandlungen der Kaiserlich-Königlichen Zoologisch-Botanischen Gesellschaft in Wien 29(2): 51–52."
     }
+  ],
+  "recommended_chinese_name": "中重瘤小蠹",
+  "former_chinese_names": [
+    "中重齿小蠹"
   ]
 }

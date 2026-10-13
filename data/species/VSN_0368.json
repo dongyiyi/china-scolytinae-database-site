@@ -2,7 +2,7 @@
   "vsn": "VSN_0368",
   "scientific_name": "Anisandrus cristatus",
   "authorship": "(Hagedorn, 1908)",
-  "chinese_name": "",
+  "chinese_name": "脊毛胸小蠹",
   "genus": "Anisandrus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -116,5 +116,9 @@
       "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
       "doi": "10.3897/zookeys.1271.168928"
     }
+  ],
+  "recommended_chinese_name": "脊毛胸小蠹",
+  "former_chinese_names": [
+    "脊毛胸材小蠹"
   ]
 }

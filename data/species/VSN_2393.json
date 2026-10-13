@@ -2,7 +2,7 @@
   "vsn": "VSN_2393",
   "scientific_name": "Diuncus haberkorni",
   "authorship": "(Eggers, 1920)",
-  "chinese_name": "",
+  "chinese_name": "哈氏双棘小蠹",
   "genus": "Diuncus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -173,5 +173,10 @@
       ],
       "citation": "Schedl, K.E. (1952h). Formosan Scolytoidea, I. lll Contribution to the morphology and taxonomy of the Scolytoidea. Philippine Journal of Science 81(1): 61–65."
     }
+  ],
+  "recommended_chinese_name": "哈氏双棘小蠹",
+  "former_chinese_names": [
+    "哈氏双小蠹",
+    "哈珀肯双沟小蠹"
   ]
 }

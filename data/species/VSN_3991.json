@@ -2,7 +2,7 @@
   "vsn": "VSN_3991",
   "scientific_name": "Phloeosinopsioides formosanus",
   "authorship": "(Schedl, 1935)",
-  "chinese_name": "",
+  "chinese_name": "台湾类皮小蠹",
   "genus": "Phloeosinopsioides",
   "subfamily": "Scolytinae",
   "tribe": "Phloeosinini",
@@ -121,5 +121,7 @@
       ],
       "citation": "Schedl, K.E. (1970g). Another collection of Scolytidae and Platypodidae of economic importance from the territory of Papua and New Guinea. 254 Contribution. Proceedings of the Linnean Society of New South Wales 94(2): 128–132."
     }
-  ]
+  ],
+  "recommended_chinese_name": "台湾类皮小蠹",
+  "former_chinese_names": []
 }

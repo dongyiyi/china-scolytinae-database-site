@@ -2,7 +2,7 @@
   "vsn": "VSN_6427",
   "scientific_name": "Xylechinus fatsiae",
   "authorship": "Lin, 2020",
-  "chinese_name": "",
+  "chinese_name": "八角金盘鳞小蠹",
   "genus": "Xylechinus",
   "subfamily": "Scolytinae",
   "tribe": "Hylurgini",
@@ -64,5 +64,7 @@
       "citation": "Lin, C.S. (2020). A new species of Xylechinus Chapuis (Coleoptera: Curculionidae: Scolytinae: Hylurgini) from Taiwan, with notes on its biology. Taiwania 65(2): 172–175.",
       "doi": "10.6165/tai.2020.65.172"
     }
-  ]
+  ],
+  "recommended_chinese_name": "八角金盘鳞小蠹",
+  "former_chinese_names": []
 }

@@ -2,7 +2,7 @@
   "vsn": "VSN_2652",
   "scientific_name": "Ernoporus japonicus",
   "authorship": "Nobuchi, 1966",
-  "chinese_name": "",
+  "chinese_name": "木槿枝小蠹",
   "genus": "Ernoporus",
   "subfamily": "Scolytinae",
   "tribe": "Ernoporini",
@@ -70,5 +70,7 @@
       ],
       "citation": "Nobuchi, A. (1966). Studies on Scolytidae, VI. Bulletin of the Government Forest Experiment Station 185: 51–56."
     }
-  ]
+  ],
+  "recommended_chinese_name": "木槿枝小蠹",
+  "former_chinese_names": []
 }

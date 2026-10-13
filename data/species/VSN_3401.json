@@ -2,7 +2,7 @@
   "vsn": "VSN_3401",
   "scientific_name": "Ips calligraphus calligraphus",
   "authorship": "(Germar, 1824)",
-  "chinese_name": "",
+  "chinese_name": "美雕齿小蠹",
   "genus": "Ips",
   "subfamily": "Scolytinae",
   "tribe": "Ipini",
@@ -155,6 +155,10 @@
       ],
       "citation": "Eichhoff, W.J. (1868c). Neue amerikanische Borkenkäfer-Gattungen und Arten. Berliner Entomologische Zeitschrift 11: 399–402."
     }
+  ],
+  "recommended_chinese_name": "美雕齿小蠹",
+  "former_chinese_names": [
+    "粗齿小蠹"
   ],
   "invasive_status": "Invasive"
 }

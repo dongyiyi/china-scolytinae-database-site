@@ -2,7 +2,7 @@
   "vsn": "VSN_5630",
   "scientific_name": "Sphaerotrypes querci",
   "authorship": "Stebbing, 1908",
-  "chinese_name": "",
+  "chinese_name": "栎球小蠹",
   "genus": "Sphaerotrypes",
   "subfamily": "Scolytinae",
   "tribe": "Diamerini",
@@ -108,5 +108,7 @@
       ],
       "citation": "Stebbing, E.P. (1909). On some undescribed Scolytidae of economic importance from the Indian Region, II. Indian Forest Memoirs, Forest Zoology Series 1(2): 13–32."
     }
-  ]
+  ],
+  "recommended_chinese_name": "栎球小蠹",
+  "former_chinese_names": []
 }

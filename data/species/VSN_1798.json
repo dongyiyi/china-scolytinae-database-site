@@ -2,7 +2,7 @@
   "vsn": "VSN_1798",
   "scientific_name": "Cryphalus pruni",
   "authorship": "Eggers, 1929",
-  "chinese_name": "",
+  "chinese_name": "李梢小蠹",
   "genus": "Cryphalus",
   "subfamily": "Scolytinae",
   "tribe": "Cryphalini",
@@ -71,5 +71,7 @@
       ],
       "citation": "Eggers, H. (1929c). Fünf neue Borkenkäfer (Ipidae) aus dem Osten. Entomologisches Nachrichtenblatt 3: 9–11."
     }
-  ]
+  ],
+  "recommended_chinese_name": "李梢小蠹",
+  "former_chinese_names": []
 }

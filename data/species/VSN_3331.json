@@ -2,7 +2,7 @@
   "vsn": "VSN_3331",
   "scientific_name": "Hypothenemus seriatus",
   "authorship": "(Eichhoff, 1872)",
-  "chinese_name": "",
+  "chinese_name": "丝咪小蠹",
   "genus": "Hypothenemus",
   "subfamily": "Scolytinae",
   "tribe": "Trypophloeini",
@@ -524,5 +524,7 @@
       ],
       "citation": "Schaufuss, C.F.C. (1897b). Beitrag zur Käferfauna Madagascars III Missions scientifiques de M Ch Alluaud aux iles Sechelles (1892) et a Diego-Suarez, Madagascar (1893) (Scolytidae et Platypodidae). Tijdschrift voor Entomologie 40: 209–225."
     }
-  ]
+  ],
+  "recommended_chinese_name": "丝咪小蠹",
+  "former_chinese_names": []
 }

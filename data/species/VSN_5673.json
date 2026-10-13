@@ -2,7 +2,7 @@
   "vsn": "VSN_5673",
   "scientific_name": "Stictodex dimidiatus",
   "authorship": "(Eggers, 1927)",
-  "chinese_name": "",
+  "chinese_name": "锤角小蠹",
   "genus": "Stictodex",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -178,5 +178,7 @@
       ],
       "citation": "Beeson, C.F.C. (1930). The biology of the genus Xyleborus, with more new species. Indian Forest Records, Entomology 14(10): 209–272."
     }
-  ]
+  ],
+  "recommended_chinese_name": "锤角小蠹",
+  "former_chinese_names": []
 }

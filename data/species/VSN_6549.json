@@ -2,7 +2,7 @@
   "vsn": "VSN_6549",
   "scientific_name": "Xylosandrus subsimilis",
   "authorship": "(Eggers, 1930)",
-  "chinese_name": "略同足距小蠹",
+  "chinese_name": "垂截足距小蠹",
   "genus": "Xylosandrus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -103,5 +103,9 @@
       ],
       "citation": "Eggers, H. (1930b). Neue Xyleborus-Arten (Col. Scolytidae) aus Indien. Indian Forest Records, Entomology 14(9): 177–208."
     }
+  ],
+  "recommended_chinese_name": "垂截足距小蠹",
+  "former_chinese_names": [
+    "略同足距小蠹"
   ]
 }

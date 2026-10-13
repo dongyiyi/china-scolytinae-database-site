@@ -2,7 +2,7 @@
   "vsn": "VSN_3703",
   "scientific_name": "Microperus recidens",
   "authorship": "(Sampson, 1923)",
-  "chinese_name": "",
+  "chinese_name": "红褐小材小蠹",
   "genus": "Microperus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -197,5 +197,7 @@
       ],
       "citation": "Browne, F.G. (1981b). Bark beetles and ambrosia beetles (Coleoptera, Scolytidae and Platypodidae) intercepted at Japanese ports, with descriptions of new species, VI. Kontyû 49(4): 597–606."
     }
-  ]
+  ],
+  "recommended_chinese_name": "红褐小材小蠹",
+  "former_chinese_names": []
 }

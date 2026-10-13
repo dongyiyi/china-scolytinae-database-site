@@ -2,7 +2,7 @@
   "vsn": "VSN_2217",
   "scientific_name": "Debus pumilus",
   "authorship": "(Eggers, 1923)",
-  "chinese_name": "",
+  "chinese_name": "橘胸凹鞘小蠹",
   "genus": "Debus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -177,5 +177,7 @@
       ],
       "citation": "Browne, F.G. (1974a). A summary of the scolytid fauna (Coleoptera) of Fiji, with some new species. Commonwealth Forestry Review 53(1): 63–71."
     }
-  ]
+  ],
+  "recommended_chinese_name": "橘胸凹鞘小蠹",
+  "former_chinese_names": []
 }

@@ -2,7 +2,7 @@
   "vsn": "VSN_4763",
   "scientific_name": "Polygraphus taiwanensis",
   "authorship": "Schedl, 1967",
-  "chinese_name": "",
+  "chinese_name": "台湾四眼小蠹",
   "genus": "Polygraphus",
   "subfamily": "Scolytinae",
   "tribe": "Polygraphini",
@@ -76,5 +76,7 @@
       ],
       "citation": "Schedl, K.E. (1967b). Bark-beetles and pin-hole borers (Scolytidae) intercepted from imported logs and seeds in Japanese ports. II. 254 Beitrag. Kontyû 35(2): 119–129."
     }
-  ]
+  ],
+  "recommended_chinese_name": "台湾四眼小蠹",
+  "former_chinese_names": []
 }

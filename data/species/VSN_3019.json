@@ -2,7 +2,7 @@
   "vsn": "VSN_3019",
   "scientific_name": "Hylesinus tupolevi",
   "authorship": "Stark, 1936",
-  "chinese_name": "",
+  "chinese_name": "图氏海小蠹",
   "genus": "Hylesinus",
   "subfamily": "Scolytinae",
   "tribe": "Hylesinini",
@@ -108,5 +108,7 @@
       ],
       "citation": "Stark, V.N. (1936). Novye vidy koroedov iz Aziatskoi chasti SSSR [Neue Borkenkäferarten aus dem asiatischen Teile der USSR]. Vestnik Dalʼnevostochnogo Filiala Akademii Nauk SSSR 18: 141–154."
     }
-  ]
+  ],
+  "recommended_chinese_name": "图氏海小蠹",
+  "former_chinese_names": []
 }

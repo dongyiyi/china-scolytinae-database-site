@@ -2,7 +2,7 @@
   "vsn": "VSN_5950",
   "scientific_name": "Trypodendron laeve",
   "authorship": "Eggers, 1939",
-  "chinese_name": "",
+  "chinese_name": "平滑木小蠹",
   "genus": "Trypodendron",
   "subfamily": "Scolytinae",
   "tribe": "Xyloterini",
@@ -89,5 +89,7 @@
       ],
       "citation": "Eggers, H. (1939a). Japanische Borkenkäfer, II. Arbeiten über Morphologische und Taxonomische Entomologie aus Berlin-Dahlem 6: 114–123."
     }
-  ]
+  ],
+  "recommended_chinese_name": "平滑木小蠹",
+  "former_chinese_names": []
 }

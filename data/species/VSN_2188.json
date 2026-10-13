@@ -2,7 +2,7 @@
   "vsn": "VSN_2188",
   "scientific_name": "Dactylipalpus transversus",
   "authorship": "Chapuis, 1869",
-  "chinese_name": "",
+  "chinese_name": "窗胸宽小蠹",
   "genus": "Dactylipalpus",
   "subfamily": "Scolytinae",
   "tribe": "Hylesinini",
@@ -83,5 +83,7 @@
       ],
       "citation": "Chapuis, F. (1869). Synopsis des Scolytides. (Prodrome d’un travail monographique). J. Desoer, Liège 61 pp."
     }
-  ]
+  ],
+  "recommended_chinese_name": "窗胸宽小蠹",
+  "former_chinese_names": []
 }

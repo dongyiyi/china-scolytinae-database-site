@@ -2,7 +2,7 @@
   "vsn": "VSN_5399",
   "scientific_name": "Scolytoplatypus brahma",
   "authorship": "Blandford, 1898",
-  "chinese_name": "",
+  "chinese_name": "梵天锉小蠹",
   "genus": "Scolytoplatypus",
   "subfamily": "Scolytinae",
   "tribe": "Scolytoplatypodini",
@@ -150,5 +150,7 @@
       ],
       "citation": "Blackman, M.W. (1943b). New species of Scolytoplatypus Schaufuss from Malaysia (Coleoptera; Scolytoidea). Proceedings of the Entomological Society of Washington 45: 121–126."
     }
-  ]
+  ],
+  "recommended_chinese_name": "梵天锉小蠹",
+  "former_chinese_names": []
 }

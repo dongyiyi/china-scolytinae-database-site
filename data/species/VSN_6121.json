@@ -2,7 +2,7 @@
   "vsn": "VSN_6121",
   "scientific_name": "Xyleborinus spinipennis",
   "authorship": "(Eggers, 1930)",
-  "chinese_name": "",
+  "chinese_name": "刺鞘绒盾小蠹",
   "genus": "Xyleborinus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -91,5 +91,7 @@
       ],
       "citation": "Eggers, H. (1930b). Neue Xyleborus-Arten (Col. Scolytidae) aus Indien. Indian Forest Records, Entomology 14(9): 177–208."
     }
-  ]
+  ],
+  "recommended_chinese_name": "刺鞘绒盾小蠹",
+  "former_chinese_names": []
 }

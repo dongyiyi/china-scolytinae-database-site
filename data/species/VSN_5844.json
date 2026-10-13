@@ -2,7 +2,7 @@
   "vsn": "VSN_5844",
   "scientific_name": "Tomicus armandii",
   "authorship": "Li & Zhang, 2010",
-  "chinese_name": "",
+  "chinese_name": "华山松切梢小蠹",
   "genus": "Tomicus",
   "subfamily": "Scolytinae",
   "tribe": "Hylurgini",
@@ -64,5 +64,7 @@
       "citation": "Li, X., Zhang, Z., Wang, H., Wu, W., Cao, P. & Zhang, P.Y. (2010). Tomicus armandii Li & Zhang (Curculionidae, Scolytinae), a new pine shoot borer from China. Zootaxa 2572: 57–64.",
       "doi": "10.11646/zootaxa.2572.1.4"
     }
-  ]
+  ],
+  "recommended_chinese_name": "华山松切梢小蠹",
+  "former_chinese_names": []
 }

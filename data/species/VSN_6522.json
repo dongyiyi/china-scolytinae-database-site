@@ -2,7 +2,7 @@
   "vsn": "VSN_6522",
   "scientific_name": "Xylosandrus diversepilosus",
   "authorship": "(Eggers, 1941)",
-  "chinese_name": "",
+  "chinese_name": "杂毛足距小蠹",
   "genus": "Xylosandrus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -96,5 +96,7 @@
       ],
       "citation": "Eggers, H. (1941c). Neue Borkenkäfer (Ipidae, Col.) aus China. Entomologische Blätter 37: 222–226."
     }
-  ]
+  ],
+  "recommended_chinese_name": "杂毛足距小蠹",
+  "former_chinese_names": []
 }

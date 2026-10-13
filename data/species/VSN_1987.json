@@ -2,7 +2,7 @@
   "vsn": "VSN_1987",
   "scientific_name": "Cyclorhipidion distinguendum",
   "authorship": "(Eggers, 1930)",
-  "chinese_name": "",
+  "chinese_name": "福建环小蠹",
   "genus": "Cyclorhipidion",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -154,5 +154,7 @@
       ],
       "citation": "Murayama, J.J. (1952). Notes on the scolytid-beetles (Coleoptera) from southern and western parts of Izu Peninsula, Shizuoka Prefecture. Bulletin of the Faculty of Agriculture, Yamaguchi University 3: 15–23."
     }
-  ]
+  ],
+  "recommended_chinese_name": "福建环小蠹",
+  "former_chinese_names": []
 }

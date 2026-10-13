@@ -2,7 +2,7 @@
   "vsn": "VSN_0159",
   "scientific_name": "Amasa concitata",
   "authorship": "Schedl, 1969",
-  "chinese_name": "",
+  "chinese_name": "凸尾截小蠹",
   "genus": "Amasa",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -107,5 +107,7 @@
   ],
   "nomenclature_note_reference_ids": [
     "smith2020"
-  ]
+  ],
+  "recommended_chinese_name": "凸尾截小蠹",
+  "former_chinese_names": []
 }

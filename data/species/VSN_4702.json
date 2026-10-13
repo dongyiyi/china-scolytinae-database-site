@@ -2,7 +2,7 @@
   "vsn": "VSN_4702",
   "scientific_name": "Polygraphus gracilis",
   "authorship": "Niisima, 1909",
-  "chinese_name": "",
+  "chinese_name": "北海道四眼小蠹",
   "genus": "Polygraphus",
   "subfamily": "Scolytinae",
   "tribe": "Polygraphini",
@@ -70,5 +70,7 @@
       ],
       "citation": "Niisima, Y. (1909). Die Scolytiden Hokkaidos unter Berücksichtigung ihrer Bedeutung für Forstschaden. Journal of the College of Agriculture, Tohoku Imperial University, Sapporo 3: 109–179."
     }
-  ]
+  ],
+  "recommended_chinese_name": "北海道四眼小蠹",
+  "former_chinese_names": []
 }

@@ -2,7 +2,7 @@
   "vsn": "VSN_1977",
   "scientific_name": "Cyclorhipidion circumcisum",
   "authorship": "(Sampson, 1921)",
-  "chinese_name": "",
+  "chinese_name": "壮环小蠹",
   "genus": "Cyclorhipidion",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -121,5 +121,7 @@
       ],
       "citation": "Schedl, K.E. (1942b). Forschungberiche zur Scolytoiden-Fauna der Malayischen Halbinsel, V. 80 Betrag. Kolonialforstliche Mitteilungen 5(2-3): 169–218."
     }
-  ]
+  ],
+  "recommended_chinese_name": "壮环小蠹",
+  "former_chinese_names": []
 }

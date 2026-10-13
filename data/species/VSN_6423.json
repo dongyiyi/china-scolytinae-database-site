@@ -2,7 +2,7 @@
   "vsn": "VSN_6423",
   "scientific_name": "Xylechinus bergeri",
   "authorship": "Spessivtsev, 1919",
-  "chinese_name": "",
+  "chinese_name": "伯格鳞小蠹",
   "genus": "Xylechinus",
   "subfamily": "Scolytinae",
   "tribe": "Hylurgini",
@@ -70,5 +70,7 @@
       ],
       "citation": "Spessivtsev, P. (1919). New bark-beetles from the neighbourhood of Vladivostok (East Siberia). Entomologist's Monthly Magazine 55(11): 246–251."
     }
-  ]
+  ],
+  "recommended_chinese_name": "伯格鳞小蠹",
+  "former_chinese_names": []
 }

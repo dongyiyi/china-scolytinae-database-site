@@ -2,7 +2,7 @@
   "vsn": "VSN_5730",
   "scientific_name": "Sueus granulatus",
   "authorship": "(Eggers, 1936)",
-  "chinese_name": "",
+  "chinese_name": "瘤粒矮喙小蠹",
   "genus": "Sueus",
   "subfamily": "Scolytinae",
   "tribe": "Hyorrhynchini",
@@ -82,5 +82,7 @@
       ],
       "citation": "Eggers, H. (1936e). Neue indomalayische Borkenkäfer (Ipidae). III. Nachtrag. Tijdschrift voor Entomologie 79: 77–91."
     }
-  ]
+  ],
+  "recommended_chinese_name": "瘤粒矮喙小蠹",
+  "former_chinese_names": []
 }

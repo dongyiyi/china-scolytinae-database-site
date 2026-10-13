@@ -2,7 +2,7 @@
   "vsn": "VSN_3893",
   "scientific_name": "Orthotomicus proximus",
   "authorship": "(Eichhoff, 1868)",
-  "chinese_name": "",
+  "chinese_name": "最近瘤小蠹",
   "genus": "Orthotomicus",
   "subfamily": "Scolytinae",
   "tribe": "Ipini",
@@ -119,5 +119,7 @@
       ],
       "citation": "Keler, S. (1925). Ein Versuch der Anwendung mathematisch-statistischer Methoden auf die entomologische Systematik mit Beschreibung einer neuen Borkenkäferart Ips fejferi n. sp. und Bemerkungen über Ips erosus Woll. Polskie Pismo Entomologiczne 4: 149–197, 4 pls."
     }
-  ]
+  ],
+  "recommended_chinese_name": "最近瘤小蠹",
+  "former_chinese_names": []
 }

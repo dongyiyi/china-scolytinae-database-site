@@ -2,7 +2,7 @@
   "vsn": "VSN_5020",
   "scientific_name": "Pseudoxylechinus piceae",
   "authorship": "Chen & Yin, 2001",
-  "chinese_name": "",
+  "chinese_name": "云杉拟鳞小蠹",
   "genus": "Pseudoxylechinus",
   "subfamily": "Scolytinae",
   "tribe": "Hylurgini",
@@ -70,5 +70,7 @@
       ],
       "citation": "Chen, Z.L. & Yin, H.F. (2001). A new species of the genus Pseudoxylechinus from Yunnan, China (Coleoptera: Scolytidae). Acta Zootaxonomica Sinica 26(3): 336–338."
     }
-  ]
+  ],
+  "recommended_chinese_name": "云杉拟鳞小蠹",
+  "former_chinese_names": []
 }

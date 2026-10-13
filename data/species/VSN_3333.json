@@ -2,7 +2,7 @@
   "vsn": "VSN_3333",
   "scientific_name": "Hypothenemus setosus",
   "authorship": "(Eichhoff, 1867)",
-  "chinese_name": "",
+  "chinese_name": "多毛咪小蠹",
   "genus": "Hypothenemus",
   "subfamily": "Scolytinae",
   "tribe": "Trypophloeini",
@@ -102,5 +102,7 @@
       ],
       "citation": "Hagedorn, J.M. (1912c). Borkenkäfer (Ipidae) welche in Kautschukbäumen leben. Revue Zoologique Africaine 1(3): 336–346, pl. xviii."
     }
-  ]
+  ],
+  "recommended_chinese_name": "多毛咪小蠹",
+  "former_chinese_names": []
 }

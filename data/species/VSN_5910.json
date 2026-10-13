@@ -2,7 +2,7 @@
   "vsn": "VSN_5910",
   "scientific_name": "Tricosa cattienensis",
   "authorship": "Cognato, Smith & Beaver, 2020",
-  "chinese_name": "",
+  "chinese_name": "吉仙魔小蠹",
   "genus": "Tricosa",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -87,5 +87,7 @@
       "citation": "Cognato, A.I., Smith, S.M. & Beaver, R.A. (2020). Two new genera of Oriental xyleborine ambrosia beetles (Coleoptera: Curculionidae: Scolytinae). Zootaxa 4722(6): 540–554.",
       "doi": "10.11646/zootaxa.4722.6.2"
     }
-  ]
+  ],
+  "recommended_chinese_name": "吉仙魔小蠹",
+  "former_chinese_names": []
 }

@@ -2,7 +2,7 @@
   "vsn": "VSN_5441",
   "scientific_name": "Scolytoplatypus samsinghensis",
   "authorship": "Maiti & Saha, 2009",
-  "chinese_name": "",
+  "chinese_name": "萨姆辛锉小蠹",
   "genus": "Scolytoplatypus",
   "subfamily": "Scolytinae",
   "tribe": "Scolytoplatypodini",
@@ -71,5 +71,7 @@
       ],
       "citation": "Maiti, P.K. & Saha, N. (2009). Fauna of India and the adjacent countries. Scolytidae: Coleoptera (bark and ambrosia beetles). Volume-I (Part-2). Calcutta Repro Graphics, Kolkata i–xiii + 245 pp."
     }
-  ]
+  ],
+  "recommended_chinese_name": "萨姆辛锉小蠹",
+  "former_chinese_names": []
 }

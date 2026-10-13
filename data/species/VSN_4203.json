@@ -2,7 +2,7 @@
   "vsn": "VSN_4203",
   "scientific_name": "Pityogenes bistridentatus",
   "authorship": "(Eichhoff, 1878)",
-  "chinese_name": "",
+  "chinese_name": "松星坑小蠹",
   "genus": "Pityogenes",
   "subfamily": "Scolytinae",
   "tribe": "Ipini",
@@ -119,5 +119,7 @@
       ],
       "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
     }
-  ]
+  ],
+  "recommended_chinese_name": "松星坑小蠹",
+  "former_chinese_names": []
 }

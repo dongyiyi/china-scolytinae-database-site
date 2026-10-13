@@ -2,7 +2,7 @@
   "vsn": "VSN_2765",
   "scientific_name": "Fraudatrix cuneiformis",
   "authorship": "(Schedl, 1958)",
-  "chinese_name": "",
+  "chinese_name": "楔形尖鞘小蠹",
   "genus": "Fraudatrix",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -87,5 +87,7 @@
       ],
       "citation": "Schedl, K.E. (1958e). Bark and timber beetles from Malaya. Malayan Forester 21(2): 99–105."
     }
-  ]
+  ],
+  "recommended_chinese_name": "楔形尖鞘小蠹",
+  "former_chinese_names": []
 }

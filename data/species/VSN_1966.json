@@ -2,7 +2,7 @@
   "vsn": "VSN_1966",
   "scientific_name": "Cyclorhipidion armiger",
   "authorship": "(Schedl, 1953)",
-  "chinese_name": "窝背材小蠹",
+  "chinese_name": "窝背环小蠹",
   "genus": "Cyclorhipidion",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -120,5 +120,10 @@
       ],
       "citation": "Schedl, K.E. (1953a). Fauna Sinensis, I. (120. Beitrag zur Morphologie und Systematik der Scolytoidea). Entomologische Blätter 49: 22–30."
     }
+  ],
+  "recommended_chinese_name": "窝背环小蠹",
+  "former_chinese_names": [
+    "窝背材小蠹",
+    "窝背壮材小蠹"
   ]
 }

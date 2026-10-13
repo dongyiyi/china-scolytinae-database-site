@@ -2,7 +2,7 @@
   "vsn": "VSN_6220",
   "scientific_name": "Xyleborus festivus",
   "authorship": "Eichhoff, 1876",
-  "chinese_name": "",
+  "chinese_name": "松树材小蠹",
   "genus": "Xyleborus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -152,5 +152,7 @@
       "citation": "Schedl, K.E. (1975g). Bark and timber beetles of the Oriental region. 319 Contribution. Oriental Insects 9(4): 451–460.",
       "doi": "10.1080/00305316.1975.10434514"
     }
-  ]
+  ],
+  "recommended_chinese_name": "松树材小蠹",
+  "former_chinese_names": []
 }

@@ -2,7 +2,7 @@
   "vsn": "VSN_5451",
   "scientific_name": "Scolytoplatypus zahradniki",
   "authorship": "Knížek, 2008",
-  "chinese_name": "",
+  "chinese_name": "扎氏锉小蠹",
   "genus": "Scolytoplatypus",
   "subfamily": "Scolytinae",
   "tribe": "Scolytoplatypodini",
@@ -63,5 +63,7 @@
       ],
       "citation": "Knížek, M. (2008). A new species of Scolytoplatypus (Coleoptera: Scolytidae) from China. Studies and Reports of District Museum Prague-East, Taxonomical Series 4(1–2): 119–124."
     }
-  ]
+  ],
+  "recommended_chinese_name": "扎氏锉小蠹",
+  "former_chinese_names": []
 }

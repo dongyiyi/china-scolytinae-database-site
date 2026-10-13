@@ -2,7 +2,7 @@
   "vsn": "VSN_4016",
   "scientific_name": "Phloeosinus granosus",
   "authorship": "Schedl, 1962",
-  "chinese_name": "",
+  "chinese_name": "粒肤小蠹",
   "genus": "Phloeosinus",
   "subfamily": "Scolytinae",
   "tribe": "Phloeosinini",
@@ -70,5 +70,7 @@
       ],
       "citation": "Schedl, K.E. (1962f). Borken- und Ambrosiakäfer aus Hinterindien. 207 Beitrag zur Morphologie und Systematik der Scolytoidea. Verhandlungen der Naturforschende Gesellschaft in Basel 73: 184–193."
     }
-  ]
+  ],
+  "recommended_chinese_name": "粒肤小蠹",
+  "former_chinese_names": []
 }

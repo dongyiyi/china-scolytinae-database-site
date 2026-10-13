@@ -2,7 +2,7 @@
   "vsn": "VSN_3417",
   "scientific_name": "Ips longifolia",
   "authorship": "(Stebbing, 1909)",
-  "chinese_name": "",
+  "chinese_name": "印度云杉齿小蠹",
   "genus": "Ips",
   "subfamily": "Scolytinae",
   "tribe": "Ipini",
@@ -81,5 +81,7 @@
       ],
       "citation": "Stebbing, E.P. (1909). On some undescribed Scolytidae of economic importance from the Indian Region, II. Indian Forest Memoirs, Forest Zoology Series 1(2): 13–32."
     }
-  ]
+  ],
+  "recommended_chinese_name": "印度云杉齿小蠹",
+  "former_chinese_names": []
 }

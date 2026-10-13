@@ -2,7 +2,7 @@
   "vsn": "VSN_2602",
   "scientific_name": "Eidophelus polisquamosus",
   "authorship": "(Yin, 2001)",
-  "chinese_name": "",
+  "chinese_name": "多鳞藤小蠹",
   "genus": "Eidophelus",
   "subfamily": "Scolytinae",
   "tribe": "Ernoporini",
@@ -75,5 +75,7 @@
       "citation": "Yin, H.F. (2001). The Chinese Scolytogenes Eichhoff with descriptions of seven new species (Coleoptera: Scolytidae). Oriental Insects 35(1): 321–334.",
       "doi": "10.1080/00305316.2001.10417311"
     }
-  ]
+  ],
+  "recommended_chinese_name": "多鳞藤小蠹",
+  "former_chinese_names": []
 }

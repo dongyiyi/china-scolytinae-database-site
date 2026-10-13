@@ -2,7 +2,7 @@
   "vsn": "VSN_3685",
   "scientific_name": "Microperus kirishimanus",
   "authorship": "(Murayama, 1955)",
-  "chinese_name": "",
+  "chinese_name": "雾岛小材小蠹",
   "genus": "Microperus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -92,5 +92,7 @@
       ],
       "citation": "Murayama, J.J. (1955). Supplementary notes on the scolytid-fauna of Japan. Bulletin of the Faculty of Agriculture, Yamaguchi University 6: 81–106."
     }
-  ]
+  ],
+  "recommended_chinese_name": "雾岛小材小蠹",
+  "former_chinese_names": []
 }

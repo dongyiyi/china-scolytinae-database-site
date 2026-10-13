@@ -2,7 +2,7 @@
   "vsn": "VSN_4496",
   "scientific_name": "Pityophthorus micrographus micrographus",
   "authorship": "(Linnaeus, 1758)",
-  "chinese_name": "",
+  "chinese_name": "细刻细小蠹",
   "genus": "Pityophthorus",
   "subfamily": "Scolytinae",
   "tribe": "Corthylini",
@@ -155,5 +155,7 @@
       ],
       "citation": "Sokanovskiy, B.V. (1954). Zametki o žukah koroedah Fauny SSSR (Coleoptera, Ipidae). Byulleten' Moskovskogo Obshchestva Ispytatelei Prirody Otdel Biologicheskii 59(5): 13–22."
     }
-  ]
+  ],
+  "recommended_chinese_name": "细刻细小蠹",
+  "former_chinese_names": []
 }

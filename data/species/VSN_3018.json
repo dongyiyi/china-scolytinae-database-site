@@ -2,7 +2,7 @@
   "vsn": "VSN_3018",
   "scientific_name": "Hylesinus tristis",
   "authorship": "Blandford, 1894",
-  "chinese_name": "黑鳞海小蠹",
+  "chinese_name": "黯海小蠹",
   "genus": "Hylesinus",
   "subfamily": "Scolytinae",
   "tribe": "Hylesinini",
@@ -104,5 +104,9 @@
       ],
       "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
     }
+  ],
+  "recommended_chinese_name": "黯海小蠹",
+  "former_chinese_names": [
+    "黑鳞海小蠹"
   ]
 }

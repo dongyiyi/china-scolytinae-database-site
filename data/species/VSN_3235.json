@@ -2,7 +2,7 @@
   "vsn": "VSN_3235",
   "scientific_name": "Hypothenemus glabripennis",
   "authorship": "(Hopkins, 1915)",
-  "chinese_name": "",
+  "chinese_name": "光翅咪小蠹",
   "genus": "Hypothenemus",
   "subfamily": "Scolytinae",
   "tribe": "Trypophloeini",
@@ -81,5 +81,7 @@
       ],
       "citation": "Hopkins, A.D. (1915d). Classification of the Cryphalinae with descriptions of new genera and species. United States Department of Agriculture, Office of the Secretary. Report 99: 1–75 + 4 plates."
     }
-  ]
+  ],
+  "recommended_chinese_name": "光翅咪小蠹",
+  "former_chinese_names": []
 }

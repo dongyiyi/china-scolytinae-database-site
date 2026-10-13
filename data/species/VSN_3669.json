@@ -2,7 +2,7 @@
   "vsn": "VSN_3669",
   "scientific_name": "Microperus bucolicus",
   "authorship": "Sittichaya, Smith & Beaver, 2021",
-  "chinese_name": "",
+  "chinese_name": "齿端小材小蠹",
   "genus": "Microperus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -71,5 +71,7 @@
       "citation": "Sittichaya, W., Smith, S.M., Beaver, R.A. & Thaochan, N. (2021). Revision of the xyleborine ambrosia beetle genus Microperus Wood, 1980 (Curculionidae, Scolytinae, Xyleborini) of Thailand with four new species and four newly recorded species. ZooKeys 1074: 191–214.",
       "doi": "10.3897/zookeys.1074.76235"
     }
-  ]
+  ],
+  "recommended_chinese_name": "齿端小材小蠹",
+  "former_chinese_names": []
 }

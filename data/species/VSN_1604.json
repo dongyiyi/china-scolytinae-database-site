@@ -2,7 +2,7 @@
   "vsn": "VSN_1604",
   "scientific_name": "Cosmoderes attenuatus",
   "authorship": "(Nobuchi, 1981)",
-  "chinese_name": "",
+  "chinese_name": "尖细茎小蠹",
   "genus": "Cosmoderes",
   "subfamily": "Scolytinae",
   "tribe": "Trypophloeini",
@@ -93,5 +93,7 @@
       ],
       "citation": "Nobuchi, A. (1981b). Studies on Scolytidae (Coleoptera) XXI. Three new genera and species from Japan. Kontyû 49(1): 12–18."
     }
-  ]
+  ],
+  "recommended_chinese_name": "尖细茎小蠹",
+  "former_chinese_names": []
 }

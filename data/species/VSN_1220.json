@@ -2,7 +2,7 @@
   "vsn": "VSN_1220",
   "scientific_name": "Coccotrypes papuanus",
   "authorship": "(Eggers, 1923)",
-  "chinese_name": "",
+  "chinese_name": "帕椰小蠹",
   "genus": "Coccotrypes",
   "subfamily": "Scolytinae",
   "tribe": "Dryocoetini",
@@ -133,5 +133,7 @@
       ],
       "citation": "Beeson, C.F.C. (1939). New species and biology of Coccotrypes and Thamnurgides (Scolytidae, Col). Indian Forest Records, Entomology (New Series) 5: 279–308."
     }
-  ]
+  ],
+  "recommended_chinese_name": "帕椰小蠹",
+  "former_chinese_names": []
 }

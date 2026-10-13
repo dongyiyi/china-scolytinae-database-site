@@ -2,7 +2,7 @@
   "vsn": "VSN_1969",
   "scientific_name": "Cyclorhipidion beaveri",
   "authorship": "Lin & Smith, 2022",
-  "chinese_name": "",
+  "chinese_name": "瘤粒环小蠹",
   "genus": "Cyclorhipidion",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -77,5 +77,7 @@
       "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
       "doi": "10.11646/zootaxa.5209.1.1"
     }
-  ]
+  ],
+  "recommended_chinese_name": "瘤粒环小蠹",
+  "former_chinese_names": []
 }

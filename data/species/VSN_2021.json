@@ -2,7 +2,7 @@
   "vsn": "VSN_2021",
   "scientific_name": "Cyclorhipidion ohnoi",
   "authorship": "(Browne, 1980)",
-  "chinese_name": "",
+  "chinese_name": "大野环小蠹",
   "genus": "Cyclorhipidion",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -96,5 +96,7 @@
       ],
       "citation": "Browne, F.G. (1980a). Bark beetles and ambrosia beetles (Coleoptera, Scolytidae and Platypodidae) intercepted at Japanese ports, with descriptions of new species, I. Kontyû 48(3): 370–379."
     }
-  ]
+  ],
+  "recommended_chinese_name": "大野环小蠹",
+  "former_chinese_names": []
 }

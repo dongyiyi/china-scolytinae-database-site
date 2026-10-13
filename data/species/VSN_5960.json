@@ -2,7 +2,7 @@
   "vsn": "VSN_5960",
   "scientific_name": "Trypophloeus alni",
   "authorship": "(Lindemann, 1875)",
-  "chinese_name": "",
+  "chinese_name": "桤木角梢小蠹",
   "genus": "Trypophloeus",
   "subfamily": "Scolytinae",
   "tribe": "Trypophloeini",
@@ -100,5 +100,9 @@
       ],
       "citation": "Lindemann, K. (1875a). Beiträge zur Kenntniss der Borkenkäfer Russlands. Bulletin de la Société Impériale des Naturalistes de Moscou 49(2): 131–146."
     }
+  ],
+  "recommended_chinese_name": "桤木角梢小蠹",
+  "former_chinese_names": [
+    "长角小蠹"
   ]
 }

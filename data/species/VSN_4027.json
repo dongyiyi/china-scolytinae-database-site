@@ -2,7 +2,7 @@
   "vsn": "VSN_4027",
   "scientific_name": "Phloeosinus lewisi",
   "authorship": "Chapuis, 1876",
-  "chinese_name": "",
+  "chinese_name": "日本肤小蠹",
   "genus": "Phloeosinus",
   "subfamily": "Scolytinae",
   "tribe": "Phloeosinini",
@@ -101,5 +101,7 @@
       ],
       "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
     }
-  ]
+  ],
+  "recommended_chinese_name": "日本肤小蠹",
+  "former_chinese_names": []
 }

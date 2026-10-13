@@ -2,7 +2,7 @@
   "vsn": "VSN_4677",
   "scientific_name": "Polygraphus abietis",
   "authorship": "Kurentsov, 1941",
-  "chinese_name": "",
+  "chinese_name": "枞四眼小蠹",
   "genus": "Polygraphus",
   "subfamily": "Scolytinae",
   "tribe": "Polygraphini",
@@ -70,5 +70,7 @@
       ],
       "citation": "Kurentsov, A.I. (1941). Koroedy Dal'nego Vostoka SSSR. Izdatel’stvo Akademii Nauk SSSR, Moskva, Leningrad 234 pp."
     }
-  ]
+  ],
+  "recommended_chinese_name": "枞四眼小蠹",
+  "former_chinese_names": []
 }

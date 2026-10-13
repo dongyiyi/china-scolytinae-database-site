@@ -2,7 +2,7 @@
   "vsn": "VSN_6140",
   "scientific_name": "Xyleborus affinis",
   "authorship": "Eichhoff, 1868",
-  "chinese_name": "",
+  "chinese_name": "橡胶材小蠹",
   "genus": "Xyleborus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -224,5 +224,7 @@
       "citation": "Beeson, C.F.C. (1935b). Platypodidae and Scolytidae of the Society Islands. Bulletin of the Bernice P. Bishop Museum 142: 115–121."
     }
   ],
+  "recommended_chinese_name": "橡胶材小蠹",
+  "former_chinese_names": [],
   "invasive_status": "Invasive"
 }

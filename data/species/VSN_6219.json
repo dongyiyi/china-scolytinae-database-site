@@ -2,7 +2,7 @@
   "vsn": "VSN_6219",
   "scientific_name": "Xyleborus ferrugineus",
   "authorship": "(Fabricius, 1801)",
-  "chinese_name": "",
+  "chinese_name": "赤材小蠹",
   "genus": "Xyleborus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -382,5 +382,7 @@
       "citation": "Eggers, H. (1934a). Borkenkäfer (Ipidae, Col.) aus Südamerika, VII. Entomologische Blätter 30(2): 78–84."
     }
   ],
+  "recommended_chinese_name": "赤材小蠹",
+  "former_chinese_names": [],
   "invasive_status": "Invasive"
 }

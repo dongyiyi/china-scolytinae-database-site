@@ -2,7 +2,7 @@
   "vsn": "VSN_1184",
   "scientific_name": "Coccotrypes graniceps",
   "authorship": "(Eichhoff, 1877)",
-  "chinese_name": "",
+  "chinese_name": "粒头椰小蠹",
   "genus": "Coccotrypes",
   "subfamily": "Scolytinae",
   "tribe": "Dryocoetini",
@@ -109,5 +109,7 @@
       ],
       "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
     }
-  ]
+  ],
+  "recommended_chinese_name": "粒头椰小蠹",
+  "former_chinese_names": []
 }

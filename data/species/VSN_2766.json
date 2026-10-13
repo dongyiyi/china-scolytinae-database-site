@@ -2,7 +2,7 @@
   "vsn": "VSN_2766",
   "scientific_name": "Fraudatrix melas",
   "authorship": "(Eggers, 1927)",
-  "chinese_name": "",
+  "chinese_name": "前圆尖鞘小蠹",
   "genus": "Fraudatrix",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -90,5 +90,7 @@
       ],
       "citation": "Eggers, H. (1927b). Neue indomalayische Borkenkäfer (Ipidae). II. Nachtrag. Philippine Journal of Science 33(1): 67–108."
     }
-  ]
+  ],
+  "recommended_chinese_name": "前圆尖鞘小蠹",
+  "former_chinese_names": []
 }

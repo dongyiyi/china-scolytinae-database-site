@@ -2,7 +2,7 @@
   "vsn": "VSN_6044",
   "scientific_name": "Xyleborinus andrewesi",
   "authorship": "(Blandford, 1896)",
-  "chinese_name": "尖尾材小蠹",
+  "chinese_name": "尖尾绒盾小蠹",
   "genus": "Xyleborinus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -196,5 +196,9 @@
       ],
       "citation": "Blandford, W.F.H. (1896e). Descriptions of new Scolytidae from the Indo-Malayan and Austro-Malayan regions. Transactions of the Entomological Society of London 1896: 191–228."
     }
+  ],
+  "recommended_chinese_name": "尖尾绒盾小蠹",
+  "former_chinese_names": [
+    "尖尾材小蠹"
   ]
 }

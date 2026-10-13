@@ -2,7 +2,7 @@
   "vsn": "VSN_4029",
   "scientific_name": "Phloeosinus metasequoiae",
   "authorship": "Ning, 2025",
-  "chinese_name": "",
+  "chinese_name": "水杉肤小蠹",
   "genus": "Phloeosinus",
   "subfamily": "Scolytinae",
   "tribe": "Phloeosinini",
@@ -64,5 +64,7 @@
       "citation": "Ning, H., Deng, R., Huang, B., Xiao, K., Huang, J., Hong, J. & Yi, Y. (2025). Phloeosinus metasequoiae sp. nov. (Coleoptera, Curculionidae, Scolytinae, Phloeosinini), a new insect pest of Metasequoia glyptostroboides in China. ZooKeys 1228: 161–172.",
       "doi": "10.3897/zookeys.1228.138084"
     }
-  ]
+  ],
+  "recommended_chinese_name": "水杉肤小蠹",
+  "former_chinese_names": []
 }

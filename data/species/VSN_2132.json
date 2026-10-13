@@ -2,7 +2,7 @@
   "vsn": "VSN_2132",
   "scientific_name": "Cyrtogenius nitidus",
   "authorship": "(Hagedorn, 1910)",
-  "chinese_name": "",
+  "chinese_name": "光亮额毛小蠹",
   "genus": "Cyrtogenius",
   "subfamily": "Scolytinae",
   "tribe": "Dryocoetini",
@@ -100,5 +100,7 @@
       ],
       "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3-4): 129–220."
     }
-  ]
+  ],
+  "recommended_chinese_name": "光亮额毛小蠹",
+  "former_chinese_names": []
 }

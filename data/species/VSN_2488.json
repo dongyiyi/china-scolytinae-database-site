@@ -2,7 +2,7 @@
   "vsn": "VSN_2488",
   "scientific_name": "Eccoptopterus formosanus",
   "authorship": "Lin, Sittichaya & Smith, 2024",
-  "chinese_name": "",
+  "chinese_name": "台湾胫浆小蠹",
   "genus": "Eccoptopterus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -80,5 +80,7 @@
       "citation": "Sittichaya, W., Lin, C.-S., Smith, S.M., Pornsuriya, C. & Cognato, A.I. (2024). Two new species of Eccoptopterus Motschulsky, 1863 ambrosia beetle from Taiwan and Thailand (Coleoptera, Curculionidae, Scolytinae, Xyleborini). ZooKeys 1217: 247–262.",
       "doi": "10.3897/zookeys.1217.129707"
     }
-  ]
+  ],
+  "recommended_chinese_name": "台湾胫浆小蠹",
+  "former_chinese_names": []
 }

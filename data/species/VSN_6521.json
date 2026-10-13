@@ -2,7 +2,7 @@
   "vsn": "VSN_6521",
   "scientific_name": "Xylosandrus discolor",
   "authorship": "(Blandford, 1898)",
-  "chinese_name": "两色材小蠹",
+  "chinese_name": "两色足距小蠹",
   "genus": "Xylosandrus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -214,5 +214,10 @@
       ],
       "citation": "Eggers, H. (1939a). Japanische Borkenkäfer, II. Arbeiten über Morphologische und Taxonomische Entomologie aus Berlin-Dahlem 6: 114–123."
     }
+  ],
+  "recommended_chinese_name": "两色足距小蠹",
+  "former_chinese_names": [
+    "两色材小蠹",
+    "双色足距小蠹"
   ]
 }

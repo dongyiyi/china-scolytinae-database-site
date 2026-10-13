@@ -2,7 +2,7 @@
   "vsn": "VSN_1971",
   "scientific_name": "Cyclorhipidion bodoanum",
   "authorship": "(Reitter, 1913)",
-  "chinese_name": "",
+  "chinese_name": "黄褐环小蠹",
   "genus": "Cyclorhipidion",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -160,5 +160,7 @@
       ],
       "citation": "Murayama, J.J. (1953a). Studies in the pine bark beetle control. Report of the Pine Bark Beetle Control Investigation Society, Development of Scientific Research. publisher unknown, presumably in Japan 113 pp."
     }
-  ]
+  ],
+  "recommended_chinese_name": "黄褐环小蠹",
+  "former_chinese_names": []
 }

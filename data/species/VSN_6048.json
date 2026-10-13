@@ -2,7 +2,7 @@
   "vsn": "VSN_6048",
   "scientific_name": "Xyleborinus artestriatus",
   "authorship": "(Eichhoff, 1878)",
-  "chinese_name": "",
+  "chinese_name": "纹盾绒盾小蠹",
   "genus": "Xyleborinus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -197,5 +197,10 @@
       "citation": "Beaver, R.A. & Browne, F.G. (1979). The Scolytidae and Platypodidae (Coleoptera) of Penang, Malaysia. Oriental Insects 12(4): 575–624.",
       "doi": "10.1080/00305316.1978.10432538"
     }
+  ],
+  "recommended_chinese_name": "纹盾绒盾小蠹",
+  "former_chinese_names": [
+    "纹盾材小蠹",
+    "纹绒盾材小蠹"
   ]
 }

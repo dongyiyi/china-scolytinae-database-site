@@ -2,7 +2,7 @@
   "vsn": "VSN_2083",
   "scientific_name": "Cyrtogenius brevior",
   "authorship": "(Eggers, 1927)",
-  "chinese_name": "",
+  "chinese_name": "短翅额毛小蠹",
   "genus": "Cyrtogenius",
   "subfamily": "Scolytinae",
   "tribe": "Dryocoetini",
@@ -81,5 +81,7 @@
       ],
       "citation": "Eggers, H. (1927b). Neue indomalayische Borkenkäfer (Ipidae). II. Nachtrag. Philippine Journal of Science 33(1): 67–108."
     }
-  ]
+  ],
+  "recommended_chinese_name": "短翅额毛小蠹",
+  "former_chinese_names": []
 }

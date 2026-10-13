@@ -2,7 +2,7 @@
   "vsn": "VSN_5397",
   "scientific_name": "Scolytoplatypus blandfordi",
   "authorship": "Gebhardt, 2006",
-  "chinese_name": "",
+  "chinese_name": "布氏锉小蠹",
   "genus": "Scolytoplatypus",
   "subfamily": "Scolytinae",
   "tribe": "Scolytoplatypodini",
@@ -85,5 +85,7 @@
       ],
       "citation": "Beaver, R.A. & Gebhardt, H. (2006). A review of the Oriental species of Scolytoplatypus Schaufuss (Coleoptera, Curculionidae, Scolytinae). Deutsche Entomologische Zeitschrift. (N. S.) 53(2): 155–178."
     }
-  ]
+  ],
+  "recommended_chinese_name": "布氏锉小蠹",
+  "former_chinese_names": []
 }

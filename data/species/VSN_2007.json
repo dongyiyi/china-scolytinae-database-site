@@ -2,7 +2,7 @@
   "vsn": "VSN_2007",
   "scientific_name": "Cyclorhipidion miyazakiense",
   "authorship": "(Murayama, 1936)",
-  "chinese_name": "茸毛材小蠹",
+  "chinese_name": "齿鞘环小蠹",
   "genus": "Cyclorhipidion",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -155,5 +155,9 @@
       ],
       "citation": "Nobuchi, A. (1981c). Studies on Scolytidae (Coleoptera). XXII. Six new species and two new females of the genus Xyleborus from Japan. Kontyû 49(1): 143–154."
     }
+  ],
+  "recommended_chinese_name": "齿鞘环小蠹",
+  "former_chinese_names": [
+    "茸毛材小蠹"
   ]
 }

@@ -2,7 +2,7 @@
   "vsn": "VSN_3182",
   "scientific_name": "Hypothenemus birmanus",
   "authorship": "(Eichhoff, 1878)",
-  "chinese_name": "缅甸眯小蠹",
+  "chinese_name": "缅甸咪小蠹",
   "genus": "Hypothenemus",
   "subfamily": "Scolytinae",
   "tribe": "Trypophloeini",
@@ -384,5 +384,7 @@
       "citation": "Schedl, K.E. (1971e). Indomalayan bark and timber beetles. 276 Contribution. Oriental Insects 5(3): 361–399.",
       "doi": "10.1080/00305316.1971.10434023"
     }
-  ]
+  ],
+  "recommended_chinese_name": "缅甸咪小蠹",
+  "former_chinese_names": []
 }

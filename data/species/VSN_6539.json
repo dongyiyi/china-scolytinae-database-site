@@ -2,7 +2,7 @@
   "vsn": "VSN_6539",
   "scientific_name": "Xylosandrus morigerus",
   "authorship": "(Blandford, 1894)",
-  "chinese_name": "",
+  "chinese_name": "小粒足距小蠹",
   "genus": "Xylosandrus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -160,5 +160,7 @@
       ],
       "citation": "Schedl, K.E. (1955e). Borfken- und Ambrosiakäfer aus den Pazifischen Raum. 150 Beitrag zur Morphologie und Systematik der Scolytoidea. Entomologische Arbeiten aus dem Museum Georg Frey 6: 277–310."
     }
-  ]
+  ],
+  "recommended_chinese_name": "小粒足距小蠹",
+  "former_chinese_names": []
 }

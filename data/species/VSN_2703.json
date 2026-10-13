@@ -2,7 +2,7 @@
   "vsn": "VSN_2703",
   "scientific_name": "Euwallacea kuroshio",
   "authorship": "Gomez & Hulcr, 2018",
-  "chinese_name": "",
+  "chinese_name": "壮方胸小蠹",
   "genus": "Euwallacea",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -72,5 +72,9 @@
       "citation": "Gomez, D.F., Skelton, J., Steininger, M.S., Stouthamer, R., Rugman-Jones, P., Sittichaya, W., Rabaglia, R.J. & Hulcr, J. (2018). Species delineation within the Euwallacea fornicatus (Coleoptera: Curculionidae) complex revealed by morphometric and phylogenetic analyses. Insect Systematics and Diversity 2(6): 1–11.",
       "doi": "10.1093/isd/ixy018"
     }
+  ],
+  "recommended_chinese_name": "壮方胸小蠹",
+  "former_chinese_names": [
+    "黑潮方胸小蠹"
   ]
 }

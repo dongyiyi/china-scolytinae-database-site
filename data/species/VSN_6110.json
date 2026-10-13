@@ -2,7 +2,7 @@
   "vsn": "VSN_6110",
   "scientific_name": "Xyleborinus schaufussi",
   "authorship": "(Blandford, 1894)",
-  "chinese_name": "",
+  "chinese_name": "绍绒盾小蠹",
   "genus": "Xyleborinus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -124,5 +124,7 @@
       ],
       "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
     }
-  ]
+  ],
+  "recommended_chinese_name": "绍绒盾小蠹",
+  "former_chinese_names": []
 }

@@ -2,7 +2,7 @@
   "vsn": "VSN_2909",
   "scientific_name": "Heteroborips seriatus",
   "authorship": "(Blandford, 1894)",
-  "chinese_name": "毛列材小蠹",
+  "chinese_name": "毛列菌室小蠹",
   "genus": "Heteroborips",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -192,5 +192,9 @@
       ],
       "citation": "Kôno, H. (1938). Neue und wenig bekannte Ipiden als Schädlinge an Sachalintannen und Ezofichten in Hokkaido. Insecta Matsumurana 12: 64–73."
     }
+  ],
+  "recommended_chinese_name": "毛列菌室小蠹",
+  "former_chinese_names": [
+    "毛列材小蠹"
   ]
 }

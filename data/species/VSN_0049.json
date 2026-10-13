@@ -2,7 +2,7 @@
   "vsn": "VSN_0049",
   "scientific_name": "Acanthotomicus diaboliculus",
   "authorship": "Cognato & Smith, 2020",
-  "chinese_name": "",
+  "chinese_name": "微魔刺小蠹",
   "genus": "Acanthotomicus",
   "subfamily": "Scolytinae",
   "tribe": "Ipini",
@@ -64,5 +64,7 @@
       "citation": "Cognato, A.I. & Smith, S.M. (2020). Acanthotomicus diaboliculus and A. enzoi (Coleoptera: Curculionidae: Scolytinae: Ipini), new species from Southeast Asia. The Coleopterists Bulletin 74(3): 538–541.",
       "doi": "10.1649/0010-065x-74.3.538"
     }
-  ]
+  ],
+  "recommended_chinese_name": "微魔刺小蠹",
+  "former_chinese_names": []
 }

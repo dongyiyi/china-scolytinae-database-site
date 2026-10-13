@@ -2,7 +2,7 @@
   "vsn": "VSN_2140",
   "scientific_name": "Cyrtogenius perakensis",
   "authorship": "(Schedl, 1936)",
-  "chinese_name": "",
+  "chinese_name": "泼额毛小蠹",
   "genus": "Cyrtogenius",
   "subfamily": "Scolytinae",
   "tribe": "Dryocoetini",
@@ -101,5 +101,7 @@
       "citation": "Browne, F.G. (1949). Notes on Malayan Scolytoidea (Coleoptera) with descriptions of new species. Annals and Magazine of Natural History. Ser. 12, 1(12): 892–912.",
       "doi": "10.1080/00222934808653953"
     }
-  ]
+  ],
+  "recommended_chinese_name": "泼额毛小蠹",
+  "former_chinese_names": []
 }

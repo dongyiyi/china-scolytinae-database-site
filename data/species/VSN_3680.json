@@ -2,7 +2,7 @@
   "vsn": "VSN_3680",
   "scientific_name": "Microperus fulvulus",
   "authorship": "(Schedl, 1942)",
-  "chinese_name": "",
+  "chinese_name": "黄褐小材小蠹",
   "genus": "Microperus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -114,5 +114,7 @@
       ],
       "citation": "Schedl, K.E. (1939j). Scolytidae and Platypodidae. 47 Beitrag. Tijdschrift voor Entomologie 82: 30–53."
     }
-  ]
+  ],
+  "recommended_chinese_name": "黄褐小材小蠹",
+  "former_chinese_names": []
 }

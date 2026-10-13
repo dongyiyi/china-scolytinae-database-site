@@ -2,7 +2,7 @@
   "vsn": "VSN_2328",
   "scientific_name": "Diamerus ater",
   "authorship": "Hagedorn, 1909",
-  "chinese_name": "",
+  "chinese_name": "暗黑达梅小蠹",
   "genus": "Diamerus",
   "subfamily": "Scolytinae",
   "tribe": "Diamerini",
@@ -70,5 +70,7 @@
       ],
       "citation": "Hagedorn, J.M. (1909). Diagnosen bisher unbescriebener Borkenkäfer (Col.). Deutsche Entomologische Zeitschrift 1909(1): 733–746."
     }
-  ]
+  ],
+  "recommended_chinese_name": "暗黑达梅小蠹",
+  "former_chinese_names": []
 }

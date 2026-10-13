@@ -2,7 +2,7 @@
   "vsn": "VSN_2914",
   "scientific_name": "Hylastes ater",
   "authorship": "Erichson, 1836",
-  "chinese_name": "",
+  "chinese_name": "欧洲根小蠹",
   "genus": "Hylastes",
   "subfamily": "Scolytinae",
   "tribe": "Hylastini",
@@ -187,5 +187,7 @@
       ],
       "citation": "Bedel, L. (1888). Faune des coléoptères du Bassin de la Seine. Vol. VI. Rhynchophora (Cont.). Annales de la Société Entomologique de France. Publication Hors Série. 7(4 ): 385–444."
     }
-  ]
+  ],
+  "recommended_chinese_name": "欧洲根小蠹",
+  "former_chinese_names": []
 }

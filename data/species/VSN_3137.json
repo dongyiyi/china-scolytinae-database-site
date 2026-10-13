@@ -2,7 +2,7 @@
   "vsn": "VSN_3137",
   "scientific_name": "Hylurgus ligniperda",
   "authorship": "(Fabricius, 1787)",
-  "chinese_name": "",
+  "chinese_name": "长林小蠹",
   "genus": "Hylurgus",
   "subfamily": "Scolytinae",
   "tribe": "Hylurgini",
@@ -144,5 +144,7 @@
       "citation": "Kolenati, F.A. (1846). Meletemata Entomologica. Fascicule III. Brachelytra Caucasi cum distrubutione geographica adnexis Pselaphinis, Scydmaenis, Notoxidibus et Xylophagis. Typis Imperialis Academiae Scientiarum, Petropoli [6] + pp 1–44, + pls 12–14."
     }
   ],
+  "recommended_chinese_name": "长林小蠹",
+  "former_chinese_names": [],
   "invasive_status": "Invasive"
 }

@@ -2,7 +2,7 @@
   "vsn": "VSN_6228",
   "scientific_name": "Xyleborus glabratus",
   "authorship": "Eichhoff, 1877",
-  "chinese_name": "",
+  "chinese_name": "光材小蠹",
   "genus": "Xyleborus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -117,5 +117,7 @@
       ],
       "citation": "Murayama, J.J. (1934a). Notes on the Ipidae (Coleoptera) from Kiushu. Annotationes Zoologicae Japonenses 14(3): 287–300."
     }
-  ]
+  ],
+  "recommended_chinese_name": "光材小蠹",
+  "former_chinese_names": []
 }

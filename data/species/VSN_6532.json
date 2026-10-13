@@ -2,7 +2,7 @@
   "vsn": "VSN_6532",
   "scientific_name": "Xylosandrus mancus",
   "authorship": "(Blandford, 1898)",
-  "chinese_name": "台湾截尾材小蠹",
+  "chinese_name": "截尾足距小蠹",
   "genus": "Xylosandrus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -170,5 +170,9 @@
       ],
       "citation": "Sampson, F.W. (1914). Coleoptera: Platypodidae and Ipidae from the Seychelles Islands. Transactions of the Linnean Society of London, Ser. 2 Zoology 16: 379–391."
     }
+  ],
+  "recommended_chinese_name": "截尾足距小蠹",
+  "former_chinese_names": [
+    "台湾截尾材小蠹"
   ]
 }

@@ -2,7 +2,7 @@
   "vsn": "VSN_4207",
   "scientific_name": "Pityogenes conjunctus",
   "authorship": "(Reitter, 1887)",
-  "chinese_name": "",
+  "chinese_name": "联星坑小蠹",
   "genus": "Pityogenes",
   "subfamily": "Scolytinae",
   "tribe": "Ipini",
@@ -100,5 +100,7 @@
       ],
       "citation": "Eggers, H. (1933b). Zur paläarktischen Borkenkäferfauna. Entomologische Blätter 29: 49–56."
     }
-  ]
+  ],
+  "recommended_chinese_name": "联星坑小蠹",
+  "former_chinese_names": []
 }

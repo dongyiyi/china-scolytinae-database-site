@@ -2,7 +2,7 @@
   "vsn": "VSN_2025",
   "scientific_name": "Cyclorhipidion perpilosellum",
   "authorship": "(Schedl, 1935)",
-  "chinese_name": "点茸材小蠹",
+  "chinese_name": "宽环小蠹",
   "genus": "Cyclorhipidion",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -125,5 +125,9 @@
       ],
       "citation": "Schedl, K.E. (1936e). Scolytidae and Platypodidae. Contribution 35. The collection of the South Australian Museum. Records of the South Australian Museum 5(4): 513–535."
     }
+  ],
+  "recommended_chinese_name": "宽环小蠹",
+  "former_chinese_names": [
+    "点茸材小蠹"
   ]
 }

@@ -2,7 +2,7 @@
   "vsn": "VSN_1191",
   "scientific_name": "Coccotrypes klapperichi",
   "authorship": "(Schedl, 1953)",
-  "chinese_name": "",
+  "chinese_name": "克氏椰小蠹",
   "genus": "Coccotrypes",
   "subfamily": "Scolytinae",
   "tribe": "Dryocoetini",
@@ -81,5 +81,7 @@
       ],
       "citation": "Schedl, K.E. (1953a). Fauna Sinensis, I. (120. Beitrag zur Morphologie und Systematik der Scolytoidea). Entomologische Blätter 49: 22–30."
     }
-  ]
+  ],
+  "recommended_chinese_name": "克氏椰小蠹",
+  "former_chinese_names": []
 }

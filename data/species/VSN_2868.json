@@ -2,7 +2,7 @@
   "vsn": "VSN_2868",
   "scientific_name": "Hadrodemius globus",
   "authorship": "(Blandford, 1896)",
-  "chinese_name": "",
+  "chinese_name": "球巨材小蠹",
   "genus": "Hadrodemius",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -141,5 +141,9 @@
       ],
       "citation": "Eggers, H. (1923b). Neue indomalayische Borkenkäfer (Ipidae). Zoologische Mededelingen 7(3–4): 129–220."
     }
+  ],
+  "recommended_chinese_name": "球巨材小蠹",
+  "former_chinese_names": [
+    "球巨才小蠹"
   ]
 }

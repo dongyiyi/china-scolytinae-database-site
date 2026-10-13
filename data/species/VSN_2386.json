@@ -2,7 +2,7 @@
   "vsn": "VSN_2386",
   "scientific_name": "Diuncus ciliatoformis",
   "authorship": "(Schedl, 1953)",
-  "chinese_name": "",
+  "chinese_name": "岛双棘小蠹",
   "genus": "Diuncus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -111,5 +111,9 @@
       ],
       "citation": "Schedl, K.E. (1953b). New Scolytoidea. Memoirs of the Queensland Museum 13: 80–83."
     }
+  ],
+  "recommended_chinese_name": "岛双棘小蠹",
+  "former_chinese_names": [
+    "岛双小蠹"
   ]
 }

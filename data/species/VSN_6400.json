@@ -2,7 +2,7 @@
   "vsn": "VSN_6400",
   "scientific_name": "Xyleborus volvulus",
   "authorship": "(Fabricius, 1775)",
-  "chinese_name": "",
+  "chinese_name": "可可材小蠹",
   "genus": "Xyleborus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -261,5 +261,9 @@
       ],
       "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
     }
+  ],
+  "recommended_chinese_name": "可可材小蠹",
+  "former_chinese_names": [
+    "强材小蠹"
   ]
 }

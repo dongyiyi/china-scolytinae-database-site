@@ -2,7 +2,7 @@
   "vsn": "VSN_3020",
   "scientific_name": "Hylesinus varius",
   "authorship": "(Fabricius, 1775)",
-  "chinese_name": "",
+  "chinese_name": "水曲柳海小蠹",
   "genus": "Hylesinus",
   "subfamily": "Scolytinae",
   "tribe": "Hylesinini",
@@ -293,5 +293,7 @@
       ],
       "citation": "Fabricius, J.C. (1792). Entomologia systematica emendata et aucta. Secundum classes, ordines, genera, species adjectis synonimis, locis, observationibus, descriptionibus. Tomus I. Pars II. Impensis Christ. Gottl. Proft, Hafniae xx + 538 pp."
     }
-  ]
+  ],
+  "recommended_chinese_name": "水曲柳海小蠹",
+  "former_chinese_names": []
 }

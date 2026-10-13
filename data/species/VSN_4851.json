@@ -2,7 +2,7 @@
   "vsn": "VSN_4851",
   "scientific_name": "Pseudohyorrhynchus wadai wadai",
   "authorship": "Murayama, 1950",
-  "chinese_name": "",
+  "chinese_name": "大和近喙小蠹",
   "genus": "Pseudohyorrhynchus",
   "subfamily": "Scolytinae",
   "tribe": "Hyorrhynchini",
@@ -87,5 +87,9 @@
       ],
       "citation": "Murayama, J.J. (1950a). Nouvelles espèces de Scolytides (Coléoptères) de l'île de Shikoku. Insecta Matsumurana 17(2): 61–64."
     }
+  ],
+  "recommended_chinese_name": "大和近喙小蠹",
+  "former_chinese_names": [
+    "大和伪喙小蠹"
   ]
 }

@@ -2,7 +2,7 @@
   "vsn": "VSN_2708",
   "scientific_name": "Blandfordium minutus",
   "authorship": "(Blandford, 1894)",
-  "chinese_name": "",
+  "chinese_name": "微小布氏小蠹",
   "genus": "Blandfordium",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -182,5 +182,7 @@
       ],
       "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
     }
-  ]
+  ],
+  "recommended_chinese_name": "微小布氏小蠹",
+  "former_chinese_names": []
 }

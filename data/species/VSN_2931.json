@@ -2,7 +2,7 @@
   "vsn": "VSN_2931",
   "scientific_name": "Hylastes opacus",
   "authorship": "Erichson, 1836",
-  "chinese_name": "",
+  "chinese_name": "云杉小根小蠹",
   "genus": "Hylastes",
   "subfamily": "Scolytinae",
   "tribe": "Hylastini",
@@ -109,5 +109,7 @@
       ],
       "citation": "Rey, C. (1892). Remarques en passant. [Cont.]. L'Échange, Revue Linnéenne 8(87): 30–31."
     }
-  ]
+  ],
+  "recommended_chinese_name": "云杉小根小蠹",
+  "former_chinese_names": []
 }

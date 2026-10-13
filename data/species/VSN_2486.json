@@ -2,7 +2,7 @@
   "vsn": "VSN_2486",
   "scientific_name": "Dryoxylon onoharaense",
   "authorship": "(Murayama, 1934)",
-  "chinese_name": "",
+  "chinese_name": "黄褐长胸小蠹",
   "genus": "Dryoxylon",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -86,5 +86,7 @@
       ],
       "citation": "Murayama, J.J. (1934a). Notes on the Ipidae (Coleoptera) from Kiushu. Annotationes Zoologicae Japonenses 14(3): 287–300."
     }
-  ]
+  ],
+  "recommended_chinese_name": "黄褐长胸小蠹",
+  "former_chinese_names": []
 }

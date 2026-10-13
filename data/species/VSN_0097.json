@@ -2,7 +2,7 @@
   "vsn": "VSN_0097",
   "scientific_name": "Acanthotomicus spinosus",
   "authorship": "Blandford, 1894",
-  "chinese_name": "",
+  "chinese_name": "栎刺小蠹",
   "genus": "Acanthotomicus",
   "subfamily": "Scolytinae",
   "tribe": "Ipini",
@@ -78,5 +78,7 @@
   "taxonomy_reference_ids": [
     "blandford1894",
     "johnson2026"
-  ]
+  ],
+  "recommended_chinese_name": "栎刺小蠹",
+  "former_chinese_names": []
 }

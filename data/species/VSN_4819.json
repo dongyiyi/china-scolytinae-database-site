@@ -2,7 +2,7 @@
   "vsn": "VSN_4819",
   "scientific_name": "Pseudips yak",
   "authorship": "Cognato & Smith, 2024",
-  "chinese_name": "",
+  "chinese_name": "牦牛假齿小蠹",
   "genus": "Pseudips",
   "subfamily": "Scolytinae",
   "tribe": "Ipini",
@@ -64,5 +64,7 @@
       "citation": "Cognato, A.I. & Smith, S.M. (2024). Taxonomic review of Pseudips Cognato (Coleoptera: Curculionidae: Scolytinae: Ipini) inferred from morphology and a DNA-based phylogeny. The Coleopterists Bulletin 78(2): 239–254.",
       "doi": "10.1649/0010-065x-78.2.239"
     }
-  ]
+  ],
+  "recommended_chinese_name": "牦牛假齿小蠹",
+  "former_chinese_names": []
 }

@@ -8,7 +8,6 @@
   "tribe": "Dryocoetini",
   "checklist_status": "Accepted",
   "review_status": "Reviewed",
-  "invasive_status": "Invasive",
   "china_occurrence": {
     "Mainland China": "Present",
     "Taiwan": "Not assessed",
@@ -310,5 +309,10 @@
       "citation": "Yan, X., Zhou, H., Shen, Z., Li, W., Guo, D., Song, Y., Lan, S. & Zhang, J. (2010). National investigations of stored grain arthropods in China. Julius-Kühn-Archiv 425: 212-218.",
       "doi": "10.5073/jka.2010.425.145"
     }
-  ]
+  ],
+  "recommended_chinese_name": "枣核椰小蠹",
+  "former_chinese_names": [
+    "棕榈核小蠹"
+  ],
+  "invasive_status": "Invasive"
 }

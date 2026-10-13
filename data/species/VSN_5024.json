@@ -2,7 +2,7 @@
   "vsn": "VSN_5024",
   "scientific_name": "Pseudoxylechinus tibetensis",
   "authorship": "Wood & Huang, 1986",
-  "chinese_name": "",
+  "chinese_name": "西藏拟鳞小蠹",
   "genus": "Pseudoxylechinus",
   "subfamily": "Scolytinae",
   "tribe": "Hylurgini",
@@ -70,5 +70,7 @@
       ],
       "citation": "Wood, S.L. & Huang, F.S. (1986). New genus of Scolytidae (Coleoptera) from Asia. The Great Basin Naturalist 46(3): 465–467."
     }
-  ]
+  ],
+  "recommended_chinese_name": "西藏拟鳞小蠹",
+  "former_chinese_names": []
 }

@@ -2,7 +2,7 @@
   "vsn": "VSN_1787",
   "scientific_name": "Cryphalus piceae",
   "authorship": "(Ratzeburg, 1837)",
-  "chinese_name": "",
+  "chinese_name": "广布梢小蠹",
   "genus": "Cryphalus",
   "subfamily": "Scolytinae",
   "tribe": "Cryphalini",
@@ -139,5 +139,7 @@
       ],
       "citation": "Eggers, H. (1940g). Zur paläarktischen Borkenkäferfauna. VII. Fünf neue Arten aus Anatolien. Zentralblatt für das Gesamtgebeit der Entomologie 66(2): 36–40."
     }
-  ]
+  ],
+  "recommended_chinese_name": "广布梢小蠹",
+  "former_chinese_names": []
 }

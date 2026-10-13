@@ -2,7 +2,7 @@
   "vsn": "VSN_1377",
   "scientific_name": "Coptodryas mus",
   "authorship": "(Eggers, 1930)",
-  "chinese_name": "",
+  "chinese_name": "尖鞘微材小蠹",
   "genus": "Coptodryas",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -107,5 +107,7 @@
       ],
       "citation": "Eggers, H. (1930b). Neue Xyleborus-Arten (Col. Scolytidae) aus Indien. Indian Forest Records, Entomology 14(9): 177–208."
     }
-  ]
+  ],
+  "recommended_chinese_name": "尖鞘微材小蠹",
+  "former_chinese_names": []
 }

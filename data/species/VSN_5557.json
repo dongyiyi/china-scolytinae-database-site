@@ -2,7 +2,7 @@
   "vsn": "VSN_5557",
   "scientific_name": "Scolytus ratzeburgi",
   "authorship": "Janson, 1856",
-  "chinese_name": "白桦小蠹",
+  "chinese_name": "欧桦小蠹",
   "genus": "Scolytus",
   "subfamily": "Scolytinae",
   "tribe": "Scolytini",
@@ -173,5 +173,9 @@
       ],
       "citation": "Eggers, H. (1912c). Beitrage zur Kenntnis der Borkenkäfer, IV. Entomologische Blätter 8: 203–210."
     }
+  ],
+  "recommended_chinese_name": "欧桦小蠹",
+  "former_chinese_names": [
+    "白桦小蠹"
   ]
 }

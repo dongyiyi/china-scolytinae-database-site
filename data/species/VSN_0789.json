@@ -2,7 +2,7 @@
   "vsn": "VSN_0789",
   "scientific_name": "Carphoborus minimus",
   "authorship": "(Fabricius, 1798)",
-  "chinese_name": "",
+  "chinese_name": "微粉小蠹",
   "genus": "Carphoborus",
   "subfamily": "Scolytinae",
   "tribe": "Polygraphini",
@@ -138,5 +138,7 @@
       ],
       "citation": "Redtenbacher, L. (1858). Fauna austriaca. Die Käfer. Nach der analytischen Methode bearbeitet. Zweite, gänzlich umgearbeitet, mit mehreren Hunderten von Arten und mit der Charakteristik sämmtlicher europäischen Käfergattungen vermehrte Auflage. Fasc. 7-8, pp. 769-1008. Carl Gerald’s Sohn, Wien cxxxvi + 1017 pp, 2 pl."
     }
-  ]
+  ],
+  "recommended_chinese_name": "微粉小蠹",
+  "former_chinese_names": []
 }

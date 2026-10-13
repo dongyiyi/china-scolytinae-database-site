@@ -2,7 +2,7 @@
   "vsn": "VSN_3693",
   "scientific_name": "Microperus nugax",
   "authorship": "(Schedl, 1939)",
-  "chinese_name": "",
+  "chinese_name": "淡胸小材小蠹",
   "genus": "Microperus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -101,5 +101,7 @@
       ],
       "citation": "Eggers, H. (1940f). Neue indomolayische Borkenkäfer (Ipidae). III. Nachrag (Forstsetzung). Tijdschrift voor Entomologie 83: 132–154."
     }
-  ]
+  ],
+  "recommended_chinese_name": "淡胸小材小蠹",
+  "former_chinese_names": []
 }

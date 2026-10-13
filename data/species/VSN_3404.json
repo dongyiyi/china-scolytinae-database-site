@@ -2,7 +2,7 @@
   "vsn": "VSN_3404",
   "scientific_name": "Ips cembrae",
   "authorship": "(Heer, 1836)",
-  "chinese_name": "",
+  "chinese_name": "落叶松齿小蠹",
   "genus": "Ips",
   "subfamily": "Scolytinae",
   "tribe": "Ipini",
@@ -140,5 +140,7 @@
       ],
       "citation": "Yano, S. (1924). Survey on the wood boring insects of the larch tree. Office of Tokyo Great Forest Area, Tokyo 23 pp."
     }
-  ]
+  ],
+  "recommended_chinese_name": "落叶松齿小蠹",
+  "former_chinese_names": []
 }

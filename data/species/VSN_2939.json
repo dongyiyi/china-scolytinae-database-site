@@ -2,7 +2,7 @@
   "vsn": "VSN_2939",
   "scientific_name": "Hylastes substriatus",
   "authorship": "Strohmeyer, 1914",
-  "chinese_name": "",
+  "chinese_name": "浅刻根小蠹",
   "genus": "Hylastes",
   "subfamily": "Scolytinae",
   "tribe": "Hylastini",
@@ -71,5 +71,7 @@
       ],
       "citation": "Strohmeyer, H. (1914a). Ein neuer Hylastes aus Zentralasien. Entomologische Blätter 10(1-2): 7–8."
     }
-  ]
+  ],
+  "recommended_chinese_name": "浅刻根小蠹",
+  "former_chinese_names": []
 }

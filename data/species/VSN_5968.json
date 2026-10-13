@@ -2,7 +2,7 @@
   "vsn": "VSN_5968",
   "scientific_name": "Trypophloeus klimeschi",
   "authorship": "Eggers, 1915",
-  "chinese_name": "",
+  "chinese_name": "克里角梢小蠹",
   "genus": "Trypophloeus",
   "subfamily": "Scolytinae",
   "tribe": "Trypophloeini",
@@ -70,5 +70,7 @@
       ],
       "citation": "Eggers, H. (1915c). Trypophloeus klimeschi nov. spec. Entomologische Blätter 11: 188."
     }
-  ]
+  ],
+  "recommended_chinese_name": "克里角梢小蠹",
+  "former_chinese_names": []
 }

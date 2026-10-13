@@ -2,7 +2,7 @@
   "vsn": "VSN_6510",
   "scientific_name": "Xylosandrus brevis",
   "authorship": "(Eichhoff, 1877)",
-  "chinese_name": "短翅材小蠹",
+  "chinese_name": "短翅足距小蠹",
   "genus": "Xylosandrus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -177,5 +177,9 @@
       ],
       "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
     }
+  ],
+  "recommended_chinese_name": "短翅足距小蠹",
+  "former_chinese_names": [
+    "短翅材小蠹"
   ]
 }

@@ -2,7 +2,7 @@
   "vsn": "VSN_1933",
   "scientific_name": "Crypturgus tuberosus",
   "authorship": "Niisima, 1909",
-  "chinese_name": "",
+  "chinese_name": "瘤微小蠹",
   "genus": "Crypturgus",
   "subfamily": "Scolytinae",
   "tribe": "Crypturgini",
@@ -79,5 +79,7 @@
       ],
       "citation": "Niisima, Y. (1909). Die Scolytiden Hokkaidos unter Berücksichtigung ihrer Bedeutung für Forstschaden. Journal of the College of Agriculture, Tohoku Imperial University, Sapporo 3: 109–179."
     }
-  ]
+  ],
+  "recommended_chinese_name": "瘤微小蠹",
+  "former_chinese_names": []
 }

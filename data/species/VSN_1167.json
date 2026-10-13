@@ -2,7 +2,7 @@
   "vsn": "VSN_1167",
   "scientific_name": "Coccotrypes cyperi",
   "authorship": "(Beeson, 1929)",
-  "chinese_name": "柏木鬃小蠹",
+  "chinese_name": "柏木椰小蠹",
   "genus": "Coccotrypes",
   "subfamily": "Scolytinae",
   "tribe": "Dryocoetini",
@@ -258,5 +258,9 @@
       ],
       "citation": "Schedl, K.E. (1936a). Scolytidae und Platypodidae (Coleopt.) - neue Zentral- und Südamerikanische Arten (36 Beitrag). Archivos do Instituto de Biologia Vegetal, Rio de Janeiro 3(1): 99–110."
     }
+  ],
+  "recommended_chinese_name": "柏木椰小蠹",
+  "former_chinese_names": [
+    "柏木鬃小蠹"
   ]
 }

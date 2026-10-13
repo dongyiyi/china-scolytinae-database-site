@@ -2,7 +2,7 @@
   "vsn": "VSN_2915",
   "scientific_name": "Hylastes attenuatus",
   "authorship": "Erichson, 1836",
-  "chinese_name": "",
+  "chinese_name": "狭根小蠹",
   "genus": "Hylastes",
   "subfamily": "Scolytinae",
   "tribe": "Hylastini",
@@ -71,5 +71,7 @@
       ],
       "citation": "Erichson, W.F. (1836). Systematische Auseinandersetzung der Familie der Borkenkäfer (Bostrichidae). Archiv für Naturgeschichte 2: 45–65."
     }
-  ]
+  ],
+  "recommended_chinese_name": "狭根小蠹",
+  "former_chinese_names": []
 }

@@ -2,7 +2,7 @@
   "vsn": "VSN_2336",
   "scientific_name": "Diamerus fici",
   "authorship": "Blandford, 1898",
-  "chinese_name": "",
+  "chinese_name": "榕达梅小蠹",
   "genus": "Diamerus",
   "subfamily": "Scolytinae",
   "tribe": "Diamerini",
@@ -70,5 +70,7 @@
       ],
       "citation": "Blandford, W.F.H. (1898b). On some Oriental Scolytidae of economic importance, with descriptions of five new species. Transactions of the Entomological Society of London 1898: 423–430."
     }
-  ]
+  ],
+  "recommended_chinese_name": "榕达梅小蠹",
+  "former_chinese_names": []
 }

@@ -2,7 +2,7 @@
   "vsn": "VSN_3238",
   "scientific_name": "Hypothenemus hampei",
   "authorship": "(Ferrari, 1867)",
-  "chinese_name": "",
+  "chinese_name": "咖啡果小蠹",
   "genus": "Hypothenemus",
   "subfamily": "Scolytinae",
   "tribe": "Trypophloeini",
@@ -219,5 +219,7 @@
       "citation": "Van der Weele, H.W. (1910). Ein neuer Kaffeeschadling, Xyleborus coffeivorus n. sp. Teysmannia 21: 308–316."
     }
   ],
+  "recommended_chinese_name": "咖啡果小蠹",
+  "former_chinese_names": [],
   "invasive_status": "Invasive"
 }

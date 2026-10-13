@@ -2,7 +2,7 @@
   "vsn": "VSN_5501",
   "scientific_name": "Scolytus frontalis",
   "authorship": "Blandford, 1894",
-  "chinese_name": "",
+  "chinese_name": "凹额小蠹",
   "genus": "Scolytus",
   "subfamily": "Scolytinae",
   "tribe": "Scolytini",
@@ -104,5 +104,7 @@
       ],
       "citation": "Eggers, H. (1939a). Japanische Borkenkäfer, II. Arbeiten über Morphologische und Taxonomische Entomologie aus Berlin-Dahlem 6: 114–123."
     }
-  ]
+  ],
+  "recommended_chinese_name": "凹额小蠹",
+  "former_chinese_names": []
 }

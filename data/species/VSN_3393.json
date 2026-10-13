@@ -2,7 +2,7 @@
   "vsn": "VSN_3393",
   "scientific_name": "Ips amitinus",
   "authorship": "(Eichhoff, 1872)",
-  "chinese_name": "",
+  "chinese_name": "小松八齿小蠹",
   "genus": "Ips",
   "subfamily": "Scolytinae",
   "tribe": "Ipini",
@@ -125,5 +125,7 @@
   "nomenclature_note_reference_ids": [
     "johnson2026",
     "douglas2019_ips"
-  ]
+  ],
+  "recommended_chinese_name": "小松八齿小蠹",
+  "former_chinese_names": []
 }

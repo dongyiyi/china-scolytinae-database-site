@@ -2,7 +2,7 @@
   "vsn": "VSN_3135",
   "scientific_name": "Hylurgops tuberculatus",
   "authorship": "Eggers, 1933",
-  "chinese_name": "",
+  "chinese_name": "瘤干小蠹",
   "genus": "Hylurgops",
   "subfamily": "Scolytinae",
   "tribe": "Hylastini",
@@ -70,5 +70,7 @@
       ],
       "citation": "Eggers, H. (1933d). Borkenkäfer (Ipidae, Col.) aus China. Entomologisches Nachrichtenblatt 7: 97–102."
     }
-  ]
+  ],
+  "recommended_chinese_name": "瘤干小蠹",
+  "former_chinese_names": []
 }

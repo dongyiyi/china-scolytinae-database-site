@@ -2,7 +2,7 @@
   "vsn": "VSN_6502",
   "scientific_name": "Xylosandrus amputatus",
   "authorship": "(Blandford, 1894)",
-  "chinese_name": "秃尾材小蠹",
+  "chinese_name": "秃尾足距小蠹",
   "genus": "Xylosandrus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -178,5 +178,9 @@
       ],
       "citation": "Blandford, W.F.H. (1894d). Supplementary notes on the Scolytidae of Japan, with a list of species. Transactions of the Entomological Society of London 1894: 575–580."
     }
+  ],
+  "recommended_chinese_name": "秃尾足距小蠹",
+  "former_chinese_names": [
+    "秃尾材小蠹"
   ]
 }

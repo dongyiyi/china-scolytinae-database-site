@@ -2,7 +2,7 @@
   "vsn": "VSN_2491",
   "scientific_name": "Eccoptopterus spinosus",
   "authorship": "(Olivier, 1800)",
-  "chinese_name": "",
+  "chinese_name": "六齿胫浆小蠹",
   "genus": "Eccoptopterus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -248,5 +248,7 @@
       ],
       "citation": "Schedl, K.E. (1942d). Neue Scolytidae aus Java. 76 Beitrag. Tijdschrift voor Entomologie 85: 1–49."
     }
-  ]
+  ],
+  "recommended_chinese_name": "六齿胫浆小蠹",
+  "former_chinese_names": []
 }

@@ -2,7 +2,7 @@
   "vsn": "VSN_5442",
   "scientific_name": "Scolytoplatypus shogun",
   "authorship": "Blandford, 1894",
-  "chinese_name": "",
+  "chinese_name": "将军锉小蠹",
   "genus": "Scolytoplatypus",
   "subfamily": "Scolytinae",
   "tribe": "Scolytoplatypodini",
@@ -72,5 +72,7 @@
       ],
       "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
     }
-  ]
+  ],
+  "recommended_chinese_name": "将军锉小蠹",
+  "former_chinese_names": []
 }

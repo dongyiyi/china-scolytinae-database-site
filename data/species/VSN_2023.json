@@ -2,7 +2,7 @@
   "vsn": "VSN_2023",
   "scientific_name": "Cyclorhipidion pelliculosum",
   "authorship": "(Eichhoff, 1878)",
-  "chinese_name": "细点材小蠹",
+  "chinese_name": "细点环小蠹",
   "genus": "Cyclorhipidion",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -193,5 +193,9 @@
       ],
       "citation": "Nunberg, M. (1956c). Zmiany nazw i synonimika niektórych korników (Coleoptera, Scolytidae) [Namensänderungen und Synonymie einiger Borkenkäfer (Coleoptera, Scolytidae)]. Annales Zoologici 16(15): 207–214 + Tab. XXIX–XXX."
     }
+  ],
+  "recommended_chinese_name": "细点环小蠹",
+  "former_chinese_names": [
+    "细点材小蠹"
   ]
 }

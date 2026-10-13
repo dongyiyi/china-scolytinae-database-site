@@ -2,7 +2,7 @@
   "vsn": "VSN_2867",
   "scientific_name": "Hadrodemius comans",
   "authorship": "(Sampson, 1919)",
-  "chinese_name": "粗阔材小蠹",
+  "chinese_name": "浅穴巨材小蠹",
   "genus": "Hadrodemius",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -173,5 +173,10 @@
       ],
       "citation": "Eggers, H. (1930b). Neue Xyleborus-Arten (Col. Scolytidae) aus Indien. Indian Forest Records, Entomology 14(9): 177–208."
     }
+  ],
+  "recommended_chinese_name": "浅穴巨材小蠹",
+  "former_chinese_names": [
+    "粗阔材小蠹",
+    "多毛巨才小蠹"
   ]
 }

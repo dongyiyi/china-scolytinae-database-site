@@ -2,7 +2,7 @@
   "vsn": "VSN_3471",
   "scientific_name": "Leptoxyleborus sordicauda",
   "authorship": "(Motschulsky, 1863)",
-  "chinese_name": "",
+  "chinese_name": "中凹半坡小蠹",
   "genus": "Leptoxyleborus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -181,5 +181,7 @@
       ],
       "citation": "Eggers, H. (1927b). Neue indomalayische Borkenkäfer (Ipidae). II. Nachtrag. Philippine Journal of Science 33(1): 67–108."
     }
-  ]
+  ],
+  "recommended_chinese_name": "中凹半坡小蠹",
+  "former_chinese_names": []
 }

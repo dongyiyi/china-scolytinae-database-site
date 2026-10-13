@@ -2,7 +2,7 @@
   "vsn": "VSN_5424",
   "scientific_name": "Scolytoplatypus minimus",
   "authorship": "Hagedorn, 1904",
-  "chinese_name": "",
+  "chinese_name": "小锉小蠹",
   "genus": "Scolytoplatypus",
   "subfamily": "Scolytinae",
   "tribe": "Scolytoplatypodini",
@@ -75,5 +75,7 @@
       ],
       "citation": "Hagedorn, J.M. (1904b). Enumeratio Scolytidarum e Sikkim et Japan natarum Musei historiconaturalis Parisiorum, quas dominus J. Harmand annis 1890 et 1901 collegit descriptionibus specierum novarum adjectis. Bulletin du Muséum d'Histoire Naturelle de Paris 10: 122–126."
     }
-  ]
+  ],
+  "recommended_chinese_name": "小锉小蠹",
+  "former_chinese_names": []
 }

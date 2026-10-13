@@ -2,7 +2,7 @@
   "vsn": "VSN_6005",
   "scientific_name": "Webbia pabo",
   "authorship": "Sampson, 1922",
-  "chinese_name": "",
+  "chinese_name": "刺尾桩截小蠹",
   "genus": "Webbia",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -85,5 +85,7 @@
       "citation": "Sampson, F.W. (1922b). Previously undescribed Scolytidae and Platypodidae from the Indian area. Annals and Magazine of Natural History. Ser. 9, 10(55): 145–152.",
       "doi": "10.1080/00222932208632753"
     }
-  ]
+  ],
+  "recommended_chinese_name": "刺尾桩截小蠹",
+  "former_chinese_names": []
 }

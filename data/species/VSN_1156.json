@@ -2,7 +2,7 @@
   "vsn": "VSN_1156",
   "scientific_name": "Coccotrypes carpophagus",
   "authorship": "(Hornung, 1842)",
-  "chinese_name": "",
+  "chinese_name": "食果椰小蠹",
   "genus": "Coccotrypes",
   "subfamily": "Scolytinae",
   "tribe": "Dryocoetini",
@@ -402,5 +402,7 @@
       ],
       "citation": "Formanek, R. (1908). Eine neue Borkenkäfer-Gattung. Entomologische Blätter 4(5): 91–."
     }
-  ]
+  ],
+  "recommended_chinese_name": "食果椰小蠹",
+  "former_chinese_names": []
 }

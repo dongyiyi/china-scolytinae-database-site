@@ -2,7 +2,7 @@
   "vsn": "VSN_6506",
   "scientific_name": "Xylosandrus beesoni",
   "authorship": "Saha, Maiti & Chakraborti, 1993",
-  "chinese_name": "",
+  "chinese_name": "比氏足距小蠹",
   "genus": "Xylosandrus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -76,5 +76,7 @@
       "citation": "Saha, N., Maiti, P.K. & Chakraborti, S. (1993). On some species of Xylosandrus Reitter (Scolytidae: Coleoptera) from the sub-himalayan West Bengal with descriptions of a new species. Records of the Zoological Survey of India 91(1): 9–27.",
       "doi": "10.26515/rzsi/v91/i1/1992/160953"
     }
-  ]
+  ],
+  "recommended_chinese_name": "比氏足距小蠹",
+  "former_chinese_names": []
 }

@@ -2,7 +2,7 @@
   "vsn": "VSN_3149",
   "scientific_name": "Hyorrhynchus unicornis",
   "authorship": "Nobuchi, 1966",
-  "chinese_name": "",
+  "chinese_name": "单角喙小蠹",
   "genus": "Hyorrhynchus",
   "subfamily": "Scolytinae",
   "tribe": "Hyorrhynchini",
@@ -72,5 +72,7 @@
       ],
       "citation": "Nobuchi, A. (1966). Studies on Scolytidae, VI. Bulletin of the Government Forest Experiment Station 185: 51–56."
     }
-  ]
+  ],
+  "recommended_chinese_name": "单角喙小蠹",
+  "former_chinese_names": []
 }

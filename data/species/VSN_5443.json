@@ -2,7 +2,7 @@
   "vsn": "VSN_5443",
   "scientific_name": "Scolytoplatypus sinensis",
   "authorship": "Tsai & Huang, 1965",
-  "chinese_name": "",
+  "chinese_name": "中国锉小蠹",
   "genus": "Scolytoplatypus",
   "subfamily": "Scolytinae",
   "tribe": "Scolytoplatypodini",
@@ -78,5 +78,7 @@
       ],
       "citation": "Tsai, P.H. & Huang, F.S. (1965). Two new species of the genus Scolytoplatypus Schauf. from China. Acta Zootaxonomica Sinica 2: 121–125."
     }
-  ]
+  ],
+  "recommended_chinese_name": "中国锉小蠹",
+  "former_chinese_names": []
 }

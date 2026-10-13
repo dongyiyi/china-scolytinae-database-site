@@ -2,7 +2,7 @@
   "vsn": "VSN_1241",
   "scientific_name": "Coccotrypes sierraleonensis",
   "authorship": "(Eggers, 1932)",
-  "chinese_name": "",
+  "chinese_name": "塞拉利昂椰小蠹",
   "genus": "Coccotrypes",
   "subfamily": "Scolytinae",
   "tribe": "Dryocoetini",
@@ -102,5 +102,7 @@
       ],
       "citation": "Eggers, H. (1940d). Neue Borkenkäfer (Col., Scolytidae) aus Africa. Nachtrag IX. Revue de Zoologie et de Botanique Africaines 33: 99–108."
     }
-  ]
+  ],
+  "recommended_chinese_name": "塞拉利昂椰小蠹",
+  "former_chinese_names": []
 }

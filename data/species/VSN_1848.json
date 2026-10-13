@@ -2,7 +2,7 @@
   "vsn": "VSN_1848",
   "scientific_name": "Cryphalus strohmeyeri",
   "authorship": "Stebbing, 1914",
-  "chinese_name": "",
+  "chinese_name": "斯特罗迈耶梢小蠹",
   "genus": "Cryphalus",
   "subfamily": "Scolytinae",
   "tribe": "Cryphalini",
@@ -91,5 +91,7 @@
       "citation": "Stebbing, E.P. (1914). Indian forest insects of economic importance. Coleoptera. Eyre & Spottiswoode, Ltd., London. xvi + 648 pp, 63 pls.",
       "doi": "10.5962/bhl.title.9203"
     }
-  ]
+  ],
+  "recommended_chinese_name": "斯特罗迈耶梢小蠹",
+  "former_chinese_names": []
 }

@@ -2,7 +2,7 @@
   "vsn": "VSN_2358",
   "scientific_name": "Diamerus puncticollis",
   "authorship": "Eggers, 1927",
-  "chinese_name": "",
+  "chinese_name": "点纹达梅小蠹",
   "genus": "Diamerus",
   "subfamily": "Scolytinae",
   "tribe": "Diamerini",
@@ -72,5 +72,7 @@
       ],
       "citation": "Eggers, H. (1927b). Neue indomalayische Borkenkäfer (Ipidae). II. Nachtrag. Philippine Journal of Science 33(1): 67–108."
     }
-  ]
+  ],
+  "recommended_chinese_name": "点纹达梅小蠹",
+  "former_chinese_names": []
 }

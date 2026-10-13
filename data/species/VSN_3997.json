@@ -2,7 +2,7 @@
   "vsn": "VSN_3997",
   "scientific_name": "Phloeosinus arisanus",
   "authorship": "Niisima, 1942",
-  "chinese_name": "",
+  "chinese_name": "阿里山肤小蠹",
   "genus": "Phloeosinus",
   "subfamily": "Scolytinae",
   "tribe": "Phloeosinini",
@@ -76,5 +76,7 @@
       ],
       "citation": "Niisima, Y. (1942). Die japanischen Phloeosinus-Arten (Coleoptera, Ipidae) und ihre Frasspflanzen. Transactions of the Sapporo Natural History Society 17: 69–76."
     }
-  ]
+  ],
+  "recommended_chinese_name": "阿里山肤小蠹",
+  "former_chinese_names": []
 }

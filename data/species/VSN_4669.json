@@ -2,7 +2,7 @@
   "vsn": "VSN_4669",
   "scientific_name": "Planiculus bicolor",
   "authorship": "(Blandford, 1894)",
-  "chinese_name": "",
+  "chinese_name": "双色扁小蠹",
   "genus": "Planiculus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -271,5 +271,7 @@
       ],
       "citation": "Beeson, C.F.C. (1930). The biology of the genus Xyleborus, with more new species. Indian Forest Records, Entomology 14(10): 209–272."
     }
-  ]
+  ],
+  "recommended_chinese_name": "双色扁小蠹",
+  "former_chinese_names": []
 }

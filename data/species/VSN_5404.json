@@ -2,7 +2,7 @@
   "vsn": "VSN_5404",
   "scientific_name": "Scolytoplatypus costatus",
   "authorship": "Gebhardt & Beaver, 2021",
-  "chinese_name": "",
+  "chinese_name": "隆脊锉小蠹",
   "genus": "Scolytoplatypus",
   "subfamily": "Scolytinae",
   "tribe": "Scolytoplatypodini",
@@ -64,5 +64,7 @@
       "citation": "Gebhardt, H., Beaver, R.A. & Allgaier, C. (2021). Three new species of Scolytoplatypus Schaufuss from China, and notes on the movement and functions of the prosternal processes (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5082(5): 485–493.",
       "doi": "10.11646/zootaxa.5082.5.6"
     }
-  ]
+  ],
+  "recommended_chinese_name": "隆脊锉小蠹",
+  "former_chinese_names": []
 }

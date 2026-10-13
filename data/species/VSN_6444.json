@@ -2,7 +2,7 @@
   "vsn": "VSN_6444",
   "scientific_name": "Xylechinus pilosus",
   "authorship": "(Ratzeburg, 1837)",
-  "chinese_name": "云杉林鳞小蠹",
+  "chinese_name": "云杉鳞小蠹",
   "genus": "Xylechinus",
   "subfamily": "Scolytinae",
   "tribe": "Hylurgini",
@@ -89,5 +89,9 @@
       ],
       "citation": "Ratzeburg, J.T.C. (1837). Die Forst-Insecten oder Abbildung und Beschreibung der in den Wäldern Preussens und der Nachbarstaaten als schädlich oder nützlich bekannt gewordenen Insecten. Erster Theil. Die Käfer. Nicolai, Berlin x + 4 + 202 pp, 21 pls."
     }
+  ],
+  "recommended_chinese_name": "云杉鳞小蠹",
+  "former_chinese_names": [
+    "云杉林鳞小蠹"
   ]
 }

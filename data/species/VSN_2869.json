@@ -2,7 +2,7 @@
   "vsn": "VSN_2869",
   "scientific_name": "Hadrodemius pseudocomans",
   "authorship": "(Eggers, 1930)",
-  "chinese_name": "圆穴材小蠹",
+  "chinese_name": "圆穴巨材小蠹",
   "genus": "Hadrodemius",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -132,5 +132,10 @@
       ],
       "citation": "Schedl, K.E. (1953a). Fauna Sinensis, I. (120. Beitrag zur Morphologie und Systematik der Scolytoidea). Entomologische Blätter 49: 22–30."
     }
+  ],
+  "recommended_chinese_name": "圆穴巨材小蠹",
+  "former_chinese_names": [
+    "圆穴材小蠹",
+    "拟多毛巨才小蠹"
   ]
 }

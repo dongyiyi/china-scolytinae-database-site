@@ -2,7 +2,7 @@
   "vsn": "VSN_5852",
   "scientific_name": "Tomicus yunnanensis",
   "authorship": "Kirkendall & Faccoli, 2008",
-  "chinese_name": "",
+  "chinese_name": "云南切梢小蠹",
   "genus": "Tomicus",
   "subfamily": "Scolytinae",
   "tribe": "Hylurgini",
@@ -64,5 +64,7 @@
       "citation": "Kirkendall, L.R., Faccoli, M. & Ye, H. (2008). Description of the Yunnan shoot borer, Tomicus yunnanensis Kirkendall & Faccoli sp. n. (Curculionidae, Scolytinae), an unusually aggressive pine shoot beetle from southern China, with a key to the species of Tomicus. Zootaxa 1819: 25–39.",
       "doi": "10.11646/zootaxa.1819.1.2"
     }
-  ]
+  ],
+  "recommended_chinese_name": "云南切梢小蠹",
+  "former_chinese_names": []
 }

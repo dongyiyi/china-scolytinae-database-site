@@ -2,7 +2,7 @@
   "vsn": "VSN_6109",
   "scientific_name": "Xyleborinus saxesenii",
   "authorship": "(Ratzeburg, 1837)",
-  "chinese_name": "小粒材小蠹",
+  "chinese_name": "小粒绒盾小蠹",
   "genus": "Xyleborinus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -461,5 +461,9 @@
       ],
       "citation": "Schedl, K.E. (1948b). New species and records of Australian Scolytidae. Proceedings of the Royal Society of Queensland 60(2): 25–29."
     }
+  ],
+  "recommended_chinese_name": "小粒绒盾小蠹",
+  "former_chinese_names": [
+    "小粒材小蠹"
   ]
 }

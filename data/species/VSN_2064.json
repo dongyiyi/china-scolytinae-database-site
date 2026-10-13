@@ -2,7 +2,7 @@
   "vsn": "VSN_2064",
   "scientific_name": "Cyclorhipidion wui",
   "authorship": "Lin & Smith, 2022",
-  "chinese_name": "",
+  "chinese_name": "六齿环小蠹",
   "genus": "Cyclorhipidion",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -68,5 +68,7 @@
       "citation": "Lin, C.-S. & Smith, S.M. (2022). Four new species of Cyclorhipidion and five new records of other xyleborine genera (Coleoptera, Curculionidae, Scolytinae, Xyleborini) from Taiwan. Taiwania 67(3): 285–301.",
       "doi": "10.6165/tai.2022.67.285"
     }
-  ]
+  ],
+  "recommended_chinese_name": "六齿环小蠹",
+  "former_chinese_names": []
 }

@@ -2,7 +2,7 @@
   "vsn": "VSN_2396",
   "scientific_name": "Diuncus justus",
   "authorship": "(Schedl, 1931)",
-  "chinese_name": "",
+  "chinese_name": "光鞘双棘小蠹",
   "genus": "Diuncus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -144,5 +144,9 @@
       ],
       "citation": "Schedl, K.E. (1936d). Scolytidae and Platypodidae: Fauna Philippinensis, IV. Philippine Journal of Science 60(1): 59–67."
     }
+  ],
+  "recommended_chinese_name": "光鞘双棘小蠹",
+  "former_chinese_names": [
+    "光鞘双小蠹"
   ]
 }

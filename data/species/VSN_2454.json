@@ -2,7 +2,7 @@
   "vsn": "VSN_2454",
   "scientific_name": "Dryocoetiops moestus",
   "authorship": "(Blandford, 1894)",
-  "chinese_name": "咖啡横顶小蠹",
+  "chinese_name": "咖啡似毛小蠹",
   "genus": "Dryocoetiops",
   "subfamily": "Scolytinae",
   "tribe": "Dryocoetini",
@@ -278,5 +278,9 @@
       ],
       "citation": "Murayama, J.J. (1957b). Dryocoetinae (Coleoptera, Ipidae) from the northern half of the Far East. Bulletin of the Faculty of Agriculture, Yamaguchi University 8: 587–632."
     }
+  ],
+  "recommended_chinese_name": "咖啡似毛小蠹",
+  "former_chinese_names": [
+    "咖啡横顶小蠹"
   ]
 }

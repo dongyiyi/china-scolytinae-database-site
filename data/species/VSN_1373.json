@@ -2,7 +2,7 @@
   "vsn": "VSN_1373",
   "scientific_name": "Coptodryas elegans",
   "authorship": "(Sampson, 1923)",
-  "chinese_name": "",
+  "chinese_name": "丽微材小蠹",
   "genus": "Coptodryas",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -87,5 +87,7 @@
       "citation": "Sampson, F.W. (1923). Previously undescribed Scolytidae and Platypodidae from the Indian area, Part II. Annals and Magazine of Natural History. Ser. 9, 11(63): 285–289.",
       "doi": "10.1080/00222932308632858"
     }
-  ]
+  ],
+  "recommended_chinese_name": "丽微材小蠹",
+  "former_chinese_names": []
 }

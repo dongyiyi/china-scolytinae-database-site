@@ -2,7 +2,7 @@
   "vsn": "VSN_2218",
   "scientific_name": "Debus quadrispinus",
   "authorship": "(Motschulsky, 1863)",
-  "chinese_name": "",
+  "chinese_name": "四刺凹鞘小蠹",
   "genus": "Debus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -178,5 +178,7 @@
       ],
       "citation": "Schedl, K.E. (1935d). Fauna Philippinensis (Platypodidae et Scolytidae). III. Philippine Journal of Science 56(3): 395–403."
     }
-  ]
+  ],
+  "recommended_chinese_name": "四刺凹鞘小蠹",
+  "former_chinese_names": []
 }

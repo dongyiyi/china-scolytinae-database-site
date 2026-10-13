@@ -2,7 +2,7 @@
   "vsn": "VSN_2760",
   "scientific_name": "Ficicis porcatus",
   "authorship": "(Chapuis, 1869)",
-  "chinese_name": "",
+  "chinese_name": "脊榕小蠹",
   "genus": "Ficicis",
   "subfamily": "Scolytinae",
   "tribe": "Hylesinini",
@@ -216,5 +216,7 @@
       ],
       "citation": "Murayama, J.J. (1955). Supplementary notes on the scolytid-fauna of Japan. Bulletin of the Faculty of Agriculture, Yamaguchi University 6: 81–106."
     }
-  ]
+  ],
+  "recommended_chinese_name": "脊榕小蠹",
+  "former_chinese_names": []
 }

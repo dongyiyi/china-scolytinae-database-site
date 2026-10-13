@@ -2,7 +2,7 @@
   "vsn": "VSN_2028",
   "scientific_name": "Cyclorhipidion pilipenne",
   "authorship": "(Eggers, 1940)",
-  "chinese_name": "",
+  "chinese_name": "毛鞘环小蠹",
   "genus": "Cyclorhipidion",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -89,5 +89,7 @@
       ],
       "citation": "Eggers, H. (1940f). Neue indomolayische Borkenkäfer (Ipidae). III. Nachrag (Forstsetzung). Tijdschrift voor Entomologie 83: 132–154."
     }
-  ]
+  ],
+  "recommended_chinese_name": "毛鞘环小蠹",
+  "former_chinese_names": []
 }

@@ -2,7 +2,7 @@
   "vsn": "VSN_5461",
   "scientific_name": "Scolytus amygdali",
   "authorship": "Guérin-Méneville, 1847",
-  "chinese_name": "",
+  "chinese_name": "杏小蠹",
   "genus": "Scolytus",
   "subfamily": "Scolytinae",
   "tribe": "Scolytini",
@@ -146,5 +146,7 @@
       ],
       "citation": "Guérin-Méneville, F.E. (1847). [new taxon]. Bulletin de la Société Entomologique de France. Sér. 2, 5: xliv–xlvii."
     }
-  ]
+  ],
+  "recommended_chinese_name": "杏小蠹",
+  "former_chinese_names": []
 }

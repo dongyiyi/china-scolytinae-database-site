@@ -2,7 +2,7 @@
   "vsn": "VSN_2011",
   "scientific_name": "Cyclorhipidion nemesis",
   "authorship": "Smith & Cognato, 2022",
-  "chinese_name": "",
+  "chinese_name": "报应环小蠹",
   "genus": "Cyclorhipidion",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -72,5 +72,7 @@
       "citation": "Smith, S.M. & Cognato, A.I. (2022). New non-native pseudocryptic Cyclorhipidion species (Coleoptera: Curculionidae: Scolytinae: Xyleborini) found in the United States as revealed in a multigene phylogeny. Insect Systematics and Diversity 6(4): 1–16.",
       "doi": "10.1093/isd/ixac014"
     }
-  ]
+  ],
+  "recommended_chinese_name": "报应环小蠹",
+  "former_chinese_names": []
 }

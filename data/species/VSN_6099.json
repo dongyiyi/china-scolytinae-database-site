@@ -2,7 +2,7 @@
   "vsn": "VSN_6099",
   "scientific_name": "Xyleborinus perpusillus",
   "authorship": "(Eggers, 1927)",
-  "chinese_name": "",
+  "chinese_name": "短绒盾小蠹",
   "genus": "Xyleborinus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -119,5 +119,7 @@
       ],
       "citation": "Schedl, K.E. (1934a). Neue Indomalayische Scolytidae. II. Beitrag. Entomologische Berichten 9: 84–92."
     }
-  ]
+  ],
+  "recommended_chinese_name": "短绒盾小蠹",
+  "former_chinese_names": []
 }

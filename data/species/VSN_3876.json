@@ -2,7 +2,7 @@
   "vsn": "VSN_3876",
   "scientific_name": "Neopteleobius scutulatus",
   "authorship": "(Blandford, 1894)",
-  "chinese_name": "",
+  "chinese_name": "盾新榆小蠹",
   "genus": "Neopteleobius",
   "subfamily": "Scolytinae",
   "tribe": "Hylesinini",
@@ -100,5 +100,7 @@
       ],
       "citation": "Wichmann, H.E. (1914a). Zur Kenntnis der Ipiden. II. Entomologische Blätter 10: 136–139."
     }
-  ]
+  ],
+  "recommended_chinese_name": "盾新榆小蠹",
+  "former_chinese_names": []
 }

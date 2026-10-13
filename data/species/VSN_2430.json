@@ -2,7 +2,7 @@
   "vsn": "VSN_2430",
   "scientific_name": "Dryocoetes infuscatus",
   "authorship": "Murayama, 1937",
-  "chinese_name": "",
+  "chinese_name": "暗色毛小蠹",
   "genus": "Dryocoetes",
   "subfamily": "Scolytinae",
   "tribe": "Dryocoetini",
@@ -108,5 +108,7 @@
       ],
       "citation": "Murayama, J.J. (1937). Notes sur les Scolytides (Coléoptères) de la Corée. Tenthredo 1(4): 367–375."
     }
-  ]
+  ],
+  "recommended_chinese_name": "暗色毛小蠹",
+  "former_chinese_names": []
 }

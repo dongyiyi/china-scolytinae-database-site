@@ -2,7 +2,7 @@
   "vsn": "VSN_1620",
   "scientific_name": "Craniodicticus mucronatus",
   "authorship": "Blandford, 1895",
-  "chinese_name": "",
+  "chinese_name": "斑盔小蠹",
   "genus": "Craniodicticus",
   "subfamily": "Scolytinae",
   "tribe": "Carphodicticini",
@@ -72,5 +72,7 @@
       ],
       "citation": "Blandford, W.F.H. (1895). A list of the Scolytidae collected in Ceylon by Mr. George Lewis, with descriptions of new species. Annals and Magazine of Natural History. Ser. 6, 15: 315–328."
     }
-  ]
+  ],
+  "recommended_chinese_name": "斑盔小蠹",
+  "former_chinese_names": []
 }

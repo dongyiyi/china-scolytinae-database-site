@@ -2,7 +2,7 @@
   "vsn": "VSN_6525",
   "scientific_name": "Xylosandrus formosae",
   "authorship": "(Wood, 1992)",
-  "chinese_name": "",
+  "chinese_name": "台湾足距小蠹",
   "genus": "Xylosandrus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
@@ -142,5 +142,7 @@
       ],
       "citation": "Browne, F.G. (1981a). Bark beetles and ambrosia beetles (Coleoptera, Scolytidae and Platypodidae) intercepted at Japanese ports, with descriptions of new species, V. Kontyû 49(1): 125–136."
     }
-  ]
+  ],
+  "recommended_chinese_name": "台湾足距小蠹",
+  "former_chinese_names": []
 }

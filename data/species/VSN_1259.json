@@ -2,7 +2,7 @@
   "vsn": "VSN_1259",
   "scientific_name": "Coccotrypes tahitensis",
   "authorship": "(Beeson, 1935)",
-  "chinese_name": "",
+  "chinese_name": "塔希提椰小蠹",
   "genus": "Coccotrypes",
   "subfamily": "Scolytinae",
   "tribe": "Dryocoetini",
@@ -121,5 +121,7 @@
       ],
       "citation": "Eggers, H. (1927b). Neue indomalayische Borkenkäfer (Ipidae). II. Nachtrag. Philippine Journal of Science 33(1): 67–108."
     }
-  ]
+  ],
+  "recommended_chinese_name": "塔希提椰小蠹",
+  "former_chinese_names": []
 }
