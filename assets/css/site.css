@@ -110,10 +110,10 @@
 
 
 
-/* VSN_3401 width-ratio pilot only: original 50:50 becomes 70:30.
+/* VSN_3401 width-ratio pilot only: original 50:50 becomes 65:35.
    The 22px card gap is unchanged; all other taxon pages retain 50:50. */
 .profile-content.profile-width-pilot{
-  grid-template-columns:minmax(0,7fr) minmax(0,3fr);
+  grid-template-columns:minmax(0,13fr) minmax(0,7fr);
 }
 .profile-content.profile-width-pilot > #overview{
   grid-column:1 / 2;
