@@ -5061,7 +5061,7 @@
   },
   {
     "vsn": "VSN_4496",
-    "scientific_name": "Pityophthorus micrographus micrographus",
+    "scientific_name": "Pityophthorus micrographus",
     "authorship": "(Linnaeus, 1758)",
     "chinese_name": "细刻细小蠹",
     "genus": "Pityophthorus",
@@ -6061,7 +6061,7 @@
   },
   {
     "vsn": "VSN_5509",
-    "scientific_name": "Scolytus jaroschewskii jaroschewskii",
+    "scientific_name": "Scolytus jaroschewskii",
     "authorship": "Schevyrew, 1893",
     "chinese_name": "雅罗斯小蠹",
     "genus": "Scolytus",

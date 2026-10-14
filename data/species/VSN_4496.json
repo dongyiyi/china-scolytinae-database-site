@@ -1,6 +1,6 @@
 {
   "vsn": "VSN_4496",
-  "scientific_name": "Pityophthorus micrographus micrographus",
+  "scientific_name": "Pityophthorus micrographus",
   "authorship": "(Linnaeus, 1758)",
   "chinese_name": "细刻细小蠹",
   "genus": "Pityophthorus",
@@ -16,16 +16,17 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "Alonso-Zarazaga et al. (2023) reported Pityophthorus micrographus at species rank, without identifying the nominate subspecies. The North China record is provisionally linked to Pityophthorus micrographus micrographus for database indexing only; it does not confirm the nominate subspecies in China. The original regional attribution remains broad.",
+    "narrative": "Alonso-Zarazaga et al. (2023) reports Pityophthorus micrographus from North China at species rank, without identifying a subspecies. The original regional attribution remains broad. The Chinese occurrence remains a candidate pending review.",
     "reference_ids": [
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
     ]
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",
-  "taxonomy_summary": "The current accepted identity is Pityophthorus micrographus micrographus (Linnaeus, 1758).",
+  "taxonomy_summary": "Chinese occurrence evidence is reported at species rank as Pityophthorus micrographus (Linnaeus, 1758). Johnson et al. (2026) recognizes two subspecies, but the Chinese catalogue record does not establish a subspecific identification.",
   "taxonomy_reference_ids": [
-    "johnson2026"
+    "johnson2026",
+    "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
   ],
   "taxonomic_history": [
     {
@@ -85,17 +86,17 @@
     },
     {
       "year": "1758",
-      "event": "Current accepted",
+      "event": "Accepted nominotypical subspecies (global checklist)",
       "name": "Pityophthorus micrographus micrographus",
       "authorship": "(Linnaeus, 1758)",
-      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "note": "One of two subspecies recognized by Johnson et al. (2026). The cited Chinese occurrence is identified only at species rank and is not assigned to either subspecies.",
       "reference_ids": [
         "orig_5c2bb391e2fe",
         "johnson2026"
       ]
     }
   ],
-  "nomenclature_note": "The published species-rank record was provisionally mapped to the nominate subspecies for indexing, not as a verified subspecies identification.",
+  "nomenclature_note": "Johnson et al. (2026) recognizes Pityophthorus micrographus micrographus and Pityophthorus micrographus sibiricus as valid subspecies. Alonso-Zarazaga et al. (2023) reports the Chinese occurrence at species rank, without subspecific assignment; the nominotypical subspecies is not confirmed by this record.",
   "nomenclature_note_reference_ids": [
     "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
   ],
