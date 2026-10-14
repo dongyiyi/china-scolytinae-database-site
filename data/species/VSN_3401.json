@@ -1,7 +1,7 @@
 {
   "vsn": "VSN_3401",
-  "scientific_name": "Ips calligraphus calligraphus",
-  "authorship": "(Germar, 1824)",
+  "scientific_name": "Ips calligraphus",
+  "authorship": "(Germar, 1823)",
   "chinese_name": "美雕齿小蠹",
   "genus": "Ips",
   "subfamily": "Scolytinae",
@@ -16,7 +16,7 @@
   },
   "distribution": {
     "summary": "广东",
-    "narrative": "Li et al. (2021) reports repeated detections of Ips calligraphus calligraphus around Zhuhai, Guangdong since 2016; the 2019 survey found the taxon at four sites. The authors considered the population established and described the report as the first record in mainland Asia."
+    "narrative": "Li et al. (2021) reported repeated detections of Ips calligraphus around Zhuhai, Guangdong since 2016; the 2019 survey found the species at four sites. The authors considered the population established and described the report as the first record in mainland Asia. The specimens were not assigned to a subspecies in the published record."
   },
   "hosts": [
     {
@@ -24,16 +24,17 @@
     }
   ],
   "host_note": "Gut-content rbcL sequences were successfully obtained from three I. calligraphus individuals and grouped with slash pine Pinus elliottii. This direct molecular feeding-host evidence is promoted as Current Host Summary. No native Chinese pine is inferred.",
-  "taxonomy_summary": "The current accepted identity is Ips calligraphus calligraphus (Germar, 1824).",
+  "taxonomy_summary": "Chinese occurrence records are identified at species rank as Ips calligraphus (Germar, 1823). Johnson et al. (2026) recognizes three subspecies, but the published Chinese records do not establish a subspecific identification.",
   "taxonomy_reference_ids": [
-    "johnson2026"
+    "johnson2026",
+    "src_lietal2021_invasiveipszhuhai"
   ],
   "taxonomic_history": [
     {
-      "year": "1824",
+      "year": "1823",
       "event": "Original combination / basionym",
       "name": "Tomicus calligraphus",
-      "authorship": "Germar, 1824",
+      "authorship": "Germar, 1823",
       "note": "Original combination / basionym, original-description p. 461.",
       "reference_ids": [
         "orig_be48bdf36994",
@@ -85,18 +86,18 @@
       ]
     },
     {
-      "year": "1824",
-      "event": "Current accepted",
+      "year": "1823",
+      "event": "Accepted nominotypical subspecies (global checklist)",
       "name": "Ips calligraphus calligraphus",
-      "authorship": "(Germar, 1824)",
-      "note": "Current accepted name in the integrated taxonomic backbone.",
+      "authorship": "(Germar, 1823)",
+      "note": "One of three subspecies recognized by Johnson et al. (2026); published Chinese records are not assigned to this or another subspecies.",
       "reference_ids": [
         "orig_be48bdf36994",
         "johnson2026"
       ]
     }
   ],
-  "nomenclature_note": "All Chinese Ips calligraphus specimens examined by Li et al. (2021) were morphologically identified as the nominotypical subspecies Ips calligraphus calligraphus. Stable identity is VSN_3401; authorship is (Germar, 1824).",
+  "nomenclature_note": "The species is divided into three subspecies in Johnson et al. (2026). Published Chinese records identify the taxon as Ips calligraphus, without subspecific assignment.",
   "resources": {
     "images": "No image records are linked yet.",
     "specimens": "No specimen records are linked yet.",
