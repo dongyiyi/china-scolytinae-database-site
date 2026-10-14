@@ -110,23 +110,23 @@
 
 
 
-/* VSN_3401 width-ratio pilot only: original 50:50 becomes 65:35.
-   The 22px card gap is unchanged; all other taxon pages retain 50:50. */
-.profile-content.profile-width-pilot{
+/* All species profiles: At a glance 65% / China occurrence 35%.
+   The existing grid gap is unchanged; remaining cards stay full width. */
+.profile-content{
   grid-template-columns:minmax(0,13fr) minmax(0,7fr);
 }
-.profile-content.profile-width-pilot > #overview{
+.profile-content > #overview{
   grid-column:1 / 2;
 }
-.profile-content.profile-width-pilot > .card:nth-child(2){
+.profile-content > .card:nth-child(2){
   grid-column:2 / 3;
 }
 @media(max-width:760px){
-  .profile-content.profile-width-pilot{
+  .profile-content{
     grid-template-columns:minmax(0,1fr);
   }
-  .profile-content.profile-width-pilot > #overview,
-  .profile-content.profile-width-pilot > .card:nth-child(2){
+  .profile-content > #overview,
+  .profile-content > .card:nth-child(2){
     grid-column:1 / -1;
   }
 }
