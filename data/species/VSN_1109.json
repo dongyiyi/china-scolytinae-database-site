@@ -15,8 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；云南",
-    "narrative": "Smith et al. (2020) records Cnestus ater from Fujian. Smith et al. (2022) records Fujian and Yunnan and adds locality evidence from Wenshan, Yunnan. The reviewed distribution is the union Fujian and Yunnan."
+    "summary": "Fujian; Yunnan",
+    "narrative": "Smith et al. (2020) recorded Cnestus ater from Fujian. Smith et al. (2022) recorded Fujian and Yunnan, including locality evidence from Wenshan, Yunnan. The reviewed distribution covers Fujian and Yunnan.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_smith2022"
+    ]
   },
   "hosts": [],
   "host_note": "No confirmed host is promoted from either integrated Smith et al. source record.",
