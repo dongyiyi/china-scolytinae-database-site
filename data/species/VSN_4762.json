@@ -6,7 +6,7 @@
   "genus": "Polygraphus",
   "subfamily": "Scolytinae",
   "tribe": "Polygraphini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "Not started",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,8 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+    "summary": "四川；云南",
+    "narrative": "Yin et al. (1984) reported Polygraphus szemaoensis from Kangding, Sichuan (四川康定), and Lijiang and Simao, Yunnan (云南丽江、思茅). Huang et al. (2015) also listed Sichuan and Yunnan. These are literature-based occurrence records; the checklist occurrence review has not yet been completed.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015"
+    ]
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",
