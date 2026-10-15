@@ -15,8 +15,8 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；江西；四川；西藏；云南；台湾",
-    "narrative": "殷蕙芬等 (1984) records Fujian and Sichuan; 黄复生等 (2015) adds Yunnan and Xizang; Smith et al. (2020) confirms much of this range and adds Jiangxi and Taiwan."
+    "summary": "Fujian; Jiangxi; Sichuan; Xizang; Yunnan; Taiwan",
+    "narrative": "Yin et al. (1984) recorded Fujian and Sichuan; Huang & Lu (2015) added Yunnan and Xizang; Smith et al. (2020) documented the range, including Jiangxi and Taiwan."
   },
   "hosts": [
     {
@@ -73,7 +73,7 @@
   "references": [
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],
@@ -81,7 +81,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
