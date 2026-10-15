@@ -15,18 +15,30 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "西藏；云南",
-    "narrative": "Smith et al. (2020) records Xizang and Yunnan."
+    "summary": "Xizang; Yunnan",
+    "narrative": "Smith et al. (2020) recorded Xizang and Yunnan.",
+    "reference_ids": [
+      "src_smith2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Shorea"
+      "scientific_name": "Shorea",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Swietenia"
+      "scientific_name": "Swietenia",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Fagaceae"
+      "scientific_name": "Fagaceae",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Shorea and Swietenia are retained at genus level; Fagaceae is retained at family level without lower-taxon inference.",

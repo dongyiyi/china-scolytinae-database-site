@@ -15,36 +15,67 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "重庆；福建；海南；香港；湖北；湖南；陕西；四川；西藏；云南；台湾",
-    "narrative": "黄复生等 (2015) and Smith et al. (2020) support the current mainland and Taiwan distribution. Beaver & Liu (2010), under the source name Cnestus murayamai, independently supports Taiwan; current distribution is unchanged. Lau (2025) provides additional secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Chongqing; Fujian; Hainan; Hong Kong; Hubei; Hunan; Shaanxi; Sichuan; Xizang; Yunnan; Taiwan",
+    "narrative": "Huang & Lu (2015) and Smith et al. (2020) document mainland China and Taiwan records. Beaver & Liu (2010) independently recorded Taiwan under the published name Cnestus murayamai. Lau (2025) provides additional secondary checklist evidence for Hong Kong; no occurrence status is changed.",
+    "reference_ids": [
+      "src_co2015",
+      "src_smith2020",
+      "src_beaverliu2010",
+      "src_lau2025"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Cinnamomum camphora"
+      "scientific_name": "Cinnamomum camphora",
+      "reference_ids": [
+        "src_co2015",
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Viburnum sp."
+      "scientific_name": "Viburnum sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Schima sp."
+      "scientific_name": "Schima sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Rhus chinensis"
+      "scientific_name": "Rhus chinensis",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Castanea mollissima"
+      "scientific_name": "Castanea mollissima",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Actinodaphne lancifolia"
+      "scientific_name": "Actinodaphne lancifolia",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Machilus thunbergii"
+      "scientific_name": "Machilus thunbergii",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Quercus aliena"
+      "scientific_name": "Quercus aliena",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
-  "host_note": "黄复生等 (2015) and Smith et al. (2020) hosts are retained. Beaver & Liu (2010) adds Actinodaphne lancifolia, Machilus thunbergii and Quercus aliena; Cinnamomum camphora was already present and is independently supported, including a Taiwan breeding record.",
+  "host_note": "Huang & Lu (2015) and Smith et al. (2020) support the retained hosts. Beaver & Liu (2010), under Cnestus murayamai, reported Actinodaphne lancifolia, Machilus thunbergii and Quercus aliena, as well as Cinnamomum camphora, including a Taiwan breeding record. The unassigned Chinese plant name in the 2015 source is not inferred to a scientific host.",
   "taxonomy_summary": "The current accepted identity is Cnestus aterrimus (Eggers, 1927).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -188,7 +219,7 @@
   "references": [
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],

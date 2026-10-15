@@ -15,33 +15,65 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "安徽；福建；贵州；海南；香港；江苏；江西；陕西；上海；四川；云南；浙江；台湾",
-    "narrative": "殷蕙芬等 (1984), 黄复生等 (2015) and Smith et al. (2020) already support the current distribution including Taiwan. Beaver & Liu (2010) independently supports Taiwan; its broad China regional wording is not converted into province records. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Anhui; Fujian; Guizhou; Hainan; Hong Kong; Jiangsu; Jiangxi; Shaanxi; Shanghai; Sichuan; Yunnan; Zhejiang; Taiwan",
+    "narrative": "Yin et al. (1984), Huang & Lu (2015) and Smith et al. (2020) document the reviewed Chinese distribution. Beaver & Liu (2010) independently documented Taiwan; their broad regional China wording is not converted to provinces. Lau (2025) provides secondary checklist evidence for Hong Kong.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_smith2020",
+      "src_beaverliu2010",
+      "src_lau2025"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Castanea mollissima"
+      "scientific_name": "Castanea mollissima",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Ormosia hosiei"
+      "scientific_name": "Ormosia hosiei",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Camellia sp."
+      "scientific_name": "Camellia sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Osmanthus fragrans"
+      "scientific_name": "Osmanthus fragrans",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Liquidambar"
+      "scientific_name": "Liquidambar",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum camphora"
+      "scientific_name": "Cinnamomum camphora",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Pinus spp."
+      "scientific_name": "Pinus spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
-  "host_note": "Baseline and Smith et al. (2020) hosts are retained. Beaver & Liu (2010) adds the resolved Taiwan hosts Cinnamomum camphora and Pinus spp.",
+  "host_note": "Yin et al. (1984) and Huang & Lu (2015) support the four historical hosts; Smith et al. (2020) reported Liquidambar at genus level. Beaver & Liu (2010) documented Cinnamomum camphora and Pinus spp. in Taiwan.",
   "taxonomy_summary": "The current accepted identity is Cnestus mutilatus (Blandford, 1894).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -122,7 +154,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -130,7 +162,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],
