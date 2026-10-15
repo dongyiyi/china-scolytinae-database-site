@@ -15,12 +15,18 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "中国大陆（区域记录，未细化至省级）；中国（省级地点未注明）",
-    "narrative": "Smith et al. (2020) reports occurrence in China without specifying a province. Mainland presence is accepted at country level; no province is inferred."
+    "summary": "Mainland China (country-level record; province unspecified)",
+    "narrative": "Smith et al. (2020) listed China without specifying a province. Mainland presence remains a country-level record, with no province inferred.",
+    "reference_ids": [
+      "src_smith2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Litchi chinensis"
+      "scientific_name": "Litchi chinensis",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Litchi chinensis is retained as a species-level host record.",

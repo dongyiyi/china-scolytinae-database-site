@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "A province-level occurrence has been reported, but its supporting evidence remains under review. No province is listed here as a confirmed occurrence."
+    "narrative": "Alonso-Zarazaga et al. (2023) listed Fujian for Coccotrypes rugicollis. This is published catalogue evidence only; the mainland occurrence remains Candidate and the province is not accepted as confirmed pending curator review.",
+    "reference_ids": [
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
+    ]
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",

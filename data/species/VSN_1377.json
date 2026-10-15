@@ -15,15 +15,26 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "贵州；云南；台湾",
-    "narrative": "Smith et al. (2020) records Guizhou, including Pingtang. Lin & Smith (2022) adds Taiwan as Present. Smith et al. (2022) reports Guizhou and Yunnan and adds Honghe locality evidence. The reviewed distribution is the union Guizhou + Yunnan + Taiwan."
+    "summary": "Guizhou; Yunnan; Taiwan",
+    "narrative": "Smith et al. (2020) recorded Guizhou, including Pingtang. Lin & Smith (2022) reported Taiwan. Smith et al. (2022) confirmed Guizhou and documented Yunnan, including Honghe. The reviewed distribution is Guizhou, Yunnan and Taiwan.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_linsmith2022",
+      "src_smith2022"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Carya sp."
+      "scientific_name": "Carya sp.",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Machilus zuihoensis"
+      "scientific_name": "Machilus zuihoensis",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     }
   ],
   "host_note": "Carya sp. is retained from Smith et al. (2020), and Machilus zuihoensis from Lin & Smith (2022). Smith et al. (2022) provides no host in the curated record, so the current host synthesis is unchanged.",

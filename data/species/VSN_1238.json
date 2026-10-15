@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "The source reports China without specifying a subregion. Mainland China, Taiwan, Hong Kong and Macao have not been independently assessed."
+    "narrative": "Alonso-Zarazaga et al. (2023) listed China without identifying a subregion for Coccotrypes salakensis. Mainland China, Taiwan, Hong Kong and Macao remain Not assessed; no region or province is inferred.",
+    "reference_ids": [
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
+    ]
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",
