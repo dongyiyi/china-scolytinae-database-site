@@ -16,14 +16,24 @@
   },
   "distribution": {
     "summary": "Hebei; Heilongjiang; Hong Kong",
-    "narrative": "Lau (2025) supports Hong Kong occurrence. Yang (2020) explicitly lists Hebei and Heilongjiang and is accepted as specialist-checklist evidence for mainland-China occurrence. Earlier baseline Hebei evidence is retained; Yang adds Heilongjiang."
+    "narrative": "Yin et al. (1984) and Huang & Lu (2015) documented Hebei. Yang (2020) additionally listed Heilongjiang, while Lau (2025) provides secondary checklist evidence for Hong Kong. All areas are retained at their documented geographic precision.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_yangcryphaluschecklistal2020",
+      "src_lau2025"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pinus tabulaeformis"
+      "scientific_name": "Pinus tabulaeformis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "Existing 殷蕙芬等 (1984)/黄复生等 (2015) host evidence for Pinus tabulaeformis is retained. Lau (2025) and Yang (2020) supply no host evidence for this taxon.",
+  "host_note": "Yin et al. (1984) and Huang & Lu (2015) reported Pinus tabulaeformis. Yang (2020) and Lau (2025) supply geographic records only and do not add confirmed hosts.",
   "taxonomy_summary": "The current accepted identity is Cryphalus jeholensis Murayama, 1939.",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -60,7 +70,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -68,7 +78,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

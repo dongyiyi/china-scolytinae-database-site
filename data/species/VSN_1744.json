@@ -15,15 +15,28 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Liaoning; Heilongjiang",
-    "narrative": "Existing baseline occurrence from Liaoning and Heilongjiang is retained. Yang (2020) independently lists Liaoning; omission of Heilongjiang from this source does not remove earlier accepted evidence."
+    "summary": "Heilongjiang; Liaoning",
+    "narrative": "Yin et al. (1984) and Huang & Lu (2015) list Liaoning under Cryphalus malus and Heilongjiang under historical synonym Cryphalus padi. Yang (2020) also lists Liaoning.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_yangcryphaluschecklistal2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Prunus armeniaca"
+      "scientific_name": "Prunus armeniaca",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Prunus padus"
+      "scientific_name": "Prunus padus",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     }
   ],
   "host_note": "Existing baseline host evidence for Prunus armeniaca and Prunus padus is retained. Yang (2020) contributes distribution evidence only and supplies no host data.",
@@ -74,7 +87,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -82,7 +95,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

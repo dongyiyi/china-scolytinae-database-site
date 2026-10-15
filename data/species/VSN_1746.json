@@ -15,18 +15,33 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；广东；湖南；云南；台湾；香港",
-    "narrative": "Current occurrence is supported by Johnson et al. (2020) from Fujian, Guangdong, Hunan, Yunnan and Taiwan. Beaver & Liu (2010) provides earlier Taiwan evidence under the source name Hypocryphalus mangiferae and treats it as a first Taiwan record, with material from Hualien (Liyutan), Pingtung (Kenting), Taichung (National Chunghsing University) and Taitung (Taimali). Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Fujian; Guangdong; Hunan; Yunnan; Taiwan; Hong Kong",
+    "narrative": "Johnson et al. (2020) documented Fujian, Guangdong, Hunan, Yunnan and Taiwan. Beaver & Liu (2010) documented Taiwan under Hypocryphalus mangiferae. Lau (2025) supplies secondary Hong Kong evidence.",
+    "reference_ids": [
+      "src_johnsonetal2020_cryphaluseastasia",
+      "src_beaverliu2010",
+      "src_lau2025"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Mangifera indica"
+      "scientific_name": "Mangifera indica",
+      "reference_ids": [
+        "src_johnsonetal2020_cryphaluseastasia",
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Choerospondias axillaris"
+      "scientific_name": "Choerospondias axillaris",
+      "reference_ids": [
+        "src_johnsonetal2020_cryphaluseastasia"
+      ]
     },
     {
-      "scientific_name": "Mangifera odorata"
+      "scientific_name": "Mangifera odorata",
+      "reference_ids": [
+        "src_johnsonetal2020_cryphaluseastasia"
+      ]
     }
   ],
   "host_note": "Mangifera indica, Mangifera odorata and molecularly verified Choerospondias axillaris are retained as current hosts from Johnson et al. (2020). Beaver & Liu (2010) independently reports Mangifera indica, which is concordant and adds no new host taxon.",

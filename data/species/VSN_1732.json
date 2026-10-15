@@ -15,15 +15,29 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Guizhou; Sichuan; Shaanxi; Yunnan",
-    "narrative": "Johnson et al. (2020) supports occurrence in Guizhou, Sichuan, Shaanxi and Yunnan."
+    "summary": "Guizhou; Shaanxi; Sichuan; Yunnan",
+    "narrative": "Johnson et al. (2020) documented Guizhou, Shaanxi, Sichuan and Yunnan. The Hainan entry in Huang & Lu (2015) is not promoted to the current reviewed occurrence.",
+    "reference_ids": [
+      "src_johnsonetal2020_cryphaluseastasia",
+      "src_ef1984",
+      "src_co2015",
+      "src_yangcryphaluschecklistal2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pinus armandii"
+      "scientific_name": "Pinus armandii",
+      "reference_ids": [
+        "src_johnsonetal2020_cryphaluseastasia",
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus yunnanensis"
+      "scientific_name": "Pinus yunnanensis",
+      "reference_ids": [
+        "src_johnsonetal2020_cryphaluseastasia"
+      ]
     }
   ],
   "host_note": "Pinus armandii and P. yunnanensis are retained as current reviewed hosts.",
@@ -74,7 +88,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -82,7 +96,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

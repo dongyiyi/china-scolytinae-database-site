@@ -16,11 +16,17 @@
   },
   "distribution": {
     "summary": "Fujian; Guangdong; Jiangxi",
-    "narrative": "Johnson et al. (2020) documents Fujian, Guangdong and Jiangxi."
+    "narrative": "Johnson et al. (2020) documented Fujian, Guangdong and Jiangxi.",
+    "reference_ids": [
+      "src_johnsonetal2020_cryphaluseastasia"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Rhus chinensis"
+      "scientific_name": "Rhus chinensis",
+      "reference_ids": [
+        "src_johnsonetal2020_cryphaluseastasia"
+      ]
     }
   ],
   "host_note": "Rhus chinensis is directly supported.",

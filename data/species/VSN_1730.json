@@ -16,11 +16,20 @@
   },
   "distribution": {
     "summary": "Heilongjiang",
-    "narrative": "Yang (2020) lists Heilongjiang; accepted as mainland-China occurrence evidence from a specialist Cryphalus checklist."
+    "narrative": "Yin et al. (1984), Huang & Lu (2015) and Yang (2020) report Heilongjiang.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_yangcryphaluschecklistal2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Larix gmelinii"
+      "scientific_name": "Larix gmelinii",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     }
   ],
   "host_note": "Existing 殷蕙芬等 (1984)/黄复生等 (2015) host evidence for Larix gmelinii is retained. Yang (2020) contributes distribution evidence only and supplies no host data.",
@@ -71,7 +80,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -79,7 +88,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],
