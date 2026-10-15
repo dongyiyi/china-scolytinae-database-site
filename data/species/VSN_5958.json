@@ -16,7 +16,11 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+    "narrative": "Published Chinese records report Trypodendron signatum from Heilongjiang (黑龙江). Yin et al. (1984) recorded Dailing (带岭), Heilongjiang, under Xyloterus signatus; Huang et al. (2015) listed Heilongjiang under Trypodendron signatus. These are literature-based records. The China occurrence remains a candidate pending checklist review.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015"
+    ]
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",
