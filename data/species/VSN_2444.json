@@ -6,7 +6,7 @@
   "genus": "Dryocoetes",
   "subfamily": "Scolytinae",
   "tribe": "Dryocoetini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "Not started",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,11 +15,24 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+    "summary": "黑龙江",
+    "narrative": "殷蕙芬等 (1984) recorded 黑龙江（伊春）. 黄复生等 (2015) recorded 黑龙江. These are literature-based occurrence records; the checklist occurrence review has not yet been completed.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015"
+    ]
   },
-  "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "hosts": [
+    {
+      "scientific_name": "Abies nephrolepis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "臭冷杉"
+    }
+  ],
+  "host_note": "殷蕙芬等 (1984) reported these hosts, and 黄复生等 (2015) repeated the same host names. The records have not yet undergone independent host review.",
   "taxonomy_summary": "The current accepted identity is Dryocoetes striatus Eggers, 1933.",
   "taxonomy_reference_ids": [
     "johnson2026"
