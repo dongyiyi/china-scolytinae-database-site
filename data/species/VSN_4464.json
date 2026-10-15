@@ -6,7 +6,7 @@
   "genus": "Pityophthorus",
   "subfamily": "Scolytinae",
   "tribe": "Corthylini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "In review",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+    "summary": "云南",
+    "narrative": "Bright2021_ScolytidaeSupplement4 reports 云南. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
+    "reference_ids": [
+      "src_bright2021_scolytidaesupplement4"
+    ]
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",

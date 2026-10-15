@@ -6,7 +6,7 @@
   "genus": "Euwallacea",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "In review",
   "china_occurrence": {
     "Mainland China": "Not assessed",
@@ -15,11 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+    "summary": "Taiwan",
+    "narrative": "SmithEtAl2020 reports Taiwan. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
+    "reference_ids": [
+      "src_smithetal2020_xyleborini"
+    ]
   },
   "hosts": [],
-  "host_note": "A broad host range has been reported, but individual host taxa have not been independently reviewed.",
+  "host_note": "A broad host range has been reported, but individual host taxa have not been independently reviewed. Source reports non-specific or unverified host text: Polyphagous. No host taxon inferred.",
   "taxonomy_summary": "The current accepted identity is Euwallacea kuroshio Gomez & Hulcr, 2018.",
   "taxonomy_reference_ids": [
     "johnson2026"

@@ -6,7 +6,7 @@
   "genus": "Taphrorychus",
   "subfamily": "Scolytinae",
   "tribe": "Dryocoetini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "Not started",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,11 +15,24 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+    "summary": "四川",
+    "narrative": "EF1984 reports 四川（米亚罗）. CO2015 reports 四川. These are literature-based records; original occurrence assessment is unchanged.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015"
+    ]
   },
-  "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "hosts": [
+    {
+      "scientific_name": "Salix sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "柳"
+    }
+  ],
+  "host_note": "Source-reported hosts linked individually to the literature. Independent host review pending.",
   "taxonomy_summary": "The current accepted identity is Taphrorychus picipennis (Eggers, 1926).",
   "taxonomy_reference_ids": [
     "johnson2026"

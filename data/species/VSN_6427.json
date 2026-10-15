@@ -6,7 +6,7 @@
   "genus": "Xylechinus",
   "subfamily": "Scolytinae",
   "tribe": "Hylurgini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "In review",
   "china_occurrence": {
     "Mainland China": "Not assessed",
@@ -15,11 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+    "summary": "台湾",
+    "narrative": "Lin2020_XylechinusFatsiae reports 台湾. These are literature-based records; original occurrence assessment is unchanged.",
+    "reference_ids": [
+      "src_lin2020_xylechinusfatsiae"
+    ]
   },
   "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "host_note": "No specific host taxa established by this source set; none inferred.",
   "taxonomy_summary": "The current accepted identity is Xylechinus fatsiae Lin, 2020.",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -63,6 +66,14 @@
       ],
       "citation": "Lin, C.S. (2020). A new species of Xylechinus Chapuis (Coleoptera: Curculionidae: Scolytinae: Hylurgini) from Taiwan, with notes on its biology. Taiwania 65(2): 172–175.",
       "doi": "10.6165/tai.2020.65.172"
+    },
+    {
+      "id": "src_lin2020_xylechinusfatsiae",
+      "label": "Lin2020_XylechinusFatsiae",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Lin, C.-S. (2020). A new species of Xylechinus Chapuis from Taiwan, with notes on its biology. Taiwania, 65(2), 172–175."
     }
   ],
   "recommended_chinese_name": "八角金盘鳞小蠹",

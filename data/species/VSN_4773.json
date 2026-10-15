@@ -6,7 +6,7 @@
   "genus": "Polygraphus",
   "subfamily": "Scolytinae",
   "tribe": "Polygraphini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "Not started",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,15 +15,16 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "Yin and Huang (1996) originally described Polygraphus querci as a new species from Xishuangbanna, Yunnan, China. Bright (2002) subsequently proposed Polygraphus yunnanensis as a replacement name because Polygraphus querci Yin & Huang, 1996 was a junior primary homonym of Polygraphus querci Wood, 1988. This is original type-locality evidence, but the China occurrence assessment remains Candidate pending independent review.",
+    "summary": "云南",
+    "narrative": "CO2015 reports 云南. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review. Existing note: Yin and Huang (1996) originally described Polygraphus querci as a new species from Xishuangbanna, Yunnan, China. Bright (2002) subsequently proposed Polygraphus yunnanensis as a replacement name because Polygraphus querci Yin & Huang, 1996 was a junior primary homonym of Polygraphus querci Wood, 1988. This is original type-locality evidence, but the China occurrence assessment remains Candidate pending independent review.",
     "reference_ids": [
       "yinhuang1996",
-      "bright2002"
+      "bright2002",
+      "src_co2015"
     ]
   },
   "hosts": [],
-  "host_note": "Yin and Huang (1996) recorded the holotype from Quercus acutissima (麻栎) in Xishuangbanna, Yunnan. This published host association has not yet been independently reviewed and is therefore not listed as confirmed.",
+  "host_note": "Yin and Huang (1996) recorded the holotype from Quercus acutissima (麻栎) in Xishuangbanna, Yunnan. This published host association has not yet been independently reviewed and is therefore not listed as confirmed. CO2015_081 is a historical name crosswalk to Polygraphus yunnanensis; Quercus acutissima remains an unreviewed original host report, not promoted as confirmed.",
   "taxonomy_summary": "The current accepted identity is Polygraphus yunnanensis Bright, 2002, a replacement name for Polygraphus querci Yin & Huang, 1996 (junior primary homonym of P. querci Wood, 1988).",
   "taxonomy_reference_ids": [
     "johnson2026",

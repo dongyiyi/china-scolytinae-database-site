@@ -6,7 +6,7 @@
   "genus": "Scolytus",
   "subfamily": "Scolytinae",
   "tribe": "Scolytini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "In review",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,11 +15,24 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "Baseline review: 殷蕙芬等 (1984) records Tibet (西藏；札达底雅). 黄复生等 (2015) retains Tibet and adds Gansu, Ningxia, Qinghai, Sichuan, and Yunnan (甘肃，宁夏，青海，四川，云南). No localities are provided for the added provinces in the current 黄复生等 (2015) extraction. These additions require tracing to primary or later literature before they are treated as the reviewed current distribution."
+    "summary": "西藏；甘肃；宁夏；青海；四川；云南",
+    "narrative": "EF1984 reports 西藏（札达底雅）. CO2015 reports 西藏，甘肃，宁夏，青海，四川，云南. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review. Existing note: Baseline review: 殷蕙芬等 (1984) records Tibet (西藏；札达底雅). 黄复生等 (2015) retains Tibet and adds Gansu, Ningxia, Qinghai, Sichuan, and Yunnan (甘肃，宁夏，青海，四川，云南). No localities are provided for the added provinces in the current 黄复生等 (2015) extraction. These additions require tracing to primary or later literature before they are treated as the reviewed current distribution.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015"
+    ]
   },
-  "hosts": [],
-  "host_note": "殷蕙芬等 (1984) and 黄复生等 (2015) both report 杏 / Prunus armeniaca; no host addition or omission is indicated between the two baseline sources.",
+  "hosts": [
+    {
+      "scientific_name": "Prunus armeniaca",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "杏"
+    }
+  ],
+  "host_note": "Host names reported by cited sources, not independently confirmed. The regional occurrence assessment is not changed.",
   "taxonomy_summary": "The current accepted identity is Scolytus nitidus Schedl, 1936.",
   "taxonomy_reference_ids": [
     "johnson2026"

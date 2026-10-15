@@ -6,7 +6,7 @@
   "genus": "Scolytus",
   "subfamily": "Scolytinae",
   "tribe": "Scolytini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "Not started",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,11 +15,64 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+    "summary": "黑龙江；吉林；辽宁；北京；河北；山东；河南；陕西；宁夏；甘肃；江苏",
+    "narrative": "EF1984 reports 黑龙江（哈尔滨），吉林（公主岭），辽宁（熊岳，旅大），北京，河北（秦皇岛，昌黎），山东（青岛），河南（安阳），陕西（西安，武功），宁夏（贺兰山），甘肃（肃南），江苏（南京）. CO2015 reports 黑龙江，吉林，辽宁，北京，河北，山东，河南，陕西，宁夏，甘肃，江苏. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015"
+    ]
   },
-  "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "hosts": [
+    {
+      "scientific_name": "Pyrus sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "梨"
+    },
+    {
+      "scientific_name": "Prunus persica",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "桃"
+    },
+    {
+      "scientific_name": "Prunus armeniaca",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "杏"
+    },
+    {
+      "scientific_name": "Prunus pseudocerasus",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "樱桃"
+    },
+    {
+      "scientific_name": "Prunus salicina",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "李"
+    },
+    {
+      "scientific_name": "Caragana korshinskii",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "柠条锦鸡儿"
+    }
+  ],
+  "host_note": "Host names reported by cited sources, not independently confirmed. The regional occurrence assessment is not changed. The noted Chinese-name discrepancy for Prunus persica does not change the published scientific host name.",
   "taxonomy_summary": "The current accepted identity is Scolytus emarginatus (Wichmann, 1915).",
   "taxonomy_reference_ids": [
     "johnson2026"

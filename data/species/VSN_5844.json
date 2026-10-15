@@ -6,7 +6,7 @@
   "genus": "Tomicus",
   "subfamily": "Scolytinae",
   "tribe": "Hylurgini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "In review",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,11 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+    "summary": "云南",
+    "narrative": "LiEtAl2010_TomicusArmandi reports 云南. These are literature-based records; original occurrence assessment is unchanged.",
+    "reference_ids": [
+      "src_lietal2010_tomicusarmandi"
+    ]
   },
   "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "host_note": "No specific host taxa in the linked records; none inferred.",
   "taxonomy_summary": "The current accepted identity is Tomicus armandii Li & Zhang, 2010.",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -63,6 +66,14 @@
       ],
       "citation": "Li, X., Zhang, Z., Wang, H., Wu, W., Cao, P. & Zhang, P.Y. (2010). Tomicus armandii Li & Zhang (Curculionidae, Scolytinae), a new pine shoot borer from China. Zootaxa 2572: 57–64.",
       "doi": "10.11646/zootaxa.2572.1.4"
+    },
+    {
+      "id": "src_lietal2010_tomicusarmandi",
+      "label": "LiEtAl2010_TomicusArmandi",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Li, X., Zhang, Z., Wang, H., Wu, W., Cao, P., & Zhang, P. (2010). Tomicus armandii Li & Zhang, a new pine shoot borer from China. Zootaxa, 2572, 57–64."
     }
   ],
   "recommended_chinese_name": "华山松切梢小蠹",

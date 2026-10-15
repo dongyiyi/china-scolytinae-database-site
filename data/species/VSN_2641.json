@@ -6,7 +6,7 @@
   "genus": "Eidophelus",
   "subfamily": "Scolytinae",
   "tribe": "Ernoporini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "In review",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,11 +15,27 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "The name submitted with this occurrence has been reconciled to the accepted taxonomic identity. The occurrence itself remains under review."
+    "summary": "Yunnan",
+    "narrative": "Yin2001_Scolytogenes reports Yunnan: Jinghong,. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review. Existing note: The name submitted with this occurrence has been reconciled to the accepted taxonomic identity. The occurrence itself remains under review.",
+    "reference_ids": [
+      "src_yin2001_scolytogenes"
+    ]
   },
-  "hosts": [],
-  "host_note": "Host names reported in the source record have not been independently reviewed and are not listed as confirmed hosts.",
+  "hosts": [
+    {
+      "scientific_name": "Bauhinia uariegata",
+      "reference_ids": [
+        "src_yin2001_scolytogenes"
+      ]
+    },
+    {
+      "scientific_name": "Betula alnoides",
+      "reference_ids": [
+        "src_yin2001_scolytogenes"
+      ]
+    }
+  ],
+  "host_note": "Host names reported by cited sources, not independently confirmed. The regional occurrence assessment is not changed.",
   "taxonomy_summary": "The current accepted identity is Eidophelus yunnanensis (Yin, 2001).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -74,6 +90,14 @@
       ],
       "citation": "Yin, H.F. (2001). The Chinese Scolytogenes Eichhoff with descriptions of seven new species (Coleoptera: Scolytidae). Oriental Insects 35(1): 321–334.",
       "doi": "10.1080/00305316.2001.10417311"
+    },
+    {
+      "id": "src_yin2001_scolytogenes",
+      "label": "Yin2001_Scolytogenes",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Yin, H. F. (2001). The Chinese Scolytogenes Eichhoff with descriptions of seven new species (Coleoptera: Scolytidae). Oriental Insects, 35(1), 321–334."
     }
   ],
   "recommended_chinese_name": "云南藤小蠹",

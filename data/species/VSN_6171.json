@@ -6,7 +6,7 @@
   "genus": "Xyleborus",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "In review",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,11 +15,15 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+    "summary": "Guangdong；Guangxi；Taiwan",
+    "narrative": "CaoEtAl2026_XyleborusBidentatus reports 广东湛江、广西合浦. SmithEtAl2020 reports Taiwan. These are literature-based records; original occurrence assessment is unchanged.",
+    "reference_ids": [
+      "src_caoetal2026_xyleborusbidentatus",
+      "src_smithetal2020"
+    ]
   },
   "hosts": [],
-  "host_note": "Smith et al. (2020): polyphagous, host evidence pending synthesis.",
+  "host_note": "No specific host taxa established by this source set; none inferred. Non-taxonomic host terms retained in source evidence: Polyphagous; Polyphagous.",
   "taxonomy_summary": "The current accepted identity is Xyleborus bidentatus (Motschulsky, 1863).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -236,6 +240,14 @@
         "nomenclatural source"
       ],
       "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
+    },
+    {
+      "id": "src_smithetal2020",
+      "label": "SmithEtAl2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith SM, Beaver RA, Cognato AI (2020) A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1-442."
     }
   ],
   "recommended_chinese_name": "双齿材小蠹",

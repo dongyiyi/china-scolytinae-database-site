@@ -6,7 +6,7 @@
   "genus": "Scolytus",
   "subfamily": "Scolytinae",
   "tribe": "Scolytini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "Not started",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,11 +15,48 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+    "summary": "云南；西藏",
+    "narrative": "EF1984 reports 云南（丽江），西藏（波密，察隅）. CO2015 reports 云南，西藏. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015"
+    ]
   },
-  "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "hosts": [
+    {
+      "scientific_name": "Malus baccata",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "山荆子"
+    },
+    {
+      "scientific_name": "Malus yunnanensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "滇池海棠"
+    },
+    {
+      "scientific_name": "Prunus persica",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "桃"
+    },
+    {
+      "scientific_name": "Prunus tomentosa",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "毛樱桃"
+    }
+  ],
+  "host_note": "Host names reported by cited sources, not independently confirmed. The regional occurrence assessment is not changed. Prunus persica Chinese name corrected to 桃, while preserving the reported scientific name.",
   "taxonomy_summary": "The current accepted identity is Scolytus pomi Yin & Huang, 1980.",
   "taxonomy_reference_ids": [
     "johnson2026"

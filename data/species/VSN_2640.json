@@ -6,7 +6,7 @@
   "genus": "Eidophelus",
   "subfamily": "Scolytinae",
   "tribe": "Ernoporini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "In review",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+    "summary": "Guangdong",
+    "narrative": "Yin2001_Scolytogenes reports Guangdong: Haikang. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
+    "reference_ids": [
+      "src_yin2001_scolytogenes"
+    ]
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",
@@ -83,6 +86,14 @@
       ],
       "citation": "Yin, H.F. (2001). The Chinese Scolytogenes Eichhoff with descriptions of seven new species (Coleoptera: Scolytidae). Oriental Insects 35(1): 321–334.",
       "doi": "10.1080/00305316.2001.10417311"
+    },
+    {
+      "id": "src_yin2001_scolytogenes",
+      "label": "Yin2001_Scolytogenes",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Yin, H. F. (2001). The Chinese Scolytogenes Eichhoff with descriptions of seven new species (Coleoptera: Scolytidae). Oriental Insects, 35(1), 321–334."
     }
   ],
   "recommended_chinese_name": "秀丽藤小蠹",

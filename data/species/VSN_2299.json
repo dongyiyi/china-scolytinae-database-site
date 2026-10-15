@@ -6,7 +6,7 @@
   "genus": "Dendroctonus",
   "subfamily": "Scolytinae",
   "tribe": "Hylurgini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "Not started",
   "china_occurrence": {
     "Mainland China": "Present",
@@ -15,11 +15,64 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "This species is an established non-native invasive species in mainland China. Detailed China occurrence records and supporting references have not yet been integrated into this profile."
+    "summary": "河北；河南；陕西；山西",
+    "narrative": "CO2015 reports 河北，河南，陕西，山西. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
+    "reference_ids": [
+      "src_co2015"
+    ]
   },
-  "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "hosts": [
+    {
+      "scientific_name": "Pinus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "松属"
+    },
+    {
+      "scientific_name": "Pinus tabuliformis",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "油松"
+    },
+    {
+      "scientific_name": "Pinus bungeana",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "白皮松"
+    },
+    {
+      "scientific_name": "Pinus armandii",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "华山松"
+    },
+    {
+      "scientific_name": "Larix sp.",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "落叶松"
+    },
+    {
+      "scientific_name": "Abies sp.",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "冷杉属"
+    },
+    {
+      "scientific_name": "Picea asperata",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "云杉"
+    }
+  ],
+  "host_note": "Host names reported by cited sources, not independently confirmed. The regional occurrence assessment is not changed.",
   "taxonomy_summary": "The current accepted identity is Dendroctonus valens LeConte, 1857.",
   "taxonomy_reference_ids": [
     "johnson2026"

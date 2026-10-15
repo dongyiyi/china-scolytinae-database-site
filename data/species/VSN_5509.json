@@ -6,7 +6,7 @@
   "genus": "Scolytus",
   "subfamily": "Scolytinae",
   "tribe": "Scolytini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "In review",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -22,7 +22,7 @@
     ]
   },
   "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "host_note": "Host information has not yet been reviewed for this checklist record. IMPORTANT: Cao et al. (2022) reports the species only; tentative record mapping to VSN_5509 does not establish the nominate subspecies S. j. jaroschewskii.",
   "taxonomy_summary": "Chinese occurrence evidence is reported at species rank as Scolytus jaroschewskii Schevyrew, 1893. Johnson et al. (2026) recognizes two subspecies, but the Xinjiang record does not establish which subspecies occurs.",
   "taxonomy_reference_ids": [
     "johnson2026",

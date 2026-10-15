@@ -6,7 +6,7 @@
   "genus": "Truncaudum",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "Not started",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,11 +15,29 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+    "summary": "福建",
+    "narrative": "CO2015 reports 福建. These are literature-based records; original occurrence assessment is unchanged.",
+    "reference_ids": [
+      "src_co2015"
+    ]
   },
-  "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "hosts": [
+    {
+      "scientific_name": "Lithocarpus dealbatus",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "白柯"
+    },
+    {
+      "scientific_name": "Quercus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "栎"
+    }
+  ],
+  "host_note": "Source-reported hosts linked individually to the literature. Independent host review pending.",
   "taxonomy_summary": "The current accepted identity is Truncaudum agnatum (Eggers, 1923).",
   "taxonomy_reference_ids": [
     "johnson2026"

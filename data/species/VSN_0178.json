@@ -6,7 +6,7 @@
   "genus": "Amasa",
   "subfamily": "Scolytinae",
   "tribe": "Xyleborini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "In review",
   "china_occurrence": {
     "Mainland China": "Not assessed",
@@ -15,11 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+    "summary": "Taiwan",
+    "narrative": "SmithEtAl2020 reports Taiwan. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
+    "reference_ids": [
+      "src_smithetal2020"
+    ]
   },
   "hosts": [],
-  "host_note": "Host associations have not yet been determined or independently reviewed for this checklist record.",
+  "host_note": "Host associations have not yet been determined or independently reviewed for this checklist record. Source reports non-specific or unverified host text: Unknown. No host taxon inferred.",
   "taxonomy_summary": "The current accepted identity is Amasa lini Smith, Beaver & Cognato, 2020.",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -63,6 +66,14 @@
       ],
       "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
       "doi": "10.3897/zookeys.983.52630"
+    },
+    {
+      "id": "src_smithetal2020",
+      "label": "SmithEtAl2020",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Smith SM, Beaver RA, Cognato AI (2020) A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1-442."
     }
   ],
   "recommended_chinese_name": "林氏尾截小蠹",

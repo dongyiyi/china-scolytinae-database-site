@@ -6,7 +6,7 @@
   "genus": "Polygraphus",
   "subfamily": "Scolytinae",
   "tribe": "Polygraphini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "Not started",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,11 +15,86 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+    "summary": "青海；四川；云南；西藏；贵州",
+    "narrative": "EF1984 reports 青海（玉树），四川（成都，米亚罗，马尔康），云南（中甸，丽江），西藏（昌都，八宿，察隅，波密，米林，林芝，工布江达，吉隆）. EF1984 reports 四川（康定），云南（中甸），西藏（波密，林芝，错那，亚东，吉隆）. EF1984 reports 四川（米亚罗，松岗，峨眉山，峨边，康定），云南（丽江）. CO2015 reports 贵州，云南，西藏. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015"
+    ]
   },
-  "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "hosts": [
+    {
+      "scientific_name": "Picea asperata",
+      "reference_ids": [
+        "src_ef1984"
+      ],
+      "chinese_name": "云杉"
+    },
+    {
+      "scientific_name": "Pinus armandii",
+      "reference_ids": [
+        "src_ef1984"
+      ],
+      "chinese_name": "华山松"
+    },
+    {
+      "scientific_name": "Pinus griffithii",
+      "reference_ids": [
+        "src_ef1984"
+      ],
+      "chinese_name": "乔松"
+    },
+    {
+      "scientific_name": "Pinus densata",
+      "reference_ids": [
+        "src_ef1984"
+      ],
+      "chinese_name": "高山松"
+    },
+    {
+      "scientific_name": "Abies fabri",
+      "reference_ids": [
+        "src_ef1984"
+      ],
+      "chinese_name": "冷杉"
+    },
+    {
+      "scientific_name": "Larix potaninii",
+      "reference_ids": [
+        "src_ef1984"
+      ],
+      "chinese_name": "红杉"
+    },
+    {
+      "scientific_name": "Picea likiangensis",
+      "reference_ids": [
+        "src_ef1984"
+      ],
+      "chinese_name": "丽江云杉"
+    },
+    {
+      "scientific_name": "Picea balfouriana",
+      "reference_ids": [
+        "src_ef1984"
+      ],
+      "chinese_name": "川西云杉"
+    },
+    {
+      "scientific_name": "Picea sp.",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "云杉属"
+    },
+    {
+      "scientific_name": "Pinus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "松属"
+    }
+  ],
+  "host_note": "Host names reported by cited sources, not independently confirmed. The regional occurrence assessment is not changed.",
   "taxonomy_summary": "The current accepted identity is Polygraphus rudis rudis Eggers, 1933.",
   "taxonomy_reference_ids": [
     "johnson2026"

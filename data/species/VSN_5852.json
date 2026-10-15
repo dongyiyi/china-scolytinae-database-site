@@ -6,7 +6,7 @@
   "genus": "Tomicus",
   "subfamily": "Scolytinae",
   "tribe": "Hylurgini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "In review",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,11 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+    "summary": "云南",
+    "narrative": "KirkendallEtAl2008_TomicusYunnanensis reports 云南. These are literature-based records; original occurrence assessment is unchanged.",
+    "reference_ids": [
+      "src_kirkendalletal2008_tomicusyunnanensis"
+    ]
   },
   "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "host_note": "No specific host taxa in the linked records; none inferred.",
   "taxonomy_summary": "The current accepted identity is Tomicus yunnanensis Kirkendall & Faccoli, 2008.",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -63,6 +66,14 @@
       ],
       "citation": "Kirkendall, L.R., Faccoli, M. & Ye, H. (2008). Description of the Yunnan shoot borer, Tomicus yunnanensis Kirkendall & Faccoli sp. n. (Curculionidae, Scolytinae), an unusually aggressive pine shoot beetle from southern China, with a key to the species of Tomicus. Zootaxa 1819: 25–39.",
       "doi": "10.11646/zootaxa.1819.1.2"
+    },
+    {
+      "id": "src_kirkendalletal2008_tomicusyunnanensis",
+      "label": "KirkendallEtAl2008_TomicusYunnanensis",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Kirkendall, L. R., Faccoli, M., & Ye, H. (2008). Description of the Yunnan shoot borer, Tomicus yunnanensis, an unusually aggressive pine shoot beetle from southern China. Zootaxa, 25–39."
     }
   ],
   "recommended_chinese_name": "云南切梢小蠹",

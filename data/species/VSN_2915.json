@@ -6,7 +6,7 @@
   "genus": "Hylastes",
   "subfamily": "Scolytinae",
   "tribe": "Hylastini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "In review",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,11 +15,33 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+    "summary": "Heilongjiang；Liaoning；Taiwan",
+    "narrative": "MandelshtamPetrov2019_Hylastini reports Heilongjiang, Liaoning, Taiwan. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
+    "reference_ids": [
+      "src_mandelshtampetrov2019_hylastini"
+    ]
   },
-  "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "hosts": [
+    {
+      "scientific_name": "Pinus sylvestris",
+      "reference_ids": [
+        "src_mandelshtampetrov2019_hylastini"
+      ]
+    },
+    {
+      "scientific_name": "Pinus nigra pallasiana",
+      "reference_ids": [
+        "src_mandelshtampetrov2019_hylastini"
+      ]
+    },
+    {
+      "scientific_name": "Pinus spp.",
+      "reference_ids": [
+        "src_mandelshtampetrov2019_hylastini"
+      ]
+    }
+  ],
+  "host_note": "Host names reported by cited sources, not independently confirmed. The regional occurrence assessment is not changed.",
   "taxonomy_summary": "The current accepted identity is Hylastes attenuatus Erichson, 1836.",
   "taxonomy_reference_ids": [
     "johnson2026"

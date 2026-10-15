@@ -6,7 +6,7 @@
   "genus": "Scolytus",
   "subfamily": "Scolytinae",
   "tribe": "Scolytini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "In review",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,11 +15,82 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "Baseline review: 殷蕙芬等 (1984) records Xinjiang (新疆；喀什). 黄复生等 (2015) retains Xinjiang with no province-level addition or omission. No baseline occurrence conflict is evident."
+    "summary": "新疆",
+    "narrative": "EF1984 reports 新疆（喀什）. CO2015 reports 新疆. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review. Existing note: Baseline review: 殷蕙芬等 (1984) records Xinjiang (新疆；喀什). 黄复生等 (2015) retains Xinjiang with no province-level addition or omission. No baseline occurrence conflict is evident.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015"
+    ]
   },
-  "hosts": [],
-  "host_note": "殷蕙芬等 (1984) reports 梅，杏，樱桃 / Prunus mume, Prunus armeniaca, Prunus pseudocerasus. 黄复生等 (2015) retains those hosts and adds 李属，苹果属，梨属，山楂属，榅桲属，榆属 / Prunus spp., Malus spp., Pyrus sp., Crataegus spp., Cydonia sp., Ulmus spp. The expanded host set should be traced to primary or later literature before being treated as the reviewed current host summary.",
+  "hosts": [
+    {
+      "scientific_name": "Prunus mume",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "梅"
+    },
+    {
+      "scientific_name": "Prunus armeniaca",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "杏"
+    },
+    {
+      "scientific_name": "Prunus pseudocerasus",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "樱桃"
+    },
+    {
+      "scientific_name": "Prunus spp.",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "李属"
+    },
+    {
+      "scientific_name": "Malus spp.",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "苹果属"
+    },
+    {
+      "scientific_name": "Pyrus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "梨属"
+    },
+    {
+      "scientific_name": "Crataegus spp.",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "山楂属"
+    },
+    {
+      "scientific_name": "Cydonia sp.",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "榅桲属"
+    },
+    {
+      "scientific_name": "Ulmus spp.",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "榆属"
+    }
+  ],
+  "host_note": "Host names reported by cited sources, not independently confirmed. The regional occurrence assessment is not changed.",
   "taxonomy_summary": "The current accepted identity is Scolytus rugulosus (Müller, 1818).",
   "taxonomy_reference_ids": [
     "johnson2026"

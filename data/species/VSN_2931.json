@@ -6,7 +6,7 @@
   "genus": "Hylastes",
   "subfamily": "Scolytinae",
   "tribe": "Hylastini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "In review",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,11 +15,27 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+    "summary": "Mainland",
+    "narrative": "MandelshtamPetrov2019_Hylastini reports Mainland. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
+    "reference_ids": [
+      "src_mandelshtampetrov2019_hylastini"
+    ]
   },
-  "hosts": [],
-  "host_note": "Reported hosts (unreviewed): Pinus sylvestris, Pinus spp., rarely on Picea abies",
+  "hosts": [
+    {
+      "scientific_name": "Pinus sylvestris",
+      "reference_ids": [
+        "src_mandelshtampetrov2019_hylastini"
+      ]
+    },
+    {
+      "scientific_name": "Pinus spp.",
+      "reference_ids": [
+        "src_mandelshtampetrov2019_hylastini"
+      ]
+    }
+  ],
+  "host_note": "Host names reported by cited sources, not independently confirmed. Non-taxon or unverified verbatim host terms excluded from the structured host list: rarely on Picea abies. The regional occurrence assessment is not changed.",
   "taxonomy_summary": "The current accepted identity is Hylastes opacus Erichson, 1836.",
   "taxonomy_reference_ids": [
     "johnson2026"
