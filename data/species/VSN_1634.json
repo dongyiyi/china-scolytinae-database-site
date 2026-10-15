@@ -16,14 +16,23 @@
   },
   "distribution": {
     "summary": "Hainan; Yunnan",
-    "narrative": "Johnson et al. (2020) documents examined material from Hainan and Yunnan."
+    "narrative": "Johnson et al. (2020) examined material from Hainan and Yunnan. The existing name Cryphalus brownei is treated as an unnecessary replacement name, not new synonymy proposed here.",
+    "reference_ids": [
+      "src_johnsonetal2020_cryphaluseastasia"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Morus sp."
+      "scientific_name": "Morus sp.",
+      "reference_ids": [
+        "src_johnsonetal2020_cryphaluseastasia"
+      ]
     },
     {
-      "scientific_name": "Ficus sp."
+      "scientific_name": "Ficus sp.",
+      "reference_ids": [
+        "src_johnsonetal2020_cryphaluseastasia"
+      ]
     }
   ],
   "host_note": "Morus sp. and Ficus sp. are supported by source records; genus-level evidence is retained at genus level.",

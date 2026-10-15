@@ -16,17 +16,29 @@
   },
   "distribution": {
     "summary": "Taiwan",
-    "narrative": "Accepted for Taiwan from Beaver & Liu (2010), which treats Cosmoderes attenuatus as a first Taiwan record. Reported Taiwan localities are Ilan (Fushan) and Nantou (Tsuifeng)."
+    "narrative": "Beaver & Liu (2010) reported the first Taiwan records from Ilan (Fushan) and Nantou (Tsuifeng). The three reported host plants are associations from Japan; the host remains unknown in Taiwan.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Actinidia polygama"
+      "scientific_name": "Actinidia polygama",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Akebia trifoliata"
+      "scientific_name": "Akebia trifoliata",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Stauntonia hexaphylla"
+      "scientific_name": "Stauntonia hexaphylla",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
   "host_note": "Exact host species Actinidia polygama, Akebia trifoliata and Stauntonia hexaphylla are reported from Japan in Beaver & Liu (2010). The source explicitly states that the host is unknown in Taiwan; these hosts must not be represented as Taiwan host records.",

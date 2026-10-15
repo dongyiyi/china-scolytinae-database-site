@@ -16,7 +16,11 @@
   },
   "distribution": {
     "summary": "Yunnan; Hainan",
-    "narrative": "Yang (2020) explicitly lists Yunnan and Hainan and is accepted as specialist-checklist evidence for mainland-China occurrence. The separate historical Taiwan record under Cryphalus scabricollis remains Questionable because Beaver & Liu (2010) regarded that imported-timber record as unconfirmed."
+    "narrative": "Yang (2020) listed Yunnan and Hainan. A separate historical Taiwan report published as Cryphalus scabricollis was considered doubtful by Beaver & Liu (2010); Taiwan remains Questionable, not Present.",
+    "reference_ids": [
+      "src_yangcryphaluschecklistal2020",
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [],
   "host_note": "No host evidence is reported for this doubtful Taiwan record.",

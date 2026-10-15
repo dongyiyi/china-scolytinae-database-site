@@ -15,27 +15,47 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "贵州; 福建; 台湾",
-    "narrative": "Mainland China occurrence is retained from 黄复生等 (2015) (贵州; 福建). Beaver & Liu (2010) adds a confirmed Taiwan record from Nantou, Neimoupu. The 2010 source also gives the broad distribution wording China (SW); Taiwan; no additional mainland province is inferred from that regional wording."
+    "summary": "Fujian; Guizhou; Taiwan",
+    "narrative": "Huang & Lu (2015), using the spelling Cosmoderes molinicollis, recorded Fujian and Guizhou. Beaver & Liu (2010) documented Taiwan at Nantou (Neimoupu); their broad China (SW) distribution is not converted into additional provinces.",
+    "reference_ids": [
+      "src_co2015",
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Cucurbita sp."
+      "scientific_name": "Cucurbita sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Luffa cylindrica"
+      "scientific_name": "Luffa cylindrica",
+      "reference_ids": [
+        "src_co2015",
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Canavalia sp."
+      "scientific_name": "Canavalia sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Lagenaria vulgaris"
+      "scientific_name": "Lagenaria vulgaris",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Tinospora cordifolia"
+      "scientific_name": "Tinospora cordifolia",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
-  "host_note": "黄复生等 (2015) reports Cucurbita sp., Luffa cylindrica and Canavalia sp. Beaver & Liu (2010) reports Lagenaria vulgaris, Luffa cylindrica and Tinospora cordifolia. Luffa cylindrica is de-duplicated in the current synthesis; genus-level host records remain genus-level.",
+  "host_note": "Huang & Lu (2015) reported Cucurbita sp., Luffa cylindrica and Canavalia sp. Beaver & Liu (2010) reported Lagenaria vulgaris, Luffa cylindrica and Tinospora cordifolia. Luffa cylindrica is counted once; genus-level taxa remain unresolved.",
   "taxonomy_summary": "The current accepted identity is Cosmoderes monilicollis Eichhoff, 1878.",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -105,7 +125,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],

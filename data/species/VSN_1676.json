@@ -16,23 +16,42 @@
   },
   "distribution": {
     "summary": "Guangdong; Yunnan; Hong Kong",
-    "narrative": "Johnson et al. (2020) confirms China occurrence in Guangdong and Yunnan; Taiwan is not included in the source-level China distribution. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence."
+    "narrative": "Johnson et al. (2020) documented Guangdong and Yunnan, including identified collecting sites; Lau (2025) provides secondary checklist evidence for Hong Kong. Taiwan is not inferred.",
+    "reference_ids": [
+      "src_johnsonetal2020_cryphaluseastasia",
+      "src_lau2025"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Mangifera indica"
+      "scientific_name": "Mangifera indica",
+      "reference_ids": [
+        "src_johnsonetal2020_cryphaluseastasia"
+      ]
     },
     {
-      "scientific_name": "Ficus carica"
+      "scientific_name": "Ficus carica",
+      "reference_ids": [
+        "src_johnsonetal2020_cryphaluseastasia"
+      ]
     },
     {
-      "scientific_name": "Ficus retusa"
+      "scientific_name": "Ficus retusa",
+      "reference_ids": [
+        "src_johnsonetal2020_cryphaluseastasia"
+      ]
     },
     {
-      "scientific_name": "Ficus microcarpa"
+      "scientific_name": "Ficus microcarpa",
+      "reference_ids": [
+        "src_johnsonetal2020_cryphaluseastasia"
+      ]
     },
     {
-      "scientific_name": "Ficus bengalensis"
+      "scientific_name": "Ficus bengalensis",
+      "reference_ids": [
+        "src_johnsonetal2020_cryphaluseastasia"
+      ]
     }
   ],
   "host_note": "Recorded hosts retained at the scientific-name resolution reported by the source.",

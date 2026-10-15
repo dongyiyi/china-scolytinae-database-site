@@ -16,14 +16,23 @@
   },
   "distribution": {
     "summary": "Shaanxi; Sichuan",
-    "narrative": "Yang (2020) lists Shaanxi and Sichuan; accepted as mainland-China occurrence evidence from a specialist Cryphalus checklist."
+    "narrative": "Yin et al. (1984) and Huang & Lu (2015) listed Shaanxi and Sichuan; Yang (2020) independently listed the same two provinces.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_yangcryphaluschecklistal2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pinus armandii"
+      "scientific_name": "Pinus armandii",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "Existing 殷蕙芬等 (1984)/黄复生等 (2015) host evidence for Pinus armandii is retained in the reviewed synthesis. Yang (2020) contributes distribution evidence only and supplies no host data; absence of host data in Yang (2020) does not negate the earlier host evidence.",
+  "host_note": "Yin et al. (1984) and Huang & Lu (2015) recorded Pinus armandii. Yang (2020) supplies distribution only and does not supersede the earlier host evidence.",
   "taxonomy_summary": "The current accepted identity is Cryphalus chinlingensis Tsai & Li, 1963.",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -60,7 +69,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -68,7 +77,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],
