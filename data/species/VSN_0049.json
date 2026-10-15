@@ -15,10 +15,10 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南",
-    "narrative": "CognatoSmith2020_Acanthotomicus reports 云南. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
+    "summary": "Yunnan",
+    "narrative": "Reported from Yunnan (Cognato & Smith, 2020). The regional occurrence assessment remains unchanged pending independent review.",
     "reference_ids": [
-      "src_cognatosmith2020_acanthotomicus"
+      "orig_1ab95416fcf6"
     ]
   },
   "hosts": [],
@@ -66,14 +66,6 @@
       ],
       "citation": "Cognato, A.I. & Smith, S.M. (2020). Acanthotomicus diaboliculus and A. enzoi (Coleoptera: Curculionidae: Scolytinae: Ipini), new species from Southeast Asia. The Coleopterists Bulletin 74(3): 538–541.",
       "doi": "10.1649/0010-065x-74.3.538"
-    },
-    {
-      "id": "src_cognatosmith2020_acanthotomicus",
-      "label": "CognatoSmith2020_Acanthotomicus",
-      "role": [
-        "published evidence"
-      ],
-      "citation": "Cognato, A. I., & Smith, S. M. (2020). Acanthotomicus diaboliculus and A. enzoi, New Species from Southeast Asia. The Coleopterists Bulletin, 74(3), 538–541."
     }
   ],
   "recommended_chinese_name": "微魔刺小蠹",
