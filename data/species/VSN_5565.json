@@ -15,8 +15,8 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "宁夏；四川；云南；西藏",
-    "narrative": "EF1984 reports 宁夏（贺兰山），四川（米亚罗），云南（丽江）. CO2015 reports 宁夏，四川，云南，西藏. These are literature-based records; original occurrence assessment is unchanged.",
+    "summary": "Ningxia; Sichuan; Yunnan; Xizang",
+    "narrative": "Yin et al. (1984) report the Helan Mountains (Ningxia), Miyaluo (Sichuan), and Lijiang (Yunnan). Huang & Lu (2015) list these regions and additionally Xizang without a specified locality. These are published records; the regional occurrence assessment remains unchanged.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015"
@@ -77,7 +77,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -85,7 +85,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

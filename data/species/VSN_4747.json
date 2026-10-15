@@ -15,8 +15,8 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "青海；四川；云南；西藏；贵州",
-    "narrative": "EF1984 reports 青海（玉树），四川（成都，米亚罗，马尔康），云南（中甸，丽江），西藏（昌都，八宿，察隅，波密，米林，林芝，工布江达，吉隆）. EF1984 reports 四川（康定），云南（中甸），西藏（波密，林芝，错那，亚东，吉隆）. EF1984 reports 四川（米亚罗，松岗，峨眉山，峨边，康定），云南（丽江）. CO2015 reports 贵州，云南，西藏. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
+    "summary": "Qinghai; Sichuan; Yunnan; Xizang; Guizhou",
+    "narrative": "Yin et al. (1984) documented three separately published name usages now crosswalked to this taxon. Under Polygraphus squameus, the source lists Qinghai (Yushu); Sichuan (Chengdu, Miyaluo, Maerkang); Yunnan (Zhongdian, Lijiang); and Xizang (Changdu, Basu, Chayu, Bomi, Milin, Linzhi, Gongbojiangda, Jilong). Under Polygraphus zhungdianensis, it lists Sichuan (Kangding); Yunnan (Zhongdian); and Xizang (Bomi, Linzhi, Cuona, Yadong, Jilong). Under Polygraphus rudis, it lists Sichuan (Miyaluo, Songgang, Mount Emei, Ebian, Kangding) and Yunnan (Lijiang). Huang & Lu (2015) list Guizhou, Yunnan, and Xizang under Polygraphus rudis rudis. These historical records are mapped through the taxonomic backbone; their subspecific assignments and occurrences have not been independently verified. Mainland China remains Candidate.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015"
@@ -186,7 +186,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -194,7 +194,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

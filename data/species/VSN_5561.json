@@ -15,8 +15,8 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "黑龙江；河北；河南；陕西；宁夏",
-    "narrative": "EF1984 reports 黑龙江（哈尔滨），河北（秦皇岛），河南（安阳），陕西（武功），宁夏（银川）. CO2015 reports 黑龙江，河北，河南，陕西，宁夏. These are literature-based records; original occurrence assessment is unchanged.",
+    "summary": "Heilongjiang; Hebei; Henan; Shaanxi; Ningxia",
+    "narrative": "Yin et al. (1984) report Harbin (Heilongjiang), Qinhuangdao (Hebei), Anyang (Henan), Wugong (Shaanxi), and Yinchuan (Ningxia). Huang & Lu (2015) list the same five provincial-level regions. These are published records; the regional occurrence assessment is unchanged.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015"
@@ -107,7 +107,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -115,7 +115,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

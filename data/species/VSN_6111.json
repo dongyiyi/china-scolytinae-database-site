@@ -18,20 +18,20 @@
     "summary": "Taiwan",
     "narrative": "SmithEtAl2020 reports Taiwan. These are literature-based records; original occurrence assessment is unchanged.",
     "reference_ids": [
-      "src_smithetal2020"
+      "src_smithetal2020_xyleborini"
     ]
   },
   "hosts": [
     {
       "scientific_name": "Artocarpus",
       "reference_ids": [
-        "src_smithetal2020"
+        "src_smithetal2020_xyleborini"
       ]
     },
     {
       "scientific_name": "Mangifera",
       "reference_ids": [
-        "src_smithetal2020"
+        "src_smithetal2020_xyleborini"
       ]
     }
   ],
@@ -97,14 +97,6 @@
         "nomenclatural source"
       ],
       "citation": "Schedl, K.E. (1964i). Scolytoidea from Borneo, III. 185 Contribution. Reichenbachia 4(27): 241–254."
-    },
-    {
-      "id": "src_smithetal2020",
-      "label": "SmithEtAl2020",
-      "role": [
-        "published evidence"
-      ],
-      "citation": "Smith SM, Beaver RA, Cognato AI (2020) A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1-442."
     }
   ],
   "recommended_chinese_name": "弧缘绒盾小蠹",

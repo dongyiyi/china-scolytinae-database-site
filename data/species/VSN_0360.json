@@ -16,7 +16,7 @@
   },
   "distribution": {
     "summary": "Anhui; Guangxi; Guizhou; Hainan; Henan; Jiangxi; Shaanxi; Shanxi; Sichuan; Xizang; Yunnan; Taiwan",
-    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) document Anhui, Sichuan, Guangxi, Xizang, Henan, Shaanxi, Taiwan, Hainan, and Yunnan. Smith et al. (2020) confirms several baseline areas and additionally records Guizhou, Jiangxi, and Shanxi. The current synthesis retains the union of supported records.",
+    "narrative": "Yin et al. (1984) and Huang & Lu (2015) document Anhui, Sichuan, Guangxi, Xizang, Henan, Shaanxi, Taiwan, Hainan, and Yunnan. Smith et al. (2020) confirms several baseline areas and additionally records Guizhou, Jiangxi, and Shanxi. The current synthesis retains the union of supported records.",
     "reference_ids": [
       "src_co2015",
       "src_ef1984",
@@ -66,7 +66,7 @@
       ]
     }
   ],
-  "host_note": "殷蕙芬等 (1984) and 黄复生等 (2015) report Populus sp., Castanopsis sp., Quercus sp., Machilus sp., and Schima sp. Smith et al. (2020) characterizes the species as polyphagous and explicitly records Pinus; only the identified genus Pinus is added to the canonical host summary.",
+  "host_note": "Yin et al. (1984) and Huang & Lu (2015) report Populus sp., Castanopsis sp., Quercus sp., Machilus sp., and Schima sp. Smith et al. (2020) characterizes the species as polyphagous and explicitly records Pinus; only the identified genus Pinus is added to the canonical host summary.",
   "taxonomy_summary": "The current accepted identity is Anisandrus apicalis (Blandford, 1894).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -104,7 +104,7 @@
   "references": [
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],
@@ -112,7 +112,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],

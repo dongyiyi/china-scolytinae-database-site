@@ -16,7 +16,7 @@
   },
   "distribution": {
     "summary": "Anhui; Beijing; Chongqing; Fujian; Guangdong; Guangxi; Guizhou; Hebei; Heilongjiang; Hong Kong; Hunan; Jiangxi; Shaanxi; Shandong; Sichuan; Xizang; Yunnan; Zhejiang; Taiwan",
-    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) document a broad mainland distribution and Taiwan. Smith et al. (2020) substantially expands the reviewed geographic evidence. Beaver & Liu (2010) independently supports Taiwan and broad China occurrence; its CE/NE/NO/SW regional wording is not converted into additional provinces. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
+    "narrative": "Yin et al. (1984) and Huang & Lu (2015) document a broad mainland distribution and Taiwan. Smith et al. (2020) substantially expands the reviewed geographic evidence. Beaver & Liu (2010) independently supports Taiwan and broad China occurrence; its CE/NE/NO/SW regional wording is not converted into additional provinces. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015",
@@ -220,7 +220,7 @@
   "references": [
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],
@@ -228,7 +228,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],

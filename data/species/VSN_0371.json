@@ -16,7 +16,7 @@
   },
   "distribution": {
     "summary": "Hunan; Guizhou; Fujian; Xizang; Yunnan",
-    "narrative": "黄复生等 (2015) records Anisandrus eggersi under the source name Terminalinus eggersi from Hunan, Guizhou, Fujian and Xizang. Smith et al. (2022) adds Yunnan, with locality evidence from Honghe. The reviewed current distribution is the union of these confirmed records."
+    "narrative": "Huang & Lu (2015) recorded Anisandrus eggersi under the source name Terminalinus eggersi from Hunan, Guizhou, Fujian and Xizang. Smith et al. (2022) adds Yunnan, with locality evidence from Honghe. The reviewed current distribution is the union of these confirmed records."
   },
   "hosts": [
     {
@@ -32,7 +32,7 @@
       "scientific_name": "Ficus carica"
     }
   ],
-  "host_note": "黄复生等 (2015) reports Cinnamomum camphora, Meliosma cuneifolia, Aralia chinensis and Ficus carica. Smith et al. (2022) provides no additional host for this record.",
+  "host_note": "Huang & Lu (2015) reported Cinnamomum camphora, Meliosma cuneifolia, Aralia chinensis and Ficus carica. Smith et al. (2022) provides no additional host for this record.",
   "taxonomy_summary": "The current accepted identity is Anisandrus eggersi (Beeson, 1930).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -70,7 +70,7 @@
   "references": [
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],

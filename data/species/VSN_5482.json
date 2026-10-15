@@ -15,8 +15,8 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "山西",
-    "narrative": "EF1984 reports 山西（降县）. CO2015 reports 山西. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
+    "summary": "Shanxi",
+    "narrative": "Yin et al. (1984) report a Shanxi record with a county locality transcribed here as Jiangxian, under the published name Scolytus shikisani. The county name's source-character spelling has not been independently resolved; no modern administrative equivalence is asserted. Huang & Lu (2015) retain Shanxi under the same historical name without county-level detail. These are literature-based records, and the regional occurrence assessment remains Candidate.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015"
@@ -91,7 +91,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -99,7 +99,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

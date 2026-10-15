@@ -16,7 +16,7 @@
   },
   "distribution": {
     "summary": "Fujian; Guangxi; Guizhou; Hainan; Hubei; Hong Kong; Xizang; Taiwan",
-    "narrative": "黄复生等 (2015) records Fujian, Guizhou, Hainan, and Hubei. Smith et al. (2020) confirms part of the baseline range and adds Guangxi, Hong Kong, and Xizang. Beaver & Liu (2010) provides the first Taiwan record, including Nantou, Neimoupu material; its broad China (SW, WP) wording is retained only as regional source context and is not converted into provinces. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
+    "narrative": "Huang & Lu (2015) recorded Fujian, Guizhou, Hainan, and Hubei. Smith et al. (2020) confirms part of the baseline range and adds Guangxi, Hong Kong, and Xizang. Beaver & Liu (2010) provides the first Taiwan record, including Nantou, Neimoupu material; its broad China (SW, WP) wording is retained only as regional source context and is not converted into provinces. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
     "reference_ids": [
       "src_co2015",
       "src_smith2020",
@@ -56,7 +56,7 @@
       ]
     }
   ],
-  "host_note": "黄复生等 (2015) reports Amygdalus persica, Pyrus sp., Juglans regia, and Citrus reticulata. Smith et al. (2020) additionally reports Quercus griffithii. Beaver & Liu (2010) describes broad polyphagy across more than 10 angiosperm families but does not identify a resolved Taiwan host taxon, so no new host is promoted.",
+  "host_note": "Huang & Lu (2015) reported Amygdalus persica, Pyrus sp., Juglans regia, and Citrus reticulata. Smith et al. (2020) additionally reports Quercus griffithii. Beaver & Liu (2010) describes broad polyphagy across more than 10 angiosperm families but does not identify a resolved Taiwan host taxon, so no new host is promoted.",
   "taxonomy_summary": "The current accepted identity is Ambrosiodmus asperatus (Blandford, 1895).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -127,7 +127,7 @@
   "references": [
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],

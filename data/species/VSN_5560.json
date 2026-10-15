@@ -15,8 +15,8 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "新疆",
-    "narrative": "EF1984 reports 新疆（喀什）. CO2015 reports 新疆. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review. Existing note: Baseline review: 殷蕙芬等 (1984) records Xinjiang (新疆；喀什). 黄复生等 (2015) retains Xinjiang with no province-level addition or omission. No baseline occurrence conflict is evident.",
+    "summary": "Xinjiang",
+    "narrative": "Yin et al. (1984) report Kashgar, Xinjiang; Huang & Lu (2015) retain Xinjiang without additional locality detail. The regional occurrence assessment remains unchanged pending separate review.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015"
@@ -281,7 +281,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -289,7 +289,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

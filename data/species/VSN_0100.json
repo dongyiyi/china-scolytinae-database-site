@@ -15,7 +15,7 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "江苏；上海；浙江；福建；江西",
+    "summary": "Jiangsu; Shanghai; Zhejiang; Fujian; Jiangxi",
     "narrative": "Occurrence in mainland China was initially confirmed by the original description from Jiangsu and Shanghai. Li et al. (2021) added positive field-survey records from Zhejiang, Fujian, Jiangxi, Jiangsu and Shanghai; Tan et al. (2021) independently documented Jiujiang, Jiangxi. MaxEnt-predicted suitable areas are not treated as occurrence records.",
     "evidence": "Gao & Cognato (2018); Li et al. (2021); Tan et al. (2021).",
     "reference_ids": [
@@ -85,7 +85,7 @@
     },
     {
       "id": "li2021",
-      "label": "Li, Wan et al., 2021",
+      "label": "Li et al., 2021",
       "role": [
         "distribution",
         "host"

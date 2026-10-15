@@ -16,7 +16,7 @@
   },
   "distribution": {
     "summary": "Fujian",
-    "narrative": "黄复生等 (2015) and Smith et al. (2020) both support occurrence in Fujian. Smith et al. (2020) includes locality evidence from Shaowu, Tachulan."
+    "narrative": "Huang & Lu (2015) and Smith et al. (2020) both support occurrence in Fujian. Smith et al. (2020) includes locality evidence from Shaowu, Tachulan."
   },
   "hosts": [
     {
@@ -26,7 +26,7 @@
       "scientific_name": "Cinnamomum camphora"
     }
   ],
-  "host_note": "黄复生等 (2015) reports Cinnamomum austrosinense and Cinnamomum camphora. Smith et al. (2020) reports Cinnamomum at genus level, consistent with the baseline evidence.",
+  "host_note": "Huang & Lu (2015) reported Cinnamomum austrosinense and Cinnamomum camphora. Smith et al. (2020) reports Cinnamomum at genus level, consistent with the baseline evidence.",
   "taxonomy_summary": "The current accepted identity is Anisandrus klapperichi (Schedl, 1955).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -64,7 +64,7 @@
   "references": [
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],

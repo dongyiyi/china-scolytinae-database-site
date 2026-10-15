@@ -15,8 +15,8 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南；西藏",
-    "narrative": "EF1984 reports 云南（丽江），西藏（波密，察隅）. CO2015 reports 云南，西藏. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
+    "summary": "Yunnan; Xizang",
+    "narrative": "Yin et al. (1984) report Lijiang, Yunnan, and Bomi and Zayu, Xizang. Huang & Lu (2015) list Yunnan and Xizang. These are literature-based records; the regional occurrence assessment remains unchanged.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015"
@@ -56,7 +56,7 @@
       "chinese_name": "毛樱桃"
     }
   ],
-  "host_note": "Host names reported by cited sources, not independently confirmed. The regional occurrence assessment is not changed. Prunus persica Chinese name corrected to 桃, while preserving the reported scientific name.",
+  "host_note": "Host names reported by cited sources, not independently confirmed. The regional occurrence assessment is not changed. Prunus persica Chinese common name corrected to peach, while preserving the reported scientific name.",
   "taxonomy_summary": "The current accepted identity is Scolytus pomi Yin & Huang, 1980.",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -93,7 +93,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -101,7 +101,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

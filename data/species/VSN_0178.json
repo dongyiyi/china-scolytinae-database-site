@@ -18,7 +18,7 @@
     "summary": "Taiwan",
     "narrative": "SmithEtAl2020 reports Taiwan. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
     "reference_ids": [
-      "src_smithetal2020"
+      "orig_4cb5c2c867dd"
     ]
   },
   "hosts": [],
@@ -66,14 +66,6 @@
       ],
       "citation": "Smith, S.M., Beaver, R.A. & Cognato, A.I. (2020). A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1–442.",
       "doi": "10.3897/zookeys.983.52630"
-    },
-    {
-      "id": "src_smithetal2020",
-      "label": "SmithEtAl2020",
-      "role": [
-        "published evidence"
-      ],
-      "citation": "Smith SM, Beaver RA, Cognato AI (2020) A monograph of the Xyleborini (Coleoptera, Curculionidae, Scolytinae) of the Indochinese Peninsula (except Malaysia) and China. ZooKeys 983: 1-442."
     }
   ],
   "recommended_chinese_name": "林氏尾截小蠹",

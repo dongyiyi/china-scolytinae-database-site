@@ -15,8 +15,8 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "四川；云南",
-    "narrative": "EF1984 reports 四川（马尔康），云南（丽江）. CO2015 reports 四川，云南. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
+    "summary": "Sichuan; Yunnan",
+    "narrative": "Yin et al. (1984) report Maerkang, Sichuan, and Lijiang, Yunnan. Huang & Lu (2015) list Sichuan and Yunnan. These are published records; the regional occurrence assessment remains unchanged pending separate review.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015"
@@ -77,7 +77,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -85,7 +85,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

@@ -15,8 +15,8 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "河北；河南；陕西；山西",
-    "narrative": "CO2015 reports 河北，河南，陕西，山西. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
+    "summary": "Hebei; Henan; Shaanxi; Shanxi",
+    "narrative": "Huang & Lu (2015) report Hebei, Henan, Shaanxi, and Shanxi. This is published geographic evidence; the regional occurrence assessment remains unchanged pending separate review.",
     "reference_ids": [
       "src_co2015"
     ]
@@ -120,7 +120,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],

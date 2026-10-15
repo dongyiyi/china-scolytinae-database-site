@@ -16,7 +16,7 @@
   },
   "distribution": {
     "summary": "Chongqing; Fujian; Shanxi; Taiwan",
-    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) document Fujian. Smith et al. (2020) confirms Fujian and adds Chongqing, Shanxi, and Taiwan. Beaver & Liu (2010) independently supports Taiwan and broad China (SE); the broad regional wording is not converted into provinces.",
+    "narrative": "Yin et al. (1984) and Huang & Lu (2015) document Fujian. Smith et al. (2020) confirms Fujian and adds Chongqing, Shanxi, and Taiwan. Beaver & Liu (2010) independently supports Taiwan and broad China (SE); the broad regional wording is not converted into provinces.",
     "reference_ids": [
       "src_co2015",
       "src_ef1984",
@@ -85,7 +85,7 @@
   "references": [
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],
@@ -93,7 +93,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],

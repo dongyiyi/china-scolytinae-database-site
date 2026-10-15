@@ -18,7 +18,7 @@
     "summary": "Guangdong",
     "narrative": "Yin2001_Scolytogenes reports Guangdong: Haikang. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
     "reference_ids": [
-      "src_yin2001_scolytogenes"
+      "orig_fae687515ff3"
     ]
   },
   "hosts": [],
@@ -81,19 +81,11 @@
       "id": "orig_fae687515ff3",
       "label": "Yin, 2001",
       "role": [
-        "nomenclatural source",
-        "published evidence"
+        "published evidence",
+        "nomenclatural source"
       ],
       "citation": "Yin, H.F. (2001). The Chinese Scolytogenes Eichhoff with descriptions of seven new species (Coleoptera: Scolytidae). Oriental Insects 35(1): 321–334.",
       "doi": "10.1080/00305316.2001.10417311"
-    },
-    {
-      "id": "src_yin2001_scolytogenes",
-      "label": "Yin2001_Scolytogenes",
-      "role": [
-        "published evidence"
-      ],
-      "citation": "Yin, H. F. (2001). The Chinese Scolytogenes Eichhoff with descriptions of seven new species (Coleoptera: Scolytidae). Oriental Insects, 35(1), 321–334."
     }
   ],
   "recommended_chinese_name": "秀丽藤小蠹",

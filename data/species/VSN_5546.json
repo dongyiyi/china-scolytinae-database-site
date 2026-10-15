@@ -15,8 +15,8 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "四川",
-    "narrative": "EF1984 reports 四川（康定）. CO2015 reports 四川. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
+    "summary": "Sichuan",
+    "narrative": "Yin et al. (1984) report Kangding, Sichuan; Huang & Lu (2015) list Sichuan. These are published records; the regional occurrence assessment remains unchanged pending separate review.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015"
@@ -60,7 +60,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -68,7 +68,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

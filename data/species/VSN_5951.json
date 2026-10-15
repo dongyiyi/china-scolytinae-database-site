@@ -15,8 +15,8 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "黑龙江；甘肃",
-    "narrative": "EF1984 reports 黑龙江（带岭，大海林），甘肃（祁连山）. CO2015 reports 黑龙江，甘肃. These are literature-based records; original occurrence assessment is unchanged.",
+    "summary": "Heilongjiang; Gansu",
+    "narrative": "Yin et al. (1984) report Dailing and Dahailin (Heilongjiang) and the Qilian Mountains (Gansu). Huang & Lu (2015) list Heilongjiang and Gansu. These are literature-based records; the regional occurrence assessment is unchanged.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015"
@@ -192,7 +192,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -200,7 +200,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

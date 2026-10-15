@@ -15,8 +15,8 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "河北；山西；安徽；湖南；四川",
-    "narrative": "EF1984 reports 河北（秦皇岛，涉县），山西（霍县），安徽（滁县），湖南（城步），四川（天全）. CO2015 reports 河北，山西，安徽，湖南，四川. These are literature-based records; original occurrence assessment is unchanged.",
+    "summary": "Hebei; Shanxi; Anhui; Hunan; Sichuan",
+    "narrative": "Yin et al. (1984) report Qinhuangdao and Shexian (Hebei), Huoxian (Shanxi), Chuxian (Anhui), Chengbu (Hunan), and Tianquan (Sichuan). Huang & Lu (2015) list the same five provincial-level regions. Historical county names are retained in transliteration pending any administrative-name update. The regional occurrence assessment remains unchanged.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015"
@@ -77,7 +77,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -85,7 +85,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

@@ -15,8 +15,8 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "黑龙江",
-    "narrative": "EF1984 reports 黑龙江（带岭）. CO2015 reports 黑龙江. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
+    "summary": "Heilongjiang",
+    "narrative": "Yin et al. (1984) report Dailing, Heilongjiang; Huang & Lu (2015) list Heilongjiang. These are published records; the regional occurrence assessment remains unchanged pending separate review.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015"
@@ -140,7 +140,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -148,7 +148,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

@@ -15,8 +15,8 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建",
-    "narrative": "CO2015 reports 福建. These are literature-based records; original occurrence assessment is unchanged.",
+    "summary": "Fujian",
+    "narrative": "Huang & Lu (2015) report Fujian. The regional occurrence assessment remains unchanged pending separate review.",
     "reference_ids": [
       "src_co2015"
     ]
@@ -140,7 +140,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],

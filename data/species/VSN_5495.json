@@ -15,8 +15,8 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "黑龙江；吉林；辽宁；北京；河北；山东；河南；陕西；宁夏；甘肃；江苏",
-    "narrative": "EF1984 reports 黑龙江（哈尔滨），吉林（公主岭），辽宁（熊岳，旅大），北京，河北（秦皇岛，昌黎），山东（青岛），河南（安阳），陕西（西安，武功），宁夏（贺兰山），甘肃（肃南），江苏（南京）. CO2015 reports 黑龙江，吉林，辽宁，北京，河北，山东，河南，陕西，宁夏，甘肃，江苏. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
+    "summary": "Heilongjiang; Jilin; Liaoning; Beijing; Hebei; Shandong; Henan; Shaanxi; Ningxia; Gansu; Jiangsu",
+    "narrative": "Yin et al. (1984) reported these records under the historical name Scolytus seulensis: Heilongjiang (Harbin); Jilin (Gongzhuling); Liaoning (Xiongyue, Luda); Beijing; Hebei (Qinhuangdao, Changli); Shandong (Qingdao); Henan (Anyang); Shaanxi (Xi'an, Wugong); Ningxia (Helan Mountains); Gansu (Sunan); and Jiangsu (Nanjing). Huang & Lu (2015) retained the same 11 provincial-level regions under Scolytus seulensis, without the 1984 locality details. The historical name is crosswalked to Scolytus emarginatus in the taxonomic backbone; the literature-based occurrence assessment remains Candidate pending independent verification.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015"
@@ -131,7 +131,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -139,7 +139,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

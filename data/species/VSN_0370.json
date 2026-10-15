@@ -16,7 +16,7 @@
   },
   "distribution": {
     "summary": "Heilongjiang; Shaanxi",
-    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) document Heilongjiang. Smith et al. (2020) confirms Heilongjiang and additionally records Shaanxi. The current synthesis retains both supported provinces."
+    "narrative": "Yin et al. (1984) and Huang & Lu (2015) document Heilongjiang. Smith et al. (2020) confirms Heilongjiang and additionally records Shaanxi. The current synthesis retains both supported provinces."
   },
   "hosts": [
     {
@@ -270,7 +270,7 @@
   "references": [
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],
@@ -278,7 +278,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],

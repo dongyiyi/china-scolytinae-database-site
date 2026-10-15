@@ -18,7 +18,7 @@
     "summary": "青海、 四川",
     "narrative": "CognatoSmith2024_Pseudips reports 青海、 四川. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
     "reference_ids": [
-      "src_cognatosmith2024_pseudips"
+      "orig_623ae4f6c6e3"
     ]
   },
   "hosts": [],
@@ -61,19 +61,11 @@
       "id": "orig_623ae4f6c6e3",
       "label": "Cognato & Smith, 2024",
       "role": [
-        "nomenclatural source",
-        "published evidence"
+        "published evidence",
+        "nomenclatural source"
       ],
       "citation": "Cognato, A.I. & Smith, S.M. (2024). Taxonomic review of Pseudips Cognato (Coleoptera: Curculionidae: Scolytinae: Ipini) inferred from morphology and a DNA-based phylogeny. The Coleopterists Bulletin 78(2): 239–254.",
       "doi": "10.1649/0010-065x-78.2.239"
-    },
-    {
-      "id": "src_cognatosmith2024_pseudips",
-      "label": "CognatoSmith2024_Pseudips",
-      "role": [
-        "published evidence"
-      ],
-      "citation": "Cognato, A. I., & Smith, S. M. (2024). Taxonomic review of Pseudips Cognato inferred from morphology and a DNA-based phylogeny. The Coleopterists Bulletin, 78(2), 239–254."
     }
   ],
   "recommended_chinese_name": "牦牛假齿小蠹",

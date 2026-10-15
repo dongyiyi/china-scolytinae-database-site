@@ -15,8 +15,8 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "山西",
-    "narrative": "EF1984 reports 山西（降县）. CO2015 reports 山西. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
+    "summary": "Shanxi",
+    "narrative": "Yin et al. (1984) reported Shanxi with a county locality transcribed provisionally as Jiangxian under the name Scolytus parviclaviger. The spelling of this locality in the original source has not been independently resolved, and no modern county assignment is inferred. Huang & Lu (2015) retained Shanxi without finer locality detail. This is published geographic evidence; the occurrence assessment remains Candidate.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015"
@@ -69,7 +69,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -77,7 +77,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

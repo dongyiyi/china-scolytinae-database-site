@@ -18,7 +18,7 @@
     "summary": "云南",
     "narrative": "LiEtAl2010_TomicusArmandi reports 云南. These are literature-based records; original occurrence assessment is unchanged.",
     "reference_ids": [
-      "src_lietal2010_tomicusarmandi"
+      "orig_2d7eb39c4f2c"
     ]
   },
   "hosts": [],
@@ -66,14 +66,6 @@
       ],
       "citation": "Li, X., Zhang, Z., Wang, H., Wu, W., Cao, P. & Zhang, P.Y. (2010). Tomicus armandii Li & Zhang (Curculionidae, Scolytinae), a new pine shoot borer from China. Zootaxa 2572: 57–64.",
       "doi": "10.11646/zootaxa.2572.1.4"
-    },
-    {
-      "id": "src_lietal2010_tomicusarmandi",
-      "label": "LiEtAl2010_TomicusArmandi",
-      "role": [
-        "published evidence"
-      ],
-      "citation": "Li, X., Zhang, Z., Wang, H., Wu, W., Cao, P., & Zhang, P. (2010). Tomicus armandii Li & Zhang, a new pine shoot borer from China. Zootaxa, 2572, 57–64."
     }
   ],
   "recommended_chinese_name": "华山松切梢小蠹",

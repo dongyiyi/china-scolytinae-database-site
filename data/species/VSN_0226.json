@@ -16,7 +16,7 @@
   },
   "distribution": {
     "summary": "Guangdong; Guangxi; Guizhou; Hainan; Hong Kong; Sichuan; Xizang; Yunnan; Taiwan",
-    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) document occurrence in Sichuan, Guangdong, Yunnan, Xizang, Taiwan, and Hainan. Smith et al. (2020) confirms several of these areas and adds Guizhou, Guangxi, and Hong Kong. Beaver & Liu (2010) independently supports China and Taiwan occurrence. The current synthesis retains the union of supported records. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
+    "narrative": "Yin et al. (1984) and Huang & Lu (2015) document occurrence in Sichuan, Guangdong, Yunnan, Xizang, Taiwan, and Hainan. Smith et al. (2020) confirms several of these areas and adds Guizhou, Guangxi, and Hong Kong. Beaver & Liu (2010) independently supports China and Taiwan occurrence. The current synthesis retains the union of supported records. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
     "reference_ids": [
       "src_co2015",
       "src_ef1984",
@@ -169,7 +169,7 @@
   "references": [
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],
@@ -177,7 +177,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
