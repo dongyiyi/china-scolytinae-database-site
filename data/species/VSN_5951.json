@@ -16,7 +16,11 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+    "narrative": "Published Chinese records report 黑龙江 (Heilongjiang) and 甘肃 (Gansu) for Trypodendron lineatum. Yin et al. (1984) recorded 黑龙江（带岭、大海林） and 甘肃（祁连山） under Xyloterus lineatus. Huang et al. (2015) listed 黑龙江 and 甘肃 under Trypodendron lineatus, repeating the provincial distribution. These are literature-based records; the mainland China occurrence remains Candidate pending checklist review.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015"
+    ]
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",
