@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "Sichuan",
-    "narrative": "Yang (2020) lists Sichuan; accepted as mainland-China occurrence evidence from a specialist Cryphalus checklist."
+    "narrative": "Yang (2020) listed Cryphalus fulmineus from Sichuan. No additional region, province or host is inferred.",
+    "reference_ids": [
+      "src_yangcryphaluschecklistal2020"
+    ]
   },
   "hosts": [],
   "host_note": "No reviewed host note is currently available.",

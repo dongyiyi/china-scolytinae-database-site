@@ -16,14 +16,25 @@
   },
   "distribution": {
     "summary": "Anhui; Beijing; Guizhou; Hebei; Jiangsu; Shandong; Sichuan; Taiwan; Zhejiang",
-    "narrative": "Earlier 殷蕙芬等 (1984)/黄复生等 (2015) evidence supports Beijing, Shandong, Jiangsu, Zhejiang, Anhui, Sichuan, and Guizhou; Beaver & Liu (2010) supports Taiwan. Yang (2020) additionally lists Hebei. The reviewed synthesis now includes Hebei without extrapolating beyond the source-supported provinces."
+    "narrative": "Yin et al. (1984) and Huang & Lu (2015), under the historical misspelling Cryphalus exignus, reported Anhui, Beijing, Guizhou, Jiangsu, Shandong, Sichuan and Zhejiang. Beaver & Liu (2010) documented Taiwan; Yang (2020) additionally listed Hebei. Broad geographic wording has not been expanded into unsupported provinces.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_beaverliu2010",
+      "src_yangcryphaluschecklistal2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Morus alba"
+      "scientific_name": "Morus alba",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015",
+        "src_beaverliu2010"
+      ]
     }
   ],
-  "host_note": "殷蕙芬等 (1984) and 黄复生等 (2015) both report Morus alba (桑). Beaver & Liu (2010) states that the species usually attacks Morus alba and cautions that other reported broad-leaved host records may include errors. Morus alba remains the only host promoted into the current synthesis.",
+  "host_note": "Yin et al. (1984) and Huang & Lu (2015) reported Morus alba. Beaver & Liu (2010) reported that C. exiguus usually attacks Morus alba and cautioned that some other published broad-leaved host associations may be incorrect. No additional named host is inferred.",
   "taxonomy_summary": "The current accepted identity is Cryphalus exiguus Blandford, 1894.",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -71,7 +82,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -79,7 +90,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

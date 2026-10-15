@@ -15,18 +15,31 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Hainan; Fujian; Guangdong; Guangxi; Yunnan; Hong Kong; Taiwan",
-    "narrative": "Johnson et al. (2020) describes the species from southern China, Hong Kong and Taiwan. Guangxi is retained from directly examined material despite omission from the compact distribution sentence. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Fujian; Guangdong; Guangxi; Hainan; Yunnan; Hong Kong; Taiwan",
+    "narrative": "Johnson et al. (2020) described Cryphalus itinerans from southern China, Hong Kong and Taiwan. Guangxi is retained from examined material even though it is omitted from the publication's abbreviated distribution statement. Lau (2025) supplies additional secondary checklist evidence for Hong Kong.",
+    "reference_ids": [
+      "src_johnsonetal2020_cryphaluseastasia",
+      "src_lau2025"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Ficus carica"
+      "scientific_name": "Ficus carica",
+      "reference_ids": [
+        "src_johnsonetal2020_cryphaluseastasia"
+      ]
     },
     {
-      "scientific_name": "Ficus erecta var. beecheyana"
+      "scientific_name": "Ficus erecta var. beecheyana",
+      "reference_ids": [
+        "src_johnsonetal2020_cryphaluseastasia"
+      ]
     },
     {
-      "scientific_name": "Broussonetia papyrifera"
+      "scientific_name": "Broussonetia papyrifera",
+      "reference_ids": [
+        "src_johnsonetal2020_cryphaluseastasia"
+      ]
     }
   ],
   "host_note": "Three Moraceae hosts are directly supported.",

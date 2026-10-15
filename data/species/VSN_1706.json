@@ -16,11 +16,18 @@
   },
   "distribution": {
     "summary": "Guangdong; Hong Kong",
-    "narrative": "Original description from Guangdong. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence."
+    "narrative": "Johnson et al. (2020) described Cryphalus gnetivorus from Guangdong and documented its association with Gnetum luofuense. Lau (2025) separately lists Hong Kong; this is secondary checklist evidence for that area.",
+    "reference_ids": [
+      "src_johnsonetal2020_cryphaluseastasia",
+      "src_lau2025"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Gnetum luofuense"
+      "scientific_name": "Gnetum luofuense",
+      "reference_ids": [
+        "src_johnsonetal2020_cryphaluseastasia"
+      ]
     }
   ],
   "host_note": "Gnetum luofuense is directly supported.",

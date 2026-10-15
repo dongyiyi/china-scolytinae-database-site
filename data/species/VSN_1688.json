@@ -15,12 +15,19 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "江苏",
-    "narrative": "Zheng et al. (2019) describes Cryphalus eriobotryae from Dongshan, Suzhou, Jiangsu, and documents a severe outbreak in loquat plantations during 2018–2019. Jiangsu is therefore treated as confirmed mainland-China occurrence."
+    "summary": "Jiangsu",
+    "narrative": "Zheng et al. (2019) described Cryphalus eriobotryae from Dongshan, Suzhou, Jiangsu, including living-tree infestation on loquat. Yang (2020) also lists Suzhou. The original description supports Jiangsu occurrence and Eriobotrya japonica as the host.",
+    "reference_ids": [
+      "src_zhengetal2019_cryphaluseriobotryae",
+      "src_yangcryphaluschecklistal2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Eriobotrya japonica"
+      "scientific_name": "Eriobotrya japonica",
+      "reference_ids": [
+        "src_zhengetal2019_cryphaluseriobotryae"
+      ]
     }
   ],
   "host_note": "The holotype and paratypes were collected ex Eriobotrya japonica, and the source documents all life stages, galleries, cankers and mortality on loquat. Eriobotrya japonica is therefore a confirmed current host. The paper notes no obvious fungal pathogen but did not systematically investigate pathogens; this is not interpreted as evidence of pathogen/symbiont absence.",

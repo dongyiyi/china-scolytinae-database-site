@@ -16,7 +16,11 @@
   },
   "distribution": {
     "summary": "Hainan; Yunnan",
-    "narrative": "Johnson et al. (2020) supports C. dorsalis in Hainan and Yunnan and reinterprets an older Hainan record published under C. indicus Stebbing / C. strohmeyeri."
+    "narrative": "Johnson et al. (2020) documented Hainan and Yunnan and reassessed historical Hainan material attributed to C. indicus or C. strohmeyeri. Yang (2020) independently lists Hainan. The historical Abies host is questionable and is not accepted as a confirmed host.",
+    "reference_ids": [
+      "src_johnsonetal2020_cryphaluseastasia",
+      "src_yangcryphaluschecklistal2020"
+    ]
   },
   "hosts": [],
   "host_note": "No confirmed host from this source is promoted; the historical Abies record is retained as questionable.",

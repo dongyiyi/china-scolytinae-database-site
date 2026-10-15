@@ -15,18 +15,31 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "辽宁; 台湾",
-    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) support occurrence in 辽宁, with 殷蕙芬等 (1984) specifying 鞍山. Beaver & Liu (2010) gives the source wording China (NE); Taiwan and documents Taiwan material from Hsinchu, Kinmen and Taipei (Xizhi). The broad China (NE) wording is not expanded beyond the baseline province-level evidence."
+    "summary": "Liaoning; Taiwan",
+    "narrative": "Yin et al. (1984) and Huang & Lu (2015) reported Liaoning, including Anshan in the 1984 source. Beaver & Liu (2010) documented Taiwan material from Hsinchu, Kinmen and Taipei (Xizhi) and used the broad mainland term China (NE); Yang (2020) also lists Liaoning and Taiwan. No further province is inferred from China (NE).",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_beaverliu2010",
+      "src_yangcryphaluschecklistal2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pinus thunbergii"
+      "scientific_name": "Pinus thunbergii",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus spp. (additional species unspecified)"
+      "scientific_name": "Pinus spp. (additional species unspecified)",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
-  "host_note": "殷蕙芬等 (1984) and 黄复生等 (2015) report Pinus thunbergii (黑松). Beaver & Liu (2010) reports Pinus spp. The current synthesis therefore retains the exact species record and separately notes additional Pinus hosts that are not identified to species in the 2010 source.",
+  "host_note": "Yin et al. (1984) and Huang & Lu (2015) reported Pinus thunbergii. Beaver & Liu (2010) listed Pinus spp. without identifying additional species; this genus-level host evidence is retained without further inference.",
   "taxonomy_summary": "The current accepted identity is Cryphalus fulvus Niisima, 1908.",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -74,7 +87,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -82,7 +95,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],
