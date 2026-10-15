@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "中国大陆（区域记录，未细化至省级）；台湾",
-    "narrative": "Beaver & Liu (2010) accepts Taiwan occurrence and gives the broad distribution wording China (SE); Taiwan. The broad China (SE) wording is not expanded into province-level mainland records without additional province-level evidence."
+    "summary": "Mainland China (broad regional record; provinces not specified); Taiwan",
+    "narrative": "Beaver & Liu (2010) reported Taiwan and summarized mainland China as \"China (SE)\". This broad regional statement does not identify individual mainland provinces.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [],
   "host_note": "The source reports seeds of broad-leaved trees, occurrence below bark, and Pteridium aquilinum fronds. These are broad ecological/host-context statements and are not converted into inferred host taxa in the current summary.",

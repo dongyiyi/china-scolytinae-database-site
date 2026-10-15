@@ -15,15 +15,24 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "中国大陆（区域记录，未细化至省级）；台湾",
-    "narrative": "Beaver & Liu (2010) gives the source distribution as China (SW); Taiwan and reports the first Taiwan record from Ilan, Fushan and Nantou, Huison. China (SW) is retained as broad source evidence and is not expanded into province-level records."
+    "summary": "Mainland China (broad southwestern record; provinces not specified); Taiwan",
+    "narrative": "Beaver & Liu (2010) recorded the first Taiwan occurrences from Ilan (Fushan) and Nantou (Huison) and listed mainland China as \"China (SW)\". The regional wording is not expanded into province-level occurrences.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Lithocarpus edulis"
+      "scientific_name": "Lithocarpus edulis",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Quercus myrsinaefolia"
+      "scientific_name": "Quercus myrsinaefolia",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
   "host_note": "The source explicitly reports Lithocarpus edulis and Quercus myrsinaefolia; both are retained at species level.",

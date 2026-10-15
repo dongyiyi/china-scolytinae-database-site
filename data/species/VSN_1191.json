@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "A province-level occurrence has been reported, but its supporting evidence remains under review. No province is listed here as a confirmed occurrence."
+    "narrative": "Alonso-Zarazaga et al. (2023) listed Fujian as published distribution evidence for Coccotrypes klapperichi. The mainland occurrence remains Candidate and is not treated as a confirmed province-level record pending separate scientific review.",
+    "reference_ids": [
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
+    ]
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",

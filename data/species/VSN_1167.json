@@ -15,30 +15,52 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "安徽; 四川; 贵州; 福建; 广西; 云南; 西藏; 台湾",
-    "narrative": "黄复生等 (2015) reports 安徽、四川、贵州、福建、广西、云南、西藏. Beaver & Liu (2010) adds the first Taiwan record from Nantou, Huison and Pingtung, Shantimen."
+    "summary": "Anhui; Fujian; Guangxi; Guizhou; Sichuan; Xizang; Yunnan; Taiwan",
+    "narrative": "Huang & Lu (2015), under the source spelling Coccotrypes cypri, recorded Anhui, Sichuan, Guizhou, Fujian, Guangxi, Yunnan and Xizang. Beaver & Liu (2010) reported the first Taiwan record, including Nantou (Huison) and Pingtung (Shantimen).",
+    "reference_ids": [
+      "src_co2015",
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Cupressus funebris"
+      "scientific_name": "Cupressus funebris",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus armandii"
+      "scientific_name": "Pinus armandii",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Ficus sp."
+      "scientific_name": "Ficus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus massoniana"
+      "scientific_name": "Pinus massoniana",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cunninghamia lanceolata"
+      "scientific_name": "Cunninghamia lanceolata",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Machilus sp."
+      "scientific_name": "Machilus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "黄复生等 (2015) provides six explicit host taxa, which are retained at their published resolution. Beaver & Liu (2010) adds only the broad statement 'Polyphagous on angiosperms', so no additional host taxon is inferred.",
+  "host_note": "Huang & Lu (2015) provided the six identified host taxa. Beaver & Liu (2010) described broad polyphagy on angiosperms, which does not establish additional identified host taxa.",
   "taxonomy_summary": "The current accepted identity is Coccotrypes cyperi (Beeson, 1929).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -185,7 +207,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
