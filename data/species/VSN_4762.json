@@ -22,8 +22,37 @@
       "src_co2015"
     ]
   },
-  "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "hosts": [
+    {
+      "scientific_name": "Picea asperata",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
+    },
+    {
+      "scientific_name": "Pinus densata",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
+    },
+    {
+      "scientific_name": "Pinus yunnanensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
+    },
+    {
+      "scientific_name": "Pinus khasya",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
+    }
+  ],
+  "host_note": "Yin et al. (1984) reported all four conifer host taxa; Huang et al. (2015) repeated the same four taxa. Names are retained as published, including Pinus khasya; the host associations have not yet received an independent review.",
   "taxonomy_summary": "The current accepted identity is Polygraphus szemaoensis Tsai & Yin, 1965.",
   "taxonomy_reference_ids": [
     "johnson2026"
