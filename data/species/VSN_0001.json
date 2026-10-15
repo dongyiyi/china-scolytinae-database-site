@@ -16,12 +16,18 @@
   "distribution": {
     "summary": "台湾（台中）",
     "narrative": "The reviewed source records Acacicis aphananthe from Taiwan. The type locality is Taichung City, Heping District, 654 m, 24°9.8210'N, 120°57.4140'E; the type series was collected on 29 July 2020.",
-    "evidence": "Lin & Beaver (2021), type locality: Taichung City, Heping District, Taiwan."
+    "evidence": "Lin & Beaver (2021), type locality: Taichung City, Heping District, Taiwan.",
+    "reference_ids": [
+      "linbeaver2021"
+    ]
   },
   "hosts": [
     {
       "scientific_name": "Aphananthe aspera",
-      "family": "Cannabaceae"
+      "family": "Cannabaceae",
+      "reference_ids": [
+        "linbeaver2021"
+      ]
     }
   ],
   "host_note": "The complete type series was collected from Aphananthe aspera; the reviewed source describes phloeophagous development in twigs, branches and limbs.",

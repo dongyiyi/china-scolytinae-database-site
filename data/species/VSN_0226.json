@@ -16,38 +16,82 @@
   },
   "distribution": {
     "summary": "Guangdong; Guangxi; Guizhou; Hainan; Hong Kong; Sichuan; Xizang; Yunnan; Taiwan",
-    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) document occurrence in Sichuan, Guangdong, Yunnan, Xizang, Taiwan, and Hainan. Smith et al. (2020) confirms several of these areas and adds Guizhou, Guangxi, and Hong Kong. Beaver & Liu (2010) independently supports China and Taiwan occurrence. The current synthesis retains the union of supported records. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) document occurrence in Sichuan, Guangdong, Yunnan, Xizang, Taiwan, and Hainan. Smith et al. (2020) confirms several of these areas and adds Guizhou, Guangxi, and Hong Kong. Beaver & Liu (2010) independently supports China and Taiwan occurrence. The current synthesis retains the union of supported records. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "src_co2015",
+      "src_ef1984",
+      "src_smith2020",
+      "src_beaverliu2010",
+      "src_lau2025"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Populus sp."
+      "scientific_name": "Populus sp.",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Salix sp."
+      "scientific_name": "Salix sp.",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Alnus sp."
+      "scientific_name": "Alnus sp.",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Castanopsis indica"
+      "scientific_name": "Castanopsis indica",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Quercus sp."
+      "scientific_name": "Quercus sp.",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Ficus carica"
+      "scientific_name": "Ficus carica",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Ailanthus altissima"
+      "scientific_name": "Ailanthus altissima",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Mallotus barbatus"
+      "scientific_name": "Mallotus barbatus",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cyclobalanopsis sp."
+      "scientific_name": "Cyclobalanopsis sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Brownea capitella"
+      "scientific_name": "Brownea capitella",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
   "host_note": "Baseline host records are retained. Beaver & Liu (2010) describes broad polyphagy and family-level preferences, which remain contextual, but explicitly names Brownea capitella; that species-level record is added to the current host summary.",

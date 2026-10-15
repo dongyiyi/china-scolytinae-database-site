@@ -16,65 +16,144 @@
   },
   "distribution": {
     "summary": "Anhui; Beijing; Chongqing; Fujian; Guangdong; Guangxi; Guizhou; Hebei; Heilongjiang; Hong Kong; Hunan; Jiangxi; Shaanxi; Shandong; Sichuan; Xizang; Yunnan; Zhejiang; Taiwan",
-    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) document a broad mainland distribution and Taiwan. Smith et al. (2020) substantially expands the reviewed geographic evidence. Beaver & Liu (2010) independently supports Taiwan and broad China occurrence; its CE/NE/NO/SW regional wording is not converted into additional provinces. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) document a broad mainland distribution and Taiwan. Smith et al. (2020) substantially expands the reviewed geographic evidence. Beaver & Liu (2010) independently supports Taiwan and broad China occurrence; its CE/NE/NO/SW regional wording is not converted into additional provinces. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_smith2020",
+      "src_beaverliu2010",
+      "src_lau2025"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Abies fabri"
+      "scientific_name": "Abies fabri",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cunninghamia lanceolata"
+      "scientific_name": "Cunninghamia lanceolata",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Biota orientalis"
+      "scientific_name": "Biota orientalis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Populus sp."
+      "scientific_name": "Populus sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Juglans regia"
+      "scientific_name": "Juglans regia",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Alnus sibirica"
+      "scientific_name": "Alnus sibirica",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum sp."
+      "scientific_name": "Cinnamomum sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Machilus sp."
+      "scientific_name": "Machilus sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Prunus davidiana"
+      "scientific_name": "Prunus davidiana",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Sophora japonica"
+      "scientific_name": "Sophora japonica",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Schima superba"
+      "scientific_name": "Schima superba",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Diospyros kaki"
+      "scientific_name": "Diospyros kaki",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Fraxinus chinensis"
+      "scientific_name": "Fraxinus chinensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Ligustrum lucidum"
+      "scientific_name": "Ligustrum lucidum",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Vitex negundo"
+      "scientific_name": "Vitex negundo",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Litsea cubeba"
+      "scientific_name": "Litsea cubeba",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Acacia mearnsii"
+      "scientific_name": "Acacia mearnsii",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Saurauia tristyla"
+      "scientific_name": "Saurauia tristyla",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Castanea henryi"
+      "scientific_name": "Castanea henryi",
+      "reference_ids": [
+        "src_co2015"
+      ]
     }
   ],
   "host_note": "Current host summary retains the historical host records. Beaver & Liu (2010) states only that the species is polyphagous, so no additional host taxon is inferred.",

@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "Yunnan",
-    "narrative": "Lin et al. (2024) described Amasa setosa from the female holotype collected in the Jinuo Mountains, Xishuangbanna, Yunnan, supporting presence in mainland China."
+    "narrative": "Lin et al. (2024) described Amasa setosa from the female holotype collected in the Jinuo Mountains, Xishuangbanna, Yunnan, supporting presence in mainland China.",
+    "reference_ids": [
+      "src_lin2024"
+    ]
   },
   "hosts": [],
   "host_note": "Lin et al. (2024) states that the biology is unknown and reports no host for Amasa setosa. No host is inferred or promoted.",

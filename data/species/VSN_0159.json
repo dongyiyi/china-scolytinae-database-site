@@ -17,7 +17,12 @@
   "distribution": {
     "summary": "广东；江西；台湾",
     "narrative": "Smith et al. (2020) records Amasa concitata from Jiangxi and Taiwan. Lin et al. (2024) adds Guangdong as a new provincial record from the Dinghu Mountains, Zhaoqing. Beaver & Liu (2010) independently documents the earlier Taiwan occurrence.",
-    "evidence": "Integrated source records SmithEtAl2020_001, LinEtAl2024_AmasaYunnan_003 and BeaverLiu2010_TaiwanScolytinae_069."
+    "evidence": "Smith et al. (2020); Lin et al. (2024); Beaver & Liu (2010).",
+    "reference_ids": [
+      "smith2020",
+      "lin2024",
+      "beaverliu2010"
+    ]
   },
   "hosts": [],
   "host_note": "No confirmed host taxon is currently promoted. Source wording such as “Formosan hardwood” and “angiosperm wood” remains source-level context rather than a standardized host assignment.",

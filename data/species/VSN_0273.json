@@ -16,11 +16,17 @@
   },
   "distribution": {
     "summary": "Guizhou",
-    "narrative": "Ambrosiophilus papilliferus was described by Smith et al. (2020) from Guizhou (Pingtang), supporting presence in mainland China."
+    "narrative": "Ambrosiophilus papilliferus was described by Smith et al. (2020) from Guizhou (Pingtang), supporting presence in mainland China.",
+    "reference_ids": [
+      "src_smith2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Carya sp."
+      "scientific_name": "Carya sp.",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Carya sp. is retained as the scientific host identification reported in the source. The submitted Chinese host wording is preserved at source level and is not used to infer a different scientific taxon.",

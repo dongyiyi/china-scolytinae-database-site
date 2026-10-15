@@ -16,11 +16,17 @@
   },
   "distribution": {
     "summary": "Taiwan",
-    "narrative": "Beaver & Liu (2010) directly confirms Taiwan occurrence with examined material from Nantou, Taichung and Taipei localities."
+    "narrative": "Beaver & Liu (2010) directly confirms Taiwan occurrence with examined material from Nantou, Taichung and Taipei localities.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Cinnamomum camphora"
+      "scientific_name": "Cinnamomum camphora",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
   "host_note": "Cinnamomum camphora is explicitly reported as a camphor-log host and is promoted at species level. No broader host inference is made.",

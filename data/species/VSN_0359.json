@@ -16,11 +16,17 @@
   },
   "distribution": {
     "summary": "Yunnan",
-    "narrative": "Anisandrus achaete was described by Smith et al. (2020) from Yunnan, supporting presence in mainland China."
+    "narrative": "Anisandrus achaete was described by Smith et al. (2020) from Yunnan, supporting presence in mainland China.",
+    "reference_ids": [
+      "src_smith2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Fagaceae"
+      "scientific_name": "Fagaceae",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Fagaceae is retained explicitly as a family-level host record; no lower taxonomic identification is inferred.",

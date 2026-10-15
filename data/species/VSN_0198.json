@@ -16,7 +16,11 @@
   },
   "distribution": {
     "summary": "Fujian; Yunnan",
-    "narrative": "Smith et al. (2020) described Amasa youlii from Fujian (Fuzhou, Qishan). Lin et al. (2024) adds a new provincial record from Yunnan based on one female collected in the Jinuo Mountains, Xishuangbanna. Mainland China remains treated as present."
+    "narrative": "Smith et al. (2020) described Amasa youlii from Fujian (Fuzhou, Qishan). Lin et al. (2024) adds a new provincial record from Yunnan based on one female collected in the Jinuo Mountains, Xishuangbanna. Mainland China remains treated as present.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_lin2024"
+    ]
   },
   "hosts": [],
   "host_note": "The source states that the host is unknown and that the specimen was potentially collected from Fagaceae. This is retained as a questionable association and is not promoted to Current Host Summary.",

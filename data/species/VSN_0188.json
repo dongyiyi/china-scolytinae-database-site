@@ -16,7 +16,12 @@
   },
   "distribution": {
     "summary": "Guangdong; Yunnan; Hong Kong",
-    "narrative": "Smith et al. (2020) records Amasa schlichii from Yunnan (Xishuangbanna) and Hong Kong. Lin et al. (2024) adds a new provincial record from Guangdong based on six females collected at two nearby sites in the Wugui Mountains, Zhongshan. Mainland China and Hong Kong are therefore treated as present. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+    "narrative": "Smith et al. (2020) records Amasa schlichii from Yunnan (Xishuangbanna) and Hong Kong. Lin et al. (2024) adds a new provincial record from Guangdong based on six females collected at two nearby sites in the Wugui Mountains, Zhongshan. Mainland China and Hong Kong are therefore treated as present. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_lin2024",
+      "src_lau2025"
+    ]
   },
   "hosts": [],
   "host_note": "No host was reported in the promoted Smith et al. (2020) source record.",

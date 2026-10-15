@@ -16,11 +16,18 @@
   },
   "distribution": {
     "summary": "Fujian; Jiangxi; Yunnan; Taiwan",
-    "narrative": "Smith et al. (2020) records Ambrosiophilus sulcatus from Fujian, Jiangxi and Taiwan. Smith et al. (2022) confirms Fujian, Jiangxi and Taiwan and adds Yunnan, including Xishuangbanna locality evidence. The reviewed distribution is the union Fujian, Jiangxi, Yunnan and Taiwan."
+    "narrative": "Smith et al. (2020) records Ambrosiophilus sulcatus from Fujian, Jiangxi and Taiwan. Smith et al. (2022) confirms Fujian, Jiangxi and Taiwan and adds Yunnan, including Xishuangbanna locality evidence. The reviewed distribution is the union Fujian, Jiangxi, Yunnan and Taiwan.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_smith2022"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Artocarpus"
+      "scientific_name": "Artocarpus",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Artocarpus is retained as the genus-level host reported by Smith et al. (2020).",

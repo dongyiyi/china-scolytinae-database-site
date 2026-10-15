@@ -16,26 +16,49 @@
   },
   "distribution": {
     "summary": "Anhui; Chongqing; Fujian; Guangxi; Guizhou; Hunan; Jiangxi; Sichuan; Yunnan; Taiwan",
-    "narrative": "Smith et al. (2020) records Ambrosiophilus osumiensis from Anhui, Chongqing, Fujian, Guangxi, Guizhou, Hunan, Jiangxi, Sichuan, Yunnan and Taiwan. Beaver & Liu (2010) independently documents Taiwan under two source names now mapped to VSN_0272. Smith et al. (2022) independently reports the same reviewed province and region set, adding source support without changing the current distribution synthesis."
+    "narrative": "Smith et al. (2020) records Ambrosiophilus osumiensis from Anhui, Chongqing, Fujian, Guangxi, Guizhou, Hunan, Jiangxi, Sichuan, Yunnan and Taiwan. Beaver & Liu (2010) independently documents Taiwan under two source names now mapped to VSN_0272. Smith et al. (2022) independently reports the same reviewed province and region set, adding source support without changing the current distribution synthesis.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_beaverliu2010",
+      "src_smith2022"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pistacia"
+      "scientific_name": "Pistacia",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Ilex"
+      "scientific_name": "Ilex",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Quercus"
+      "scientific_name": "Quercus",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum"
+      "scientific_name": "Cinnamomum",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Broussonetia"
+      "scientific_name": "Broussonetia",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Ligustrum"
+      "scientific_name": "Ligustrum",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Current genus-level host synthesis from Smith et al. (2020) is retained. Beaver & Liu (2010) reports the host of Ambrosiophilus hunanensis as unknown and gives no host for Ambrosiophilus metanepotulus, so no host update is made.",

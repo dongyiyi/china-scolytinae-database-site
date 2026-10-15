@@ -16,7 +16,11 @@
   },
   "distribution": {
     "summary": "Fujian; Yunnan",
-    "narrative": "Smith et al. (2020) records Ambrosiophilus cristatulus from Fujian. Smith et al. (2022) confirms Fujian and adds Yunnan, including Honghe locality evidence. The reviewed current distribution is the union Fujian and Yunnan."
+    "narrative": "Smith et al. (2020) records Ambrosiophilus cristatulus from Fujian. Smith et al. (2022) confirms Fujian and adds Yunnan, including Honghe locality evidence. The reviewed current distribution is the union Fujian and Yunnan.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_smith2022"
+    ]
   },
   "hosts": [],
   "host_note": "No host was reported in the promoted Smith et al. (2020) source record.",

@@ -17,20 +17,36 @@
   "distribution": {
     "summary": "江苏；上海；浙江；福建；江西",
     "narrative": "Occurrence in mainland China was initially confirmed by the original description from Jiangsu and Shanghai. Li et al. (2021) added positive field-survey records from Zhejiang, Fujian, Jiangxi, Jiangsu and Shanghai; Tan et al. (2021) independently documented Jiujiang, Jiangxi. MaxEnt-predicted suitable areas are not treated as occurrence records.",
-    "evidence": "Integrated source records GaoCognato2018_001, LiEtAl2021_001 and TanEtAl2021_001."
+    "evidence": "Gao & Cognato (2018); Li et al. (2021); Tan et al. (2021).",
+    "reference_ids": [
+      "gaocognato2018",
+      "li2021",
+      "tan2021"
+    ]
   },
   "hosts": [
     {
       "scientific_name": "Liquidambar styraciflua",
-      "chinese_name": "北美枫香"
+      "chinese_name": "北美枫香",
+      "reference_ids": [
+        "gaocognato2018",
+        "li2021"
+      ]
     },
     {
       "scientific_name": "Liquidambar formosana",
-      "chinese_name": "枫香"
+      "chinese_name": "枫香",
+      "reference_ids": [
+        "li2021",
+        "tan2021"
+      ]
     },
     {
       "scientific_name": "Liquidambar gracilipes",
-      "chinese_name": ""
+      "chinese_name": "",
+      "reference_ids": [
+        "li2021"
+      ]
     }
   ],
   "host_note": "Liquidambar styraciflua is reported in the original description; later reviewed sources add L. formosana and L. gracilipes.",

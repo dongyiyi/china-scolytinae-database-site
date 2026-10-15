@@ -16,23 +16,44 @@
   },
   "distribution": {
     "summary": "Fujian; Guangxi; Guizhou; Hainan; Hubei; Hong Kong; Xizang; Taiwan",
-    "narrative": "黄复生等 (2015) records Fujian, Guizhou, Hainan, and Hubei. Smith et al. (2020) confirms part of the baseline range and adds Guangxi, Hong Kong, and Xizang. Beaver & Liu (2010) provides the first Taiwan record, including Nantou, Neimoupu material; its broad China (SW, WP) wording is retained only as regional source context and is not converted into provinces. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+    "narrative": "黄复生等 (2015) records Fujian, Guizhou, Hainan, and Hubei. Smith et al. (2020) confirms part of the baseline range and adds Guangxi, Hong Kong, and Xizang. Beaver & Liu (2010) provides the first Taiwan record, including Nantou, Neimoupu material; its broad China (SW, WP) wording is retained only as regional source context and is not converted into provinces. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "src_co2015",
+      "src_smith2020",
+      "src_beaverliu2010",
+      "src_lau2025"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Amygdalus persica"
+      "scientific_name": "Amygdalus persica",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pyrus sp."
+      "scientific_name": "Pyrus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Juglans regia"
+      "scientific_name": "Juglans regia",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Citrus reticulata"
+      "scientific_name": "Citrus reticulata",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Quercus griffithii"
+      "scientific_name": "Quercus griffithii",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "黄复生等 (2015) reports Amygdalus persica, Pyrus sp., Juglans regia, and Citrus reticulata. Smith et al. (2020) additionally reports Quercus griffithii. Beaver & Liu (2010) describes broad polyphagy across more than 10 angiosperm families but does not identify a resolved Taiwan host taxon, so no new host is promoted.",

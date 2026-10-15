@@ -17,11 +17,17 @@
   "distribution": {
     "summary": "China (SW, broad source wording); 台湾",
     "narrative": "Beaver & Liu (2010) reports China (SW); Taiwan and directly documents Taiwan material from Nantou, Hui Son. The broad southwest-China wording is retained without province-level inference.",
-    "evidence": "BeaverLiu2010_TaiwanScolytinae_050; Taiwan locality: Nantou, Hui Son, at light, 5.viii.2006."
+    "evidence": "Beaver & Liu (2010); Taiwan locality: Nantou, Hui Son, at light, 5.viii.2006.",
+    "reference_ids": [
+      "beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Quercus spp."
+      "scientific_name": "Quercus spp.",
+      "reference_ids": [
+        "beaverliu2010"
+      ]
     }
   ],
   "host_note": "The host is retained at genus level exactly as reported.",
