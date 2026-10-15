@@ -49,6 +49,10 @@
       "reference_ids": [
         "src_ef1984",
         "src_co2015"
+      ],
+      "currently_accepted_as": "Pinus kesiya",
+      "name_reference_ids": [
+        "plant_powo_pinuskesiya"
       ]
     }
   ],
@@ -110,6 +114,15 @@
         "nomenclatural source"
       ],
       "citation": "Tsai, P.H. & Yin, H.F. (1965). A study of Chinese Polygraphus Er. with descriptions of new species (Coleoptera: Ipidae). Acta Zootaxonomica Sinica 2: 323–340."
+    },
+    {
+      "id": "plant_powo_pinuskesiya",
+      "label": "Kew POWO (Pinus kesiya)",
+      "role": [
+        "botanical nomenclature"
+      ],
+      "citation": "Royal Botanic Gardens, Kew. Plants of the World Online. Pinus kesiya Royle ex Gordon; synonymy including Pinus khasya Hook.f. (accessed 2026-10-14).",
+      "url": "https://powo.science.kew.org/"
     }
   ],
   "recommended_chinese_name": "思茅四眼小蠹",
