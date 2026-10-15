@@ -6,7 +6,7 @@
   "genus": "Pityogenes",
   "subfamily": "Scolytinae",
   "tribe": "Ipini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "Not started",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,11 +15,48 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+    "summary": "黑龙江；四川；陕西；云南",
+    "narrative": "殷蕙芬等 (1984) reported 黑龙江（带岭），四川（刷红寺）. 黄复生等 (2015) reported 黑龙江，四川，陕西，云南. These are literature-based records; the regional occurrence assessment remains Candidate pending independent checklist review.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015"
+    ]
   },
-  "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "hosts": [
+    {
+      "scientific_name": "Picea asperata",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "云杉"
+    },
+    {
+      "scientific_name": "Picea koraiensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "红皮云杉"
+    },
+    {
+      "scientific_name": "Picea microsperma",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "鱼鳞松"
+    },
+    {
+      "scientific_name": "Pinus koraiensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "红松"
+    }
+  ],
+  "host_note": "Host names are retained as reported in the cited literature. Each host is linked to its supporting source; 2015 may repeat 1984 evidence rather than provide an independent confirmation. Host associations have not yet been independently reviewed.",
   "taxonomy_summary": "The current accepted identity is Pityogenes seirindensis Murayama, 1929.",
   "taxonomy_reference_ids": [
     "johnson2026"
