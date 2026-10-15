@@ -6,7 +6,7 @@
   "genus": "Acanthotomicus",
   "subfamily": "Scolytinae",
   "tribe": "Ipini",
-  "checklist_status": "Candidate",
+  "checklist_status": "Accepted",
   "review_status": "Unreviewed",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -16,16 +16,21 @@
   },
   "distribution": {
     "summary": "四川；云南",
-    "narrative": "黄复生等 (2015) reports Sichuan and Yunnan for this taxon. The checklist assessment remains unreviewed, so the mainland-China occurrence is presented as Candidate rather than promoted to an accepted occurrence.",
-    "evidence": "黄复生等 (2015), published as Acanthotomicus perexignus; province-level distribution: 四川，云南."
+    "narrative": "黄复生等 (2015) reported 四川，云南 under the name Acanthotomicus perexignus. These are literature-based occurrence reports; Mainland China remains Candidate pending occurrence review.",
+    "reference_ids": [
+      "huanglu2015"
+    ]
   },
   "hosts": [
     {
       "scientific_name": "Betula alnoides",
+      "reference_ids": [
+        "huanglu2015"
+      ],
       "chinese_name": "西南桦"
     }
   ],
-  "host_note": "黄复生等 (2015) reports 西南桦 / Betula alnoides.",
+  "host_note": "Host names are retained as published, with a citation for each reported association. Where both 1984 and 2015 list the same host, the records should not be assumed to represent independent confirmations. Host associations have not undergone independent review.",
   "taxonomy_summary": "The current accepted backbone identity is Acanthotomicus perexiguus (Blandford, 1896). 黄复生等 (2015) uses the spelling Acanthotomicus perexignus.",
   "taxonomic_history": [
     {

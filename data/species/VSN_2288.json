@@ -6,7 +6,7 @@
   "genus": "Dendroctonus",
   "subfamily": "Scolytinae",
   "tribe": "Hylurgini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "Not started",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,11 +15,47 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+    "summary": "黑龙江；辽宁；青海；四川；西藏",
+    "narrative": "殷蕙芬等 (1984) reported 黑龙江（带岭），辽宁（昭乌达盟），青海（祁连山），四川（刷经寺）. 黄复生等 (2015) reported 黑龙江，辽宁，青海，四川，西藏. These are literature-based occurrence reports; Mainland China remains Candidate pending occurrence review.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015"
+    ]
   },
-  "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "hosts": [
+    {
+      "scientific_name": "Picea asperata",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "云杉"
+    },
+    {
+      "scientific_name": "Picea koraiensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "红皮云杉"
+    },
+    {
+      "scientific_name": "Picea microsperma",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "鱼鳞松"
+    },
+    {
+      "scientific_name": "Picea likiangensis",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "川西云杉"
+    }
+  ],
+  "host_note": "Host names are retained as published, with a citation for each reported association. Where both 1984 and 2015 list the same host, the records should not be assumed to represent independent confirmations. Host associations have not undergone independent review.",
   "taxonomy_summary": "The current accepted identity is Dendroctonus micans (Kugelann, 1794).",
   "taxonomy_reference_ids": [
     "johnson2026"

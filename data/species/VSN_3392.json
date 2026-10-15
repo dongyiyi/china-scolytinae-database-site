@@ -6,7 +6,7 @@
   "genus": "Ips",
   "subfamily": "Scolytinae",
   "tribe": "Ipini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "Not started",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,11 +15,75 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+    "summary": "黑龙江；吉林；内蒙古；陕西；湖南；四川；云南；青海；福建",
+    "narrative": "殷蕙芬等 (1984) reported 黑龙江（带岭），吉林（抚松），内蒙古（呼伦贝尔），陕西（石泉，留坝，沔县，建庄），湖南，四川（德昌），云南（思茅，西双版纳）. 黄复生等 (2015) reported 黑龙江，吉林，内蒙古，陕西，湖南，四川，云南，青海，福建. These are literature-based records; Mainland China remains Candidate pending occurrence review.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015"
+    ]
   },
-  "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "hosts": [
+    {
+      "scientific_name": "Pinus koraiensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "红松"
+    },
+    {
+      "scientific_name": "Pinus armandii",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "华山松"
+    },
+    {
+      "scientific_name": "Pinus densata",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "高山松"
+    },
+    {
+      "scientific_name": "Pinus tabulaeformis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "油松"
+    },
+    {
+      "scientific_name": "Pinus sylvestris mongolica",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "樟子松"
+    },
+    {
+      "scientific_name": "Pinus khasya",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "思茅松",
+      "currently_accepted_as": "Pinus kesiya",
+      "name_reference_ids": [
+        "plant_powo_pinuskesiya"
+      ]
+    },
+    {
+      "scientific_name": "Pinus massoniana",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "马尾松"
+    }
+  ],
+  "host_note": "Host names are retained as published; each association is linked to its cited source. These records have not undergone independent host review.",
   "taxonomy_summary": "The current accepted identity is Ips acuminatus (Gyllenhal, 1827).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -126,6 +190,15 @@
         "nomenclatural source"
       ],
       "citation": "Heyden, L.F.J.D. von (1884). Beitrag zur Coleopterenfauna der Insel Askold und anderer Theile des Amurgebietes. Deutsche Entomologische Zeitschrift 28(2): 273–300."
+    },
+    {
+      "id": "plant_powo_pinuskesiya",
+      "label": "Kew POWO (Pinus kesiya)",
+      "role": [
+        "botanical nomenclature"
+      ],
+      "citation": "Royal Botanic Gardens, Kew. Plants of the World Online. Pinus kesiya Royle ex Gordon; synonymy including Pinus khasya Hook.f. (accessed 2026-10-14).",
+      "url": "https://powo.science.kew.org/"
     }
   ],
   "recommended_chinese_name": "六齿小蠹",

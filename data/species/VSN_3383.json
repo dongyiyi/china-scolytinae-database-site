@@ -6,7 +6,7 @@
   "genus": "Indocryphalus",
   "subfamily": "Scolytinae",
   "tribe": "Xyloterini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "Not started",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,11 +15,57 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+    "summary": "云南；西藏",
+    "narrative": "黄复生等 (2015) reported 云南，西藏. These are literature-based records; Mainland China remains Candidate pending occurrence review.",
+    "reference_ids": [
+      "src_co2015"
+    ]
   },
-  "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "hosts": [
+    {
+      "scientific_name": "Abies fabri",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "冷杉"
+    },
+    {
+      "scientific_name": "Phoebe sp.",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "楠属"
+    },
+    {
+      "scientific_name": "Rhus verniciflua",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "漆树"
+    },
+    {
+      "scientific_name": "Symplocos paniculata",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "灰木"
+    },
+    {
+      "scientific_name": "Rhododendron sp.",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "杜鹃"
+    },
+    {
+      "scientific_name": "Cyclobalanopsis sp.",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "青冈"
+    }
+  ],
+  "host_note": "Host names are retained as published; each association is linked to its cited source. These records have not undergone independent host review.",
   "taxonomy_summary": "The current accepted identity is Indocryphalus intermedius (Sampson, 1913).",
   "taxonomy_reference_ids": [
     "johnson2026"

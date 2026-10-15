@@ -33,7 +33,7 @@
     "genus": "Acanthotomicus",
     "subfamily": "Scolytinae",
     "tribe": "Ipini",
-    "checklist_status": "Candidate",
+    "checklist_status": "Accepted",
     "review_status": "Unreviewed",
     "recommended_chinese_name": "华南刺小蠹",
     "former_chinese_names": [
@@ -808,7 +808,7 @@
     "genus": "Carphoborus",
     "subfamily": "Scolytinae",
     "tribe": "Polygraphini",
-    "checklist_status": "Unreviewed",
+    "checklist_status": "Accepted",
     "review_status": "Not started",
     "recommended_chinese_name": "北方粉小蠹",
     "former_chinese_names": []
@@ -2457,7 +2457,7 @@
     "genus": "Dendroctonus",
     "subfamily": "Scolytinae",
     "tribe": "Hylurgini",
-    "checklist_status": "Unreviewed",
+    "checklist_status": "Accepted",
     "review_status": "Not started",
     "recommended_chinese_name": "云杉大小蠹",
     "former_chinese_names": []
@@ -3904,7 +3904,7 @@
     "genus": "Hypothenemus",
     "subfamily": "Scolytinae",
     "tribe": "Trypophloeini",
-    "checklist_status": "Unreviewed",
+    "checklist_status": "Accepted",
     "review_status": "Not started",
     "recommended_chinese_name": "核桃咪小蠹",
     "former_chinese_names": [
@@ -4080,7 +4080,7 @@
     "genus": "Indocryphalus",
     "subfamily": "Scolytinae",
     "tribe": "Xyloterini",
-    "checklist_status": "Unreviewed",
+    "checklist_status": "Accepted",
     "review_status": "Not started",
     "recommended_chinese_name": "多毛印木小蠹",
     "former_chinese_names": []
@@ -4119,7 +4119,7 @@
     "genus": "Ips",
     "subfamily": "Scolytinae",
     "tribe": "Ipini",
-    "checklist_status": "Unreviewed",
+    "checklist_status": "Accepted",
     "review_status": "Not started",
     "recommended_chinese_name": "六齿小蠹",
     "former_chinese_names": []
@@ -5238,7 +5238,7 @@
     "genus": "Polygraphus",
     "subfamily": "Scolytinae",
     "tribe": "Polygraphini",
-    "checklist_status": "Unreviewed",
+    "checklist_status": "Accepted",
     "review_status": "Not started",
     "recommended_chinese_name": "云杉四眼小蠹",
     "former_chinese_names": []
