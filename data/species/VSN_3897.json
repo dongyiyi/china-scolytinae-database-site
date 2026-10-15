@@ -6,7 +6,7 @@
   "genus": "Orthotomicus",
   "subfamily": "Scolytinae",
   "tribe": "Ipini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "Not started",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,11 +15,48 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+    "summary": "辽宁；吉林；陕西；四川；云南；山西；新疆",
+    "narrative": "殷蕙芬等 (1984) reported 辽宁，吉林（抚松），陕西（沔县），四川（南江），云南. 黄复生等 (2015) reported 辽宁，吉林，陕西，四川，云南，山西，新疆. These are literature-based reports; the mainland-China occurrence assessment remains Candidate pending checklist review.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015"
+    ]
   },
-  "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "hosts": [
+    {
+      "scientific_name": "Abies delavayi",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "苍山冷杉"
+    },
+    {
+      "scientific_name": "Pinus armandii",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "华山松"
+    },
+    {
+      "scientific_name": "Pinus densata",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "高山松"
+    },
+    {
+      "scientific_name": "Pinus thunbergii",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "黑松"
+    }
+  ],
+  "host_note": "Host names are retained as published, with separate source citations for 1984 and 2015; the latter may repeat earlier evidence rather than represent independent host confirmation. Host associations have not yet undergone independent review.",
   "taxonomy_summary": "The current accepted identity is Orthotomicus suturalis (Gyllenhal, 1827).",
   "taxonomy_reference_ids": [
     "johnson2026"

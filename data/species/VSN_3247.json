@@ -6,7 +6,7 @@
   "genus": "Hypothenemus",
   "subfamily": "Scolytinae",
   "tribe": "Trypophloeini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "Not started",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,11 +15,29 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+    "summary": "广东；云南",
+    "narrative": "黄复生等 (2015) reported 广东，云南. These are literature-based reports; the mainland-China occurrence assessment remains Candidate pending checklist review.",
+    "reference_ids": [
+      "src_co2015"
+    ]
   },
-  "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "hosts": [
+    {
+      "scientific_name": "Pinus densata",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "高山松"
+    },
+    {
+      "scientific_name": "Anacardium occidentale",
+      "reference_ids": [
+        "src_co2015"
+      ],
+      "chinese_name": "腰果"
+    }
+  ],
+  "host_note": "Host names are retained as published, with each association cited to its source; host associations have not yet undergone independent review.",
   "taxonomy_summary": "The current accepted identity is Hypothenemus ingens (Schedl, 1942).",
   "taxonomy_reference_ids": [
     "johnson2026"

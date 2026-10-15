@@ -6,7 +6,7 @@
   "genus": "Orthotomicus",
   "subfamily": "Scolytinae",
   "tribe": "Ipini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "Not started",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,11 +15,52 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+    "summary": "河南；陕西；江苏；江西；湖南；四川；福建；云南；重庆；广东；广西",
+    "narrative": "殷蕙芬等 (1984) reported 河南（信阳，桐柏），陕西（洵阳，石泉），江苏（南京），江西（庐山，弋阳），湖南（东安），四川（重庆，德昌），福建（南平，三明，永春），云南（思茅，西双版纳）. 黄复生等 (2015) reported 河南，陕西，江苏，江西，湖南，四川，福建，云南，重庆，广东，广西. These are literature-based reports; the mainland-China occurrence assessment remains Candidate pending checklist review.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015"
+    ]
   },
-  "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "hosts": [
+    {
+      "scientific_name": "Pinus massoniana",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "马尾松"
+    },
+    {
+      "scientific_name": "Pinus tabulaeformis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "油松"
+    },
+    {
+      "scientific_name": "Pinus yunnanensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "云南松"
+    },
+    {
+      "scientific_name": "Pinus khasya",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "思茅松",
+      "currently_accepted_as": "Pinus kesiya",
+      "name_reference_ids": [
+        "plant_powo_pinuskesiya"
+      ]
+    }
+  ],
+  "host_note": "Host names are retained as published, with separate source citations for 1984 and 2015; the latter may repeat earlier evidence rather than represent independent host confirmation. Host associations have not yet undergone independent review.",
   "taxonomy_summary": "The current accepted identity is Orthotomicus erosus (Wollaston, 1857).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -126,6 +167,15 @@
         "nomenclatural source"
       ],
       "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
+    },
+    {
+      "id": "plant_powo_pinuskesiya",
+      "label": "Kew POWO (Pinus kesiya)",
+      "role": [
+        "botanical nomenclature"
+      ],
+      "citation": "Royal Botanic Gardens, Kew. Plants of the World Online. Pinus kesiya Royle ex Gordon; synonymy including Pinus khasya Hook.f. (accessed 2026-10-14).",
+      "url": "https://powo.science.kew.org/"
     }
   ],
   "recommended_chinese_name": "松瘤小蠹",

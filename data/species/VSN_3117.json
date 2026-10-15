@@ -6,7 +6,7 @@
   "genus": "Hylurgops",
   "subfamily": "Scolytinae",
   "tribe": "Hylastini",
-  "checklist_status": "Unreviewed",
+  "checklist_status": "Accepted",
   "review_status": "Not started",
   "china_occurrence": {
     "Mainland China": "Candidate",
@@ -15,11 +15,32 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
-    "narrative": "Generated from the current baseline database. Source-level distribution and host evidence are shown separately by source; summary values are de-duplicated across source-reported values. Distribution Note and Host Note are optional curator notes."
+    "summary": "四川；云南",
+    "narrative": "殷蕙芬等 (1984) reported 四川（米亚罗，刷经寺），云南（丽江）. 黄复生等 (2015) reported 四川，云南. These are literature-based reports; the mainland-China occurrence assessment remains Candidate pending checklist review.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015"
+    ]
   },
-  "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "hosts": [
+    {
+      "scientific_name": "Picea asperata",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "云杉"
+    },
+    {
+      "scientific_name": "Picea likiangensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ],
+      "chinese_name": "丽江云杉"
+    }
+  ],
+  "host_note": "Host names are retained as published, with separate source citations for 1984 and 2015; the latter may repeat earlier evidence rather than represent independent host confirmation. Host associations have not yet undergone independent review.",
   "taxonomy_summary": "The current accepted identity is Hylurgops eusulcatus Tsai & Huang, 1964.",
   "taxonomy_reference_ids": [
     "johnson2026"
