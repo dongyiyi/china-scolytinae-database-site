@@ -15,15 +15,21 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；广东",
-    "narrative": "Johnson et al. (2020) describes the species from Fujian and Guangdong."
+    "summary": "Fujian; Guangdong",
+    "narrative": "Johnson et al. (2020) documented Fujian and Guangdong; older mango-pest identifications are not reassigned without verification.",
+    "reference_ids": [
+      "src_johnsonetal2020_cryphaluseastasia"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Mangifera indica"
+      "scientific_name": "Mangifera indica",
+      "reference_ids": [
+        "src_johnsonetal2020_cryphaluseastasia"
+      ]
     }
   ],
-  "host_note": "Mangifera indica is directly supported.",
+  "host_note": "Johnson et al. (2020) reported Mangifera indica. Historical identifications of related species require reassessment.",
   "taxonomy_summary": "The current accepted identity is Cryphalus paramangiferae Johnson, 2020.",
   "taxonomy_reference_ids": [
     "johnson2026"

@@ -15,15 +15,24 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "四川",
-    "narrative": "Yang (2020) lists Sichuan; accepted as mainland-China occurrence evidence from a specialist Cryphalus checklist."
+    "summary": "Sichuan",
+    "narrative": "Yin et al. (1984) documented Sichuan (Markang); Huang & Lu (2015) retained Sichuan, also listed by Yang (2020).",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_yangcryphaluschecklistal2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Abies faxoniana"
+      "scientific_name": "Abies faxoniana",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "Existing 殷蕙芬等 (1984)/黄复生等 (2015) host evidence for Abies faxoniana is retained. Yang (2020) contributes distribution evidence only and supplies no host data.",
+  "host_note": "Yin et al. (1984) and Huang & Lu (2015) reported Abies faxoniana. Yang (2020) supplies distribution only.",
   "taxonomy_summary": "The current accepted identity is Cryphalus markangensis Tsai & Li, 1963.",
   "taxonomy_reference_ids": [
     "johnson2026"

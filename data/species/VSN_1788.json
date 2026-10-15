@@ -15,15 +15,24 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "黑龙江",
-    "narrative": "Yang (2020) lists Heilongjiang; accepted as mainland-China occurrence evidence from a specialist Cryphalus checklist."
+    "summary": "Heilongjiang",
+    "narrative": "Yin et al. (1984) documented Heilongjiang (Yichun); Huang & Lu (2015) retained Heilongjiang, also listed by Yang (2020).",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_yangcryphaluschecklistal2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Picea koraiensis"
+      "scientific_name": "Picea koraiensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "Existing 殷蕙芬等 (1984)/黄复生等 (2015) host evidence for Picea koraiensis is retained. Yang (2020) contributes distribution evidence only and supplies no host data.",
+  "host_note": "Yin et al. (1984) and Huang & Lu (2015) reported Picea koraiensis. Yang (2020) supplies distribution only.",
   "taxonomy_summary": "The current accepted identity is Cryphalus piceus Eggers, 1926.",
   "taxonomy_reference_ids": [
     "johnson2026"

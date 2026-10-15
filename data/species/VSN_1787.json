@@ -16,10 +16,13 @@
   },
   "distribution": {
     "summary": "China",
-    "narrative": "Yang (2020) lists this species from China; accepted as mainland-China occurrence evidence."
+    "narrative": "Yang (2020) lists China without provincial detail; no province is inferred.",
+    "reference_ids": [
+      "src_yangcryphaluschecklistal2020"
+    ]
   },
   "hosts": [],
-  "host_note": "No reviewed host note is currently available.",
+  "host_note": "No host was provided by the currently linked Yang (2020) source record. This does not establish host absence.",
   "taxonomy_summary": "The current accepted identity is Cryphalus piceae (Ratzeburg, 1837).",
   "taxonomy_reference_ids": [
     "johnson2026"

@@ -15,15 +15,21 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建",
-    "narrative": "Johnson et al. (2020) documents Fujian occurrence."
+    "summary": "Fujian",
+    "narrative": "Johnson et al. (2020) documented Fujian occurrence.",
+    "reference_ids": [
+      "src_johnsonetal2020_cryphaluseastasia"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Schefflera spp."
+      "scientific_name": "Schefflera spp.",
+      "reference_ids": [
+        "src_johnsonetal2020_cryphaluseastasia"
+      ]
     }
   ],
-  "host_note": "Schefflera spp. retained at genus level.",
+  "host_note": "Johnson et al. (2020) reported Schefflera spp. at genus level.",
   "taxonomy_summary": "The current accepted identity is Cryphalus meridionalis (Nobuchi, 1975).",
   "taxonomy_reference_ids": [
     "johnson2026"

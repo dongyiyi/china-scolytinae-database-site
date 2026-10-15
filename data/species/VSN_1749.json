@@ -15,21 +15,36 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "江苏；安徽；福建",
-    "narrative": "Existing baseline occurrence from Jiangsu, Anhui, and Fujian is retained. Yang (2020) independently lists Jiangsu; absence of Anhui and Fujian from this source does not remove earlier accepted records."
+    "summary": "Jiangsu; Anhui; Fujian",
+    "narrative": "Yin et al. (1984) documented Jiangsu (Nanjing); Huang & Lu (2015) added Anhui and Fujian. Yang (2020) independently listed Jiangsu.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_yangcryphaluschecklistal2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pinus massoniana"
+      "scientific_name": "Pinus massoniana",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus elliottii"
+      "scientific_name": "Pinus elliottii",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus thunbergii"
+      "scientific_name": "Pinus thunbergii",
+      "reference_ids": [
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "Existing baseline host evidence for Pinus massoniana, Pinus elliottii, and Pinus thunbergii is retained. Yang (2020) contributes Jiangsu distribution evidence only and supplies no host data.",
+  "host_note": "Yin et al. (1984) and Huang & Lu (2015) reported Pinus massoniana; Huang & Lu (2015) added P. elliottii and P. thunbergii. Yang (2020) supplies distribution only.",
   "taxonomy_summary": "The current accepted identity is Cryphalus massonianus Tsai & Li, 1963.",
   "taxonomy_reference_ids": [
     "johnson2026"
