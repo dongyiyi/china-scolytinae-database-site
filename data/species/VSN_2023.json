@@ -15,21 +15,42 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "山西；四川；云南；台湾",
-    "narrative": "殷蕙芬等 (1984) records Sichuan; 黄复生等 (2015) adds Yunnan. Smith et al. (2020) records Shanxi, Sichuan and Taiwan. Lin & Smith (2022) independently records Taiwan, confirming the existing Taiwan assessment."
+    "summary": "Shanxi; Sichuan; Yunnan; Taiwan",
+    "narrative": "Yin et al. (1984) recorded Sichuan (Yibin, Ebian) as Xyleborus pelliculosus. Huang & Lu (2015) retained Sichuan and added Yunnan. Smith et al. (2020) documented Shanxi, Sichuan and Taiwan; Lin & Smith (2022) independently listed Taiwan.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_smith2020",
+      "src_linsmith2022"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Castanopsis sp."
+      "scientific_name": "Castanopsis sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015",
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Quercus sp."
+      "scientific_name": "Quercus sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015",
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Acer sp."
+      "scientific_name": "Acer sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015",
+        "src_smith2020"
+      ]
     }
   ],
-  "host_note": "Baseline hosts Castanopsis sp., Quercus sp. and Acer sp. are retained. Smith et al. (2020) and Lin & Smith (2022) add no promoted host evidence in the integrated records.",
+  "host_note": "Yin et al. (1984) and Huang & Lu (2015) reported Castanopsis sp., Quercus sp. and Acer sp.; Smith et al. (2020) independently reported these genera but also listed Juglans, Alnus and Betula at genus level. The additional genera remain source-level evidence and are not promoted in the reviewed host synthesis; Lin & Smith (2022) provides no host.",
   "taxonomy_summary": "The current accepted identity is Cyclorhipidion pelliculosum (Eichhoff, 1878).",
   "taxonomy_reference_ids": [
     "johnson2026"

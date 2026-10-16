@@ -15,27 +15,48 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "海南；云南",
-    "narrative": "黄复生等 (2015) records Hainan and Yunnan. Smith et al. (2020) independently confirms Hainan and Yunnan."
+    "summary": "Hainan; Yunnan",
+    "narrative": "Huang & Lu (2015) recorded Hainan and Yunnan under the historical name Xyleborus punctatopilosum; Smith et al. (2020) independently reported both under Cyclorhipidion perpilosellum.",
+    "reference_ids": [
+      "src_co2015",
+      "src_smith2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Castanopsis sp."
+      "scientific_name": "Castanopsis sp.",
+      "reference_ids": [
+        "src_co2015",
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Lithocarpus sp."
+      "scientific_name": "Lithocarpus sp.",
+      "reference_ids": [
+        "src_co2015",
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Lithocarpus glabra"
+      "scientific_name": "Lithocarpus glabra",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Quercus variabilis"
+      "scientific_name": "Quercus variabilis",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Quercus acutissima"
+      "scientific_name": "Quercus acutissima",
+      "reference_ids": [
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "黄复生等 (2015) species/genus-level hosts are retained. Smith et al. (2020) independently reports Castanopsis, Lithocarpus and Quercus at genus level. The unresolved Chinese-only host 红羽木 remains source-level evidence.",
+  "host_note": "Huang & Lu (2015) supplied the five reviewed scientific host names. Smith et al. (2020) independently documented Castanopsis, Lithocarpus and Quercus only at genus level; it does not support the specific Lithocarpus or Quercus species records. The unresolved Chinese-only name 红羽木 remains source-level wording, not a confirmed Latin-name host. The 2015 source's 'shared with 1984' label lacks a separately linked 1984 record and remains an evidence-provenance HOLD.",
   "taxonomy_summary": "The current accepted identity is Cyclorhipidion perpilosellum (Schedl, 1935).",
   "taxonomy_reference_ids": [
     "johnson2026"

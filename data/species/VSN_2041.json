@@ -15,11 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南",
-    "narrative": "Smith et al. (2022) records Cyclorhipidion repositum from Yunnan, with locality evidence from Xishuangbanna."
+    "summary": "Yunnan",
+    "narrative": "Smith et al. (2022) documented Yunnan, including Xishuangbanna.",
+    "reference_ids": [
+      "src_smith2022"
+    ]
   },
   "hosts": [],
-  "host_note": "The curated source field contains the exact string 'Cyclorhipidion pruinosulum'. Because this is an unusual host entry and no reinterpretation is warranted from the curated evidence alone, the string is preserved under Historical or Questionable Hosts and is not promoted to Current Host Summary.",
+  "host_note": "The Smith et al. (2022) curated host field contains the unusual exact string 'Cyclorhipidion pruinosulum'. It is retained as questionable source-level evidence, not a confirmed host, and is not inferred to be a host plant or an ecological association.",
   "taxonomy_summary": "The current accepted identity is Cyclorhipidion repositum (Schedl, 1942).",
   "taxonomy_reference_ids": [
     "johnson2026"

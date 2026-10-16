@@ -15,15 +15,22 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "台湾",
-    "narrative": "Beaver & Liu (2010) directly records Taiwan, including Chiayi (A Li Shan) and Nantou (Neimoupu). Lin & Smith (2022) independently records Taiwan. No mainland province is inferred from either source."
+    "summary": "Taiwan",
+    "narrative": "Beaver & Liu (2010) documented Taiwan, including Chiayi (A Li Shan) and Nantou (Neimoupu). Lin & Smith (2022) independently listed Taiwan. Mainland China is not inferred.",
+    "reference_ids": [
+      "src_beaverliu2010",
+      "src_linsmith2022"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Quercus sp."
+      "scientific_name": "Quercus sp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
-  "host_note": "Beaver & Liu (2010) reports Quercus sp.; the host is retained at genus level. Lin & Smith (2022) adds no promoted host evidence for this taxon.",
+  "host_note": "Beaver & Liu (2010) reported Quercus sp. as a genus-level host under its treatment of Cyclorhipidion ohnoi. Lin & Smith (2022) provides distribution evidence only.",
   "taxonomy_summary": "The current accepted identity is Cyclorhipidion ohnoi (Browne, 1980).",
   "taxonomy_reference_ids": [
     "johnson2026"

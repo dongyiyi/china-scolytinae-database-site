@@ -15,15 +15,21 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；云南",
-    "narrative": "Smith et al. (2022) records Cyclorhipidion petrosum from Fujian and Yunnan, with locality evidence from Wuyishan City and Xishuangbanna."
+    "summary": "Fujian; Yunnan",
+    "narrative": "Smith et al. (2022) documented Fujian (Wuyishan City) and Yunnan (Xishuangbanna).",
+    "reference_ids": [
+      "src_smith2022"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Castanopsis fargesii"
+      "scientific_name": "Castanopsis fargesii",
+      "reference_ids": [
+        "src_smith2022"
+      ]
     }
   ],
-  "host_note": "Smith et al. (2022) reports Castanopsis fargesii as a species-level host; it is promoted without generalization.",
+  "host_note": "Smith et al. (2022) reported Castanopsis fargesii at species level.",
   "taxonomy_summary": "The current accepted identity is Cyclorhipidion petrosum Smith, Beaver & Cognato, 2020.",
   "taxonomy_reference_ids": [
     "johnson2026"
