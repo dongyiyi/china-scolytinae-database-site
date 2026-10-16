@@ -15,12 +15,18 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建",
-    "narrative": "Smith et al. (2020) records Fujian, including Jianyang."
+    "summary": "Fujian",
+    "narrative": "Smith et al. (2020) reports Fujian, including Jianyang.",
+    "reference_ids": [
+      "src_smith2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Lithocarpus"
+      "scientific_name": "Lithocarpus",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Lithocarpus is retained at genus level; Fagaceae remains source-level family context.",

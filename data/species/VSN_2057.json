@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；云南",
-    "narrative": "Smith et al. (2020) records Fujian and Yunnan."
+    "summary": "Fujian; Yunnan",
+    "narrative": "Smith et al. (2020) reports Fujian and Yunnan; the source-linked Yunnan locality includes Lijiang.",
+    "reference_ids": [
+      "src_smith2020"
+    ]
   },
   "hosts": [],
   "host_note": "The staging/source string 'istacia (Anacardiaceae)' may be incomplete or typographically damaged. It is not silently normalized or promoted.",

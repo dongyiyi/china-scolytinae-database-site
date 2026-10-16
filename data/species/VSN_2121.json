@@ -15,36 +15,74 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "河南；陕西；江苏；江西；湖南；四川；福建；广东；广西；云南；重庆；海南；台湾；香港",
-    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) provide mainland province-level records. Beaver & Liu (2010) gives the broad distribution China (CE, NO, SE, SW); Taiwan, adding Taiwan but no new province-level mainland records are inferred from the broad regional wording. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Henan; Shaanxi; Jiangsu; Jiangxi; Hunan; Sichuan; Fujian; Guangdong; Guangxi; Yunnan; Chongqing; Hainan; Taiwan; Hong Kong",
+    "narrative": "Yin et al. (1984), under Dryocoetes luteus, documents Henan (Xinyang), Shaanxi (Shiquan), Jiangsu (Nanjing), Jiangxi (Yiyang), Hunan (Changsha, Qidong, Jianghua, Chengbu), Sichuan (historical Chongqing locality), Fujian (Hua'an), Guangdong (Guangzhou), Guangxi (Yangshuo) and Yunnan (Lijiang, Yongsheng, Simao, Xishuangbanna). Huang et al. (2015) repeats the mainland baseline and additionally lists Chongqing and Hainan; this repetition is not independent field confirmation. Beaver & Liu (2010) reports Taiwan plus broad China regions, without adding province-level records. Lau (2025) supplies secondary Hong Kong checklist evidence.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_beaverliu2010",
+      "src_lau2025"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pinus massoniana"
+      "scientific_name": "Pinus massoniana",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus densata"
+      "scientific_name": "Pinus densata",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus tabulaeformis"
+      "scientific_name": "Pinus tabulaeformis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus yunnanensis"
+      "scientific_name": "Pinus yunnanensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus khasya"
+      "scientific_name": "Pinus khasya",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus spp."
+      "scientific_name": "Pinus spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Larix spp."
+      "scientific_name": "Larix spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Picea spp."
+      "scientific_name": "Picea spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Cornus spp."
+      "scientific_name": "Cornus spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
   "host_note": "殷蕙芬等 (1984) and 黄复生等 (2015) provide five Pinus species. Beaver & Liu (2010) additionally reports conifers, especially Pinus, and also Larix, Picea and Cornus; these genera are retained at genus level without conversion to species.",

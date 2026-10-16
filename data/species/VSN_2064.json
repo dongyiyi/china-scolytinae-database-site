@@ -15,12 +15,18 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "台湾",
-    "narrative": "Lin & Smith (2022) directly records the species from Taiwan, Taichung City. No mainland China occurrence is inferred."
+    "summary": "Taiwan",
+    "narrative": "Lin & Smith (2022) reports Taiwan, including Taichung City; no mainland China occurrence is inferred.",
+    "reference_ids": [
+      "src_linsmith2022"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Castanopsis cuspidata var. carlesii"
+      "scientific_name": "Castanopsis cuspidata var. carlesii",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     }
   ],
   "host_note": "Lin & Smith (2022) reports Castanopsis cuspidata var. carlesii as a host; it is retained at the published infraspecific resolution.",

@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+    "narrative": "Alonso-Zarazaga et al. (2023) lists Fujian for this taxon, but the mainland China occurrence remains Candidate and the Checklist Review Status remains In review. This literature record is not presented here as a confirmed occurrence.",
+    "reference_ids": [
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
+    ]
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",
