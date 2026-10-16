@@ -15,8 +15,8 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "四川；云南",
-    "narrative": "黄复生等 (2015) reported 四川，云南 under the name Acanthotomicus perexignus. These are literature-based occurrence reports; Mainland China remains Candidate pending occurrence review.",
+    "summary": "",
+    "narrative": "Huang & Lu (2015) reported Sichuan and Yunnan under the published name Acanthotomicus perexignus. These are literature-based locality reports, not a verified current distribution. Mainland China remains Candidate pending scientific review; the 2015 record also marks these provinces as shared with 1984, but no separate 1984 source record is presently linked to this species.",
     "reference_ids": [
       "huanglu2015"
     ]
@@ -30,7 +30,7 @@
       "chinese_name": "西南桦"
     }
   ],
-  "host_note": "Host names are retained as published, with a citation for each reported association. Where both 1984 and 2015 list the same host, the records should not be assumed to represent independent confirmations. Host associations have not undergone independent review.",
+  "host_note": "Huang & Lu (2015) reported Betula alnoides as a host under the published name Acanthotomicus perexignus. This association has not been independently verified; the 2015 source marks it as shared with the 1984 fauna account, but no separate 1984 source record is currently linked. The Checklist host review remains outstanding.",
   "taxonomy_summary": "The current accepted backbone identity is Acanthotomicus perexiguus (Blandford, 1896). 黄复生等 (2015) uses the spelling Acanthotomicus perexignus.",
   "taxonomic_history": [
     {
@@ -86,7 +86,7 @@
   "references": [
     {
       "id": "huanglu2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "China occurrence",
         "host"
