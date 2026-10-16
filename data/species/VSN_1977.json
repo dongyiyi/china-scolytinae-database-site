@@ -15,11 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南",
-    "narrative": "Smith et al. (2022) records Cyclorhipidion circumcisum from Yunnan, with locality evidence from Honghe."
+    "summary": "Yunnan",
+    "narrative": "Smith et al. (2022) reported Yunnan, with locality detail from Honghe.",
+    "reference_ids": [
+      "src_smith2022"
+    ]
   },
   "hosts": [],
-  "host_note": "No confirmed host is reported in the integrated Smith et al. (2022) record; no host is promoted.",
+  "host_note": "No host is reported in the linked Smith et al. (2022) record; no confirmed host is promoted.",
   "taxonomy_summary": "The current accepted identity is Cyclorhipidion circumcisum (Sampson, 1921).",
   "taxonomy_reference_ids": [
     "johnson2026"

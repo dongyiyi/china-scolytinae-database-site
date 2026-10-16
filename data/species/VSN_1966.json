@@ -15,24 +15,44 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；江西；四川；云南；台湾",
-    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) record Fujian and Yunnan. Smith et al. (2020) confirms Fujian/Yunnan and adds Jiangxi, Sichuan and Taiwan. Lin & Smith (2022) independently records Taiwan, confirming the existing Taiwan assessment without adding a new mainland province."
+    "summary": "Fujian; Jiangxi; Sichuan; Yunnan; Taiwan",
+    "narrative": "Yin et al. (1984) recorded Fujian (Chong'an, Jianyang, Sanming) and Yunnan (Xishuangbanna) as Xyleborus armiger; Huang & Lu (2015) retained both provinces. Smith et al. (2020) also reported Jiangxi, Sichuan and Taiwan under Cyclorhipidion armiger. Lin & Smith (2022) independently reported Taiwan.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_smith2020",
+      "src_linsmith2022"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Castanopsis sp."
+      "scientific_name": "Castanopsis sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Lithocarpus sp."
+      "scientific_name": "Lithocarpus sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Quercus sp."
+      "scientific_name": "Quercus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Anacardiaceae"
+      "scientific_name": "Anacardiaceae",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
-  "host_note": "Baseline hosts Castanopsis sp., Lithocarpus sp. and Quercus sp. are retained. Smith et al. (2020) adds only a family-level Anacardiaceae host record. Lin & Smith (2022) adds no promoted host evidence for this taxon.",
+  "host_note": "Yin et al. (1984) reported Castanopsis sp. and Lithocarpus sp.; Huang & Lu (2015) retained those and additionally reported Quercus sp. Smith et al. (2020) reported only family-level Anacardiaceae. Lin & Smith (2022) adds no host.",
   "taxonomy_summary": "The current accepted identity is Cyclorhipidion armiger (Schedl, 1953).",
   "taxonomy_reference_ids": [
     "johnson2026"

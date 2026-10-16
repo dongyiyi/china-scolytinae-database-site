@@ -15,15 +15,23 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；黑龙江；贵州；江西；云南；香港；台湾",
-    "narrative": "Smith et al. (2020) records Fujian, Heilongjiang, Guizhou, Jiangxi, Yunnan, Hong Kong and Taiwan. Lau (2025) provides additional secondary checklist evidence for Hong Kong occurrence. Lin & Smith (2022) independently records Taiwan; this confirms Taiwan occurrence without changing the reviewed province-level mainland synthesis."
+    "summary": "Fujian; Heilongjiang; Guizhou; Jiangxi; Yunnan; Hong Kong; Taiwan",
+    "narrative": "Smith et al. (2020) reported Fujian, Heilongjiang, Guizhou, Jiangxi, Yunnan, Hong Kong and Taiwan. Lau (2025) provides additional secondary checklist evidence for Hong Kong; Lin & Smith (2022) independently reports Taiwan. These later records do not add a new mainland province.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_lau2025",
+      "src_linsmith2022"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Cyclobalanopsis glauca (= Quercus glauca)"
+      "scientific_name": "Cyclobalanopsis glauca (= Quercus glauca)",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
-  "host_note": "The synonym-style source annotation Cyclobalanopsis glauca [= Quercus glauca] is retained explicitly. Lin & Smith (2022) adds no promoted host evidence for this taxon.",
+  "host_note": "Smith et al. (2020) reported Cyclobalanopsis glauca (= Quercus glauca), retaining the published synonym annotation. Neither Lau (2025) nor Lin & Smith (2022) supplies an additional host in their linked records.",
   "taxonomy_summary": "The current accepted identity is Cyclorhipidion bodoanum (Reitter, 1913).",
   "taxonomy_reference_ids": [
     "johnson2026"

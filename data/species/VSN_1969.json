@@ -15,15 +15,22 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南；台湾",
-    "narrative": "Lin & Smith (2022) describes Cyclorhipidion beaveri from Taiwan, including Taichung City. Smith et al. (2022) independently reports Taiwan and adds Yunnan, with locality evidence from Honghe. Mainland China is therefore promoted to Present, and the reviewed distribution is Yunnan + Taiwan."
+    "summary": "Yunnan; Taiwan",
+    "narrative": "Lin & Smith (2022) described the species from Taiwan (Taichung City). Smith et al. (2022) additionally reported Yunnan (Honghe) and Taiwan; no other mainland provinces are inferred.",
+    "reference_ids": [
+      "src_linsmith2022",
+      "src_smith2022"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Castanopsis cuspidata var. carlesii"
+      "scientific_name": "Castanopsis cuspidata var. carlesii",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     }
   ],
-  "host_note": "Castanopsis cuspidata var. carlesii is retained from Lin & Smith (2022) at the published infraspecific resolution. Smith et al. (2022) provides no host in the curated record, so no host update is made.",
+  "host_note": "Lin & Smith (2022) reported Castanopsis cuspidata var. carlesii at the published infraspecific rank. Smith et al. (2022) does not add host evidence in the linked record.",
   "taxonomy_summary": "The current accepted identity is Cyclorhipidion beaveri Lin & Smith, 2022.",
   "taxonomy_reference_ids": [
     "johnson2026"

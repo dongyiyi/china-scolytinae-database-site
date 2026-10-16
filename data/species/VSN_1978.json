@@ -15,11 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "台湾",
-    "narrative": "Lin & Smith (2022) directly records the species from Taiwan, Taichung City. No mainland China occurrence is inferred."
+    "summary": "Taiwan",
+    "narrative": "Lin & Smith (2022) described Cyclorhipidion cognatoi from Taiwan (Taichung City). Mainland China occurrence is not inferred.",
+    "reference_ids": [
+      "src_linsmith2022"
+    ]
   },
   "hosts": [],
-  "host_note": "No confirmed host is reported in the integrated Lin & Smith (2022) record; no host is promoted.",
+  "host_note": "The linked Lin & Smith (2022) record does not provide a confirmed host.",
   "taxonomy_summary": "The current accepted identity is Cyclorhipidion cognatoi Lin & Smith, 2022.",
   "taxonomy_reference_ids": [
     "johnson2026"

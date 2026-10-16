@@ -15,33 +15,63 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "黑龙江；四川；云南；西藏；香港",
-    "narrative": "Mainland China is confirmed by 殷蕙芬等 (1984) and 黄复生等 (2015) (Heilongjiang, Sichuan, Yunnan and Xizang). Beaver & Liu (2010) separately treated the historical Taiwan attribution as doubtful because the record was based on Shiraki specimens of uncertain origin. Taiwan is therefore retained as Questionable and is not added to the current distribution summary. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Heilongjiang; Sichuan; Yunnan; Xizang; Hong Kong",
+    "narrative": "Yin et al. (1984) recorded Heilongjiang (Yichun) and Sichuan (Miyaluo, Markang). Huang & Lu (2015) retained those provinces and added Yunnan and Xizang. Lau (2025) separately listed Hong Kong. Beaver & Liu (2010) classified the historical Taiwan record based on specimens of uncertain origin as doubtful; Taiwan remains Questionable and is excluded from the confirmed distribution.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_lau2025",
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Picea asperata"
+      "scientific_name": "Picea asperata",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Picea koraiensis"
+      "scientific_name": "Picea koraiensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus koraiensis"
+      "scientific_name": "Pinus koraiensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Abies sp."
+      "scientific_name": "Abies sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus densata"
+      "scientific_name": "Pinus densata",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Picea glauca"
+      "scientific_name": "Picea glauca",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Picea rubens"
+      "scientific_name": "Picea rubens",
+      "reference_ids": [
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "Current hosts are synthesized from 殷蕙芬等 (1984) and 黄复生等 (2015). Beaver & Liu (2010) provides no host evidence for the doubtful Taiwan record, so it does not alter the current host synthesis.",
+  "host_note": "Yin et al. (1984) reported Picea asperata, P. koraiensis and Pinus koraiensis. Huang & Lu (2015) retained them and additionally listed Abies sp., Pinus densata, Picea glauca and P. rubens. Beaver & Liu (2010) reported no hosts for the doubtful Taiwan record; Lau (2025) supplies Hong Kong distribution only.",
   "taxonomy_summary": "The current accepted identity is Crypturgus pusillus (Gyllenhal, 1813).",
   "taxonomy_reference_ids": [
     "johnson2026"

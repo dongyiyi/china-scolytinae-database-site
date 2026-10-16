@@ -15,11 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南",
-    "narrative": "Smith et al. (2022) records Cryptoxyleborus naevus from Yunnan, with locality evidence from Xishuangbanna."
+    "summary": "Yunnan",
+    "narrative": "Smith et al. (2022) reported Yunnan, including Xishuangbanna. No finer locality is inferred from the integrated record.",
+    "reference_ids": [
+      "src_smith2022"
+    ]
   },
   "hosts": [],
-  "host_note": "No confirmed host is reported in the integrated Smith et al. (2022) record; no host is promoted.",
+  "host_note": "No host is given in the linked Smith et al. (2022) record; this is not evidence of biological host absence.",
   "taxonomy_summary": "The current accepted identity is Cryptoxyleborus naevus (Schedl, 1937).",
   "taxonomy_reference_ids": [
     "johnson2026"
