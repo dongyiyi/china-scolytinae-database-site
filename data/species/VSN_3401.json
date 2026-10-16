@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "广东",
-    "narrative": "Li et al. (2021) reported repeated detections of Ips calligraphus around Zhuhai, Guangdong since 2016; the 2019 survey found the species at four sites. The authors considered the population established and described the report as the first record in mainland Asia. The specimens were not assigned to a subspecies in the published record."
+    "summary": "Guangdong",
+    "narrative": "Li et al. (2021) reported repeated detections of Ips calligraphus around Zhuhai, Guangdong since 2016; the 2019 survey found the species at four sites. The authors considered the population established and described the report as the first record in mainland Asia. The specimens were not assigned to a subspecies in the published record.",
+    "reference_ids": [
+      "src_lietal2021_invasiveipszhuhai"
+    ]
   },
   "hosts": [
     {
