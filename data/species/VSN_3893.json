@@ -16,10 +16,13 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+    "narrative": "Alonso-Zarazaga et al. (2023) reports Fujian under Orthotomicus proximus (Eichhoff, 1868). This source-level record has not been confirmed as an accepted mainland occurrence; Candidate and In review remain unchanged.",
+    "reference_ids": [
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
+    ]
   },
   "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "host_note": "The linked Catalogue 2023 Source Record contains no named host; no host is promoted.",
   "taxonomy_summary": "The current accepted identity is Orthotomicus proximus (Eichhoff, 1868).",
   "taxonomy_reference_ids": [
     "johnson2026"

@@ -15,18 +15,30 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "China (SE；broad source wording)；台湾",
-    "narrative": "Beaver & Liu (2010) reports China (SE) and Taiwan. China (SE) supports Mainland China = Present only at broad regional scale; no province is inferred."
+    "summary": "Southeast China (regional record; provinces unspecified); Taiwan",
+    "narrative": "Beaver & Liu (2010) reports China (SE) and Taiwan. The broad southeast-China record is not converted into provinces.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Chamaecyparis spp."
+      "scientific_name": "Chamaecyparis spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Thujopsis spp."
+      "scientific_name": "Thujopsis spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Cryptomeria spp."
+      "scientific_name": "Cryptomeria spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
   "host_note": "Chamaecyparis, Thujopsis and Cryptomeria are retained as confirmed genus-level hosts. Pinus and Actinodaphne are explicitly stated to require confirmation and therefore are not promoted to Current Host Summary.",

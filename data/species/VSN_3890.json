@@ -16,10 +16,13 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+    "narrative": "Alonso-Zarazaga et al. (2023) reports Jiangsu under the historical source usage Orthotomicus nankinensis Fabricius, 1792. Its equivalence to the currently accepted Orthotomicus nankinensis Kurentsov & Kononov, 1966 is unresolved. This source report does not confirm mainland occurrence; Candidate and In review remain unchanged.",
+    "reference_ids": [
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
+    ]
   },
   "hosts": [],
-  "host_note": "Host information has not yet been reviewed for this checklist record.",
+  "host_note": "The linked Catalogue 2023 Source Record contains no named host; no host is promoted.",
   "taxonomy_summary": "The current accepted identity is Orthotomicus nankinensis Kurentsov & Kononov, 1966.",
   "taxonomy_reference_ids": [
     "johnson2026"

@@ -15,12 +15,19 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "台湾（南投）；香港",
-    "narrative": "Lin & Beaver (2021) provides the first Taiwan record of Phloeocranus bruchoides, based on 26 males and 23 females from Yuchi Township, Nantou. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Taiwan (Nantou); Hong Kong",
+    "narrative": "Lin & Beaver (2021) documents the first Taiwan record from Yuchi Township, Nantou, including 26 males and 23 females bred from Lindera communis. Lau (2025) provides additional Hong Kong checklist evidence, without a finer locality.",
+    "reference_ids": [
+      "src_linbeaver2021_taiwanbarkbeetles",
+      "src_lau2025"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Lindera communis"
+      "scientific_name": "Lindera communis",
+      "reference_ids": [
+        "src_linbeaver2021_taiwanbarkbeetles"
+      ]
     }
   ],
   "host_note": "The Taiwan series was bred directly from Lindera communis. The source describes monogamous, phloeophagous breeding and gallery construction; Lindera communis is promoted as confirmed current host evidence.",

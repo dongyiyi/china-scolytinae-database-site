@@ -15,12 +15,18 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "台湾",
-    "narrative": "Beaver & Liu (2010) treats Phloeosinus arisanus as a Taiwan-only taxon."
+    "summary": "Taiwan",
+    "narrative": "Beaver & Liu (2010) reports Phloeosinus arisanus from Taiwan.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Chamaecyparis formosensis"
+      "scientific_name": "Chamaecyparis formosensis",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
   "host_note": "Chamaecyparis formosensis is explicitly reported and retained at species level.",

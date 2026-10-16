@@ -15,18 +15,30 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南；台湾（南投；台中）",
-    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) record Phloeosinus camphoratus from Yunnan. Lin & Beaver (2021) provides the first Taiwan record, with multiple Nantou trap captures and a breeding series from Taichung. The reviewed synthesis therefore retains Yunnan and adds Taiwan."
+    "summary": "Yunnan; Taiwan (Nantou; Taichung)",
+    "narrative": "Yin et al. (1984) and Huang & Lu (2015) report Yunnan; the 1984 source specifies Menghai in Xishuangbanna. Lin & Beaver (2021) documents the first Taiwan record, with Nantou trap collections and a Taichung breeding series from Cinnamomum subavenium.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_linbeaver2021_taiwanbarkbeetles"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Cinnamomum camphora"
+      "scientific_name": "Cinnamomum camphora",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum subavenium"
+      "scientific_name": "Cinnamomum subavenium",
+      "reference_ids": [
+        "src_linbeaver2021_taiwanbarkbeetles"
+      ]
     }
   ],
-  "host_note": "殷蕙芬等 (1984)/黄复生等 (2015) directly support Cinnamomum camphora in China. Lin & Beaver (2021) directly bred the species from Cinnamomum subavenium in Taiwan; both are promoted as current hosts. Cinnamomum iners is cited from older literature in the 2021 paper and is retained separately.",
+  "host_note": "Yin et al. (1984) and Huang & Lu (2015) support Cinnamomum camphora in China. Lin & Beaver (2021) documents breeding from Cinnamomum subavenium in Taiwan. Cinnamomum iners is cited from older literature in Lin & Beaver (2021) and has not been promoted to the reviewed host list.",
   "taxonomy_summary": "The current accepted identity is Phloeosinus camphoratus Tsai & Yin, 1964.",
   "taxonomy_reference_ids": [
     "johnson2026"
