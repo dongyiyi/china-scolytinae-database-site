@@ -15,15 +15,24 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "北京；陕西；四川",
-    "narrative": "Existing baseline occurrence from Beijing and Shaanxi is retained; Yang (2020) additionally lists Sichuan. The reviewed synthesis therefore includes Beijing, Shaanxi, and Sichuan."
+    "summary": "Beijing; Shaanxi; Sichuan",
+    "narrative": "Yin et al. (1984) documented Beijing and Shaanxi (Liping); Huang & Lu (2015) retained both. Yang (2020) additionally listed Sichuan alongside Beijing and Shaanxi.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_yangcryphaluschecklistal2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pinus tabulaeformis"
+      "scientific_name": "Pinus tabulaeformis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "Existing 殷蕙芬等 (1984)/黄复生等 (2015) host evidence for Pinus tabulaeformis is retained. Yang (2020) contributes distribution evidence only and supplies no host data.",
+  "host_note": "Yin et al. (1984) and Huang & Lu (2015) reported Pinus tabulaeformis. Yang (2020) contributes distribution evidence only.",
   "taxonomy_summary": "The current accepted identity is Cryphalus pseudotabulaeformis Tsai & Li, 1963.",
   "taxonomy_reference_ids": [
     "johnson2026"

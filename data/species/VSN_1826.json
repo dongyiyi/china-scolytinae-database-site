@@ -15,11 +15,15 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "台湾",
-    "narrative": "Accepted for Taiwan from Beaver & Liu (2010). The source states that the taxon, published there as Hypocryphalus formosanus, was known only from the holotype."
+    "summary": "Taiwan",
+    "narrative": "Beaver & Liu (2010) listed Taiwan under the historical name Hypocryphalus formosanus, noting that it was known only from the holotype. Yang (2020) listed Taiwan under Cryphalus schedli; neither source is used to infer Mainland China occurrence.",
+    "reference_ids": [
+      "src_beaverliu2010",
+      "src_yangcryphaluschecklistal2020"
+    ]
   },
   "hosts": [],
-  "host_note": "Beaver & Liu (2010) reports the host as unknown; no host taxon is promoted.",
+  "host_note": "Beaver & Liu (2010) recorded the host as unknown, and Yang (2020) supplied no host information. No host taxon is promoted.",
   "taxonomy_summary": "The current accepted identity is Cryphalus schedli Johnson, 2020.",
   "taxonomy_reference_ids": [
     "johnson2026"

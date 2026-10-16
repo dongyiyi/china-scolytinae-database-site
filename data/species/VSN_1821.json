@@ -15,18 +15,28 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "海南",
-    "narrative": "Yang (2020) lists Hainan; accepted as mainland-China occurrence evidence from a specialist Cryphalus checklist."
+    "summary": "Hainan",
+    "narrative": "Huang & Lu (2015) and Yang (2020) listed Hainan. Under the checklist's regional scheme, Hainan remains within Mainland China. The 2015 Source Record has a historical shared-with-1984 marker but no separately linked 1984 record for this VSN.",
+    "reference_ids": [
+      "src_co2015",
+      "src_yangcryphaluschecklistal2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pinus sp."
+      "scientific_name": "Pinus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Picea asperata"
+      "scientific_name": "Picea asperata",
+      "reference_ids": [
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "Existing 黄复生等 (2015) host evidence for Pinus sp. and Picea asperata is retained. Yang (2020) contributes distribution evidence only and supplies no host data.",
+  "host_note": "Huang & Lu (2015) reported Pinus sp. (genus-level) and Picea asperata. Yang (2020) provides distribution evidence only. No separate 1984 source record is currently linked for these hosts.",
   "taxonomy_summary": "The current accepted identity is Cryphalus samoensis Beeson, 1929.",
   "taxonomy_reference_ids": [
     "johnson2026"

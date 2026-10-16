@@ -15,15 +15,24 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "四川",
-    "narrative": "Yang (2020) lists Sichuan; accepted as mainland-China occurrence evidence from a specialist Cryphalus checklist."
+    "summary": "Sichuan",
+    "narrative": "Yin et al. (1984) documented Sichuan (Markang); Huang & Lu (2015) retained Sichuan, also listed by Yang (2020).",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_yangcryphaluschecklistal2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Picea asperata"
+      "scientific_name": "Picea asperata",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "Existing 殷蕙芬等 (1984)/黄复生等 (2015) host evidence for Picea asperata is retained. Yang (2020) contributes distribution evidence only and supplies no host data.",
+  "host_note": "Yin et al. (1984) and Huang & Lu (2015) reported Picea asperata. Yang (2020) contributes distribution evidence only.",
   "taxonomy_summary": "The current accepted identity is Cryphalus saltuarius Weise, 1891.",
   "taxonomy_reference_ids": [
     "johnson2026"
