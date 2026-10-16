@@ -15,21 +15,35 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "重庆；贵州；台湾",
-    "narrative": "Smith et al. (2020) records Chongqing and Guizhou. Beaver & Liu (2010) adds the first Taiwan record from Nantou, Hui Son. Smith et al. (2022) independently reports Chongqing, Guizhou and Taiwan, supporting the existing reviewed distribution without changing it."
+    "summary": "Chongqing; Guizhou; Taiwan",
+    "narrative": "Smith et al. (2020) records Chongqing (Pengshui) and Guizhou (Guiyang). Beaver & Liu (2010) records Taiwan, including Nantou (Hui Son), as the first Taiwan record. Smith et al. (2022) separately lists Chongqing, Guizhou and Taiwan, supporting but not expanding the currently reviewed distribution.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_beaverliu2010",
+      "src_smith2022"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Shorea"
+      "scientific_name": "Shorea",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Vatica"
+      "scientific_name": "Vatica",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Lithocarpus"
+      "scientific_name": "Lithocarpus",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
-  "host_note": "Current promoted hosts remain Shorea; Vatica; Lithocarpus from Smith et al. (2020). Beaver & Liu (2010) provides independent historical/source host context. Smith et al. (2022) provides no host in the curated record, so the current host synthesis is unchanged.",
+  "host_note": "Shorea and Vatica (Dipterocarpaceae) and Lithocarpus (Fagaceae) are retained at genus level from Smith et al. (2020). Beaver & Liu (2010) also names Shorea, Vatica and the historically used name Pasania as host context; no additional taxon is promoted on that basis. Smith et al. (2022) supplies no additional host in the curated record.",
   "taxonomy_summary": "The current accepted identity is Diuncus ciliatoformis (Schedl, 1953).",
   "taxonomy_reference_ids": [
     "johnson2026"

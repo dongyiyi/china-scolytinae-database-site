@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+    "narrative": "Alonso-Zarazaga et al. (2023) reports Xizang for Diamerus matangi in the second-edition catalogue. This is source-level catalogue evidence, not a reviewed distribution: Mainland China remains Candidate and Review Status remains In review.",
+    "reference_ids": [
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
+    ]
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",

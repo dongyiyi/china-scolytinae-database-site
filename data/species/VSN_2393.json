@@ -15,18 +15,30 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；广东；广西；海南；江西；云南；香港；台湾",
-    "narrative": "Smith et al. (2020) provides broad mainland, Hong Kong and Taiwan occurrence evidence. Beaver & Liu (2010) independently supports Taiwan, and Lau (2025) supports Hong Kong. Smith et al. (2022) independently reports Fujian, Guangdong, Guangxi, Hainan, Hong Kong, Jiangxi, Yunnan and Taiwan, matching the current reviewed distribution without changing it."
+    "summary": "Fujian; Guangdong; Guangxi; Hainan; Jiangxi; Yunnan; Hong Kong; Taiwan",
+    "narrative": "Smith et al. (2020) records Fujian (Fuan, Shuyang), Guangdong (Shenzhen), Guangxi (Shiwandashan), Hainan, Jiangxi (Ganzhou), Yunnan (Xishuangbanna), Hong Kong (Kadoorie Farm) and Taiwan. Beaver & Liu (2010) separately supports Taiwan; Lau (2025) adds secondary checklist evidence for Hong Kong. Smith et al. (2022) independently lists the same provinces and regions without expanding the reviewed distribution.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_beaverliu2010",
+      "src_lau2025",
+      "src_smith2022"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Cinnamomum camphora"
+      "scientific_name": "Cinnamomum camphora",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Ligustrum lucidum"
+      "scientific_name": "Ligustrum lucidum",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
-  "host_note": "Current species-level hosts Cinnamomum camphora and Ligustrum lucidum are retained from Smith et al. (2020). Beaver & Liu (2010) provides broad polyphagy context but no Taiwan hosts. Smith et al. (2022) provides no host in the curated record, so the current host synthesis is unchanged.",
+  "host_note": "Cinnamomum camphora and Ligustrum lucidum are the two reviewed species-level hosts attributed to Smith et al. (2020). Beaver & Liu (2010) describes broad polyphagy but does not record named Taiwan hosts. Lau (2025) and the curated Smith et al. (2022) record add no host evidence; no further host taxa are inferred.",
   "taxonomy_summary": "The current accepted identity is Diuncus haberkorni (Eggers, 1920).",
   "taxonomy_reference_ids": [
     "johnson2026"

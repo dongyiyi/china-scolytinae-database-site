@@ -15,15 +15,21 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建",
-    "narrative": "Smith et al. (2020) records Fujian."
+    "summary": "Fujian",
+    "narrative": "Smith et al. (2020) records Diuncus justus from Fujian. No finer source-backed locality is currently recorded in the linked Source Record.",
+    "reference_ids": [
+      "src_smith2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Cunninghamia"
+      "scientific_name": "Cunninghamia",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
-  "host_note": "Cunninghamia is retained at genus level; source gives Cupressaceae context.",
+  "host_note": "Cunninghamia (Cupressaceae) is retained as a genus-level host, as published by Smith et al. (2020). No species-level Cunninghamia identity is inferred.",
   "taxonomy_summary": "The current accepted identity is Diuncus justus (Schedl, 1931).",
   "taxonomy_reference_ids": [
     "johnson2026"
