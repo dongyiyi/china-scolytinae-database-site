@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "The source reports Northeast China only at regional resolution. Individual provinces have not been independently verified."
+    "narrative": "Alonso-Zarazaga et al. (2023) reports Northeast China (regional wording) and separately lists Jilin and Shanxi for Dryocoetes rugicollis. Northeast China is not expanded to unspecified provinces; Jilin and Shanxi are source-reported provinces only. Mainland China remains Candidate and Review Status remains In review.",
+    "reference_ids": [
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
+    ]
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",

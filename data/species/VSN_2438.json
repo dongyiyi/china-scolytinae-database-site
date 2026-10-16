@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "A province-level occurrence has been reported, but its supporting evidence remains under review. No province is listed here as a confirmed occurrence."
+    "narrative": "Alonso-Zarazaga et al. (2023) reports Liaoning for Dryocoetes pini. This is unadjudicated catalogue evidence: Mainland China remains Candidate and the Checklist Review Status remains In review, so Liaoning is not promoted as a confirmed occurrence.",
+    "reference_ids": [
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
+    ]
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",

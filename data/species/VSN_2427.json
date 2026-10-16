@@ -15,57 +15,116 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "黑龙江；陕西；青海；四川；云南；福建；西藏；台湾",
-    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) provide mainland province-level records. Beaver & Liu (2010) gives China; Taiwan, adding Taiwan but no new mainland province-level records are inferred from the broad China wording."
+    "summary": "Heilongjiang; Shaanxi; Qinghai; Sichuan; Yunnan; Fujian; Xizang; Taiwan",
+    "narrative": "Yin et al. (1984) records Heilongjiang (Dailing), Shaanxi (Mian County), Qinghai (Qilian, Guinan and Yushu), Sichuan (Nanjiang, Miyaluo and Shuajingsi), and Yunnan (Lijiang). Huang & Lu (2015) repeats these provinces and additionally lists Fujian and Xizang. Beaver & Liu (2010) records Taiwan and broadly states China, without supporting additional mainland province assignments.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Picea asperata"
+      "scientific_name": "Picea asperata",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Picea koraiensis"
+      "scientific_name": "Picea koraiensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Picea crassifolia"
+      "scientific_name": "Picea crassifolia",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Picea balfouriana"
+      "scientific_name": "Picea balfouriana",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Picea microsperma"
+      "scientific_name": "Picea microsperma",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus koraiensis"
+      "scientific_name": "Pinus koraiensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus armandii"
+      "scientific_name": "Pinus armandii",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus densata"
+      "scientific_name": "Pinus densata",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus yunnanensis"
+      "scientific_name": "Pinus yunnanensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus griffithii"
+      "scientific_name": "Pinus griffithii",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Abies fabri"
+      "scientific_name": "Abies fabri",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Picea spp."
+      "scientific_name": "Picea spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Abies spp."
+      "scientific_name": "Abies spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Larix spp."
+      "scientific_name": "Larix spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Pinus spp."
+      "scientific_name": "Pinus spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
-  "host_note": "殷蕙芬等 (1984) and 黄复生等 (2015) provide explicit host species. Beaver & Liu (2010) reports Picea, also Abies, Larix and Pinus, and specifically notes Picea sp. recorded in Taiwan. The Taiwan host is retained at genus level as Picea sp.",
+  "host_note": "Yin et al. (1984) lists nine species-level conifer hosts; Huang & Lu (2015) repeats these and additionally lists Pinus griffithii and Abies fabri. Beaver & Liu (2010) reports Picea, Abies, Larix and Pinus broadly, with Picea sp. recorded as a Taiwan host. Existing genus-level host entries are retained without inferring a species-level Taiwan host. The 1984/2015 repeated records are not counted as independent host confirmations.",
   "taxonomy_summary": "The current accepted identity is Dryocoetes hectographus Reitter, 1913.",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -124,7 +183,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -132,7 +191,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

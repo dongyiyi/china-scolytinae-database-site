@@ -15,42 +15,77 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "四川；福建；海南；广西；云南；西藏；台湾",
-    "narrative": "黄复生等 (2015) provides mainland province-level records from 四川、福建、海南、广西、云南、西藏. Beaver & Liu (2010) adds Taiwan occurrence under the source name Dryocoetiops coffeae. Beaver et al. (2019) independently reports Dryocoetiops moestus from Sichuan, Yunnan, and Taiwan; these records support a subset of the already accepted distribution and do not reduce the existing synthesis."
+    "summary": "Sichuan; Fujian; Hainan; Guangxi; Yunnan; Xizang; Taiwan",
+    "narrative": "Huang & Lu (2015) reports Sichuan, Fujian, Hainan, Guangxi, Yunnan and Xizang under the historical species usage Dryocoetiops coffeae. Beaver & Liu (2010) separately reports Taiwan under the same historical usage. Beaver et al. (2019), using the current accepted name Dryocoetiops moestus, independently reports Sichuan, Yunnan and Taiwan, supporting a subset of the already reviewed distribution rather than replacing the earlier records.",
+    "reference_ids": [
+      "src_co2015",
+      "src_beaverliu2010",
+      "src_beaveretal2019_dryocoetiopsreview"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Phoebe sp."
+      "scientific_name": "Phoebe sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum camphora"
+      "scientific_name": "Cinnamomum camphora",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum tamala"
+      "scientific_name": "Cinnamomum tamala",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Camellia sinensis"
+      "scientific_name": "Camellia sinensis",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Coffea arabica"
+      "scientific_name": "Coffea arabica",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Quercus sp."
+      "scientific_name": "Quercus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Litsea cubeba"
+      "scientific_name": "Litsea cubeba",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Platycladus orientalis"
+      "scientific_name": "Platycladus orientalis",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Mangifera indica"
+      "scientific_name": "Mangifera indica",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Coffea spp."
+      "scientific_name": "Coffea spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
-  "host_note": "黄复生等 (2015) provides explicit host taxa. Beaver & Liu (2010) describes the taxon as a polyphagous twig borer and secondary pest of Coffea spp.; Coffea spp. is retained at genus level without replacing the existing species-level Coffea arabica record.",
+  "host_note": "Huang & Lu (2015), under the name Dryocoetiops coffeae, lists the nine existing plant taxa from Phoebe sp. through Mangifera indica. Beaver & Liu (2010) describes broad host use and Coffea spp. as a secondary-pest association; the latter genus-level entry is retained separately from the species-level Coffea arabica record. Beaver et al. (2019) provides no additional named host in the integrated Source Record. Historical names are not silently substituted for the currently accepted beetle name.",
   "taxonomy_summary": "The current accepted identity is Dryocoetiops moestus (Blandford, 1894).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -197,7 +232,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],

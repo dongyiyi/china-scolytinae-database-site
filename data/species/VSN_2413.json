@@ -15,57 +15,110 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "黑龙江；陕西；台湾",
-    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) provide mainland records from 黑龙江 and 陕西. Beaver & Liu (2010) includes Dryocoetes autographus in the accepted Taiwan checklist, adding Taiwan occurrence."
+    "summary": "Heilongjiang; Shaanxi; Taiwan",
+    "narrative": "Yin et al. (1984) reports Heilongjiang (Yichun) and Shaanxi (Mian County). Huang & Lu (2015) repeats these two mainland provinces; this shared distribution is not treated as independent new occurrences. Beaver & Liu (2010) lists the species from Taiwan, without establishing particular host taxa in Taiwan.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Picea asperata"
+      "scientific_name": "Picea asperata",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus koraiensis"
+      "scientific_name": "Pinus koraiensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus armandii"
+      "scientific_name": "Pinus armandii",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Picea engelmannii"
+      "scientific_name": "Picea engelmannii",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Picea glauca"
+      "scientific_name": "Picea glauca",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Abies sp."
+      "scientific_name": "Abies sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pseudotsuga menziesii"
+      "scientific_name": "Pseudotsuga menziesii",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus contorta"
+      "scientific_name": "Pinus contorta",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus monticola"
+      "scientific_name": "Pinus monticola",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus strobus"
+      "scientific_name": "Pinus strobus",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Tsuga heterophylla"
+      "scientific_name": "Tsuga heterophylla",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Picea spp."
+      "scientific_name": "Picea spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Pinus spp."
+      "scientific_name": "Pinus spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Abies spp."
+      "scientific_name": "Abies spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Larix spp."
+      "scientific_name": "Larix spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
-  "host_note": "殷蕙芬等 (1984) and 黄复生等 (2015) provide explicit host taxa. Beaver & Liu (2010) reports Picea and Pinus, rarely Abies and Larix, but explicitly states that no Taiwan hosts were recorded. Genus-level host information is retained without assigning those hosts specifically to Taiwan.",
+  "host_note": "Yin et al. (1984) records Picea asperata, Pinus koraiensis and Pinus armandii; Huang & Lu (2015) repeats these hosts and additionally lists Picea engelmannii, Picea glauca, Abies sp., Pseudotsuga menziesii, Pinus contorta, Pinus monticola, Pinus strobus and Tsuga heterophylla. Beaver & Liu (2010) reports Picea and Pinus, rarely Abies and Larix, as broad host genera but explicitly states no hosts were recorded in Taiwan. The four genus-level host entries are retained as source-level host context, not confirmed Taiwan hosts.",
   "taxonomy_summary": "The current accepted identity is Dryocoetes autographus (Ratzeburg, 1837).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -256,7 +309,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -264,7 +317,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "The source reports Northeast China only at regional resolution. Individual provinces have not been independently verified."
+    "narrative": "Alonso-Zarazaga et al. (2023) records Northeast China at regional scale for Dryocoetes infuscatus. This does not establish particular provinces. Mainland China remains Candidate and Checklist Review Status remains In review; no confirmed province-level distribution is promoted.",
+    "reference_ids": [
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
+    ]
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",

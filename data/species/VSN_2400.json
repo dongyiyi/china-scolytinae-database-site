@@ -15,8 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "贵州；江苏；香港",
-    "narrative": "Smith et al. (2020) records Guizhou, Jiangsu and Hong Kong. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Guizhou; Jiangsu; Hong Kong",
+    "narrative": "Smith et al. (2020) records Guizhou (Guiyang, Huaxi), Jiangsu (Nanjing, Laoshan National Park) and Hong Kong (Tai Po Kau). Lau (2025) independently lists Hong Kong in a secondary regional checklist. No Taiwan or Macao occurrence is inferred.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_lau2025"
+    ]
   },
   "hosts": [],
   "host_note": "No host is promoted from the integrated Smith record.",

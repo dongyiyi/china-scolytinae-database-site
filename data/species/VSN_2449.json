@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南；台湾",
-    "narrative": "Beaver et al. (2019) reports Dryocoetiops apatoides from Yunnan and Taiwan; the Yunnan record includes Xishuangbanna locality detail."
+    "summary": "Yunnan; Taiwan",
+    "narrative": "Beaver et al. (2019) reports Dryocoetiops apatoides in Yunnan, including Xishuangbanna, and Taiwan. The cited evidence supplies no confirmed host record.",
+    "reference_ids": [
+      "src_beaveretal2019_dryocoetiopsreview"
+    ]
   },
   "hosts": [],
   "host_note": "No host evidence is supplied in the currently integrated Beaver et al. (2019) record.",
