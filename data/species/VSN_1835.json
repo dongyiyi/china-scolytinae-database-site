@@ -15,15 +15,24 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "四川",
-    "narrative": "Yang (2020) lists Sichuan; accepted as mainland-China occurrence evidence from a specialist Cryphalus checklist."
+    "summary": "Sichuan",
+    "narrative": "Yin et al. (1984) recorded Sichuan (Markang for Cryphalus sinoabietis; Ebian for the historical subspecies C. s. opienensis); Huang & Lu (2015) retained both usages in Sichuan. Yang (2020) listed Sichuan under the accepted species.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_yangcryphaluschecklistal2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Abies faxoniana"
+      "scientific_name": "Abies faxoniana",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "Existing 殷蕙芬等 (1984)/黄复生等 (2015) host evidence for Abies faxoniana is retained. Yang (2020) contributes distribution evidence only and supplies no host data.",
+  "host_note": "Yin et al. (1984) and Huang & Lu (2015) reported Abies faxoniana for the accepted species and historical subspecific usage. The published spelling opienensis is kept in source records; the current backbone synonym usage is unchanged.",
   "taxonomy_summary": "The current accepted identity is Cryphalus sinoabietis Tsai & Li, 1963.",
   "taxonomy_reference_ids": [
     "johnson2026"

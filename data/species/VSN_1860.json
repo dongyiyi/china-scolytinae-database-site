@@ -15,15 +15,24 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "河北；山西；陕西；四川",
-    "narrative": "Yang (2020) lists Hebei, Shanxi, Shaanxi, and Sichuan; accepted as mainland-China occurrence evidence from a specialist Cryphalus checklist."
+    "summary": "Hebei; Shanxi; Shaanxi; Sichuan",
+    "narrative": "Yin et al. (1984) documented Hebei (Qinhuangdao) for the species and Shaanxi (Jianzhuang) under the historical subspecific name C. t. chienzhuangensis; Huang & Lu (2015) retained both records. Yang (2020) additionally listed Shanxi and Sichuan at province level.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_yangcryphaluschecklistal2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pinus tabulaeformis"
+      "scientific_name": "Pinus tabulaeformis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "Existing 殷蕙芬等 (1984)/黄复生等 (2015) host evidence for Pinus tabulaeformis is retained. Yang (2020) contributes distribution evidence only and supplies no host data.",
+  "host_note": "Yin et al. (1984) and Huang & Lu (2015) reported Pinus tabulaeformis for the species and its historical subspecific usage. The old subspecies remains in the source history; Yang (2020) does not supply a host claim.",
   "taxonomy_summary": "The current accepted identity is Cryphalus tabulaeformis Tsai & Li, 1963.",
   "taxonomy_reference_ids": [
     "johnson2026"

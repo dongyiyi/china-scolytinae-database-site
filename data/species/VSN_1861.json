@@ -15,15 +15,22 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "台湾",
-    "narrative": "Do not promote Taiwan to Present. The 2010 source explicitly states that Cryphalus taiwanus was described from timber imported to Japan from Taiwan and that actual occurrence in Taiwan needed confirmation."
+    "summary": "Taiwan (questionable; unconfirmed)",
+    "narrative": "Beaver & Liu (2010) documented Cryphalus taiwanus from timber imported into Japan from Taiwan, explicitly stating that Taiwan occurrence required confirmation. Yang (2020) listed Taiwan, but this does not resolve the specimen-provenance uncertainty. Taiwan remains Questionable, not Present.",
+    "reference_ids": [
+      "src_beaverliu2010",
+      "src_yangcryphaluschecklistal2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Tsuga sp."
+      "scientific_name": "Tsuga sp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
-  "host_note": "Beaver & Liu (2010) reports Tsuga sp. as the host/substrate association. This genus-level host is retained as source-supported, but it does not resolve the uncertainty of Taiwan occurrence.",
+  "host_note": "Beaver & Liu (2010) reports Tsuga sp. as the host/substrate association. This genus-level report does not confirm occurrence of the beetle in Taiwan.",
   "taxonomy_summary": "The current accepted identity is Cryphalus taiwanus Schedl, 1970.",
   "taxonomy_reference_ids": [
     "johnson2026"

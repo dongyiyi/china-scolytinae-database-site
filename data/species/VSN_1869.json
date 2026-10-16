@@ -15,11 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南",
-    "narrative": "Yang (2020) lists Yunnan; accepted as mainland-China occurrence evidence."
+    "summary": "Yunnan",
+    "narrative": "Yang (2020) listed Yunnan; the linked Source Record provides no finer locality.",
+    "reference_ids": [
+      "src_yangcryphaluschecklistal2020"
+    ]
   },
   "hosts": [],
-  "host_note": "No reviewed host note is currently available.",
+  "host_note": "No host is reported in the currently linked Yang (2020) Source Record; this is not proof of host absence.",
   "taxonomy_summary": "The current accepted identity is Cryphalus trypanus Sampson, 1914.",
   "taxonomy_reference_ids": [
     "johnson2026"

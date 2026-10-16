@@ -15,18 +15,28 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "辽宁；黑龙江",
-    "narrative": "Johnson et al. (2020) confirms Liaoning occurrence and corrects historical C. viburni misidentifications. Yang (2020) additionally lists Heilongjiang; the reviewed mainland distribution therefore includes Liaoning and Heilongjiang."
+    "summary": "Liaoning; Heilongjiang",
+    "narrative": "Johnson et al. (2020) documented Liaoning and reidentified Chinese material formerly determined as Cryphalus viburni. Yang (2020) separately listed Heilongjiang; historical C. viburni records are not automatically reassigned.",
+    "reference_ids": [
+      "src_johnsonetal2020_cryphaluseastasia",
+      "src_yangcryphaluschecklistal2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Juglans mandshurica"
+      "scientific_name": "Juglans mandshurica",
+      "reference_ids": [
+        "src_johnsonetal2020_cryphaluseastasia"
+      ]
     },
     {
-      "scientific_name": "Fraxinus mandshurica"
+      "scientific_name": "Fraxinus mandshurica",
+      "reference_ids": [
+        "src_johnsonetal2020_cryphaluseastasia"
+      ]
     }
   ],
-  "host_note": "Juglans mandshurica and Fraxinus mandshurica retained as current reviewed hosts.",
+  "host_note": "Johnson et al. (2020) reported Juglans mandshurica and Fraxinus mandshurica. Yang (2020) provides geographic evidence only.",
   "taxonomy_summary": "The current accepted identity is Cryphalus scopiger Berger, 1917.",
   "taxonomy_reference_ids": [
     "johnson2026"
