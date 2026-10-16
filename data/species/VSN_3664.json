@@ -15,12 +15,21 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；贵州；云南；台湾；香港",
-    "narrative": "Smith et al. (2020) records Guizhou, Yunnan and Taiwan. Beaver & Liu (2010) independently reports the first Taiwan record, based on 34 specimens from Nantou, Hui Son collected during 2004–2007. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence. Smith et al. (2022) adds Fujian, with locality evidence from Longyan City, and also records Guizhou, Yunnan and Taiwan."
+    "summary": "Fujian; Guizhou; Yunnan; Taiwan; Hong Kong",
+    "narrative": "Smith et al. (2020) records Guizhou, Yunnan and Taiwan. Beaver & Liu (2010) independently reports the first Taiwan record, based on 34 specimens from Nantou, Hui Son collected during 2004–2007. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence. Smith et al. (2022) adds Fujian, with locality evidence from Longyan City, and also records Guizhou, Yunnan and Taiwan.",
+    "reference_ids": [
+      "src_smith2022",
+      "src_lau2025",
+      "src_beaverliu2010",
+      "src_smith2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Liquidambar formosana"
+      "scientific_name": "Liquidambar formosana",
+      "reference_ids": [
+        "src_smith2022"
+      ]
     }
   ],
   "host_note": "Beaver & Liu (2010) characterizes the species as polyphagous but provides no enumerated host taxon in the curated field. Smith et al. (2022) reports Liquidambar formosana, which is promoted as the current confirmed host.",

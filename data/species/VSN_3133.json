@@ -15,18 +15,30 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "中国大陆（区域记录，未细化至省级）；台湾",
-    "narrative": "Beaver & Liu (2010) gives China (NE); Taiwan. Mainland China is therefore Present only at broad source level; no province is inferred from China (NE). Taiwan is Present."
+    "summary": "Taiwan",
+    "narrative": "Beaver & Liu (2010) gives China (NE); Taiwan. Mainland China is therefore Present only at broad source level; no province is inferred from China (NE). Taiwan is Present.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Larix spp."
+      "scientific_name": "Larix spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Picea spp."
+      "scientific_name": "Picea spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Pinus spp."
+      "scientific_name": "Pinus spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
   "host_note": "Larix, Picea and Pinus are retained at genus level exactly as reported.",

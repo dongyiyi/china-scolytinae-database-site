@@ -15,24 +15,42 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "台湾（南投）",
-    "narrative": "Sittichaya et al. (2024) described Eccoptopterus formosanus from Nantou County, Taiwan, with type material from Ren’ai and Lugu townships. Taiwan occurrence is therefore confirmed; no mainland-China occurrence is reported in this source."
+    "summary": "Taiwan (Nantou)",
+    "narrative": "Sittichaya et al. (2024) described Eccoptopterus formosanus from Nantou County, Taiwan, with type material from Ren’ai and Lugu townships. Taiwan occurrence is therefore confirmed; no mainland-China occurrence is reported in this source.",
+    "reference_ids": [
+      "src_sittichayaetal2024_eccoptopterusformosanus"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Elaeocarpus sylvestris"
+      "scientific_name": "Elaeocarpus sylvestris",
+      "reference_ids": [
+        "src_sittichayaetal2024_eccoptopterusformosanus"
+      ]
     },
     {
-      "scientific_name": "Lithocarpus hancei"
+      "scientific_name": "Lithocarpus hancei",
+      "reference_ids": [
+        "src_sittichayaetal2024_eccoptopterusformosanus"
+      ]
     },
     {
-      "scientific_name": "Quercus glauca"
+      "scientific_name": "Quercus glauca",
+      "reference_ids": [
+        "src_sittichayaetal2024_eccoptopterusformosanus"
+      ]
     },
     {
-      "scientific_name": "Sapium discolor"
+      "scientific_name": "Sapium discolor",
+      "reference_ids": [
+        "src_sittichayaetal2024_eccoptopterusformosanus"
+      ]
     },
     {
-      "scientific_name": "Trema orientale"
+      "scientific_name": "Trema orientale",
+      "reference_ids": [
+        "src_sittichayaetal2024_eccoptopterusformosanus"
+      ]
     }
   ],
   "host_note": "The original description and biology section explicitly report breeding from five host species in Taiwan: Elaeocarpus sylvestris, Lithocarpus hancei, Quercus glauca, Sapium discolor and Trema orientale. These are promoted as confirmed current hosts.",

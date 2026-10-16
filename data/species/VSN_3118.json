@@ -15,21 +15,41 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "黑龙江；台湾",
-    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) report 黑龙江. Beaver & Liu (2010) adds Taiwan as an accepted occurrence."
+    "summary": "Heilongjiang; Taiwan",
+    "narrative": "Yin et al. (1984) and Huang & Lu (2015) report Heilongjiang. Beaver & Liu (2010) adds Taiwan as an accepted occurrence.",
+    "reference_ids": [
+      "src_beaverliu2010",
+      "src_co2015",
+      "src_ef1984"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Picea koraiensis"
+      "scientific_name": "Picea koraiensis",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Pinus spp."
+      "scientific_name": "Pinus spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Larix spp."
+      "scientific_name": "Larix spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Picea spp."
+      "scientific_name": "Picea spp.",
+      "reference_ids": [
+        "src_beaverliu2010",
+        "src_co2015",
+        "src_ef1984"
+      ]
     }
   ],
   "host_note": "Baseline host is Picea koraiensis. Beaver & Liu (2010) reports Pinus as usual host and Larix and Picea sometimes; these genus-level records are retained without replacing the species-level Picea koraiensis record.",
@@ -113,7 +133,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -121,7 +141,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

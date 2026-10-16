@@ -16,7 +16,11 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "The source reports Northeast China only at regional resolution. Individual provinces have not been independently verified."
+    "narrative": "Notion source-level records report Northeast China. Mainland China remains Candidate and Review Status remains In review. These are literature reports, not confirmed distribution records.",
+    "reference_ids": [
+      "src_mandelshtampetrov2019_hylastini",
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
+    ]
   },
   "hosts": [],
   "host_note": "Mandelshtam & Petrov (2019) reports Pinus sylvestris, P. koraiensis, Pinus spp., Picea spp. and P. schrenkiana; host evidence is pending review.",

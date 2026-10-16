@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "台湾",
-    "narrative": "Beaver & Liu (2010) provides the first Taiwan record under the source combination Trischidias atomus, with material from Chiayi, Chungpu, collected ex mango branch on 4 May 2001."
+    "summary": "Taiwan",
+    "narrative": "Beaver & Liu (2010) provides the first Taiwan record under the source combination Trischidias atomus, with material from Chiayi, Chungpu, collected ex mango branch on 4 May 2001.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [],
   "host_note": "The source-specific Host Scientific field is empty. The locality note says the specimen was collected ex mango branch, but no host taxon is promoted from that locality text alone.",

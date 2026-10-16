@@ -15,21 +15,38 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；贵州；海南；江西；云南；香港",
-    "narrative": "Smith et al. (2020) describes/records the species from Hong Kong, Tai Po Kau. Lau (2025) independently supports Hong Kong occurrence. Smith et al. (2022) records Fujian, Guizhou, Hainan, Hong Kong, Jiangxi and Yunnan, with locality evidence from Longyan City, Guiyang, Qiongzhong/Jinping, Honghe and Wenshan, thereby adding mainland China records."
+    "summary": "Fujian; Guizhou; Hainan; Jiangxi; Yunnan; Hong Kong",
+    "narrative": "Smith et al. (2020) describes/records the species from Hong Kong, Tai Po Kau. Lau (2025) independently supports Hong Kong occurrence. Smith et al. (2022) records Fujian, Guizhou, Hainan, Hong Kong, Jiangxi and Yunnan, with locality evidence from Longyan City, Guiyang, Qiongzhong/Jinping, Honghe and Wenshan, thereby adding mainland China records.",
+    "reference_ids": [
+      "src_smith2022",
+      "src_lau2025",
+      "src_smith2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Castanopsis"
+      "scientific_name": "Castanopsis",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Liquidambar formosana"
+      "scientific_name": "Liquidambar formosana",
+      "reference_ids": [
+        "src_smith2022"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum camphora"
+      "scientific_name": "Cinnamomum camphora",
+      "reference_ids": [
+        "src_smith2022"
+      ]
     },
     {
-      "scientific_name": "Litchi sp."
+      "scientific_name": "Litchi sp.",
+      "reference_ids": [
+        "src_smith2022"
+      ]
     }
   ],
   "host_note": "The existing genus-level host Castanopsis is retained. Smith et al. (2022) additionally reports Liquidambar formosana (Altingiaceae), Cinnamomum camphora (Lauraceae), and Litchi sp. (Sapindaceae), which are promoted at their published taxonomic resolution.",

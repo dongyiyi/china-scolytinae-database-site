@@ -15,24 +15,42 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "四川；台湾",
-    "narrative": "Smith et al. (2020) records Sichuan and Taiwan."
+    "summary": "Sichuan; Taiwan",
+    "narrative": "Smith et al. (2020) records Sichuan and Taiwan.",
+    "reference_ids": [
+      "src_smith2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Albizzia [as published]"
+      "scientific_name": "Albizzia [as published]",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Tephrosia"
+      "scientific_name": "Tephrosia",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Durio zibethinus"
+      "scientific_name": "Durio zibethinus",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Artocarpus altilis"
+      "scientific_name": "Artocarpus altilis",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Camellia sinensis"
+      "scientific_name": "Camellia sinensis",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Source spelling 'Albizzia' is retained explicitly pending host-taxonomy normalization; other hosts are retained at source-supported resolution.",

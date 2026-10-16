@@ -15,36 +15,75 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "甘肃；青海；新疆；四川；云南；西藏",
-    "narrative": "Current distribution retains the broader baseline synthesis (Gansu, Qinghai, Xinjiang, Sichuan, Yunnan, Xizang). Wang et al. (2021) provides examined material from Xizang, Qinghai and Gansu and does not justify dropping unsampled baseline provinces."
+    "summary": "Gansu; Qinghai; Xinjiang; Sichuan; Yunnan; Xizang",
+    "narrative": "Current distribution retains the broader baseline synthesis (Gansu, Qinghai, Xinjiang, Sichuan, Yunnan, Xizang). Wang et al. (2021) provides examined material from Xizang, Qinghai and Gansu and does not justify dropping unsampled baseline provinces.",
+    "reference_ids": [
+      "src_wangetal2021",
+      "src_co2015",
+      "src_ef1984"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Abies faxoniana"
+      "scientific_name": "Abies faxoniana",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Picea asperata"
+      "scientific_name": "Picea asperata",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Picea crassifolia"
+      "scientific_name": "Picea crassifolia",
+      "reference_ids": [
+        "src_wangetal2021",
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Picea schrenkiana tianshanica"
+      "scientific_name": "Picea schrenkiana tianshanica",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Picea balfouriana"
+      "scientific_name": "Picea balfouriana",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Pinus densata"
+      "scientific_name": "Pinus densata",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Pinus yunnanensis"
+      "scientific_name": "Pinus yunnanensis",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Picea likiangensis var. balfouriana"
+      "scientific_name": "Picea likiangensis var. balfouriana",
+      "reference_ids": [
+        "src_wangetal2021"
+      ]
     },
     {
-      "scientific_name": "Picea likiangensis var. linzhiensis"
+      "scientific_name": "Picea likiangensis var. linzhiensis",
+      "reference_ids": [
+        "src_wangetal2021"
+      ]
     }
   ],
   "host_note": "Baseline hosts are retained and Wang et al. (2021) adds/clarifies Picea likiangensis var. balfouriana and P. likiangensis var. linzhiensis; Picea crassifolia is shared. Population differentiation and damage figures remain source-specific context.",
@@ -84,7 +123,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -92,7 +131,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

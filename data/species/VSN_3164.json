@@ -15,21 +15,34 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南；台湾",
-    "narrative": "黄复生等 (2015) supports occurrence in 云南. Beaver & Liu (2010) adds a first Taiwan record, with material from Kinmen, Nantou (Huison), Taichung and Taipei."
+    "summary": "Yunnan; Taiwan",
+    "narrative": "Huang & Lu (2015) supports occurrence in Yunnan. Beaver & Liu (2010) adds a first Taiwan record, with material from Kinmen, Nantou (Huison), Taichung and Taipei.",
+    "reference_ids": [
+      "src_beaverliu2010",
+      "src_co2015"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Albizia julibrissin"
+      "scientific_name": "Albizia julibrissin",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Castanopsis indica"
+      "scientific_name": "Castanopsis indica",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Hevea brasiliensis"
+      "scientific_name": "Hevea brasiliensis",
+      "reference_ids": [
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "黄复生等 (2015) explicitly reports Albizia julibrissin, Castanopsis indica and Hevea brasiliensis. Beaver & Liu (2010) describes a wide range of angiosperm trees and shrubs but does not enumerate additional host taxa in this Source Record; the broad prose is retained as context and is not split into inferred taxa.",
+  "host_note": "Huang & Lu (2015) explicitly reports Albizia julibrissin, Castanopsis indica and Hevea brasiliensis. Beaver & Liu (2010) describes a wide range of angiosperm trees and shrubs but does not enumerate additional host taxa in this Source Record; the broad prose is retained as context and is not split into inferred taxa.",
   "taxonomy_summary": "The current accepted identity is Hypothenemus areccae (Hornung, 1842).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -253,7 +266,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],

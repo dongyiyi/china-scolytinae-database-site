@@ -15,8 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "重庆；江西；云南；台湾",
-    "narrative": "Smith et al. (2020) records Chongqing, Jiangxi, Yunnan and Taiwan. Beaver & Liu (2010) independently accepts Taiwan occurrence, with records from Ilan (Fu Shan) and Nantou (Hui Son and Neimoupu)."
+    "summary": "Chongqing; Jiangxi; Yunnan; Taiwan",
+    "narrative": "Smith et al. (2020) records Chongqing, Jiangxi, Yunnan and Taiwan. Beaver & Liu (2010) independently accepts Taiwan occurrence, with records from Ilan (Fu Shan) and Nantou (Hui Son and Neimoupu).",
+    "reference_ids": [
+      "src_smithcognato2026_paleotropicalxyleborini",
+      "src_beaverliu2010",
+      "src_smith2020"
+    ]
   },
   "hosts": [],
   "host_note": "No host is promoted from the Smith record. Beaver & Liu (2010) characterizes the species as polyphagous but enumerates no host taxon in the curated field; broad polyphagy remains contextual.",

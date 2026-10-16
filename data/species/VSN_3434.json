@@ -15,24 +15,49 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "黑龙江；吉林；辽宁；新疆",
-    "narrative": "Baseline records support Heilongjiang and Jilin; Wang et al. (2021) adds Liaoning and Xinjiang. The synthesis is the union of validated source evidence."
+    "summary": "Heilongjiang; Jilin; Liaoning; Xinjiang",
+    "narrative": "Baseline records support Heilongjiang and Jilin; Wang et al. (2021) adds Liaoning and Xinjiang. The synthesis is the union of validated source evidence.",
+    "reference_ids": [
+      "src_wangetal2021",
+      "src_co2015",
+      "src_ef1984"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Larix gmelinii"
+      "scientific_name": "Larix gmelinii",
+      "reference_ids": [
+        "src_wangetal2021",
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Larix olgensis koreana"
+      "scientific_name": "Larix olgensis koreana",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Larix kaempferi"
+      "scientific_name": "Larix kaempferi",
+      "reference_ids": [
+        "src_wangetal2021"
+      ]
     },
     {
-      "scientific_name": "Larix olgensis"
+      "scientific_name": "Larix olgensis",
+      "reference_ids": [
+        "src_wangetal2021",
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Larix sibirica"
+      "scientific_name": "Larix sibirica",
+      "reference_ids": [
+        "src_wangetal2021"
+      ]
     }
   ],
   "host_note": "Baseline Larix hosts are retained; Wang et al. (2021) adds Larix kaempferi, Larix olgensis and Larix sibirica while also confirming L. gmelinii.",
@@ -83,7 +108,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -91,7 +116,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

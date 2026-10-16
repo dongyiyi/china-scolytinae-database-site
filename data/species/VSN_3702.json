@@ -15,12 +15,19 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "贵州；江西；四川；浙江；香港；台湾",
-    "narrative": "Smith et al. (2020) records Guizhou, Jiangxi, Sichuan, Zhejiang, Hong Kong and Taiwan. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Guizhou; Jiangxi; Sichuan; Zhejiang; Hong Kong; Taiwan",
+    "narrative": "Smith et al. (2020) records Guizhou, Jiangxi, Sichuan, Zhejiang, Hong Kong and Taiwan. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "src_lau2025",
+      "src_smith2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Cinnamomum camphora"
+      "scientific_name": "Cinnamomum camphora",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Species-level host Cinnamomum camphora is retained.",

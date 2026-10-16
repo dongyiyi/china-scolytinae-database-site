@@ -15,18 +15,33 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；贵州；湖南；江西；四川；西藏；云南；香港；台湾",
-    "narrative": "黄复生等 (2015) records Hunan, Guizhou, Fujian and Xizang under Coptodryas. Smith et al. (2020) confirms those areas and adds Hong Kong, Jiangxi, Sichuan, Yunnan and Taiwan under Microperus perparvus. Beaver & Liu (2010) independently reports the first Taiwan record, including Nantou, Hui Son, 23.ix.2006. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Fujian; Guizhou; Hunan; Jiangxi; Sichuan; Xizang; Yunnan; Hong Kong; Taiwan",
+    "narrative": "Huang & Lu (2015) records Hunan, Guizhou, Fujian and Xizang under Coptodryas. Smith et al. (2020) confirms those areas and adds Hong Kong, Jiangxi, Sichuan, Yunnan and Taiwan under Microperus perparvus. Beaver & Liu (2010) independently reports the first Taiwan record, including Nantou, Hui Son, 23.ix.2006. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "src_lau2025",
+      "src_beaverliu2010",
+      "src_smith2020",
+      "src_co2015"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Cinnamomum camphora"
+      "scientific_name": "Cinnamomum camphora",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Phoebe sp."
+      "scientific_name": "Phoebe sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Quercus sp."
+      "scientific_name": "Quercus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     }
   ],
   "host_note": "Baseline host set retained: Cinnamomum camphora, Phoebe sp. and Quercus sp. Smith et al. (2020) adds no host in the promoted record. Beaver & Liu (2010) characterizes the species as polyphagous, perhaps with preference for Dipterocarpaceae; this broad statement is contextual and adds no host taxon.",
@@ -88,7 +103,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],

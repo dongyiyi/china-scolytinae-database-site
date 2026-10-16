@@ -15,12 +15,18 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "台湾（台中）",
-    "narrative": "Lin & Beaver (2024) described Indocryphalus chiyui from Taichung City, Heping District, Taiwan. Taiwan occurrence is confirmed from the type series; no mainland-China occurrence is reported."
+    "summary": "Taiwan (Taichung)",
+    "narrative": "Lin & Beaver (2024) described Indocryphalus chiyui from Taichung City, Heping District, Taiwan. Taiwan occurrence is confirmed from the type series; no mainland-China occurrence is reported.",
+    "reference_ids": [
+      "src_linbeaver2024_indocryphalustaiwan"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Castanopsis cuspidata var. carlesii"
+      "scientific_name": "Castanopsis cuspidata var. carlesii",
+      "reference_ids": [
+        "src_linbeaver2024_indocryphalustaiwan"
+      ]
     }
   ],
   "host_note": "The original description directly reports adults and larvae from unhealthy branches and twigs of Castanopsis cuspidata var. carlesii. This host is promoted at the exact taxonomic resolution used in the source.",

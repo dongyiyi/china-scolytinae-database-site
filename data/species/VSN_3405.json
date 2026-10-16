@@ -15,15 +15,21 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "黑龙江；河北；四川；青海；云南",
-    "narrative": "Wang et al. (2021) documents I. chinensis from Heilongjiang, Hebei, Sichuan, Qinghai and Yunnan; the Heilongjiang sample is explicitly discussed as an additional geographic population."
+    "summary": "Heilongjiang; Hebei; Sichuan; Qinghai; Yunnan",
+    "narrative": "Wang et al. (2021) documents I. chinensis from Heilongjiang, Hebei, Sichuan, Qinghai and Yunnan; the Heilongjiang sample is explicitly discussed as an additional geographic population.",
+    "reference_ids": [
+      "src_wangetal2021"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pinus koraiensis"
+      "scientific_name": "Pinus koraiensis",
+      "reference_ids": [
+        "src_wangetal2021"
+      ]
     }
   ],
-  "host_note": "Wang et al. (2021) reports Pinus koraiensis (红松).",
+  "host_note": "Wang et al. (2021) reports Pinus koraiensis (Korean pine).",
   "taxonomy_summary": "The current accepted identity is Ips chinensis Kurentsov & Kononov, 1966.",
   "taxonomy_reference_ids": [
     "johnson2026"

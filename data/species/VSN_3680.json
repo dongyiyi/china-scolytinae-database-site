@@ -15,12 +15,19 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "重庆；四川；云南",
-    "narrative": "Smith et al. (2020) records Chongqing and Sichuan. Smith et al. (2022) additionally records Yunnan, with locality evidence from Yunnan, Xishuangbanna."
+    "summary": "Chongqing; Sichuan; Yunnan",
+    "narrative": "Smith et al. (2020) records Chongqing and Sichuan. Smith et al. (2022) additionally records Yunnan, with locality evidence from Yunnan, Xishuangbanna.",
+    "reference_ids": [
+      "src_smith2022",
+      "src_smith2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Prunus yedoensis"
+      "scientific_name": "Prunus yedoensis",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Species-level host Prunus yedoensis from Smith et al. (2020) is retained. Smith et al. (2022) reports no host for this record.",

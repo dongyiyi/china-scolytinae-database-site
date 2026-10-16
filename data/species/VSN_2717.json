@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "台湾",
-    "narrative": "Beaver & Liu (2010) accepts Taiwan occurrence, with records from Kaohsiung (Shanping) and Nantou (Hui Son and Neimoupu). No mainland-China occurrence is inferred."
+    "summary": "Taiwan",
+    "narrative": "Beaver & Liu (2010) accepts Taiwan occurrence, with records from Kaohsiung (Shanping) and Nantou (Hui Son and Neimoupu). No mainland-China occurrence is inferred.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [],
   "host_note": "The source characterizes the species as polyphagous but enumerates no host taxon in the curated host field; no host is promoted.",

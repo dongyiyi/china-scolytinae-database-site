@@ -15,15 +15,21 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "西藏",
-    "narrative": "Wang et al. (2021) reports Ips schmutzenhoferi from Yadong, Xizang as a new record for China."
+    "summary": "Xizang",
+    "narrative": "Wang et al. (2021) reports Ips schmutzenhoferi from Yadong, Xizang as a new record for China.",
+    "reference_ids": [
+      "src_wangetal2021"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pinus griffithii"
+      "scientific_name": "Pinus griffithii",
+      "reference_ids": [
+        "src_wangetal2021"
+      ]
     }
   ],
-  "host_note": "Chinese material is associated with Pinus griffithii (乔松).",
+  "host_note": "Chinese material is associated with Pinus griffithii (Himalayan pine).",
   "taxonomy_summary": "The current accepted identity is Ips schmutzenhoferi Holzschuh, 1988.",
   "taxonomy_reference_ids": [
     "johnson2026"

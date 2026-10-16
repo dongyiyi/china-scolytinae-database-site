@@ -15,12 +15,19 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "台湾（南投）",
-    "narrative": "Beaver & Liu (2010) treated the earlier Taiwan attribution as doubtful, probably based on Shiraki material. Lin & Beaver (2021) later confirmed occurrence with 47 specimens from Yuchi Township, Nantou. The historical doubt is retained as provenance but is superseded for current occurrence assessment."
+    "summary": "Taiwan (Nantou)",
+    "narrative": "Beaver & Liu (2010) treated the earlier Taiwan attribution as doubtful, probably based on Shiraki material. Lin & Beaver (2021) later confirmed occurrence with 47 specimens from Yuchi Township, Nantou. The historical doubt is retained as provenance but is superseded for current occurrence assessment.",
+    "reference_ids": [
+      "src_beaverliu2010",
+      "src_linbeaver2021_taiwanbarkbeetles"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Fraxinus formosana"
+      "scientific_name": "Fraxinus formosana",
+      "reference_ids": [
+        "src_linbeaver2021_taiwanbarkbeetles"
+      ]
     }
   ],
   "host_note": "Lin & Beaver (2021) directly bred the Taiwan series from Fraxinus formosana and identified it as a new host species. Beaver & Liu (2010) contributes no host evidence to the doubtful historical record.",

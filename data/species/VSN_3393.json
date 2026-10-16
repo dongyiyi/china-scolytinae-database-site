@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "香港",
-    "narrative": "Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence supporting occurrence in Hong Kong. No mainland-China, Taiwan, or Macao occurrence is inferred from this source."
+    "summary": "Hong Kong",
+    "narrative": "Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence supporting occurrence in Hong Kong. No mainland-China, Taiwan, or Macao occurrence is inferred from this source.",
+    "reference_ids": [
+      "src_lau2025"
+    ]
   },
   "hosts": [],
   "host_note": "This checklist provides no host information; no host is inferred.",

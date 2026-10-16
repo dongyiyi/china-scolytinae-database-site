@@ -15,12 +15,18 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "山东",
-    "narrative": "Lin et al. (2021) provides the first reliable modern occurrence evidence in China: Taian, Shandong in 2019, followed by Yantai and Weihai in 2020–2021. Surveys in Fujian, Guangdong and Yunnan detected no H. ligniperda and are not treated as positive distribution. The historical 'Manchuria, China' record was reviewed by the authors and judged likely erroneous."
+    "summary": "Shandong",
+    "narrative": "Lin et al. (2021) provides the first reliable modern occurrence evidence in China: Taian, Shandong in 2019, followed by Yantai and Weihai in 2020–2021. Surveys in Fujian, Guangdong and Yunnan detected no H. ligniperda and are not treated as positive distribution. The historical 'Manchuria, China' record was reviewed by the authors and judged likely erroneous.",
+    "reference_ids": [
+      "src_linetal2021_hylurgusligniperda"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pinus thunbergii"
+      "scientific_name": "Pinus thunbergii",
+      "reference_ids": [
+        "src_linetal2021_hylurgusligniperda"
+      ]
     }
   ],
   "host_note": "Taian trap captures had unresolved host. At Yantai and Weihai, specimens were collected from Pinus thunbergii stumps affected by pine wood nematode; more than 15 stumps were peeled and dissected and all were infested. Pinus thunbergii is therefore promoted as confirmed current host evidence.",

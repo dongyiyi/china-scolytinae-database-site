@@ -20,7 +20,10 @@
   },
   "hosts": [
     {
-      "scientific_name": "Pinus elliottii"
+      "scientific_name": "Pinus elliottii",
+      "reference_ids": [
+        "src_lietal2021_invasiveipszhuhai"
+      ]
     }
   ],
   "host_note": "Gut-content rbcL sequences were successfully obtained from three I. calligraphus individuals and grouped with slash pine Pinus elliottii. This direct molecular feeding-host evidence is promoted as Current Host Summary. No native Chinese pine is inferred.",

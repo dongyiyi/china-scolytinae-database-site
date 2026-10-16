@@ -15,18 +15,30 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南",
-    "narrative": "Beaver et al. (2019) reports Dryocoetiops nitidus from Yunnan, including Xishuangbanna locality detail."
+    "summary": "Yunnan",
+    "narrative": "Beaver et al. (2019) reports Dryocoetiops nitidus from Yunnan, including Xishuangbanna locality detail.",
+    "reference_ids": [
+      "src_beaveretal2019_dryocoetiopsreview"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Shorea acuminata"
+      "scientific_name": "Shorea acuminata",
+      "reference_ids": [
+        "src_beaveretal2019_dryocoetiopsreview"
+      ]
     },
     {
-      "scientific_name": "Coffea sp."
+      "scientific_name": "Coffea sp.",
+      "reference_ids": [
+        "src_beaveretal2019_dryocoetiopsreview"
+      ]
     },
     {
-      "scientific_name": "Macaranga sp."
+      "scientific_name": "Macaranga sp.",
+      "reference_ids": [
+        "src_beaveretal2019_dryocoetiopsreview"
+      ]
     }
   ],
   "host_note": "Beaver et al. (2019) reports Shorea acuminata, Coffea sp., and Macaranga sp. Family annotations are retained at source layer; genus-level host records remain genus-level in the synthesis.",

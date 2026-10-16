@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+    "narrative": "Notion source-level records report Hainan; Yunnan; Sichuan. Mainland China remains Candidate and Review Status remains In review. These are literature reports, not confirmed distribution records.",
+    "reference_ids": [
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
+    ]
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",

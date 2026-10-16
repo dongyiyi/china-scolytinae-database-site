@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南",
-    "narrative": "Lin et al. (2023) reports Immanus from China for the first time and describes Immanus songi from the Jinuo Mountains, Xishuangbanna, Yunnan. This establishes confirmed mainland-China occurrence in Yunnan."
+    "summary": "Yunnan",
+    "narrative": "Lin et al. (2023) reports Immanus from China for the first time and describes Immanus songi from the Jinuo Mountains, Xishuangbanna, Yunnan. This establishes confirmed mainland-China occurrence in Yunnan.",
+    "reference_ids": [
+      "src_linetal2023_immanussongi"
+    ]
   },
   "hosts": [],
   "host_note": "The holotype was collected using a flight intercept trap in fragmented primary forest. The source reports biology as unknown and gives no host plant; no host taxon is inferred from habitat context.",

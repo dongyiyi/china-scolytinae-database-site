@@ -15,30 +15,60 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "黑龙江；台湾",
-    "narrative": "殷蕙芬等 (1984) records 黑龙江、陕西、四川; 黄复生等 (2015) retains only 黑龙江 and explicitly omits 陕西、四川. Beaver & Liu (2010) adds Taiwan and gives broad China (NE, NO, SW, WP); that broad wording is not expanded into provinces and does not resolve the baseline province conflict. Current synthesis therefore treats 黑龙江 and 台湾 as current confirmed units, with 陕西、四川 retained as historical/questionable."
+    "summary": "Heilongjiang; Taiwan",
+    "narrative": "Yin et al. (1984) records Heilongjiang; Shaanxi; Sichuan; Huang & Lu (2015) retains only Heilongjiang and explicitly omits Shaanxi; Sichuan. Beaver & Liu (2010) adds Taiwan and gives broad China (NE, NO, SW, WP); that broad wording is not expanded into provinces and does not resolve the baseline province conflict. Current synthesis therefore treats Heilongjiang and Taiwan as current confirmed units, with Shaanxi; Sichuan retained as historical/questionable.",
+    "reference_ids": [
+      "src_beaverliu2010",
+      "src_co2015",
+      "src_ef1984"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Picea koraiensis"
+      "scientific_name": "Picea koraiensis",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Picea microsperma"
+      "scientific_name": "Picea microsperma",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Pinus koraiensis"
+      "scientific_name": "Pinus koraiensis",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Pinus armandii"
+      "scientific_name": "Pinus armandii",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Pinus tabulaeformis"
+      "scientific_name": "Pinus tabulaeformis",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Pinus spp."
+      "scientific_name": "Pinus spp.",
+      "reference_ids": [
+        "src_beaverliu2010",
+        "src_co2015",
+        "src_ef1984"
+      ]
     }
   ],
-  "host_note": "殷蕙芬等 (1984) and 黄复生等 (2015) provide Picea koraiensis, Picea microsperma, Pinus koraiensis, Pinus armandii and Pinus tabulaeformis. Beaver & Liu (2010) reports Pinus spp.; this genus-level evidence is retained in addition to the species-level records.",
+  "host_note": "Yin et al. (1984) and Huang & Lu (2015) provide Picea koraiensis, Picea microsperma, Pinus koraiensis, Pinus armandii and Pinus tabulaeformis. Beaver & Liu (2010) reports Pinus spp.; this genus-level evidence is retained in addition to the species-level records.",
   "taxonomy_summary": "The current accepted identity is Hylastes parallelus Chapuis, 1875.",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -75,7 +105,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -83,7 +113,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

@@ -15,15 +15,29 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "重庆；福建；广东；广西；海南；江西；西藏；云南；香港",
-    "narrative": "殷蕙芬等 (1984) records Fujian, Guangdong and Xizang; 黄复生等 (2015) adds Hainan. Smith et al. (2020) confirms those areas and adds Chongqing, Guangxi, Jiangxi and Yunnan. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Chongqing; Fujian; Guangdong; Guangxi; Hainan; Jiangxi; Xizang; Yunnan; Hong Kong",
+    "narrative": "Yin et al. (1984) records Fujian, Guangdong and Xizang; Huang & Lu (2015) adds Hainan. Smith et al. (2020) confirms those areas and adds Chongqing, Guangxi, Jiangxi and Yunnan. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "src_lau2025",
+      "src_smith2020",
+      "src_co2015",
+      "src_ef1984"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Ficus chlorocarpa"
+      "scientific_name": "Ficus chlorocarpa",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Machilus sp."
+      "scientific_name": "Machilus sp.",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     }
   ],
   "host_note": "Baseline host records Ficus chlorocarpa and Machilus sp. are retained. Smith et al. (2020) adds no host in the promoted record.",
@@ -85,7 +99,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -93,7 +107,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

@@ -15,24 +15,50 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "陕西；山西；四川",
-    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) record Shaanxi and Sichuan; Smith et al. (2020) confirms those provinces and adds Shanxi. Beaver & Liu (2010) separately treats the historical Taiwan record under Xyleborus seriatus as doubtful. Taiwan is retained as Questionable and is not included in the current distribution summary."
+    "summary": "Shaanxi; Shanxi; Sichuan",
+    "narrative": "Yin et al. (1984) and Huang & Lu (2015) record Shaanxi and Sichuan; Smith et al. (2020) confirms those provinces and adds Shanxi. Beaver & Liu (2010) separately treats the historical Taiwan record under Xyleborus seriatus as doubtful. Taiwan is retained as Questionable and is not included in the current distribution summary.",
+    "reference_ids": [
+      "src_beaverliu2010",
+      "src_smith2020",
+      "src_co2015",
+      "src_ef1984"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pinus armandii"
+      "scientific_name": "Pinus armandii",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Pinus tabulaeformis"
+      "scientific_name": "Pinus tabulaeformis",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Castanopsis sp."
+      "scientific_name": "Castanopsis sp.",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Quercus sp."
+      "scientific_name": "Quercus sp.",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Schima sp."
+      "scientific_name": "Schima sp.",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     }
   ],
   "host_note": "Current mainland hosts remain Pinus armandii, Pinus tabulaeformis, Castanopsis sp., Quercus sp. and Schima sp. Beaver & Liu (2010) contributes no host evidence for the doubtful Taiwan record.",
@@ -127,7 +153,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -135,7 +161,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

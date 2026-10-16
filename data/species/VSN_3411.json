@@ -15,15 +15,25 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "新疆",
-    "narrative": "Baseline and Wang et al. (2021) both support Xinjiang. Wang et al. samples multiple Xinjiang localities; this confirms rather than expands the province-level synthesis."
+    "summary": "Xinjiang",
+    "narrative": "Baseline and Wang et al. (2021) both support Xinjiang. Wang et al. samples multiple Xinjiang localities; this confirms rather than expands the province-level synthesis.",
+    "reference_ids": [
+      "src_wangetal2021",
+      "src_co2015",
+      "src_ef1984"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Picea schrenkiana"
+      "scientific_name": "Picea schrenkiana",
+      "reference_ids": [
+        "src_wangetal2021",
+        "src_co2015",
+        "src_ef1984"
+      ]
     }
   ],
-  "host_note": "Picea schrenkiana is retained. Chinese common-name wording differs between sources (天山云杉 / 雪岭云杉), but the scientific host identity is consistent.",
+  "host_note": "Picea schrenkiana is retained. Published Chinese vernacular names vary between sources, but the scientific host identity is unchanged.",
   "taxonomy_summary": "The current accepted identity is Ips hauseri Reitter, 1895.",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -71,7 +81,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -79,7 +89,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

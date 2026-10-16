@@ -15,63 +15,118 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南；台湾",
-    "narrative": "黄复生等 (2015) supports occurrence in 云南. Beaver & Liu (2010) accepts Taiwan occurrence; this source entry does not list a direct Taiwan locality in the locality field, but its occurrence treatment is affirmative rather than doubtful."
+    "summary": "Yunnan; Taiwan",
+    "narrative": "Huang & Lu (2015) supports occurrence in Yunnan. Beaver & Liu (2010) accepts Taiwan occurrence; this source entry does not list a direct Taiwan locality in the locality field, but its occurrence treatment is affirmative rather than doubtful.",
+    "reference_ids": [
+      "src_beaverliu2010",
+      "src_co2015"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Ailanthus altissima"
+      "scientific_name": "Ailanthus altissima",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Albizia julibrissin"
+      "scientific_name": "Albizia julibrissin",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Bauhinia variegata"
+      "scientific_name": "Bauhinia variegata",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Castanopsis indica"
+      "scientific_name": "Castanopsis indica",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum camphora"
+      "scientific_name": "Cinnamomum camphora",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Conocarpus erecta"
+      "scientific_name": "Conocarpus erecta",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Ricinus communis"
+      "scientific_name": "Ricinus communis",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Eleagnus pungens"
+      "scientific_name": "Eleagnus pungens",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Leucania glauca"
+      "scientific_name": "Leucania glauca",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Mangifera indica"
+      "scientific_name": "Mangifera indica",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Ochroma sp."
+      "scientific_name": "Ochroma sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Persea borbonia"
+      "scientific_name": "Persea borbonia",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Rhizophora mangle"
+      "scientific_name": "Rhizophora mangle",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Vitis sp."
+      "scientific_name": "Vitis sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Trema floridana"
+      "scientific_name": "Trema floridana",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Ocotea catesbiana"
+      "scientific_name": "Ocotea catesbiana",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Rheedia sp."
+      "scientific_name": "Rheedia sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "黄复生等 (2015) provides the explicit host list retained in the current synthesis. Beaver & Liu (2010) describes broad polyphagy on angiosperm trees and lianes and notes bamboo originating from Taiwan; this broad prose is retained as context and not expanded into inferred host taxa.",
+  "host_note": "Huang & Lu (2015) provides the explicit host list retained in the current synthesis. Beaver & Liu (2010) describes broad polyphagy on angiosperm trees and lianes and notes bamboo originating from Taiwan; this broad prose is retained as context and not expanded into inferred host taxa.",
   "taxonomy_summary": "The current accepted identity is Hypothenemus javanus (Eggers, 1908).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -196,7 +251,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],

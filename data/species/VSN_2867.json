@@ -15,30 +15,58 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；广东；广西；贵州；海南；湖南；江西；四川；西藏；云南；浙江；香港；台湾",
-    "narrative": "殷蕙芬等 (1984) records Xizang; 黄复生等 (2015) expands the baseline to Hunan, Jiangxi, Sichuan, Guizhou, Fujian, Hainan and Guangxi. Smith et al. (2020) confirms much of this range and adds Guangdong, Hong Kong, Yunnan, Zhejiang and Taiwan. Beaver & Liu (2010) independently accepts Taiwan occurrence. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Fujian; Guangdong; Guangxi; Guizhou; Hainan; Hunan; Jiangxi; Sichuan; Xizang; Yunnan; Zhejiang; Hong Kong; Taiwan",
+    "narrative": "Yin et al. (1984) records Xizang; Huang & Lu (2015) expands the baseline to Hunan, Jiangxi, Sichuan, Guizhou, Fujian, Hainan and Guangxi. Smith et al. (2020) confirms much of this range and adds Guangdong, Hong Kong, Yunnan, Zhejiang and Taiwan. Beaver & Liu (2010) independently accepts Taiwan occurrence. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "src_lau2025",
+      "src_beaverliu2010",
+      "src_smith2020",
+      "src_co2015",
+      "src_ef1984"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Quercus sp."
+      "scientific_name": "Quercus sp.",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Ficus carica"
+      "scientific_name": "Ficus carica",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Machilus sp."
+      "scientific_name": "Machilus sp.",
+      "reference_ids": [
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Rhus verniciflua"
+      "scientific_name": "Rhus verniciflua",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Camellia oleifera"
+      "scientific_name": "Camellia oleifera",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Phoebe sp."
+      "scientific_name": "Phoebe sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "Baseline host evidence is retained as a union of 殷蕙芬等 (1984) and 黄复生等 (2015): Quercus sp., Ficus carica, Machilus sp., Rhus verniciflua, Camellia oleifera and Phoebe sp. Smith et al. (2020) adds no host in the promoted record. Beaver & Liu (2010) notes broad polyphagy and Taiwan records spanning seven genera in four families under Xyleborus amorphus, but because those genera are not enumerated in the curated field, no new host taxa are promoted.",
+  "host_note": "Baseline host evidence is retained as a union of Yin et al. (1984) and Huang & Lu (2015): Quercus sp., Ficus carica, Machilus sp., Rhus verniciflua, Camellia oleifera and Phoebe sp. Smith et al. (2020) adds no host in the promoted record. Beaver & Liu (2010) notes broad polyphagy and Taiwan records spanning seven genera in four families under Xyleborus amorphus, but because those genera are not enumerated in the curated field, no new host taxa are promoted.",
   "taxonomy_summary": "The current accepted identity is Hadrodemius comans (Sampson, 1919).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -108,7 +136,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -116,7 +144,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

@@ -15,15 +15,25 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "重庆；广东；海南；云南；香港；台湾",
-    "narrative": "Smith et al. (2020) records Chongqing, Guangdong, Hainan, Yunnan, Hong Kong and Taiwan. Beaver & Liu (2010) independently accepts Taiwan occurrence, with records from Nantou and Taichung. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Chongqing; Guangdong; Hainan; Yunnan; Hong Kong; Taiwan",
+    "narrative": "Smith et al. (2020) records Chongqing, Guangdong, Hainan, Yunnan, Hong Kong and Taiwan. Beaver & Liu (2010) independently accepts Taiwan occurrence, with records from Nantou and Taichung. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "src_lau2025",
+      "src_beaverliu2010",
+      "src_smith2020",
+      "src_co2015",
+      "src_ef1984"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Broussonetia sp."
+      "scientific_name": "Broussonetia sp.",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
-  "host_note": "Broussonetia is retained at genus level from Smith et al. (2020). Beaver & Liu (2010) describes the species as strongly polyphagous but enumerates no host taxon in the curated field; no additional host is promoted. Yin et al. (1984) and Huang et al. (2015) historically reported Hevea brasiliensis and Cassia siamea under Xyleborus similis Ferrari; these source-level host reports have not been independently reviewed and are not included in the verified host list.",
+  "host_note": "Broussonetia sp. remains the reviewed genus-level host from Smith et al. (2020). Historical EF1984_141 and CO2015_168 report Hevea brasiliensis and Cassia siamea under Xyleborus similis Ferrari, 1867; these source-specific host claims have not been independently validated and must not be added to Current Host Summary.",
   "taxonomy_summary": "The current accepted identity is Euwallacea similis (Ferrari, 1867).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -186,7 +196,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -194,7 +204,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

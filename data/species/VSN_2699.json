@@ -15,57 +15,113 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "安徽；重庆；福建；甘肃；广东；贵州；海南；湖北；湖南；江苏；江西；四川；西藏；云南；香港；台湾",
-    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) provide baseline records from Hunan, Guangdong, Sichuan, Yunnan, Anhui, Fujian, Hainan, Xizang and Taiwan. Smith et al. (2020) confirms several of these and adds Chongqing, Gansu, Guizhou, Hong Kong, Hubei, Jiangsu and Jiangxi. Beaver & Liu (2010) independently accepts Taiwan occurrence. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Anhui; Chongqing; Fujian; Gansu; Guangdong; Guizhou; Hainan; Hubei; Hunan; Jiangsu; Jiangxi; Sichuan; Xizang; Yunnan; Hong Kong; Taiwan",
+    "narrative": "Yin et al. (1984) and Huang & Lu (2015) provide baseline records from Hunan, Guangdong, Sichuan, Yunnan, Anhui, Fujian, Hainan, Xizang and Taiwan. Smith et al. (2020) confirms several of these and adds Chongqing, Gansu, Guizhou, Hong Kong, Hubei, Jiangsu and Jiangxi. Beaver & Liu (2010) independently accepts Taiwan occurrence. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "src_lau2025",
+      "src_beaverliu2010",
+      "src_smith2020",
+      "src_co2015",
+      "src_ef1984"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pinus massoniana"
+      "scientific_name": "Pinus massoniana",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Populus sp."
+      "scientific_name": "Populus sp.",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Castanopsis indica"
+      "scientific_name": "Castanopsis indica",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Machilus sp."
+      "scientific_name": "Machilus sp.",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Pinus yunnanensis"
+      "scientific_name": "Pinus yunnanensis",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus taiwanensis"
+      "scientific_name": "Pinus taiwanensis",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Populus alba"
+      "scientific_name": "Populus alba",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Alnus sp."
+      "scientific_name": "Alnus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Alnus sibirica"
+      "scientific_name": "Alnus sibirica",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Sambucus chinensis"
+      "scientific_name": "Sambucus chinensis",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Prunus sp."
+      "scientific_name": "Prunus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Trachycarpus fortunei"
+      "scientific_name": "Trachycarpus fortunei",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Carpinus turczaninowii"
+      "scientific_name": "Carpinus turczaninowii",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cunninghamia lanceolata"
+      "scientific_name": "Cunninghamia lanceolata",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Brownea sp."
+      "scientific_name": "Brownea sp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
-  "host_note": "The baseline host set from 殷蕙芬等 (1984)/黄复生等 (2015) is retained. Smith et al. (2020) provides no host value in the promoted record. Beaver & Liu (2010) describes broad polyphagy and explicitly includes Brownea sp.; Brownea sp. is added at the reported genus resolution, while the non-enumerated broad host statement remains contextual.",
+  "host_note": "The baseline host set from Yin et al. (1984)/Huang & Lu (2015) is retained. Smith et al. (2020) provides no host value in the promoted record. Beaver & Liu (2010) describes broad polyphagy and explicitly includes Brownea sp.; Brownea sp. is added at the reported genus resolution, while the non-enumerated broad host statement remains contextual.",
   "taxonomy_summary": "The current accepted identity is Euwallacea interjectus (Blandford, 1894).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -124,7 +180,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -132,7 +188,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

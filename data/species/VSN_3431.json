@@ -15,30 +15,65 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "黑龙江；吉林；陕西；四川；云南",
-    "narrative": "The broader baseline distribution (Heilongjiang, Jilin, Shaanxi, Sichuan, Yunnan) is retained. Wang et al. (2021) examined Jilin and Sichuan material and therefore confirms part of, rather than replaces, the baseline range."
+    "summary": "Heilongjiang; Jilin; Shaanxi; Sichuan; Yunnan",
+    "narrative": "The broader baseline distribution (Heilongjiang, Jilin, Shaanxi, Sichuan, Yunnan) is retained. Wang et al. (2021) examined Jilin and Sichuan material and therefore confirms part of, rather than replaces, the baseline range.",
+    "reference_ids": [
+      "src_wangetal2021",
+      "src_co2015",
+      "src_ef1984"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Picea asperata"
+      "scientific_name": "Picea asperata",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Pinus koraiensis"
+      "scientific_name": "Pinus koraiensis",
+      "reference_ids": [
+        "src_wangetal2021",
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Pinus armandii"
+      "scientific_name": "Pinus armandii",
+      "reference_ids": [
+        "src_wangetal2021",
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Pinus densata"
+      "scientific_name": "Pinus densata",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Pinus tabulaeformis"
+      "scientific_name": "Pinus tabulaeformis",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Pinus yunnanensis"
+      "scientific_name": "Pinus yunnanensis",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Pinus khasya"
+      "scientific_name": "Pinus khasya",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     }
   ],
   "host_note": "Baseline host synthesis is retained; Wang et al. (2021) directly reports Pinus koraiensis and P. armandii, both already included in the synthesis.",
@@ -122,7 +157,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -130,7 +165,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

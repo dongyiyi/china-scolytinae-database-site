@@ -15,12 +15,21 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "海南；台湾；香港",
-    "narrative": "Sun et al. (2020) supports Hainan occurrence. Beaver & Liu (2010) independently adds the first Taiwan record, with specimens from Kaohsiung, Tainan (Don Shan) and Taitung (Li Jia). Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Hainan; Taiwan; Hong Kong",
+    "narrative": "Sun et al. (2020) supports Hainan occurrence. Beaver & Liu (2010) independently adds the first Taiwan record, with specimens from Kaohsiung, Tainan (Don Shan) and Taitung (Li Jia). Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "src_lau2025",
+      "src_beaverliu2010",
+      "src_sunetal2020_hypothenemushampei"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Coffea spp."
+      "scientific_name": "Coffea spp.",
+      "reference_ids": [
+        "src_beaverliu2010",
+        "src_sunetal2020_hypothenemushampei"
+      ]
     }
   ],
   "host_note": "Both integrated sources support coffee at genus level. Sun et al. (2020) documents coffee beans/berries without resolving the host to species; Beaver & Liu (2010) reports Coffea spp. Current Host Summary therefore remains Coffea spp.",

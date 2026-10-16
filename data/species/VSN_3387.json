@@ -15,18 +15,31 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "台湾（台中；南投）",
-    "narrative": "Lin & Beaver (2024) documents modern Taiwan material from Taichung City and Nantou County, including Ren’ai and Puli townships. Taiwan occurrence is confirmed; no mainland-China occurrence is established by this source. Beaver & Liu (2010) provides earlier accepted Taiwan occurrence evidence."
+    "summary": "Taiwan (Taichung; Nantou)",
+    "narrative": "Lin & Beaver (2024) documents modern Taiwan material from Taichung City and Nantou County, including Ren’ai and Puli townships. Taiwan occurrence is confirmed; no mainland-China occurrence is established by this source. Beaver & Liu (2010) provides earlier accepted Taiwan occurrence evidence.",
+    "reference_ids": [
+      "src_beaverliu2010",
+      "src_linbeaver2024_indocryphalustaiwan"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Machilus zuihoensis"
+      "scientific_name": "Machilus zuihoensis",
+      "reference_ids": [
+        "src_linbeaver2024_indocryphalustaiwan"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum osmophloeum"
+      "scientific_name": "Cinnamomum osmophloeum",
+      "reference_ids": [
+        "src_linbeaver2024_indocryphalustaiwan"
+      ]
     },
     {
-      "scientific_name": "Machilus thunbergii"
+      "scientific_name": "Machilus thunbergii",
+      "reference_ids": [
+        "src_linbeaver2024_indocryphalustaiwan"
+      ]
     }
   ],
   "host_note": "Direct Taiwan breeding records in Lin & Beaver (2024) support Machilus zuihoensis, Cinnamomum osmophloeum and Machilus thunbergii. The authors note a preference for Lauraceae and attacks on newly cut, dying or dead twigs/branches. Beaver & Liu (2010) gives only a broad statement that the species is polyphagous, with 10 species in 8 angiosperm families reported; that prose is retained at source level and does not expand the current host summary.",

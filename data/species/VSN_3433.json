@@ -15,15 +15,23 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "西藏",
-    "narrative": "Both the 2015 baseline and Wang et al. (2021) support Xizang occurrence; Wang et al. documents material from Gyirong."
+    "summary": "Xizang",
+    "narrative": "Both the 2015 baseline and Wang et al. (2021) support Xizang occurrence; Wang et al. documents material from Gyirong.",
+    "reference_ids": [
+      "src_wangetal2021",
+      "src_co2015"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pinus griffithii"
+      "scientific_name": "Pinus griffithii",
+      "reference_ids": [
+        "src_wangetal2021",
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "Pinus griffithii (乔松) is retained.",
+  "host_note": "Pinus griffithii (Himalayan pine) is retained.",
   "taxonomy_summary": "The current accepted identity is Ips stebbingi Strohmeyer, 1908.",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -82,7 +90,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],

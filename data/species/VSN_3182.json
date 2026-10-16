@@ -15,51 +15,95 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "四川；贵州；云南；台湾；香港",
-    "narrative": "黄复生等 (2015) supports occurrence in 四川, 贵州 and 云南. Beaver & Liu (2010) adds a first Taiwan record based on more than 50 specimens from Chiayi, Hsinchu, Kaohsiung, Kinmen, Nantou, Taipei, Taichung and Taitung. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Sichuan; Guizhou; Yunnan; Taiwan; Hong Kong",
+    "narrative": "Huang & Lu (2015) supports occurrence in Sichuan, Guizhou and Yunnan. Beaver & Liu (2010) adds a first Taiwan record based on more than 50 specimens from Chiayi, Hsinchu, Kaohsiung, Kinmen, Nantou, Taipei, Taichung and Taitung. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "src_lau2025",
+      "src_beaverliu2010",
+      "src_co2015"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Ailanthus altissima"
+      "scientific_name": "Ailanthus altissima",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Achras sapota"
+      "scientific_name": "Achras sapota",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Adenanthera pavonia"
+      "scientific_name": "Adenanthera pavonia",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Annona sp."
+      "scientific_name": "Annona sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cassia siamea"
+      "scientific_name": "Cassia siamea",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum camphora"
+      "scientific_name": "Cinnamomum camphora",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Ficus aurea"
+      "scientific_name": "Ficus aurea",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Mangifera indica"
+      "scientific_name": "Mangifera indica",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Persea borbonia"
+      "scientific_name": "Persea borbonia",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Phoebe sp."
+      "scientific_name": "Phoebe sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Quercus sp."
+      "scientific_name": "Quercus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Rhizophora mangle"
+      "scientific_name": "Rhizophora mangle",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Trema floridana"
+      "scientific_name": "Trema floridana",
+      "reference_ids": [
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "The exact host taxa currently promoted are retained from 黄复生等 (2015). Beaver & Liu (2010) describes use of twigs and small branches of many angiosperm trees and shrubs but does not enumerate additional host taxa in this Source Record; that broad prose is preserved as context rather than split into inferred taxa.",
+  "host_note": "The exact host taxa currently promoted are retained from Huang & Lu (2015). Beaver & Liu (2010) describes use of twigs and small branches of many angiosperm trees and shrubs but does not enumerate additional host taxa in this Source Record; that broad prose is preserved as context rather than split into inferred taxa.",
   "taxonomy_summary": "The current accepted identity is Hypothenemus birmanus (Eichhoff, 1878).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -261,7 +305,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],

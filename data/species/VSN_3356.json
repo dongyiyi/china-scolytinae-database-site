@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "台湾",
-    "narrative": "Beaver & Liu (2010) accepts Taiwan occurrence under the source name Hypothenemus taihokuensis."
+    "summary": "Taiwan",
+    "narrative": "Beaver & Liu (2010) accepts Taiwan occurrence under the source name Hypothenemus taihokuensis.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [],
   "host_note": "Host unknown in Beaver & Liu (2010); no host is promoted.",

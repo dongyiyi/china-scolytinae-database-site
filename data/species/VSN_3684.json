@@ -15,30 +15,55 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；广东；广西；贵州；湖南；江西；云南；浙江；香港；台湾",
-    "narrative": "黄复生等 (2015) records Hunan, Guizhou, Fujian and Guangxi under Xyleborus huangi. Smith et al. (2020) confirms Fujian, Guangxi and Hunan and adds Guangdong, Hong Kong, Jiangxi, Yunnan, Zhejiang and Taiwan under the current species concept. Beaver & Liu (2010) independently accepts Taiwan occurrence. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence. Smith et al. (2022) independently reports Fujian, Guangdong, Guangxi, Hong Kong, Hunan, Jiangxi, Yunnan, Zhejiang and Taiwan, supporting the existing current distribution without expanding it."
+    "summary": "Fujian; Guangdong; Guangxi; Guizhou; Hunan; Jiangxi; Yunnan; Zhejiang; Hong Kong; Taiwan",
+    "narrative": "Huang & Lu (2015) records Hunan, Guizhou, Fujian and Guangxi under Xyleborus huangi. Smith et al. (2020) confirms Fujian, Guangxi and Hunan and adds Guangdong, Hong Kong, Jiangxi, Yunnan, Zhejiang and Taiwan under the current species concept. Beaver & Liu (2010) independently accepts Taiwan occurrence. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence. Smith et al. (2022) independently reports Fujian, Guangdong, Guangxi, Hong Kong, Hunan, Jiangxi, Yunnan, Zhejiang and Taiwan, supporting the existing current distribution without expanding it.",
+    "reference_ids": [
+      "src_smith2022",
+      "src_lau2025",
+      "src_beaverliu2010",
+      "src_smith2020",
+      "src_co2015"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Litsea cubeba"
+      "scientific_name": "Litsea cubeba",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Dalbergia sp."
+      "scientific_name": "Dalbergia sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Rhododendron sp."
+      "scientific_name": "Rhododendron sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Ziziphus jujuba"
+      "scientific_name": "Ziziphus jujuba",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum camphora"
+      "scientific_name": "Cinnamomum camphora",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cyclobalanopsis glauca"
+      "scientific_name": "Cyclobalanopsis glauca",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
-  "host_note": "黄复生等 (2015) host set is retained and Smith et al. (2020) adds Cyclobalanopsis glauca. Beaver & Liu (2010) describes broad polyphagy on gymnosperms and angiosperms but enumerates no additional host taxon in the curated field; no host is added. Source-level host names remain pending separate host-taxonomy normalization.",
+  "host_note": "Huang & Lu (2015) host set is retained and Smith et al. (2020) adds Cyclobalanopsis glauca. Beaver & Liu (2010) describes broad polyphagy on gymnosperms and angiosperms but enumerates no additional host taxon in the curated field; no host is added. Source-level host names remain pending separate host-taxonomy normalization.",
   "taxonomy_summary": "The current accepted identity is Microperus kadoyamaensis (Murayama, 1934).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -130,7 +155,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],

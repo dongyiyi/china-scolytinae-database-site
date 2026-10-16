@@ -15,30 +15,62 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "黑龙江；吉林；新疆",
-    "narrative": "Baseline and Wang et al. (2021) agree on Heilongjiang, Jilin and Xinjiang at province level. Wang et al. provides multiple sampled localities but does not expand the province-level synthesis."
+    "summary": "Heilongjiang; Jilin; Xinjiang",
+    "narrative": "Baseline and Wang et al. (2021) agree on Heilongjiang, Jilin and Xinjiang at province level. Wang et al. provides multiple sampled localities but does not expand the province-level synthesis.",
+    "reference_ids": [
+      "src_wangetal2021",
+      "src_co2015",
+      "src_ef1984"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Picea koraiensis"
+      "scientific_name": "Picea koraiensis",
+      "reference_ids": [
+        "src_wangetal2021",
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Picea schrenkiana tianshanica"
+      "scientific_name": "Picea schrenkiana tianshanica",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Picea microsperma"
+      "scientific_name": "Picea microsperma",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Larix gmelinii"
+      "scientific_name": "Larix gmelinii",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Pinus koraiensis"
+      "scientific_name": "Pinus koraiensis",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Picea jezoensis"
+      "scientific_name": "Picea jezoensis",
+      "reference_ids": [
+        "src_wangetal2021"
+      ]
     },
     {
-      "scientific_name": "Picea obovata"
+      "scientific_name": "Picea obovata",
+      "reference_ids": [
+        "src_wangetal2021"
+      ]
     }
   ],
   "host_note": "Baseline hosts are retained; Wang et al. (2021) adds Picea jezoensis and Picea obovata and confirms Picea koraiensis.",
@@ -111,7 +143,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -119,7 +151,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

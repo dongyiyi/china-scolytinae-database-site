@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "广东",
-    "narrative": "Li et al. (2021) reports repeated detections of Ips grandicollis around Zhuhai, Guangdong since 2016; the 2019 survey found it at two sites. Morphology and COI confirmed identification, and the authors considered the population established and the report the first record in mainland Asia."
+    "summary": "Guangdong",
+    "narrative": "Li et al. (2021) reports repeated detections of Ips grandicollis around Zhuhai, Guangdong since 2016; the 2019 survey found it at two sites. Morphology and COI confirmed identification, and the authors considered the population established and the report the first record in mainland Asia.",
+    "reference_ids": [
+      "src_lietal2021_invasiveipszhuhai"
+    ]
   },
   "hosts": [],
   "host_note": "Three I. grandicollis individuals were dissected in the gut-content analysis, but the Results report successful plant amplification and sequencing only for I. calligraphus. Therefore no host is promoted for I. grandicollis from this source.",

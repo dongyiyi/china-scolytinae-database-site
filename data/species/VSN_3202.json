@@ -15,174 +15,341 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "四川；福建；云南；台湾；香港",
-    "narrative": "黄复生等 (2015) supports mainland occurrence in 四川, 福建 and 云南. Beaver & Liu (2010) adds the first Taiwan record, with material from Pingtung University and Taichung (National Chunghsing University). Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Sichuan; Fujian; Yunnan; Taiwan; Hong Kong",
+    "narrative": "Huang & Lu (2015) supports mainland occurrence in Sichuan, Fujian and Yunnan. Beaver & Liu (2010) adds the first Taiwan record, with material from Pingtung University and Taichung (National Chunghsing University). Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "src_lau2025",
+      "src_beaverliu2010",
+      "src_co2015"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Amygdalus persica"
+      "scientific_name": "Amygdalus persica",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Albizzia corniculata"
+      "scientific_name": "Albizzia corniculata",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Acacia sp."
+      "scientific_name": "Acacia sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Acacia farnesiana"
+      "scientific_name": "Acacia farnesiana",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Achras sapota"
+      "scientific_name": "Achras sapota",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Adenanthera pavonina"
+      "scientific_name": "Adenanthera pavonina",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Aloe vera"
+      "scientific_name": "Aloe vera",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Astragalus sp."
+      "scientific_name": "Astragalus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Betula sp."
+      "scientific_name": "Betula sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Bursera sp."
+      "scientific_name": "Bursera sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Bidens pilosa"
+      "scientific_name": "Bidens pilosa",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Bignonia sp."
+      "scientific_name": "Bignonia sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Bucida buceras"
+      "scientific_name": "Bucida buceras",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Castanopsis indica"
+      "scientific_name": "Castanopsis indica",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Campylotropis rockii"
+      "scientific_name": "Campylotropis rockii",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Carya spp."
+      "scientific_name": "Carya spp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cassia siamea"
+      "scientific_name": "Cassia siamea",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cassia nodosa"
+      "scientific_name": "Cassia nodosa",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum camphora"
+      "scientific_name": "Cinnamomum camphora",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Citrus sp."
+      "scientific_name": "Citrus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Clerodendrum japonicum"
+      "scientific_name": "Clerodendrum japonicum",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Crataegus sp."
+      "scientific_name": "Crataegus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Derris sp."
+      "scientific_name": "Derris sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Ficus spp."
+      "scientific_name": "Ficus spp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Glycine max"
+      "scientific_name": "Glycine max",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Grewia asiatica"
+      "scientific_name": "Grewia asiatica",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Hevea brasiliensis"
+      "scientific_name": "Hevea brasiliensis",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Juglans regia"
+      "scientific_name": "Juglans regia",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Quisqualis indica"
+      "scientific_name": "Quisqualis indica",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Morus alba"
+      "scientific_name": "Morus alba",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Juglans nigra"
+      "scientific_name": "Juglans nigra",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Morus rubra"
+      "scientific_name": "Morus rubra",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus taeda"
+      "scientific_name": "Pinus taeda",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Prunus persica"
+      "scientific_name": "Prunus persica",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Quercus spp."
+      "scientific_name": "Quercus spp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Rhizophora mangle"
+      "scientific_name": "Rhizophora mangle",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Sida rhombifolia"
+      "scientific_name": "Sida rhombifolia",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Smilax sp."
+      "scientific_name": "Smilax sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Theobroma cacao"
+      "scientific_name": "Theobroma cacao",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Wisteria sp."
+      "scientific_name": "Wisteria sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Yucca sp."
+      "scientific_name": "Yucca sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Abutilon mollissimum"
+      "scientific_name": "Abutilon mollissimum",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Bauhinia grandiceps"
+      "scientific_name": "Bauhinia grandiceps",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Bauhinia krugii"
+      "scientific_name": "Bauhinia krugii",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Boehmeria scabra"
+      "scientific_name": "Boehmeria scabra",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Dalbergia ecastophyllum"
+      "scientific_name": "Dalbergia ecastophyllum",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Dioclea megacarpa"
+      "scientific_name": "Dioclea megacarpa",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Diphysia robinioides"
+      "scientific_name": "Diphysia robinioides",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Inga spp."
+      "scientific_name": "Inga spp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Passiflora latifolia"
+      "scientific_name": "Passiflora latifolia",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Phalocarpus septentrionis"
+      "scientific_name": "Phalocarpus septentrionis",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Ricinus communis"
+      "scientific_name": "Ricinus communis",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Schleichera trijuga"
+      "scientific_name": "Schleichera trijuga",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Serjania racemosa"
+      "scientific_name": "Serjania racemosa",
+      "reference_ids": [
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "黄复生等 (2015) provides the explicit host list retained in the current synthesis. Beaver & Liu (2010) characterizes the species as polyphagous on angiosperm trees and shrubs but does not enumerate additional host taxa in this Source Record; that broad statement is retained as ecological context only.",
+  "host_note": "Huang & Lu (2015) provides the explicit host list retained in the current synthesis. Beaver & Liu (2010) characterizes the species as polyphagous on angiosperm trees and shrubs but does not enumerate additional host taxa in this Source Record; that broad statement is retained as ecological context only.",
   "taxonomy_summary": "The current accepted identity is Hypothenemus crudiae (Panzer, 1791).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -428,7 +595,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],

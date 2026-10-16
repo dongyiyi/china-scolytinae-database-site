@@ -15,15 +15,24 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "西藏；青海；甘肃；四川；云南",
-    "narrative": "Wang et al. (2021) reports Ips shangrila from Xizang, Qinghai, Gansu, Sichuan and Yunnan."
+    "summary": "Xizang; Qinghai; Gansu; Sichuan; Yunnan",
+    "narrative": "Wang et al. (2021) reports Ips shangrila from Xizang, Qinghai, Gansu, Sichuan and Yunnan.",
+    "reference_ids": [
+      "src_wangetal2021"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Picea likiangensis var. balfouriana"
+      "scientific_name": "Picea likiangensis var. balfouriana",
+      "reference_ids": [
+        "src_wangetal2021"
+      ]
     },
     {
-      "scientific_name": "Picea crassifolia"
+      "scientific_name": "Picea crassifolia",
+      "reference_ids": [
+        "src_wangetal2021"
+      ]
     }
   ],
   "host_note": "The source reports Picea likiangensis var. balfouriana and Picea crassifolia; regional population structure and branch-use observations are retained in the Source Record rather than promoted into the checklist summary.",

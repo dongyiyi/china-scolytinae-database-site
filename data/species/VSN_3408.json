@@ -15,15 +15,27 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "黑龙江；内蒙古",
-    "narrative": "Baseline records support Heilongjiang; Wang et al. (2021) adds Inner Mongolia from Chifeng/Baiyinaobao. The current synthesis retains both rather than replacing the historical distribution with the 2021 sampling subset."
+    "summary": "Heilongjiang; Inner Mongolia",
+    "narrative": "Baseline records support Heilongjiang; Wang et al. (2021) adds Inner Mongolia from Chifeng/Baiyinaobao. The current synthesis retains both rather than replacing the historical distribution with the 2021 sampling subset.",
+    "reference_ids": [
+      "src_wangetal2021",
+      "src_co2015",
+      "src_ef1984"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Picea koraiensis"
+      "scientific_name": "Picea koraiensis",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Picea mongolica"
+      "scientific_name": "Picea mongolica",
+      "reference_ids": [
+        "src_wangetal2021"
+      ]
     }
   ],
   "host_note": "Baseline host Picea koraiensis is retained; Wang et al. (2021) adds Picea mongolica.",
@@ -107,7 +119,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -115,7 +127,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

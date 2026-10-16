@@ -15,27 +15,56 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "安徽；重庆；福建；湖北；云南；台湾",
-    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) support Anhui, Fujian, Taiwan and Yunnan. Smith et al. (2020) confirms Anhui, Fujian, Yunnan and Taiwan and adds Chongqing and Hubei. Beaver & Liu (2010) independently accepts Taiwan and reports China only at broad CE/SE/SW resolution; no provinces are inferred from those regional abbreviations."
+    "summary": "Anhui; Chongqing; Fujian; Hubei; Yunnan; Taiwan",
+    "narrative": "Yin et al. (1984) and Huang & Lu (2015) support Anhui, Fujian, Taiwan and Yunnan. Smith et al. (2020) confirms Anhui, Fujian, Yunnan and Taiwan and adds Chongqing and Hubei. Beaver & Liu (2010) independently accepts Taiwan and reports China only at broad CE/SE/SW resolution; no provinces are inferred from those regional abbreviations.",
+    "reference_ids": [
+      "src_beaverliu2010",
+      "src_smith2020",
+      "src_co2015",
+      "src_ef1984"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Cunninghamia lanceolata"
+      "scientific_name": "Cunninghamia lanceolata",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Pinus massoniana"
+      "scientific_name": "Pinus massoniana",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Pinus taiwanensis"
+      "scientific_name": "Pinus taiwanensis",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Machilus sp."
+      "scientific_name": "Machilus sp.",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Dalbergia hupeana"
+      "scientific_name": "Dalbergia hupeana",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Metasequoia glyptostroboides"
+      "scientific_name": "Metasequoia glyptostroboides",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Baseline host set retained; Smith et al. (2020) adds Metasequoia glyptostroboides. Beaver & Liu (2010) characterizes the species as polyphagous on both gymnosperms and angiosperms, but this broad statement is retained as context and does not add host taxa. Baseline source spelling 'Cunninghania' remains preserved in Source Records; synthesis uses Cunninghamia lanceolata.",
@@ -86,7 +115,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -94,7 +123,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],

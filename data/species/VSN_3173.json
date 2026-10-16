@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "台湾（南投）",
-    "narrative": "Lin & Beaver (2021) provides the first Taiwan record of Hypothenemus aulmanni, based on two females collected in a funnel trap at Sun Moon Lake, Nantou."
+    "summary": "Taiwan (Nantou)",
+    "narrative": "Lin & Beaver (2021) provides the first Taiwan record of Hypothenemus aulmanni, based on two females collected in a funnel trap at Sun Moon Lake, Nantou.",
+    "reference_ids": [
+      "src_linbeaver2021_taiwanbarkbeetles"
+    ]
   },
   "hosts": [],
   "host_note": "The Taiwan specimens were trap-caught and have no direct host association. The paper lists Bauhinia variegata, Sesbania grandiflora, Gossypium sp. and Artocarpus heterophyllus from earlier literature; these are retained in the historical/source-evidence layer rather than promoted as Taiwan current hosts.",
