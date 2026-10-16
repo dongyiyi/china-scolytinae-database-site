@@ -15,18 +15,30 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "北京；福建；江西；云南；香港；台湾",
-    "narrative": "Smith et al. (2020) records Beijing, Fujian, Jiangxi, Yunnan, Hong Kong, and Taiwan. Beaver & Liu (2010), under Cyclorhipidion fukiensis, provides the first Taiwan record in that historical treatment; its broad China (SE) wording is not converted into province records. Lau (2025) provides additional Hong Kong checklist evidence. Lin & Smith (2022) independently records Taiwan, confirming the existing Taiwan assessment."
+    "summary": "Beijing; Fujian; Jiangxi; Yunnan; Hong Kong; Taiwan",
+    "narrative": "Smith et al. (2020) documented Beijing, Fujian, Jiangxi, Yunnan, Hong Kong and Taiwan. Beaver & Liu (2010) reported Taiwan under the historical name Cyclorhipidion fukiensis; its broad China (SE) wording does not establish a province. Lau (2025) separately listed Hong Kong, and Lin & Smith (2022) independently reported Taiwan.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_beaverliu2010",
+      "src_lau2025",
+      "src_linsmith2022"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Cyclobalanopsis glauca (= Quercus glauca)"
+      "scientific_name": "Cyclobalanopsis glauca (= Quercus glauca)",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Quercus incana"
+      "scientific_name": "Quercus incana",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
-  "host_note": "Cyclobalanopsis glauca (= Quercus glauca) and Quercus incana are retained from earlier reviewed sources. Lin & Smith (2022) adds no promoted host evidence for this taxon.",
+  "host_note": "Smith et al. (2020) reported Cyclobalanopsis glauca (= Quercus glauca); Beaver & Liu (2010) reported Quercus incana under the historical name Cyclorhipidion fukiensis. Lau (2025) and Lin & Smith (2022) provide geographic evidence only.",
   "taxonomy_summary": "The current accepted identity is Cyclorhipidion distinguendum (Eggers, 1930).",
   "taxonomy_reference_ids": [
     "johnson2026"

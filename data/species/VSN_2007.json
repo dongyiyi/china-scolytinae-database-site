@@ -15,21 +15,39 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；广西；四川；云南",
-    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) record Fujian and Sichuan under Xyleborus armipennis. Smith et al. (2020) confirms Fujian/Sichuan and adds Guangxi under Cyclorhipidion miyazakiense. Smith et al. (2022) reports Fujian, Guangxi, Sichuan and Yunnan, adding Yunnan with locality evidence from Honghe."
+    "summary": "Fujian; Guangxi; Sichuan; Yunnan",
+    "narrative": "Yin et al. (1984) and Huang & Lu (2015) recorded Fujian and Sichuan under the historical name Xyleborus armipennis. Smith et al. (2020) reported Fujian, Guangxi and Sichuan as Cyclorhipidion miyazakiense. Smith et al. (2022) added Yunnan with Honghe locality evidence.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_smith2020",
+      "src_smith2022"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Castanopsis spp."
+      "scientific_name": "Castanopsis spp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Lithocarpus sp."
+      "scientific_name": "Lithocarpus sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Quercus sp."
+      "scientific_name": "Quercus sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "Baseline Castanopsis spp., Lithocarpus sp. and Quercus sp. host evidence is retained. Smith et al. (2020) independently reports Castanopsis and Quercus at genus level. Smith et al. (2022) provides no host in the curated record, so no host update is made.",
+  "host_note": "Yin et al. (1984) and Huang & Lu (2015) reported Castanopsis spp., Lithocarpus sp. and Quercus sp. under Xyleborus armipennis. Smith et al. (2020) separately reported Castanopsis and Quercus at genus level; the Smith et al. (2022) record provides no host.",
   "taxonomy_summary": "The current accepted identity is Cyclorhipidion miyazakiense (Murayama, 1936).",
   "taxonomy_reference_ids": [
     "johnson2026"

@@ -15,18 +15,28 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南；中国东北部（省份未注明）；台湾",
-    "narrative": "Smith et al. (2020) includes Yunnan plus an unspecified province in northeastern China. Lin & Smith (2022) reports China and a new Taiwan record; Taiwan is added as Present. No northeastern province or additional mainland province is inferred."
+    "summary": "Yunnan; northeastern China (province unspecified); Taiwan",
+    "narrative": "Smith et al. (2020) reported Yunnan (Xishuangbanna) and an unspecified province in northeastern China. Lin & Smith (2022) listed China without provincial precision and reported a new Taiwan record. No northeastern province is inferred.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_linsmith2022"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Castanopsis cuspidata"
+      "scientific_name": "Castanopsis cuspidata",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Quercus myrsinaefolia"
+      "scientific_name": "Quercus myrsinaefolia",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     }
   ],
-  "host_note": "No confirmed host was previously promoted. Lin & Smith (2022) adds Castanopsis cuspidata and Quercus myrsinaefolia as species-level host records.",
+  "host_note": "Lin & Smith (2022) reported the species-level hosts Castanopsis cuspidata and Quercus myrsinaefolia. Smith et al. (2020) mentioned Castanopsis and Quercus at genus level, not these specific host identities; no species-level attribution is transferred.",
   "taxonomy_summary": "The current accepted identity is Cyclorhipidion japonicum (Nobuchi, 1981).",
   "taxonomy_reference_ids": [
     "johnson2026"

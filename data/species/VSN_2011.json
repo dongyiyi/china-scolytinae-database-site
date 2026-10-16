@@ -15,11 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南",
-    "narrative": "Smith et al. (2022) records Cyclorhipidion nemesis from Yunnan."
+    "summary": "Yunnan",
+    "narrative": "Smith et al. (2022) reported Yunnan occurrence; the linked Source Record gives no finer locality.",
+    "reference_ids": [
+      "src_smith2022"
+    ]
   },
   "hosts": [],
-  "host_note": "No confirmed host is reported in the integrated Smith et al. (2022) record; no host is promoted.",
+  "host_note": "No confirmed host is supplied by the linked Smith et al. (2022) record; this does not establish host absence.",
   "taxonomy_summary": "The current accepted identity is Cyclorhipidion nemesis Smith & Cognato, 2022.",
   "taxonomy_reference_ids": [
     "johnson2026"

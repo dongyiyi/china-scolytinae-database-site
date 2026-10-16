@@ -15,11 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "江西",
-    "narrative": "Smith et al. (2020) describes Cyclorhipidion denticauda from Jiangxi."
+    "summary": "Jiangxi",
+    "narrative": "Smith et al. (2020) described Cyclorhipidion denticauda from Jiangxi. No additional provincial locality is inferred.",
+    "reference_ids": [
+      "src_smith2020"
+    ]
   },
   "hosts": [],
-  "host_note": "No confirmed host is promoted from the reviewed record.",
+  "host_note": "The reviewed Smith et al. (2020) record lists the host as unknown. This is not evidence that the beetle has no host.",
   "taxonomy_summary": "The current accepted identity is Cyclorhipidion denticauda Smith, Beaver & Cognato, 2020.",
   "taxonomy_reference_ids": [
     "johnson2026"
