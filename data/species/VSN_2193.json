@@ -15,8 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南",
-    "narrative": "Smith et al. (2020) records Debus amphicranoides from Yunnan, including Xishuangbanna. Smith et al. (2022) independently records Yunnan. This additional source supports the current reviewed distribution without changing it."
+    "summary": "Yunnan",
+    "narrative": "Smith et al. (2020) records Yunnan, including Xishuangbanna. Smith et al. (2022) separately reports Yunnan without a more precise locality; the reviewed province-level distribution is unchanged.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_smith2022"
+    ]
   },
   "hosts": [],
   "host_note": "No confirmed host is promoted from either integrated Smith et al. record.",

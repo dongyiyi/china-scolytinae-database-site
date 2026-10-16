@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "This China occurrence has not yet undergone checklist review. No reviewed public distribution synthesis is presented."
+    "narrative": "Alonso-Zarazaga et al. (2023) includes Yunnan for Diamerus ater in the second-edition Palaearctic catalogue. This is source-level catalogue evidence only: the current Mainland China occurrence remains Candidate and the Checklist Review Status remains In review. No reviewed public distribution synthesis is promoted.",
+    "reference_ids": [
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
+    ]
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",

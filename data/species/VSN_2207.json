@@ -15,33 +15,67 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；广西；贵州；湖北；湖南；陕西；山西；四川；西藏；云南；台湾",
-    "narrative": "殷蕙芬等 (1984) provides historical records from Fujian, Shaanxi, Sichuan and Xizang under Xyleborus emarginatus. Smith et al. (2020) directly treats Debus emarginatus and records Fujian, Guangxi, Guizhou, Hubei, Hunan, Shaanxi, Shanxi, Sichuan, Xizang, Yunnan and Taiwan. Beaver & Liu (2010) independently supports Taiwan and reports only coarse China (WP) mainland wording, which is not converted to provinces."
+    "summary": "Fujian; Guangxi; Guizhou; Hubei; Hunan; Shaanxi; Shanxi; Sichuan; Xizang; Yunnan; Taiwan",
+    "narrative": "Yin et al. (1984), using the historical name Xyleborus emarginatus, records Fujian (Chong'an and Jianyang), Shaanxi (Liping), Sichuan (Ebian and Leibo), and Xizang (Zayu and Motuo). Smith et al. (2020) treats Debus emarginatus and lists Fujian, Guangxi (including Miaoershan), Guizhou, Hubei, Hunan, Shaanxi, Shanxi, Sichuan, Xizang, Yunnan and Taiwan. Beaver & Liu (2010) independently records Taiwan and uses only broad China (WP) wording for the mainland, which is not interpreted as provinces. Huang & Lu (2015) published the name Coptoborus emarginatus with Eichhoff authorship, now crosswalked in Notion to this Debus species rather than VSN_1355; its additional Guangdong and Hainan reports remain unreviewed source-level evidence and are NOT included in the reviewed distribution summary.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_smith2020",
+      "src_beaverliu2010",
+      "src_co2015"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Abies fabri"
+      "scientific_name": "Abies fabri",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus tabulaeformis"
+      "scientific_name": "Pinus tabulaeformis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus yunnanensis"
+      "scientific_name": "Pinus yunnanensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Populus sp."
+      "scientific_name": "Populus sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Castanopsis sp."
+      "scientific_name": "Castanopsis sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Quercus sp."
+      "scientific_name": "Quercus sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Ficus spp."
+      "scientific_name": "Ficus spp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "The 殷蕙芬等 (1984) host set remains the promoted host evidence. Smith et al. (2020) adds no host in the promoted record. Beaver & Liu (2010) characterizes the species as polyphagous, but this broad wording is retained as context and does not add host taxa.",
+  "host_note": "Yin et al. (1984) reports the seven listed host taxa: Abies fabri, Pinus tabulaeformis, Pinus yunnanensis, Populus sp., Castanopsis sp., Quercus sp. and Ficus spp. Huang & Lu (2015) repeats these as shared with the 1984 fauna; this is not treated as a second independent confirmation. Its additional Populus alba and Ficus microcarpa records are retained at source level only, without promotion as reviewed hosts. Smith et al. (2020) and Beaver & Liu (2010) describe general polyphagy but do not provide additional promoted named hosts.",
   "taxonomy_summary": "The current accepted identity is Debus emarginatus (Eichhoff, 1878).",
   "taxonomy_reference_ids": [
     "johnson2026"
@@ -166,7 +200,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],
@@ -246,6 +280,15 @@
         "nomenclatural source"
       ],
       "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
+    },
+    {
+      "id": "src_co2015",
+      "label": "Huang & Lu, 2015",
+      "role": [
+        "published evidence",
+        "historical occurrence and host context"
+      ],
+      "citation": "黄复生, 陆军 主编. 2015. 中国小蠹科分类纲要. 上海: 同济大学出版社. ISBN 978-7-5608-5769-5."
     }
   ],
   "recommended_chinese_name": "凹缘凹鞘小蠹",

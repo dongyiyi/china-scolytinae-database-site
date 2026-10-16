@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "江西；云南",
-    "narrative": "Smith et al. (2020) records Jiangxi and Yunnan."
+    "summary": "Jiangxi; Yunnan",
+    "narrative": "Smith et al. (2020) records Jiangxi (Longnan) and Yunnan (Xishuangbanna), treating the accepted combination Debus quadrispinus. The general term polyphagous has not been promoted to a named host.",
+    "reference_ids": [
+      "src_smith2020"
+    ]
   },
   "hosts": [],
   "host_note": "No confirmed host is promoted from the reviewed record.",
