@@ -15,21 +15,39 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；广东；广西；贵州；湖南；四川；浙江；香港；台湾",
-    "narrative": "Smith et al. (2020) supports Guangdong, Hong Kong and Taiwan. Lin et al. (2024) adds Fujian, Guangxi, Guizhou, Hunan, Sichuan and Zhejiang. Smith et al. (2022) independently supports Guangdong, Guizhou, Hong Kong and Taiwan and provides locality evidence from Guizhou, Guiyang; it adds no new region to the current synthesis. Lau (2025) provides additional secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Fujian; Guangdong; Guangxi; Guizhou; Hunan; Sichuan; Zhejiang; Hong Kong; Taiwan",
+    "narrative": "Smith et al. (2020) supports Guangdong, Hong Kong and Taiwan. Lin et al. (2024) adds Fujian, Guangxi, Guizhou, Hunan, Sichuan and Zhejiang. Smith et al. (2022) independently supports Guangdong, Guizhou, Hong Kong and Taiwan and provides locality evidence from Guizhou, Guiyang; it adds no new region to the current synthesis. Lau (2025) provides additional secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_linetal2024_xylosandruschina",
+      "src_lau2025",
+      "src_smith2022"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Styrax"
+      "scientific_name": "Styrax",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Camellia"
+      "scientific_name": "Camellia",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Machilus thunbergii"
+      "scientific_name": "Machilus thunbergii",
+      "reference_ids": [
+        "src_linetal2024_xylosandruschina"
+      ]
     },
     {
-      "scientific_name": "Camphora officinarum"
+      "scientific_name": "Camphora officinarum",
+      "reference_ids": [
+        "src_linetal2024_xylosandruschina"
+      ]
     }
   ],
   "host_note": "The existing hosts Styrax; Camellia; Machilus thunbergii; Camphora officinarum are retained. Smith et al. (2022) reports no host in the integrated record and therefore adds no host taxon.",

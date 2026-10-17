@@ -15,15 +15,25 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南",
-    "narrative": "Smith et al. (2020) records Yunnan, including Xishuangbanna. Smith et al. (2022) independently supports Yunnan occurrence but adds no new province or locality detail."
+    "summary": "Yunnan",
+    "narrative": "Smith et al. (2020) records Yunnan, including Xishuangbanna. Smith et al. (2022) independently supports Yunnan occurrence but adds no new province or locality detail.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_smith2022"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Mangifera indica"
+      "scientific_name": "Mangifera indica",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Agathis"
+      "scientific_name": "Agathis",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "The existing source-supported hosts Mangifera indica and Agathis are retained at their published taxonomic resolution. Smith et al. (2022) reports no host and adds no host taxon.",

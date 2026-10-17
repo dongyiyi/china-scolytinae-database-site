@@ -15,8 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南；香港",
-    "narrative": "Smith et al. (2020) describes and records the species from Hong Kong, including Tai Po Kau. Lau (2025) provides additional secondary checklist evidence for Hong Kong. Smith et al. (2022) independently supports Hong Kong and adds the first reviewed Mainland China occurrence from Yunnan, with locality evidence from Wenshan."
+    "summary": "Yunnan; Hong Kong",
+    "narrative": "Smith et al. (2020) describes and records the species from Hong Kong, including Tai Po Kau. Lau (2025) provides additional secondary checklist evidence for Hong Kong. Smith et al. (2022) independently supports Hong Kong and adds the first reviewed Mainland China occurrence from Yunnan, with locality evidence from Wenshan.",
+    "reference_ids": [
+      "orig_4cb5c2c867dd",
+      "src_lau2025",
+      "src_smith2022"
+    ]
   },
   "hosts": [],
   "host_note": "No confirmed host is currently promoted. Smith et al. (2022) reports no host in the integrated record; none is inferred.",

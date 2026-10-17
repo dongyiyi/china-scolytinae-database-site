@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "台湾",
-    "narrative": "Beaver & Liu (2010) treats Xylechinus arisanus as Taiwan-only and notes it is known from the holotype and one additional specimen."
+    "summary": "Taiwan",
+    "narrative": "Beaver & Liu (2010) treats Xylechinus arisanus as Taiwan-only and notes it is known from the holotype and one additional specimen.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [],
   "host_note": "Host unknown in Beaver & Liu (2010); no host is inferred.",

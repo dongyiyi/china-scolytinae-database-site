@@ -15,12 +15,19 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；贵州；台湾",
-    "narrative": "Smith et al. (2020) records Fujian, Guizhou and Taiwan. Beaver & Liu (2010) provides an earlier first-Taiwan record from Nantou, Sun Moon Lake, collected on http://11.vi.2005 and http://25.vi.2005."
+    "summary": "Fujian; Guizhou; Taiwan",
+    "narrative": "Smith et al. (2020) records Fujian, Guizhou and Taiwan. Beaver & Liu (2010) provides an earlier first-Taiwan record from Nantou, Sun Moon Lake, collected on 11.vi.2005 and 25.vi.2005.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Magnolia grandiflora"
+      "scientific_name": "Magnolia grandiflora",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "The Smith et al. (2020) source directly reports Magnolia grandiflora; the species-level host is promoted without extrapolation. Beaver & Liu (2010) reports the host as unknown, so it does not alter the current host summary.",

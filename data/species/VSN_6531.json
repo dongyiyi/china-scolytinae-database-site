@@ -15,15 +15,24 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "广东",
-    "narrative": "Lin et al. (2024) describes the species from Guangdong."
+    "summary": "Guangdong",
+    "narrative": "Lin et al. (2024) describes the species from Guangdong.",
+    "reference_ids": [
+      "orig_af416a48a019"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Cinnamomum sp."
+      "scientific_name": "Cinnamomum sp.",
+      "reference_ids": [
+        "orig_af416a48a019"
+      ]
     },
     {
-      "scientific_name": "Lauraceae sp."
+      "scientific_name": "Lauraceae sp.",
+      "reference_ids": [
+        "orig_af416a48a019"
+      ]
     }
   ],
   "host_note": "Type-series evidence reports Cinnamomum sp. and an unidentified Lauraceae host; taxonomic resolution is retained exactly.",

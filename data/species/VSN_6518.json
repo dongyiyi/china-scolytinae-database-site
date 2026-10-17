@@ -15,18 +15,31 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；贵州；湖南；江西；上海；云南",
-    "narrative": "Lin et al. (2024) adds Hunan to the prior reviewed range."
+    "summary": "Fujian; Guizhou; Hunan; Jiangxi; Shanghai; Yunnan",
+    "narrative": "Lin et al. (2024) adds Hunan to the prior reviewed range.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_linetal2024_xylosandruschina"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Magnolia"
+      "scientific_name": "Magnolia",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Camptotheca"
+      "scientific_name": "Camptotheca",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Choerospondias axillaris"
+      "scientific_name": "Choerospondias axillaris",
+      "reference_ids": [
+        "src_linetal2024_xylosandruschina"
+      ]
     }
   ],
   "host_note": "Lin et al. (2024) directly reports Choerospondias axillaris; prior genus-level hosts are retained.",

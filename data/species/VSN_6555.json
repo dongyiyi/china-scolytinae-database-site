@@ -15,15 +15,24 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "西藏；云南",
-    "narrative": "Accepted for mainland China from the original type series: Xizang (holotype and two paratypes) and Yunnan (one paratype)."
+    "summary": "Xizang; Yunnan",
+    "narrative": "Accepted for mainland China from the original type series: Xizang (holotype and two paratypes) and Yunnan (one paratype).",
+    "reference_ids": [
+      "orig_a1c105b2651e"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Quercus glauca"
+      "scientific_name": "Quercus glauca",
+      "reference_ids": [
+        "orig_a1c105b2651e"
+      ]
     },
     {
-      "scientific_name": "Senna siamea"
+      "scientific_name": "Senna siamea",
+      "reference_ids": [
+        "orig_a1c105b2651e"
+      ]
     }
   ],
   "host_note": "Direct specimen-linked host records: Quercus glauca for the Xizang series; Senna siamea for the Yunnan paratype.",

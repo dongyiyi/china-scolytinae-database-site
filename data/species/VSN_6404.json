@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南",
-    "narrative": "Smith et al. (2020) describes/records the species from Yunnan, including Xishuangbanna."
+    "summary": "Yunnan",
+    "narrative": "Smith et al. (2020) describes/records the species from Yunnan, including Xishuangbanna.",
+    "reference_ids": [
+      "orig_4cb5c2c867dd"
+    ]
   },
   "hosts": [],
   "host_note": "Although the submission was tagged with host evidence, no host value was supplied; no host is inferred.",

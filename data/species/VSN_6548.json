@@ -15,8 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "贵州；云南",
-    "narrative": "Smith et al. (2020) records Yunnan. Smith et al. (2022) independently supports Yunnan and adds Guizhou, with locality evidence from Guizhou, Guiyang."
+    "summary": "Guizhou; Yunnan",
+    "narrative": "Smith et al. (2020) records Yunnan. Smith et al. (2022) independently supports Yunnan and adds Guizhou, with locality evidence from Guizhou, Guiyang.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_smith2022"
+    ]
   },
   "hosts": [],
   "host_note": "No host is reported in either integrated Smith record; none is inferred.",

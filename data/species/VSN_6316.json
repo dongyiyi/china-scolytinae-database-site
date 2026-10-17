@@ -15,30 +15,57 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "广西；海南；山西；云南；香港；台湾",
-    "narrative": "殷蕙芬等 (1984) records Guangxi and Yunnan. 黄复生等 (2015) retains those records. Smith et al. (2020) confirms Guangxi and Yunnan and adds Shanxi, Hong Kong and Taiwan. Lau (2025) provides additional secondary checklist evidence for Hong Kong. Smith et al. (2022) confirms Guangxi, Hong Kong, Shanxi, Yunnan and Taiwan and adds Hainan, with locality evidence from Hainan, Qiongzhong."
+    "summary": "Guangxi; Hainan; Shanxi; Yunnan; Hong Kong; Taiwan",
+    "narrative": "Yin et al. (1984) records Guangxi and Yunnan. Huang & Lu (2015) retains those records. Smith et al. (2020) confirms Guangxi and Yunnan and adds Shanxi, Hong Kong and Taiwan. Lau (2025) provides additional secondary checklist evidence for Hong Kong. Smith et al. (2022) confirms Guangxi, Hong Kong, Shanxi, Yunnan and Taiwan and adds Hainan, with locality evidence from Hainan, Qiongzhong.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_smith2020",
+      "src_beaverliu2010",
+      "src_lau2025",
+      "src_smith2022"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Cassia siamea"
+      "scientific_name": "Cassia siamea",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Dryobalanops sp."
+      "scientific_name": "Dryobalanops sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Quercus sp."
+      "scientific_name": "Quercus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Castanopsis indica"
+      "scientific_name": "Castanopsis indica",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Mallotus japonicus"
+      "scientific_name": "Mallotus japonicus",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Acacia mangium"
+      "scientific_name": "Acacia mangium",
+      "reference_ids": [
+        "src_smith2022"
+      ]
     }
   ],
-  "host_note": "Current host synthesis retains 殷蕙芬等 (1984)/黄复生等 (2015) hosts: Cassia siamea; Dryobalanops sp.; Quercus sp.; Castanopsis indica; Mallotus japonicus. Smith et al. (2022) adds Acacia mangium at species level.",
+  "host_note": "Current host synthesis retains Yin et al. (1984)/Huang & Lu (2015) hosts: Cassia siamea; Dryobalanops sp.; Quercus sp.; Castanopsis indica; Mallotus japonicus. Smith et al. (2022) adds Acacia mangium at species level.",
   "taxonomy_summary": "The current accepted identity is Xyleborus perforans (Wollaston, 1857).",
   "taxonomy_reference_ids": [
     "johnson2026"

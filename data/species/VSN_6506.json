@@ -15,12 +15,18 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南",
-    "narrative": "Smith et al. (2020) records Yunnan, including Kunming and Xishuangbanna."
+    "summary": "Yunnan",
+    "narrative": "Smith et al. (2020) records Yunnan, including Kunming and Xishuangbanna.",
+    "reference_ids": [
+      "src_smith2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Symplocos"
+      "scientific_name": "Symplocos",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Direct source evidence is retained at genus level as Symplocos (Symplocaceae); no species-level host is inferred.",

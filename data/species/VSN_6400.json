@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "台湾",
-    "narrative": "Beaver & Liu (2010) accepts Taiwan occurrence for Xyleborus volvulus. The source-level taxonomic caveat concerning its distinction from X. perforans is retained separately and does not erase the accepted Taiwan record."
+    "summary": "Taiwan",
+    "narrative": "Beaver & Liu (2010) accepts Taiwan occurrence for Xyleborus volvulus. The source-level taxonomic caveat concerning its distinction from X. perforans is retained separately and does not erase the accepted Taiwan record.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [],
   "host_note": "The source characterizes Xyleborus volvulus as strongly polyphagous but enumerates no host taxon in the curated record; no host is promoted.",

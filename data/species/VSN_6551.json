@@ -15,12 +15,18 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "山东；上海；浙江",
-    "narrative": "Lin et al. (2024) provides the first confirmed Chinese records from Shandong, Shanghai and Zhejiang. Liaoning material remains X. aff. trunculus and is not promoted."
+    "summary": "Shandong; Shanghai; Zhejiang",
+    "narrative": "Lin et al. (2024) provides the first confirmed Chinese records from Shandong, Shanghai and Zhejiang. Liaoning material remains X. aff. trunculus and is not promoted.",
+    "reference_ids": [
+      "src_linetal2024_xylosandruschina"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Castanea mollissima"
+      "scientific_name": "Castanea mollissima",
+      "reference_ids": [
+        "src_linetal2024_xylosandruschina"
+      ]
     }
   ],
   "host_note": "Castanea mollissima is supported by confirmed material. Ailanthus sp. belongs only to unresolved Liaoning X. aff. trunculus.",

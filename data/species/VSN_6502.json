@@ -15,42 +15,94 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "重庆；福建；广东；广西；贵州；湖南；湖北；江西；上海；四川；浙江；台湾；香港",
-    "narrative": "Lin et al. (2024) adds Zhejiang and reports the reviewed mainland range through explicit specimen evidence. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Chongqing; Fujian; Guangdong; Guangxi; Guizhou; Hunan; Hubei; Jiangxi; Shanghai; Sichuan; Zhejiang; Taiwan; Hong Kong",
+    "narrative": "Lin et al. (2024) adds Zhejiang and reports the reviewed mainland range through explicit specimen evidence. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_smith2020",
+      "src_linetal2024_xylosandruschina",
+      "src_beaverliu2010",
+      "src_lau2025"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Cinnamomum sp."
+      "scientific_name": "Cinnamomum sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015",
+        "src_smith2020",
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum mairei"
+      "scientific_name": "Cinnamomum mairei",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Machilus sp."
+      "scientific_name": "Machilus sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015",
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Pelargonium hortorum"
+      "scientific_name": "Pelargonium hortorum",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Acer sp."
+      "scientific_name": "Acer sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015",
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Ziziphus jujuba"
+      "scientific_name": "Ziziphus jujuba",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Schima superba"
+      "scientific_name": "Schima superba",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Phoebe sp."
+      "scientific_name": "Phoebe sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cunninghamia lanceolata"
+      "scientific_name": "Cunninghamia lanceolata",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Diospyros"
+      "scientific_name": "Diospyros",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Styrax"
+      "scientific_name": "Styrax",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
   "host_note": "Beaver & Liu (2010) reports Diospyros, Cinnamomum and Styrax in Taiwan. Cinnamomum is already represented in the current synthesis; Diospyros and Styrax should be added at genus level, matching source resolution.",

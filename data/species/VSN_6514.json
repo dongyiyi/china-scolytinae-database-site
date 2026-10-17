@@ -15,93 +15,195 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "安徽；重庆；福建；广东；广西；贵州；海南；河北；香港；湖北；湖南；江苏；江西；陕西；山东；上海；四川；西藏；云南；浙江；台湾",
-    "narrative": "Baseline sources record Fujian, Sichuan, Hunan, Yunnan, Xizang, Taiwan and Hainan. Smith et al. (2020) expands the province summary to Anhui, Guangdong, Guangxi, Guizhou, Hebei, Hong Kong, Hubei, Jiangsu, Jiangxi, Shaanxi, Shandong, Shanghai and Zhejiang; its locality detail additionally records Chongqing, Peng Shui, which is included in the synthesis despite omission from the source province summary. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Anhui; Chongqing; Fujian; Guangdong; Guangxi; Guizhou; Hainan; Hebei; Hong Kong; Hubei; Hunan; Jiangsu; Jiangxi; Shaanxi; Shandong; Shanghai; Sichuan; Xizang; Yunnan; Zhejiang; Taiwan",
+    "narrative": "Baseline sources record Fujian, Sichuan, Hunan, Yunnan, Xizang, Taiwan and Hainan. Smith et al. (2020) expands the province summary to Anhui, Guangdong, Guangxi, Guizhou, Hebei, Hong Kong, Hubei, Jiangsu, Jiangxi, Shaanxi, Shandong, Shanghai and Zhejiang; its locality detail additionally records Chongqing, Peng Shui, which is included in the synthesis despite omission from the source province summary. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_smith2020",
+      "src_beaverliu2010",
+      "src_lau2025"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Populus sp."
+      "scientific_name": "Populus sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Alnus spp."
+      "scientific_name": "Alnus spp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Castanopsis spp."
+      "scientific_name": "Castanopsis spp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum sp."
+      "scientific_name": "Cinnamomum sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015",
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Machilus sp."
+      "scientific_name": "Machilus sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Malus pumila"
+      "scientific_name": "Malus pumila",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Prunus persica"
+      "scientific_name": "Prunus persica",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Sambucus chinensis"
+      "scientific_name": "Sambucus chinensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Albizia julibrissin"
+      "scientific_name": "Albizia julibrissin",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Hevea brasiliensis"
+      "scientific_name": "Hevea brasiliensis",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Castanea mollissima"
+      "scientific_name": "Castanea mollissima",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Castanopsis sp."
+      "scientific_name": "Castanopsis sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum camphora"
+      "scientific_name": "Cinnamomum camphora",
+      "reference_ids": [
+        "src_co2015",
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Dipterocarpus tubinatus"
+      "scientific_name": "Dipterocarpus tubinatus",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Ficus sp."
+      "scientific_name": "Ficus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Hopea chinensis"
+      "scientific_name": "Hopea chinensis",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Lithocarpus sp."
+      "scientific_name": "Lithocarpus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Malus baccata"
+      "scientific_name": "Malus baccata",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Phoebe sp."
+      "scientific_name": "Phoebe sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus sp."
+      "scientific_name": "Pinus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Prunus salicina"
+      "scientific_name": "Prunus salicina",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Quercus sp."
+      "scientific_name": "Quercus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Shorea assamica"
+      "scientific_name": "Shorea assamica",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Theobroma cacao"
+      "scientific_name": "Theobroma cacao",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Vatica mangachapoi"
+      "scientific_name": "Vatica mangachapoi",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Vitex negundo"
+      "scientific_name": "Vitex negundo",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Grevillea robusta"
+      "scientific_name": "Grevillea robusta",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Choerospondias axillaris"
+      "scientific_name": "Choerospondias axillaris",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Baseline sources provide a broad host list. Smith et al. (2020) adds Choerospondias axillaris and a source-level spelling issue for Castanea. Beaver & Liu (2010) independently records Cinnamomum camphora in Taiwan; this host is already present in the current synthesis, so it is retained as corroborating evidence rather than duplicated.",

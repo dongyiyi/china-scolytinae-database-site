@@ -15,48 +15,98 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；广东；广西；贵州；海南；河南；香港；湖北；湖南；江苏；江西；四川；云南；浙江；台湾",
-    "narrative": "Baseline sources and Smith et al. (2020) support the earlier reviewed range. Lin et al. (2024) adds Henan. Beaver & Liu (2010) independently supports Taiwan and Lau (2025) independently supports Hong Kong. Smith et al. (2022) reports Fujian, Guangdong, Guangxi, Guizhou, Hainan, Hong Kong, Hubei, Hunan, Jiangsu, Jiangxi, Sichuan, Yunnan, Zhejiang and Taiwan; these are all already contained in the current synthesis, so no region is added."
+    "summary": "Fujian; Guangdong; Guangxi; Guizhou; Hainan; Henan; Hong Kong; Hubei; Hunan; Jiangsu; Jiangxi; Sichuan; Yunnan; Zhejiang; Taiwan",
+    "narrative": "Baseline sources and Smith et al. (2020) support the earlier reviewed range. Lin et al. (2024) adds Henan. Beaver & Liu (2010) independently supports Taiwan and Lau (2025) independently supports Hong Kong. Smith et al. (2022) reports Fujian, Guangdong, Guangxi, Guizhou, Hainan, Hong Kong, Hubei, Hunan, Jiangsu, Jiangxi, Sichuan, Yunnan, Zhejiang and Taiwan; these are all already contained in the current synthesis, so no region is added.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_smith2020",
+      "src_linetal2024_xylosandruschina",
+      "src_beaverliu2010",
+      "src_lau2025",
+      "src_smith2022"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Gossypium spp."
+      "scientific_name": "Gossypium spp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Coffea arabica"
+      "scientific_name": "Coffea arabica",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Acer sp."
+      "scientific_name": "Acer sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Camellia sinensis"
+      "scientific_name": "Camellia sinensis",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum camphora"
+      "scientific_name": "Cinnamomum camphora",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Persea americana"
+      "scientific_name": "Persea americana",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Quercus sp."
+      "scientific_name": "Quercus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Rhizophora apiculata"
+      "scientific_name": "Rhizophora apiculata",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Bombax ceiba"
+      "scientific_name": "Bombax ceiba",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus massoniana"
+      "scientific_name": "Pinus massoniana",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Castanea henryi"
+      "scientific_name": "Castanea henryi",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Castanea mollissima"
+      "scientific_name": "Castanea mollissima",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Yulania denudata"
+      "scientific_name": "Yulania denudata",
+      "reference_ids": [
+        "src_linetal2024_xylosandruschina"
+      ]
     }
   ],
   "host_note": "The current host synthesis, including Yulania denudata added by Lin et al. (2024), is retained. Smith et al. (2022) reports no host in the integrated record and adds no host taxon.",

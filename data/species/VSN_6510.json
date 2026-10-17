@@ -15,30 +15,64 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；广西；西藏；云南；台湾",
-    "narrative": "Lin et al. (2024) adds Fujian and Guangxi; Xizang, Yunnan and Taiwan are retained. Beaver & Liu (2010) reports China (WP) and Taiwan. The broad China (WP) wording is retained as source-level context and is not expanded into mainland provinces."
+    "summary": "Fujian; Guangxi; Xizang; Yunnan; Taiwan",
+    "narrative": "Lin et al. (2024) adds Fujian and Guangxi; Xizang, Yunnan and Taiwan are retained. Beaver & Liu (2010) reports China (WP) and Taiwan. The broad China (WP) wording is retained as source-level context and is not expanded into mainland provinces.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_smith2020",
+      "src_linetal2024_xylosandruschina",
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Quercus sp."
+      "scientific_name": "Quercus sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015",
+        "src_linetal2024_xylosandruschina"
+      ]
     },
     {
-      "scientific_name": "Berberis sp."
+      "scientific_name": "Berberis sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Machilus sp."
+      "scientific_name": "Machilus sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Meliosma cuneifolia"
+      "scientific_name": "Meliosma cuneifolia",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Viburnum sp."
+      "scientific_name": "Viburnum sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cyclobalanopsis sp."
+      "scientific_name": "Cyclobalanopsis sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Quercus × leana"
+      "scientific_name": "Quercus × leana",
+      "reference_ids": [
+        "src_linetal2024_xylosandruschina"
+      ]
     }
   ],
   "host_note": "Lin et al. (2024) directly reports Quercus × leana; baseline hosts are retained. Beaver & Liu (2010) states that the species is polyphagous but reports no Taiwan host taxon, so no host is added.",

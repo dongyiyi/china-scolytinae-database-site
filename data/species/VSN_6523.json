@@ -15,15 +15,27 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "广东；广西；海南；云南；香港",
-    "narrative": "Lin et al. (2024) adds Guangdong and Guangxi; Hainan, Yunnan and Hong Kong remain. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence. Smith et al. (2022) independently supports Hainan, Hong Kong and Yunnan but adds no new region to the current synthesis."
+    "summary": "Guangdong; Guangxi; Hainan; Yunnan; Hong Kong",
+    "narrative": "Lin et al. (2024) adds Guangdong and Guangxi; Hainan, Yunnan and Hong Kong remain. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence. Smith et al. (2022) independently supports Hainan, Hong Kong and Yunnan but adds no new region to the current synthesis.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_linetal2024_xylosandruschina",
+      "src_lau2025",
+      "src_smith2022"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Eupatorium"
+      "scientific_name": "Eupatorium",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum cassia"
+      "scientific_name": "Cinnamomum cassia",
+      "reference_ids": [
+        "src_linetal2024_xylosandruschina"
+      ]
     }
   ],
   "host_note": "Lin et al. (2024) directly reports Cinnamomum cassia; Eupatorium is retained. Smith et al. (2022) reports no host in the integrated record; no host taxon is added.",

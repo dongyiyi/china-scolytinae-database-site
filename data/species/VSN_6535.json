@@ -15,27 +15,50 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南；香港；台湾",
-    "narrative": "Lin et al. (2024) provides the first mainland China record from Yunnan; Hong Kong and Taiwan evidence remains independently supported. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Yunnan; Hong Kong; Taiwan",
+    "narrative": "Lin et al. (2024) provides the first mainland China record from Yunnan; Hong Kong and Taiwan evidence remains independently supported. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_linetal2024_xylosandruschina",
+      "src_lau2025"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Mesua"
+      "scientific_name": "Mesua",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Dipterocarpus"
+      "scientific_name": "Dipterocarpus",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Shorea"
+      "scientific_name": "Shorea",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Macaranga"
+      "scientific_name": "Macaranga",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Osbeckia"
+      "scientific_name": "Osbeckia",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Machilus"
+      "scientific_name": "Machilus",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Lin et al. (2024) reports no host; prior genus-level hosts are retained.",

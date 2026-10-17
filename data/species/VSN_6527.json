@@ -15,51 +15,111 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "安徽；重庆；福建；广东；广西；贵州；海南；黑龙江；河南；湖北；湖南；江苏；江西；陕西；山东；山西；四川；西藏；云南；浙江；台湾；香港",
-    "narrative": "Lin et al. (2024) adds Heilongjiang and Shandong in its reviewed range and confirms Jiangsu as a new provincial record. Beaver & Liu (2010) independently accepts Taiwan occurrence and reports the species broadly from China and Taiwan. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Anhui; Chongqing; Fujian; Guangdong; Guangxi; Guizhou; Hainan; Heilongjiang; Henan; Hubei; Hunan; Jiangsu; Jiangxi; Shaanxi; Shandong; Shanxi; Sichuan; Xizang; Yunnan; Zhejiang; Taiwan; Hong Kong",
+    "narrative": "Lin et al. (2024) adds Heilongjiang and Shandong in its reviewed range and confirms Jiangsu as a new provincial record. Beaver & Liu (2010) independently accepts Taiwan occurrence and reports the species broadly from China and Taiwan. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_smith2020",
+      "src_linetal2024_xylosandruschina",
+      "src_beaverliu2010",
+      "src_lau2025"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Abies fabri"
+      "scientific_name": "Abies fabri",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Castanopsis spp."
+      "scientific_name": "Castanopsis spp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Quercus sp."
+      "scientific_name": "Quercus sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Machilus sp."
+      "scientific_name": "Machilus sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Prunus davidiana"
+      "scientific_name": "Prunus davidiana",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cassia siamea"
+      "scientific_name": "Cassia siamea",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Rhus chinensis"
+      "scientific_name": "Rhus chinensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Acer spp."
+      "scientific_name": "Acer spp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Ziziphus jujuba"
+      "scientific_name": "Ziziphus jujuba",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Schima superba"
+      "scientific_name": "Schima superba",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Acer carpinifolium"
+      "scientific_name": "Acer carpinifolium",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Juglans regia"
+      "scientific_name": "Juglans regia",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum camphora"
+      "scientific_name": "Cinnamomum camphora",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Populus przewalskii"
+      "scientific_name": "Populus przewalskii",
+      "reference_ids": [
+        "src_linetal2024_xylosandruschina"
+      ]
     }
   ],
   "host_note": "Lin et al. (2024) directly reports Populus przewalskii; prior hosts are retained. Beaver & Liu (2010) describes the species as strongly polyphagous, with more than 200 species in over 50 families reported, but this broad prose is retained at source level and does not generate additional current host taxa.",
