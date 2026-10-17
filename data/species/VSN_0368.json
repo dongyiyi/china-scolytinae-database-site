@@ -20,13 +20,22 @@
   },
   "hosts": [
     {
-      "scientific_name": "Alnus"
+      "scientific_name": "Alnus",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Quercus"
+      "scientific_name": "Quercus",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Symplocos"
+      "scientific_name": "Symplocos",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Alnus, Quercus, and Symplocos are retained as genus-level host records; family annotations remain source-level context.",

@@ -20,73 +20,152 @@
   },
   "hosts": [
     {
-      "scientific_name": "Juglans regia"
+      "scientific_name": "Juglans regia",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Carpinus turczaninowii"
+      "scientific_name": "Carpinus turczaninowii",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Corylus heterophylla"
+      "scientific_name": "Corylus heterophylla",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Quercus spp."
+      "scientific_name": "Quercus spp.",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Malus pumila"
+      "scientific_name": "Malus pumila",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Pyrus sp."
+      "scientific_name": "Pyrus sp.",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Sorbus alnifolia"
+      "scientific_name": "Sorbus alnifolia",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Prunus salicina"
+      "scientific_name": "Prunus salicina",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Acer sp."
+      "scientific_name": "Acer sp.",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Fraxinus mandschurica"
+      "scientific_name": "Fraxinus mandschurica",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Corylus sp."
+      "scientific_name": "Corylus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pyrus communis"
+      "scientific_name": "Pyrus communis",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Acer nigrum"
+      "scientific_name": "Acer nigrum",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Acer platanoides"
+      "scientific_name": "Acer platanoides",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Acer saccharinum"
+      "scientific_name": "Acer saccharinum",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Betula fontinalis"
+      "scientific_name": "Betula fontinalis",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Betula papyrifera"
+      "scientific_name": "Betula papyrifera",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Castanea dentata"
+      "scientific_name": "Castanea dentata",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Juglans sp."
+      "scientific_name": "Juglans sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Malus spp."
+      "scientific_name": "Malus spp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Prunus sp."
+      "scientific_name": "Prunus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Salix sp."
+      "scientific_name": "Salix sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Vitis sp."
+      "scientific_name": "Vitis sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     }
   ],
   "host_note": "The current host summary retains identified hosts from the reviewed historical Chinese sources. Smith et al. (2020) describes the species broadly as polyphagous on angiosperms and conifers; that broader statement is retained as context and does not create unspecified host taxa.",

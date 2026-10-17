@@ -20,16 +20,28 @@
   },
   "hosts": [
     {
-      "scientific_name": "Cinnamomum camphora"
+      "scientific_name": "Cinnamomum camphora",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Meliosma cuneifolia"
+      "scientific_name": "Meliosma cuneifolia",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Aralia chinensis"
+      "scientific_name": "Aralia chinensis",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Ficus carica"
+      "scientific_name": "Ficus carica",
+      "reference_ids": [
+        "src_co2015"
+      ]
     }
   ],
   "host_note": "Huang & Lu (2015) reported Cinnamomum camphora, Meliosma cuneifolia, Aralia chinensis and Ficus carica. Smith et al. (2022) provides no additional host for this record.",

@@ -20,13 +20,22 @@
   },
   "hosts": [
     {
-      "scientific_name": "Machilus"
+      "scientific_name": "Machilus",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Symplocos"
+      "scientific_name": "Symplocos",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Alnus"
+      "scientific_name": "Alnus",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Machilus, Symplocos and Alnus are retained as genus-level host records from Smith et al. (2020).",

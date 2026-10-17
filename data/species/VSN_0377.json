@@ -20,10 +20,16 @@
   },
   "hosts": [
     {
-      "scientific_name": "Cinnamomum austrosinense"
+      "scientific_name": "Cinnamomum austrosinense",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum camphora"
+      "scientific_name": "Cinnamomum camphora",
+      "reference_ids": [
+        "src_co2015"
+      ]
     }
   ],
   "host_note": "Huang & Lu (2015) reported Cinnamomum austrosinense and Cinnamomum camphora. Smith et al. (2020) reports Cinnamomum at genus level, consistent with the baseline evidence.",

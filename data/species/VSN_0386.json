@@ -20,7 +20,10 @@
   },
   "hosts": [
     {
-      "scientific_name": "Machilus"
+      "scientific_name": "Machilus",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Machilus is retained at genus level; family annotation Lauraceae remains source-level context.",

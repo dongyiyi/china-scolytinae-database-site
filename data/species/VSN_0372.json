@@ -20,7 +20,10 @@
   },
   "hosts": [
     {
-      "scientific_name": "Fortunella margarita"
+      "scientific_name": "Fortunella margarita",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Fortunella margarita is retained as the scientific host reported in the source.",
