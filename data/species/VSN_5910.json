@@ -15,15 +15,25 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "香港",
-    "narrative": "Smith et al. (2020) records Hong Kong. No mainland-China occurrence is inferred from this record. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Hong Kong",
+    "narrative": "Smith et al. (2020) records Hong Kong. No mainland-China occurrence is inferred from this record. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_lau2025"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pterocarpus"
+      "scientific_name": "Pterocarpus",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Machilus"
+      "scientific_name": "Machilus",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Pterocarpus and Machilus are retained at genus level. The additional wording 'a cut liana' is preserved separately because it is non-taxonomic.",

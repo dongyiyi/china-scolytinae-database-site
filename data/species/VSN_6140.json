@@ -15,24 +15,44 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "广东；广西；福建；海南；云南；台湾",
-    "narrative": "Smith et al. (2020) records Hainan, Yunnan and Taiwan. Lin et al. (2021) adds field records from Yunnan, Hainan, Fujian, Guangxi and Guangdong. Beaver & Liu (2010) independently reports the first Taiwan record in its treatment, based on 130 specimens from Ilan, Nantou, Pingtung and Taitung."
+    "summary": "Guangdong; Guangxi; Fujian; Hainan; Yunnan; Taiwan",
+    "narrative": "Smith et al. (2020) records Hainan, Yunnan and Taiwan. Lin et al. (2021) adds field records from Yunnan, Hainan, Fujian, Guangxi and Guangdong. Beaver & Liu (2010) independently reports the first Taiwan record in its treatment, based on 130 specimens from Ilan, Nantou, Pingtung and Taitung.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_linetal2021_xyleborusmainlandchina",
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Eucalyptus robusta"
+      "scientific_name": "Eucalyptus robusta",
+      "reference_ids": [
+        "src_linetal2021_xyleborusmainlandchina"
+      ]
     },
     {
-      "scientific_name": "Eucalyptus sp."
+      "scientific_name": "Eucalyptus sp.",
+      "reference_ids": [
+        "src_linetal2021_xyleborusmainlandchina"
+      ]
     },
     {
-      "scientific_name": "Hevea brasiliensis"
+      "scientific_name": "Hevea brasiliensis",
+      "reference_ids": [
+        "src_linetal2021_xyleborusmainlandchina"
+      ]
     },
     {
-      "scientific_name": "Schefflera octophylla"
+      "scientific_name": "Schefflera octophylla",
+      "reference_ids": [
+        "src_linetal2021_xyleborusmainlandchina"
+      ]
     },
     {
-      "scientific_name": "Sindora glabra"
+      "scientific_name": "Sindora glabra",
+      "reference_ids": [
+        "src_linetal2021_xyleborusmainlandchina"
+      ]
     }
   ],
   "host_note": "Lin et al. (2021) reports five identified hosts from Chinese field collections: Eucalyptus robusta, Eucalyptus sp., Hevea brasiliensis, Schefflera octophylla and Sindora glabra. Beaver & Liu (2010) characterizes X. affinis as strongly polyphagous with hundreds of host species reported, but no additional host taxon is enumerated in the curated field; no new host is promoted.",

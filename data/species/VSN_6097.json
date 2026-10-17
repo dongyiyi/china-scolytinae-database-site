@@ -15,36 +15,72 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "四川；台湾",
-    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) record Sichuan; Smith et al. (2020) confirms Sichuan. Lin & Smith (2022) reports China and a new Taiwan record; Taiwan is therefore added as Present. No additional mainland province is inferred from the broad China wording."
+    "summary": "Sichuan; Taiwan",
+    "narrative": "Yin et al. (1984) and Huang & Lu (2015) record Sichuan; Smith et al. (2020) confirms Sichuan. Lin & Smith (2022) reports China and a new Taiwan record; Taiwan is therefore added as Present. No additional mainland province is inferred from the broad China wording.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_smith2020",
+      "src_linsmith2022"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Carpinus"
+      "scientific_name": "Carpinus",
+      "reference_ids": [
+        "src_smith2020",
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Illicium"
+      "scientific_name": "Illicium",
+      "reference_ids": [
+        "src_smith2020",
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Cleyera"
+      "scientific_name": "Cleyera",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Eurya"
+      "scientific_name": "Eurya",
+      "reference_ids": [
+        "src_smith2020",
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Carpinus laxiflora"
+      "scientific_name": "Carpinus laxiflora",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Clyera spp."
+      "scientific_name": "Clyera spp.",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Eurya japonica"
+      "scientific_name": "Eurya japonica",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Illicium religiosum"
+      "scientific_name": "Illicium religiosum",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Ilex rotunda"
+      "scientific_name": "Ilex rotunda",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     }
   ],
   "host_note": "Smith et al. (2020) provides genus-level Carpinus, Illicium, Cleyera and Eurya. Lin & Smith (2022) adds the source-supported host names Carpinus laxiflora, Clyera spp., Eurya japonica, Illicium religiosum and Ilex rotunda. Source spellings are retained without silent correction.",

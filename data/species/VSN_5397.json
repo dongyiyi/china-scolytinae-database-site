@@ -15,12 +15,20 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南；台湾",
-    "narrative": "Liao et al. (2022) provides the first mainland-China records from Yunnan. Beaver & Liu (2010) independently documents the previously known Taiwan occurrence; the 2022 revision remains controlling for current mainland synthesis."
+    "summary": "Yunnan; Taiwan",
+    "narrative": "Liao et al. (2022) provides the first mainland-China records from Yunnan. Beaver & Liu (2010) independently documents the previously known Taiwan occurrence; the 2022 revision remains controlling for current mainland synthesis.",
+    "reference_ids": [
+      "src_liaoetal2022_scolytoplatypuschina",
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Cyclobalanopsis morii"
+      "scientific_name": "Cyclobalanopsis morii",
+      "reference_ids": [
+        "src_liaoetal2022_scolytoplatypuschina",
+        "src_beaverliu2010"
+      ]
     }
   ],
   "host_note": "Cyclobalanopsis morii is retained as literature host evidence. Beaver & Liu (2010) independently reports the same host for Taiwan; no additional host taxa are inferred.",

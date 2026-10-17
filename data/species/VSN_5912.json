@@ -15,12 +15,18 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南",
-    "narrative": "Smith et al. (2020) records Yunnan."
+    "summary": "Yunnan",
+    "narrative": "Smith et al. (2020) records Yunnan.",
+    "reference_ids": [
+      "src_smith2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pterocarpus"
+      "scientific_name": "Pterocarpus",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Direct host evidence is retained at genus level as Pterocarpus; Fabaceae remains source-level family context.",

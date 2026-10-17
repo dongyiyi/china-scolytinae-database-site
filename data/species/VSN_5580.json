@@ -15,12 +15,18 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南",
-    "narrative": "Cao et al. (2023) described Scolytus unicornis from Guomen Mountain, Nabanhe Nature Reserve, Menghai County, Jinghong City, Yunnan, establishing confirmed mainland-China occurrence in Yunnan."
+    "summary": "Yunnan",
+    "narrative": "Cao et al. (2023) described Scolytus unicornis from Guomen Mountain, Nabanhe Nature Reserve, Menghai County, Jinghong City, Yunnan, establishing confirmed mainland-China occurrence in Yunnan.",
+    "reference_ids": [
+      "orig_7b71e99ca0fc"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Ulmus sp."
+      "scientific_name": "Ulmus sp.",
+      "reference_ids": [
+        "orig_7b71e99ca0fc"
+      ]
     }
   ],
   "host_note": "The original description explicitly reports Ulmus sp.; adults were collected beneath bark of a dead elm. Host is retained at genus level and dead-tree condition is kept as ecological context.",

@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南",
-    "narrative": "Liao et al. (2022) provides the first China record of Scolytoplatypus curviciliosus from Yunnan."
+    "summary": "Yunnan",
+    "narrative": "Liao et al. (2022) provides the first China record of Scolytoplatypus curviciliosus from Yunnan.",
+    "reference_ids": [
+      "src_liaoetal2022_scolytoplatypuschina"
+    ]
   },
   "hosts": [],
   "host_note": "The host associated with examined material is unclear; no host taxon is promoted.",

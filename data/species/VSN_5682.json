@@ -15,18 +15,30 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；云南",
-    "narrative": "Smith et al. (2020) records Fujian and Yunnan, including Fuzhou and Xishuangbanna."
+    "summary": "Fujian; Yunnan",
+    "narrative": "Smith et al. (2020) records Fujian and Yunnan, including Fuzhou and Xishuangbanna.",
+    "reference_ids": [
+      "src_smith2020"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Eugenia"
+      "scientific_name": "Eugenia",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Palaquium"
+      "scientific_name": "Palaquium",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Liquidambar"
+      "scientific_name": "Liquidambar",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Direct host evidence is retained at genus level: Eugenia, Palaquium and Liquidambar; family names remain source-level context.",

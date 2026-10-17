@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "The source reports North China only at regional resolution. Individual provinces have not been independently verified."
+    "narrative": "Published Source Records report North China. These are source-level reports, not independently confirmed Chinese occurrence; current Candidate/In review determinations remain unchanged.",
+    "reference_ids": [
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
+    ]
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",

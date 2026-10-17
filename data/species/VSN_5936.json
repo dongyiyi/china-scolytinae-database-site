@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建",
-    "narrative": "Smith et al. (2020) describes/records the species from Fujian, including Fuzhou, Qishan."
+    "summary": "Fujian",
+    "narrative": "Smith et al. (2020) describes/records the species from Fujian, including Fuzhou, Qishan.",
+    "reference_ids": [
+      "orig_4cb5c2c867dd"
+    ]
   },
   "hosts": [],
   "host_note": "No host is reported in the promoted Smith record.",

@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "台湾",
-    "narrative": "Beaver & Liu (2010) treats Phloeosinus pertuberculatus as Taiwan-only and reports Nantou, Hui Son and Neimoupu funnel-trap material from 2005 and 2007."
+    "summary": "Taiwan",
+    "narrative": "Beaver & Liu (2010) treats Phloeosinus pertuberculatus as Taiwan-only and reports Nantou, Hui Son and Neimoupu funnel-trap material from 2005 and 2007.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [],
   "host_note": "Host is reported as unknown; no host is promoted.",

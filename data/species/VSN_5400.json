@@ -15,8 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；四川；云南；台湾",
-    "narrative": "Liao et al. (2022) provides the first mainland-China records from Fujian, Sichuan and Yunnan. Beaver & Liu (2010) independently documents the prior Taiwan occurrence; no new province is inferred from the earlier source."
+    "summary": "Fujian; Sichuan; Yunnan; Taiwan",
+    "narrative": "Liao et al. (2022) provides the first mainland-China records from Fujian, Sichuan and Yunnan. Beaver & Liu (2010) independently documents the prior Taiwan occurrence; no new province is inferred from the earlier source.",
+    "reference_ids": [
+      "src_liaoetal2022_scolytoplatypuschina",
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [],
   "host_note": "Host remains unknown in the currently integrated evidence; no host is promoted.",

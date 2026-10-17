@@ -15,12 +15,18 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南",
-    "narrative": "Smith et al. (2020) records Yunnan, including Jinghong."
+    "summary": "Yunnan",
+    "narrative": "Smith et al. (2020) records Yunnan, including Jinghong.",
+    "reference_ids": [
+      "orig_4cb5c2c867dd"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Hevea brasiliensis"
+      "scientific_name": "Hevea brasiliensis",
+      "reference_ids": [
+        "orig_4cb5c2c867dd"
+      ]
     }
   ],
   "host_note": "Species-level host Hevea brasiliensis is retained.",

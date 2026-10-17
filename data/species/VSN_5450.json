@@ -15,12 +15,18 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；江西",
-    "narrative": "Liao et al. (2022) described Scolytoplatypus wugongshanensis from Jiangxi and Fujian, including the Wugong Mountain holotype and additional type-series localities."
+    "summary": "Fujian; Jiangxi",
+    "narrative": "Liao et al. (2022) described Scolytoplatypus wugongshanensis from Jiangxi and Fujian, including the Wugong Mountain holotype and additional type-series localities.",
+    "reference_ids": [
+      "orig_0e7bb1f391d6"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Fagaceae sp."
+      "scientific_name": "Fagaceae sp.",
+      "reference_ids": [
+        "orig_0e7bb1f391d6"
+      ]
     }
   ],
   "host_note": "The holotype was collected by log dissection from an unidentified Fagaceae host; biology notes galleries in small broadleaved branches including unidentified Fagaceae. Host is retained at family level.",

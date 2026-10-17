@@ -15,69 +15,130 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "陕西；四川；云南；西藏；台湾",
-    "narrative": "黄复生等 (2015) establishes mainland records from Shaanxi, Sichuan, Yunnan and Xizang. Beaver & Liu (2010) adds accepted Taiwan occurrence and reports broad China (WP); the broad regional wording is retained as source context and is not converted into provinces."
+    "summary": "Shaanxi; Sichuan; Yunnan; Xizang; Taiwan",
+    "narrative": "Huang & Lu (2015) establishes mainland records from Shaanxi, Sichuan, Yunnan and Xizang. Beaver & Liu (2010) adds accepted Taiwan occurrence and reports broad China (WP); the broad regional wording is retained as source context and is not converted into provinces.",
+    "reference_ids": [
+      "src_co2015",
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Picea asperata"
+      "scientific_name": "Picea asperata",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Salix sp."
+      "scientific_name": "Salix sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum camphora"
+      "scientific_name": "Cinnamomum camphora",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum glanduliferum"
+      "scientific_name": "Cinnamomum glanduliferum",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Machilus sp."
+      "scientific_name": "Machilus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Quercus rubra"
+      "scientific_name": "Quercus rubra",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Castanea mollissima"
+      "scientific_name": "Castanea mollissima",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Castanopsis fargesii"
+      "scientific_name": "Castanopsis fargesii",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Albizia julibrissin"
+      "scientific_name": "Albizia julibrissin",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Rhus chinensis"
+      "scientific_name": "Rhus chinensis",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Robinia pseudoacacia"
+      "scientific_name": "Robinia pseudoacacia",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Betula sp."
+      "scientific_name": "Betula sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Prunus sp."
+      "scientific_name": "Prunus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Phoebe sp."
+      "scientific_name": "Phoebe sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Alnus sp."
+      "scientific_name": "Alnus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cyclobalanopsis sp."
+      "scientific_name": "Cyclobalanopsis sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Rhododendron sp."
+      "scientific_name": "Rhododendron sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Viburnum dilatatum"
+      "scientific_name": "Viburnum dilatatum",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Rhus verniciflua"
+      "scientific_name": "Rhus verniciflua",
+      "reference_ids": [
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "The 黄复生等 (2015) host list is retained unchanged. Beaver & Liu (2010) describes the species broadly as polyphagous on conifers and angiosperms but does not provide resolved host taxa in this entry, so no new host taxon is added.",
+  "host_note": "The Huang & Lu (2015) host list is retained unchanged. Beaver & Liu (2010) describes the species broadly as polyphagous on conifers and angiosperms but does not provide resolved host taxa in this entry, so no new host taxon is added.",
   "taxonomy_summary": "The current accepted identity is Scolytoplatypus raja Blandford, 1893.",
   "taxonomy_reference_ids": [
     "johnson2026"

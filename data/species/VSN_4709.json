@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "Unreviewed reports list Heilongjiang, the broad Northeast China region, and Taiwan. These are candidate geographic attributions, not confirmed distribution records. No additional provinces are inferred from the regional name."
+    "narrative": "Published Source Records report Heilongjiang, Northeast China, Taiwan. These are source-level reports, not independently confirmed Chinese occurrence; current Candidate/In review determinations remain unchanged.",
+    "reference_ids": [
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
+    ]
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",

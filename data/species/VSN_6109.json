@@ -15,57 +15,120 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "安徽；重庆；福建；广西；贵州；河北；黑龙江；香港；湖南；江苏；江西；吉林；宁夏；陕西；上海；山西；四川；西藏；云南；浙江；台湾",
-    "narrative": "殷蕙芬等 (1984) records Heilongjiang, Jilin, Shaanxi, Anhui, Fujian, Sichuan, Hunan, Yunnan and Xizang. 黄复生等 (2015) adds Taiwan. Smith et al. (2020) confirms much of this range and adds Chongqing, Guangxi, Guizhou, Hebei, Hong Kong, Jiangsu, Jiangxi, Ningxia, Shanghai, Shanxi and Zhejiang. Beaver & Liu (2010) independently accepts Taiwan occurrence. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Anhui; Chongqing; Fujian; Guangxi; Guizhou; Hebei; Heilongjiang; Hong Kong; Hunan; Jiangsu; Jiangxi; Jilin; Ningxia; Shaanxi; Shanghai; Shanxi; Sichuan; Xizang; Yunnan; Zhejiang; Taiwan",
+    "narrative": "Yin et al. (1984) records Heilongjiang, Jilin, Shaanxi, Anhui, Fujian, Sichuan, Hunan, Yunnan and Xizang. Huang & Lu (2015) adds Taiwan. Smith et al. (2020) confirms much of this range and adds Chongqing, Guangxi, Guizhou, Hebei, Hong Kong, Jiangsu, Jiangxi, Ningxia, Shanghai, Shanxi and Zhejiang. Beaver & Liu (2010) independently accepts Taiwan occurrence. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_smith2020",
+      "src_beaverliu2010",
+      "src_lau2025"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Tsuga yunnanensis"
+      "scientific_name": "Tsuga yunnanensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Picea asperata"
+      "scientific_name": "Picea asperata",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus koraiensis"
+      "scientific_name": "Pinus koraiensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus armandii"
+      "scientific_name": "Pinus armandii",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Populus sp."
+      "scientific_name": "Populus sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Quercus sp."
+      "scientific_name": "Quercus sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Ficus sp."
+      "scientific_name": "Ficus sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Machilus sp."
+      "scientific_name": "Machilus sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Malus pumila"
+      "scientific_name": "Malus pumila",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Rhus spp."
+      "scientific_name": "Rhus spp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Tilia sp."
+      "scientific_name": "Tilia sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Populus alba"
+      "scientific_name": "Populus alba",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Populus davidiana"
+      "scientific_name": "Populus davidiana",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Rhus chinensis"
+      "scientific_name": "Rhus chinensis",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum camphora"
+      "scientific_name": "Cinnamomum camphora",
+      "reference_ids": [
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "Current host synthesis follows the detailed 殷蕙芬等 (1984)/黄复生等 (2015) species- and genus-level host evidence. Smith et al. (2020) contributes distribution evidence only in the promoted record. Beaver & Liu (2010) describes the species as polyphagous on gymnosperms and angiosperms; this broad statement remains contextual and does not add host taxa.",
+  "host_note": "Current host synthesis follows the detailed Yin et al. (1984)/Huang & Lu (2015) species- and genus-level host evidence. Smith et al. (2020) contributes distribution evidence only in the promoted record. Beaver & Liu (2010) describes the species as polyphagous on gymnosperms and angiosperms; this broad statement remains contextual and does not add host taxa.",
   "taxonomy_summary": "The current accepted identity is Xyleborinus saxesenii (Ratzeburg, 1837).",
   "taxonomy_reference_ids": [
     "johnson2026"

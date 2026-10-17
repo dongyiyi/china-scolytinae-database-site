@@ -15,15 +15,25 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "广东；海南；香港",
-    "narrative": "Cognato et al. (2024) documents verified specimens and molecular vouchers from Guangdong, Hainan and Hong Kong, supporting presence in mainland China and Hong Kong. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Guangdong; Hainan; Hong Kong",
+    "narrative": "Cognato et al. (2024) documents verified specimens and molecular vouchers from Guangdong, Hainan and Hong Kong, supporting presence in mainland China and Hong Kong. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "src_cognatoetal2024_sueusrevision",
+      "src_lau2025"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Bombacaceae"
+      "scientific_name": "Bombacaceae",
+      "reference_ids": [
+        "src_cognatoetal2024_sueusrevision"
+      ]
     },
     {
-      "scientific_name": "Litsea glutinosa"
+      "scientific_name": "Litsea glutinosa",
+      "reference_ids": [
+        "src_cognatoetal2024_sueusrevision"
+      ]
     }
   ],
   "host_note": "The revision reports Bombacaceae and Litsea glutinosa. Litsea glutinosa is tied to the Hainan voucher; Bombacaceae is reported in the species treatment.",

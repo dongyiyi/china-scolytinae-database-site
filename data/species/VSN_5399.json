@@ -15,30 +15,54 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南",
-    "narrative": "Liao et al. (2022) provides the first China records of Scolytoplatypus brahma from multiple localities in Yunnan."
+    "summary": "Yunnan",
+    "narrative": "Liao et al. (2022) provides the first China records of Scolytoplatypus brahma from multiple localities in Yunnan.",
+    "reference_ids": [
+      "src_liaoetal2022_scolytoplatypuschina"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Cryptocarya wightiana"
+      "scientific_name": "Cryptocarya wightiana",
+      "reference_ids": [
+        "src_liaoetal2022_scolytoplatypuschina"
+      ]
     },
     {
-      "scientific_name": "Ilex dipyrena"
+      "scientific_name": "Ilex dipyrena",
+      "reference_ids": [
+        "src_liaoetal2022_scolytoplatypuschina"
+      ]
     },
     {
-      "scientific_name": "Swietenia mahagoni"
+      "scientific_name": "Swietenia mahagoni",
+      "reference_ids": [
+        "src_liaoetal2022_scolytoplatypuschina"
+      ]
     },
     {
-      "scientific_name": "Erythrina subumbrans"
+      "scientific_name": "Erythrina subumbrans",
+      "reference_ids": [
+        "src_liaoetal2022_scolytoplatypuschina"
+      ]
     },
     {
-      "scientific_name": "Hevea brasiliensis"
+      "scientific_name": "Hevea brasiliensis",
+      "reference_ids": [
+        "src_liaoetal2022_scolytoplatypuschina"
+      ]
     },
     {
-      "scientific_name": "Theobroma cacao"
+      "scientific_name": "Theobroma cacao",
+      "reference_ids": [
+        "src_liaoetal2022_scolytoplatypuschina"
+      ]
     },
     {
-      "scientific_name": "Vernonia arborea"
+      "scientific_name": "Vernonia arborea",
+      "reference_ids": [
+        "src_liaoetal2022_scolytoplatypuschina"
+      ]
     }
   ],
   "host_note": "The listed hosts are literature/global biological host records summarized by the source, not direct host labels from the Yunnan specimens. This evidence provenance is retained in the profile.",

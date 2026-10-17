@@ -15,24 +15,43 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "四川；云南；台湾",
-    "narrative": "Liao et al. (2022) provides the first mainland-China records from Sichuan and Yunnan. Beaver & Liu (2010) independently documents the prior Taiwan occurrence."
+    "summary": "Sichuan; Yunnan; Taiwan",
+    "narrative": "Liao et al. (2022) provides the first mainland-China records from Sichuan and Yunnan. Beaver & Liu (2010) independently documents the prior Taiwan occurrence.",
+    "reference_ids": [
+      "src_liaoetal2022_scolytoplatypuschina",
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Carya cathayensis"
+      "scientific_name": "Carya cathayensis",
+      "reference_ids": [
+        "src_liaoetal2022_scolytoplatypuschina"
+      ]
     },
     {
-      "scientific_name": "Diospyros spp."
+      "scientific_name": "Diospyros spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Ficus spp."
+      "scientific_name": "Ficus spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Styrax spp."
+      "scientific_name": "Styrax spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Wendlandia spp."
+      "scientific_name": "Wendlandia spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
   "host_note": "Carya cathayensis is direct host-label evidence from Yunnan material in Liao et al. (2022). Beaver & Liu (2010) records Diospyros, Ficus, Styrax and Wendlandia in Taiwan; these are added at genus level. General polyphagy is retained as context only.",

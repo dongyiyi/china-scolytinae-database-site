@@ -15,8 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "四川；云南",
-    "narrative": "Smith et al. (2020) records Sichuan, including Mt. Emei. Smith et al. (2022) confirms Sichuan and adds Yunnan, with locality evidence from Yunnan, Honghe."
+    "summary": "Sichuan; Yunnan",
+    "narrative": "Smith et al. (2020) records Sichuan, including Mt. Emei. Smith et al. (2022) confirms Sichuan and adds Yunnan, with locality evidence from Yunnan, Honghe.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_smith2022"
+    ]
   },
   "hosts": [],
   "host_note": "No host is reported in either promoted Smith record.",

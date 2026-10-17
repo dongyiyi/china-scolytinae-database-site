@@ -15,12 +15,18 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；江西",
-    "narrative": "Liao et al. (2022) described Scolytoplatypus skyliuae from Jiangxi and Fujian, with the holotype from Huanggang Mountain and paratypes from Wuyishan."
+    "summary": "Fujian; Jiangxi",
+    "narrative": "Liao et al. (2022) described Scolytoplatypus skyliuae from Jiangxi and Fujian, with the holotype from Huanggang Mountain and paratypes from Wuyishan.",
+    "reference_ids": [
+      "orig_0e7bb1f391d6"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Castanopsis fargesii"
+      "scientific_name": "Castanopsis fargesii",
+      "reference_ids": [
+        "orig_0e7bb1f391d6"
+      ]
     }
   ],
   "host_note": "Fujian paratypes carry a direct Castanopsis fargesii host label; this is promoted as confirmed host evidence.",

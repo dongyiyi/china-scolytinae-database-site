@@ -15,24 +15,44 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "河北；四川；云南；西藏；台湾",
-    "narrative": "殷蕙芬等 (1984) supports 河北、四川、云南; 黄复生等 (2015) adds 西藏. Beaver & Liu (2010) adds Taiwan and gives the broad source wording China (NO, SW); Taiwan. No additional mainland province is inferred from the broad regional wording."
+    "summary": "Hebei; Sichuan; Yunnan; Xizang; Taiwan",
+    "narrative": "Yin et al. (1984) supports Hebei, Sichuan, Yunnan; Huang & Lu (2015) adds Xizang. Beaver & Liu (2010) adds Taiwan and gives the broad source wording China (NO, SW); Taiwan. No additional mainland province is inferred from the broad regional wording.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Quercus acutissima"
+      "scientific_name": "Quercus acutissima",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Quercus semicarpifolia"
+      "scientific_name": "Quercus semicarpifolia",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Quercus spp."
+      "scientific_name": "Quercus spp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015",
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Prunus mume"
+      "scientific_name": "Prunus mume",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
-  "host_note": "殷蕙芬等 (1984) reports Quercus acutissima; 黄复生等 (2015) reports Q. acutissima and Q. semicarpifolia. Beaver & Liu (2010) states mostly Quercus spp. and specifically records Prunus mume in Taiwan. Species- and genus-level evidence are retained at source resolution.",
+  "host_note": "Yin et al. (1984) reports Quercus acutissima; Huang & Lu (2015) reports Q. acutissima and Q. semicarpifolia. Beaver & Liu (2010) states mostly Quercus spp. and specifically records Prunus mume in Taiwan. Species- and genus-level evidence are retained at source resolution.",
   "taxonomy_summary": "The current accepted identity is Sphaerotrypes pila Blandford, 1894.",
   "taxonomy_reference_ids": [
     "johnson2026"

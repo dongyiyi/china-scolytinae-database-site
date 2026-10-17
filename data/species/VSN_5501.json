@@ -15,21 +15,36 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "China (NE；broad source wording)；台湾",
-    "narrative": "Beaver & Liu (2010) reports China (NE) and Taiwan. The broad northeastern-China wording supports Mainland China = Present but is not expanded into provinces. Taiwan was historically recorded under the synonym Scolytus formosanus Eggers and is accepted by Beaver & Liu as S. frontalis."
+    "summary": "China (NE, broad source wording); Taiwan",
+    "narrative": "Beaver & Liu (2010) reports China (NE) and Taiwan. The broad northeastern-China wording supports Mainland China = Present but is not expanded into provinces. Taiwan was historically recorded under the synonym Scolytus formosanus Eggers and is accepted by Beaver & Liu as S. frontalis.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Ulmus spp."
+      "scientific_name": "Ulmus spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Zelkova spp."
+      "scientific_name": "Zelkova spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Quercus spp."
+      "scientific_name": "Quercus spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Prunus spp."
+      "scientific_name": "Prunus spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
   "host_note": "Usually Ulmus and Zelkova, with Quercus and Prunus also reported; all are retained at genus level and no species-level host is inferred.",

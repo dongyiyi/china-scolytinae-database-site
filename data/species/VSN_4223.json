@@ -15,15 +15,22 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "西藏",
-    "narrative": "黄复生等 (2015) records the taxon from Xizang under the source name Pityogenes coniferae. Beaver & Liu (2010) treated the historical Taiwan record as doubtful and likely based on Shiraki material. Taiwan is retained as Questionable and is not added to the current distribution summary."
+    "summary": "Xizang",
+    "narrative": "Huang & Lu (2015) records the taxon from Xizang under the source name Pityogenes coniferae. Beaver & Liu (2010) treated the historical Taiwan record as doubtful and likely based on Shiraki material. Taiwan is retained as Questionable and is not added to the current distribution summary.",
+    "reference_ids": [
+      "src_co2015",
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pinus griffithii"
+      "scientific_name": "Pinus griffithii",
+      "reference_ids": [
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "黄复生等 (2015) reports Pinus griffithii (乔松). Beaver & Liu (2010) provides no host evidence for the doubtful Taiwan record.",
+  "host_note": "Huang & Lu (2015) reports Pinus griffithii (Himalayan pine) as the host. Beaver & Liu (2010) provides no host evidence for the doubtful Taiwan record, which is not promoted.",
   "taxonomy_summary": "The current accepted identity is Pityogenes scitus Blandford, 1893.",
   "taxonomy_reference_ids": [
     "johnson2026"

@@ -15,12 +15,18 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "四川；云南",
-    "narrative": "Liao et al. (2022) provides the first China records of Scolytoplatypus minimus from Sichuan and Yunnan."
+    "summary": "Sichuan; Yunnan",
+    "narrative": "Liao et al. (2022) provides the first China records of Scolytoplatypus minimus from Sichuan and Yunnan.",
+    "reference_ids": [
+      "src_liaoetal2022_scolytoplatypuschina"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Cinnamomum camphora"
+      "scientific_name": "Cinnamomum camphora",
+      "reference_ids": [
+        "src_liaoetal2022_scolytoplatypuschina"
+      ]
     }
   ],
   "host_note": "Direct Chinese specimen evidence from Sichuan Leibo/Mahu was obtained by log dissection from Cinnamomum camphora and is promoted. The source additionally summarizes broader literature hosts across Alnus, Cornus, Prunus, Cinnamomum and Acrocarpus.",

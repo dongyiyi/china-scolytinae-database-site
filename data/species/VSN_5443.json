@@ -15,15 +15,24 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "重庆；福建；江西；四川；云南；浙江；台湾",
-    "narrative": "Liao et al. (2022) recognizes Scolytoplatypus sinensis as a distinct species and reports examined mainland records from Chongqing, Fujian, Jiangxi, Sichuan, Yunnan and Zhejiang. The source also acknowledges earlier Taiwan records, which are retained in current regional occurrence."
+    "summary": "Chongqing; Fujian; Jiangxi; Sichuan; Yunnan; Zhejiang; Taiwan",
+    "narrative": "Liao et al. (2022) recognizes Scolytoplatypus sinensis as a distinct species and reports examined mainland records from Chongqing, Fujian, Jiangxi, Sichuan, Yunnan and Zhejiang. The source also acknowledges earlier Taiwan records, which are retained in current regional occurrence.",
+    "reference_ids": [
+      "src_liaoetal2022_scolytoplatypuschina"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Cinnamomum cassia"
+      "scientific_name": "Cinnamomum cassia",
+      "reference_ids": [
+        "src_liaoetal2022_scolytoplatypuschina"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum camphora"
+      "scientific_name": "Cinnamomum camphora",
+      "reference_ids": [
+        "src_liaoetal2022_scolytoplatypuschina"
+      ]
     }
   ],
   "host_note": "Direct/examined source evidence supports Cinnamomum cassia and C. camphora. Additional host records Alnus cremastogyne, Amygdalus davidiana, Phoebe zhennan and Theaceae are literature-context records and are retained separately.",

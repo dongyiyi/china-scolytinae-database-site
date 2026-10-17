@@ -15,12 +15,18 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建",
-    "narrative": "Smith et al. (2020) describes/records the species from Fujian, including Zhangzhou."
+    "summary": "Fujian",
+    "narrative": "Smith et al. (2020) describes/records the species from Fujian, including Zhangzhou.",
+    "reference_ids": [
+      "orig_4cb5c2c867dd"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Schima"
+      "scientific_name": "Schima",
+      "reference_ids": [
+        "orig_4cb5c2c867dd"
+      ]
     }
   ],
   "host_note": "Direct host evidence is retained at genus level as Schima; Theaceae remains source-level family context.",

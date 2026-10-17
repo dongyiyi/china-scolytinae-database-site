@@ -15,63 +15,124 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "四川；福建；海南；台湾",
-    "narrative": "殷蕙芬等 (1984) records Sichuan and Fujian; 黄复生等 (2015) adds Hainan and Taiwan. Beaver & Liu (2010) independently reports Taiwan and broad China (SE, SW). The broad regional wording is retained as context only and does not generate new province records."
+    "summary": "Sichuan; Fujian; Hainan; Taiwan",
+    "narrative": "Yin et al. (1984) records Sichuan and Fujian; Huang & Lu (2015) adds Hainan and Taiwan. Beaver & Liu (2010) independently reports Taiwan and broad China (SE, SW). The broad regional wording is retained as context only and does not generate new province records.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Machilus velutina"
+      "scientific_name": "Machilus velutina",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Machilus microcarpa"
+      "scientific_name": "Machilus microcarpa",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Prunus davidiana"
+      "scientific_name": "Prunus davidiana",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Camellia japonica"
+      "scientific_name": "Camellia japonica",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Acer sp."
+      "scientific_name": "Acer sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Alnus sp."
+      "scientific_name": "Alnus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum camphora"
+      "scientific_name": "Cinnamomum camphora",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Phoebe sp."
+      "scientific_name": "Phoebe sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cornus sp."
+      "scientific_name": "Cornus sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Zelkova schneideriana"
+      "scientific_name": "Zelkova schneideriana",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Betula sp."
+      "scientific_name": "Betula sp.",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Prunus salicina"
+      "scientific_name": "Prunus salicina",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cinnamomum spp."
+      "scientific_name": "Cinnamomum spp.",
+      "reference_ids": [
+        "src_co2015",
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Cryptomeria spp."
+      "scientific_name": "Cryptomeria spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Eugenia spp."
+      "scientific_name": "Eugenia spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Styrax spp."
+      "scientific_name": "Styrax spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Wendlandia spp."
+      "scientific_name": "Wendlandia spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
-  "host_note": "殷蕙芬等 (1984)/黄复生等 (2015) species-level and genus-level hosts are retained. Beaver & Liu (2010) specifically records Cinnamomum, Cryptomeria, Eugenia, Styrax and Wendlandia in Taiwan; these are added at genus level. The broad word 'polyphagous' remains contextual only.",
+  "host_note": "Yin et al. (1984)/Huang & Lu (2015) species-level and genus-level hosts are retained. Beaver & Liu (2010) specifically records Cinnamomum, Cryptomeria, Eugenia, Styrax and Wendlandia in Taiwan; these are added at genus level. The broad word 'polyphagous' remains contextual only.",
   "taxonomy_summary": "The current accepted identity is Scolytoplatypus mikado Blandford, 1893.",
   "taxonomy_reference_ids": [
     "johnson2026"

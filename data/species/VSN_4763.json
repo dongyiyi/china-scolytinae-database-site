@@ -15,12 +15,18 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "台湾",
-    "narrative": "Beaver & Liu (2010) directly confirms Taiwan occurrence, including Nantou, Hui Son material collected http://18.vi.2006."
+    "summary": "Taiwan",
+    "narrative": "Beaver & Liu (2010) directly confirms Taiwan occurrence, including Nantou, Hui Son material collected http://18.vi.2006.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Picea morrisonicola"
+      "scientific_name": "Picea morrisonicola",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
   "host_note": "Picea morrisonicola is explicitly reported and retained at species level.",

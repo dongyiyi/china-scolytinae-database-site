@@ -15,21 +15,37 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；广东；广西；贵州；云南；台湾",
-    "narrative": "Smith et al. (2020) records Fujian, Guangdong, Guangxi, Guizhou, Yunnan and Taiwan. Beaver & Liu (2010), under the name Xyleborus pinicola, records China (SE) and provides the first Taiwan record from Nantou, Hui Son, 18.iii.2006. The broad China (SE) wording is not expanded into provinces."
+    "summary": "Fujian; Guangdong; Guangxi; Guizhou; Yunnan; Taiwan",
+    "narrative": "Smith et al. (2020) records Fujian, Guangdong, Guangxi, Guizhou, Yunnan and Taiwan. Beaver & Liu (2010), under the name Xyleborus pinicola, records China (SE) and provides the first Taiwan record from Nantou, Hui Son, 18.iii.2006. The broad China (SE) wording is not expanded into provinces.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pinus kesiya"
+      "scientific_name": "Pinus kesiya",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Pinus massoniana"
+      "scientific_name": "Pinus massoniana",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Pinus yunnanensis"
+      "scientific_name": "Pinus yunnanensis",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Pinus taiwanensis"
+      "scientific_name": "Pinus taiwanensis",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Smith et al. (2020) supports Pinus kesiya, P. massoniana, P. yunnanensis and P. taiwanensis. Beaver & Liu (2010) reports Pinus spp.; this is retained as genus-level corroboration and does not replace or expand the species-level host synthesis.",

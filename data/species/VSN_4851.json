@@ -15,12 +15,18 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "台湾",
-    "narrative": "Beaver & Liu (2010) accepts Taiwan occurrence under the source name Pseudohyorrhynchus wadai; the record is reconciled to the subspecies-level stable identity Pseudohyorrhynchus wadai wadai, VSN_4851."
+    "summary": "Taiwan",
+    "narrative": "Beaver & Liu (2010) accepts Taiwan occurrence under the source name Pseudohyorrhynchus wadai; the record is reconciled to the subspecies-level stable identity Pseudohyorrhynchus wadai wadai, VSN_4851.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Cornus controversa"
+      "scientific_name": "Cornus controversa",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
   "host_note": "Cornus controversa is explicitly reported and is retained at species level.",

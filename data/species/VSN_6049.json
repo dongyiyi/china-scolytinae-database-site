@@ -15,30 +15,55 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "重庆；陕西；台湾",
-    "narrative": "Smith et al. (2020) records Chongqing and Shaanxi. Beaver & Liu (2010) independently accepts Taiwan occurrence; Taiwan is therefore added to the current reviewed distribution."
+    "summary": "Chongqing; Shaanxi; Taiwan",
+    "narrative": "Smith et al. (2020) records Chongqing and Shaanxi. Beaver & Liu (2010) independently accepts Taiwan occurrence; Taiwan is therefore added to the current reviewed distribution.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pinus armandii"
+      "scientific_name": "Pinus armandii",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Carpinus"
+      "scientific_name": "Carpinus",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Castanea"
+      "scientific_name": "Castanea",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Fagus"
+      "scientific_name": "Fagus",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Quercus"
+      "scientific_name": "Quercus",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Malus"
+      "scientific_name": "Malus",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Prunus"
+      "scientific_name": "Prunus",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
   "host_note": "Species-level host Pinus armandii is retained from Smith et al. (2020). Beaver & Liu (2010) explicitly accepts Carpinus, Castanea, Fagus, Quercus, Malus and Prunus at genus level; these are promoted at that resolution. Diospyros, Hamamelis and Magnolia are explicitly described by the source as additional literature hosts that the authors could not verify, so they remain questionable source evidence only.",

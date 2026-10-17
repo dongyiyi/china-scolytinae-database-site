@@ -15,51 +15,111 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "吉林；辽宁；内蒙古；北京；河北；陕西；四川；台湾",
-    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) establish mainland records from 吉林、辽宁、内蒙古、北京、河北、陕西、四川. Beaver & Liu (2010) adds accepted Taiwan occurrence and reports broad China (CE, NE, NO, SW); the broad regional wording is retained as context and does not generate additional province records."
+    "summary": "Jilin; Liaoning; Inner Mongolia; Beijing; Hebei; Shaanxi; Sichuan; Taiwan",
+    "narrative": "Yin et al. (1984) and Huang & Lu (2015) establish mainland records from Jilin, Liaoning, Inner Mongolia, Beijing, Hebei, Shaanxi, Sichuan. Beaver & Liu (2010) adds accepted Taiwan occurrence and reports broad China (CE, NE, NO, SW); the broad regional wording is retained as context and does not generate additional province records.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pyrus sp."
+      "scientific_name": "Pyrus sp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015",
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Malus pumila"
+      "scientific_name": "Malus pumila",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Prunus persica"
+      "scientific_name": "Prunus persica",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Prunus triloba"
+      "scientific_name": "Prunus triloba",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Prunus armeniaca"
+      "scientific_name": "Prunus armeniaca",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Prunus pseudocerasus"
+      "scientific_name": "Prunus pseudocerasus",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Zelkova serrata"
+      "scientific_name": "Zelkova serrata",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Malus spp."
+      "scientific_name": "Malus spp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015",
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Padus spp."
+      "scientific_name": "Padus spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Prunus spp."
+      "scientific_name": "Prunus spp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015",
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Pyrus spp."
+      "scientific_name": "Pyrus spp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015",
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Ulmus spp."
+      "scientific_name": "Ulmus spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Zelkova spp."
+      "scientific_name": "Zelkova spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Lonicera spp."
+      "scientific_name": "Lonicera spp.",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
   "host_note": "The six species-level baseline hosts are retained. Beaver & Liu (2010) explicitly records Zelkova serrata as bred in Taiwan and also gives broader genus-level host context for Malus, Padus, Prunus, Pyrus, Ulmus, Zelkova and Lonicera; those genera are retained at their reported resolution.",

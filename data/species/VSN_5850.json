@@ -15,33 +15,66 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "辽宁；河南；陕西；江苏；浙江；湖南；四川；云南；重庆；福建；台湾",
-    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) provide the mainland province-level baseline. Beaver & Liu (2010) adds Taiwan as an accepted occurrence."
+    "summary": "Liaoning; Henan; Shaanxi; Jiangsu; Zhejiang; Hunan; Sichuan; Yunnan; Chongqing; Fujian; Taiwan",
+    "narrative": "Yin et al. (1984) and Huang & Lu (2015) provide the mainland province-level baseline. Beaver & Liu (2010) adds Taiwan as an accepted occurrence.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pinus armandii"
+      "scientific_name": "Pinus armandii",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus massoniana"
+      "scientific_name": "Pinus massoniana",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus densata"
+      "scientific_name": "Pinus densata",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus tabulaeformis"
+      "scientific_name": "Pinus tabulaeformis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus yunnanensis"
+      "scientific_name": "Pinus yunnanensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus thunbergii"
+      "scientific_name": "Pinus thunbergii",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus spp."
+      "scientific_name": "Pinus spp.",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015",
+        "src_beaverliu2010"
+      ]
     }
   ],
-  "host_note": "殷蕙芬等 (1984) and 黄复生等 (2015) provide six Pinus species in total. Beaver & Liu (2010) reports Pinus spp.; this genus-level evidence is retained in addition to the species-level records.",
+  "host_note": "Yin et al. (1984) and Huang & Lu (2015) provide six Pinus species in total. Beaver & Liu (2010) reports Pinus spp.; this genus-level evidence is retained in addition to the species-level records.",
   "taxonomy_summary": "The current accepted identity is Tomicus piniperda (Linnaeus, 1758).",
   "taxonomy_reference_ids": [
     "johnson2026"

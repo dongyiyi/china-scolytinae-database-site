@@ -15,12 +15,18 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南",
-    "narrative": "Smith et al. (2020) describes/records the species from Yunnan, including Xishuangbanna."
+    "summary": "Yunnan",
+    "narrative": "Smith et al. (2020) describes/records the species from Yunnan, including Xishuangbanna.",
+    "reference_ids": [
+      "orig_4cb5c2c867dd"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Quercus"
+      "scientific_name": "Quercus",
+      "reference_ids": [
+        "orig_4cb5c2c867dd"
+      ]
     }
   ],
   "host_note": "Direct host evidence is retained at genus level as Quercus; Fagaceae remains source-level family context.",

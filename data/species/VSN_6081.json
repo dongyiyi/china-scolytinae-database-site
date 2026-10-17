@@ -15,18 +15,32 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；广东；江西；云南",
-    "narrative": "Smith et al. (2020) describes/records the species from Fujian and Jiangxi, including Xunwu, Xiangshan. Smith et al. (2022) records Fujian, Guangdong, Jiangxi and Yunnan and adds locality evidence from Guangdong, Quangzhou."
+    "summary": "Fujian; Guangdong; Jiangxi; Yunnan",
+    "narrative": "Smith et al. (2020) describes/records the species from Fujian and Jiangxi, including Xunwu, Xiangshan. Smith et al. (2022) records Fujian, Guangdong, Jiangxi and Yunnan and adds locality evidence from Guangdong, Quangzhou.",
+    "reference_ids": [
+      "orig_4cb5c2c867dd",
+      "src_smith2022"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Fagaceae"
+      "scientific_name": "Fagaceae",
+      "reference_ids": [
+        "orig_4cb5c2c867dd",
+        "src_smith2022"
+      ]
     },
     {
-      "scientific_name": "Schima superba (Theaceae)"
+      "scientific_name": "Schima superba (Theaceae)",
+      "reference_ids": [
+        "src_smith2022"
+      ]
     },
     {
-      "scientific_name": "Elaeocarpus (Elaeocarpaceae)"
+      "scientific_name": "Elaeocarpus (Elaeocarpaceae)",
+      "reference_ids": [
+        "src_smith2022"
+      ]
     }
   ],
   "host_note": "Smith et al. (2020) provides family-level host evidence for Fagaceae. Smith et al. (2022) retains Fagaceae and adds Schima superba (Theaceae) and Elaeocarpus (Elaeocarpaceae), which are promoted at their published taxonomic resolution.",

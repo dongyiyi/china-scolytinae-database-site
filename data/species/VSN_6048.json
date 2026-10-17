@@ -15,8 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "重庆；福建；广东；广西；海南；上海；云南；香港；台湾",
-    "narrative": "Smith et al. (2020) records Chongqing, Fujian, Guangdong, Guangxi, Hainan, Shanghai, Yunnan, Hong Kong and Taiwan, plus one unresolved 'unknown province' record. Beaver & Liu (2010) independently reports the first Taiwan record from Nantou (Hui Son). Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Chongqing; Fujian; Guangdong; Guangxi; Hainan; Shanghai; Yunnan; Hong Kong; Taiwan",
+    "narrative": "Smith et al. (2020) records Chongqing, Fujian, Guangdong, Guangxi, Hainan, Shanghai, Yunnan, Hong Kong and Taiwan, plus one unresolved 'unknown province' record. Beaver & Liu (2010) independently reports the first Taiwan record from Nantou (Hui Son). Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_beaverliu2010",
+      "src_lau2025"
+    ]
   },
   "hosts": [],
   "host_note": "No host is reported in the promoted Smith record. Beaver & Liu (2010) describes the species as polyphagous but enumerates no host taxon; no host is promoted.",

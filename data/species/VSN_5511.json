@@ -15,12 +15,18 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "江西",
-    "narrative": "Zhang et al. (2021) described Scolytus jiulianshanensis from Jiulianshan National Nature Reserve, Ganzhou, Jiangxi, China. The species is known in the source only from this type locality, establishing confirmed mainland-China occurrence in Jiangxi."
+    "summary": "Jiangxi",
+    "narrative": "Zhang et al. (2021) described Scolytus jiulianshanensis from Jiulianshan National Nature Reserve, Ganzhou, Jiangxi, China. The species is known in the source only from this type locality, establishing confirmed mainland-China occurrence in Jiangxi.",
+    "reference_ids": [
+      "orig_479c70b04971"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Ulmus sp."
+      "scientific_name": "Ulmus sp.",
+      "reference_ids": [
+        "orig_479c70b04971"
+      ]
     }
   ],
   "host_note": "The original description explicitly reports the species from dead elm and lists the host as Ulmus sp. The host is retained at genus level; the dead-tree condition is ecological context and is not used to infer a species-level host.",

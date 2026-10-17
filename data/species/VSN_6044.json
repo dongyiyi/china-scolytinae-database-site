@@ -15,12 +15,23 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "福建；云南；香港；台湾",
-    "narrative": "殷蕙芬等 (1984) and 黄复生等 (2015) record Yunnan. Smith et al. (2020) confirms Yunnan and adds Fujian, Hong Kong and Taiwan. Beaver & Liu (2010) independently reports the first Taiwan record in its treatment and also gives China (SW), which is retained as broad regional wording and not expanded to provinces. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Fujian; Yunnan; Hong Kong; Taiwan",
+    "narrative": "Yin et al. (1984) and Huang & Lu (2015) record Yunnan. Smith et al. (2020) confirms Yunnan and adds Fujian, Hong Kong and Taiwan. Beaver & Liu (2010) independently reports the first Taiwan record in its treatment and also gives China (SW), which is retained as broad regional wording and not expanded to provinces. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_smith2020",
+      "src_beaverliu2010",
+      "src_lau2025"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Albizzia corniculata"
+      "scientific_name": "Albizzia corniculata",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     }
   ],
   "host_note": "Baseline host Albizzia corniculata is retained. Smith et al. (2020) adds no host in the promoted record. Beaver & Liu (2010) describes the species as polyphagous but enumerates no host taxon; no additional host is promoted.",

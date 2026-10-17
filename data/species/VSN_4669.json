@@ -15,12 +15,19 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "海南；江西；云南；台湾",
-    "narrative": "Smith et al. (2020) records Hainan, Jiangxi and Yunnan under the current Planiculus bicolor concept. Beaver & Liu (2010), under the source-specific name Planiculus laevis, records Taiwan from Nantou, Hui Son. Under the current integrated taxonomic backbone reconciliation this evidence maps to VSN_4669, so Taiwan is added to the current synthesis while the historical species-boundary treatment remains explicit."
+    "summary": "Hainan; Jiangxi; Yunnan; Taiwan",
+    "narrative": "Smith et al. (2020) records Hainan, Jiangxi and Yunnan under the current Planiculus bicolor concept. Beaver & Liu (2010), under the source-specific name Planiculus laevis, records Taiwan from Nantou, Hui Son. Under the current integrated taxonomic backbone reconciliation this evidence maps to VSN_4669, so Taiwan is added to the current synthesis while the historical species-boundary treatment remains explicit.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Cyclobalanopsis glauca"
+      "scientific_name": "Cyclobalanopsis glauca",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Species-level host Cyclobalanopsis glauca from Smith et al. (2020) is retained as published. Beaver & Liu (2010) describes Planiculus laevis as polyphagous but enumerates no host taxon in the curated field; no additional host is promoted.",

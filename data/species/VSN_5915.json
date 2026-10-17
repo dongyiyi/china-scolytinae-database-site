@@ -15,18 +15,30 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "台湾",
-    "narrative": "Beaver & Liu (2010) accepts Taiwan occurrence for the taxon treated there as Xyleborus metacuneolus. No mainland-China province is inferred from this source."
+    "summary": "Taiwan",
+    "narrative": "Beaver & Liu (2010) accepts Taiwan occurrence for the taxon treated there as Xyleborus metacuneolus. No mainland-China province is inferred from this source.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Buchanania"
+      "scientific_name": "Buchanania",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Mangifera"
+      "scientific_name": "Mangifera",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     },
     {
-      "scientific_name": "Swietenia"
+      "scientific_name": "Swietenia",
+      "reference_ids": [
+        "src_beaverliu2010"
+      ]
     }
   ],
   "host_note": "The source explicitly reports Buchanania, Mangifera and Swietenia and additionally describes the species as probably polyphagous. The three named genera are promoted at source resolution; broad polyphagy remains contextual.",

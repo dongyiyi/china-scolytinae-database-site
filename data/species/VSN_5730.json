@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "广西",
-    "narrative": "Cognato et al. (2024) reports the first China record from Guangxi, Shangsi, Shiwandashan, based on one UFFE specimen collected 27 March 2018."
+    "summary": "Guangxi",
+    "narrative": "Cognato et al. (2024) reports the first China record from Guangxi, Shangsi, Shiwandashan, based on one UFFE specimen collected 27 March 2018.",
+    "reference_ids": [
+      "src_cognatoetal2024_sueusrevision"
+    ]
   },
   "hosts": [],
   "host_note": "Hosts are unknown. The paper's statement 'presumably mycetophagous' is general biology and is not promoted as a host record.",

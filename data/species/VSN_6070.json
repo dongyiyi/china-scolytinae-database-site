@@ -15,8 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "香港",
-    "narrative": "Smith et al. (2020) describes/records the species from Hong Kong, including Shing Mun. No mainland-China occurrence is inferred. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence."
+    "summary": "Hong Kong",
+    "narrative": "Smith et al. (2020) describes/records the species from Hong Kong, including Shing Mun. No mainland-China occurrence is inferred. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
+    "reference_ids": [
+      "orig_4cb5c2c867dd",
+      "src_lau2025"
+    ]
   },
   "hosts": [],
   "host_note": "No host is reported in the promoted Smith record.",

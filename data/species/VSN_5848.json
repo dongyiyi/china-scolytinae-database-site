@@ -15,21 +15,38 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "河南；陕西；江西；四川；云南",
-    "narrative": "Mainland China is confirmed by 殷蕙芬等 (1984) and 黄复生等 (2015). 殷蕙芬等 (1984) records Henan, Shaanxi, Jiangxi, Sichuan and Yunnan; 黄复生等 (2015) retains Henan, Jiangxi, Sichuan and Yunnan and omits Shaanxi. Beaver & Liu (2010) treated the Taiwan report, based on three Shiraki specimens, as possible but requiring confirmation. Taiwan is therefore Questionable and excluded from the current distribution summary."
+    "summary": "Henan; Shaanxi; Jiangxi; Sichuan; Yunnan",
+    "narrative": "Mainland China is confirmed by Yin et al. (1984) and Huang & Lu (2015). Yin et al. (1984) records Henan, Shaanxi, Jiangxi, Sichuan and Yunnan; Huang & Lu (2015) retains Henan, Jiangxi, Sichuan and Yunnan and omits Shaanxi. Beaver & Liu (2010) treated the Taiwan report, based on three Shiraki specimens, as possible but requiring confirmation. Taiwan is therefore Questionable and excluded from the current distribution summary.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pinus massoniana"
+      "scientific_name": "Pinus massoniana",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus tabulaeformis"
+      "scientific_name": "Pinus tabulaeformis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Pinus yunnanensis"
+      "scientific_name": "Pinus yunnanensis",
+      "reference_ids": [
+        "src_ef1984",
+        "src_co2015"
+      ]
     }
   ],
-  "host_note": "Pinus massoniana, Pinus tabulaeformis and Pinus yunnanensis are supported by both 殷蕙芬等 (1984) and 黄复生等 (2015). Beaver & Liu (2010) provides no host evidence for the doubtful Taiwan record.",
+  "host_note": "Pinus massoniana, Pinus tabulaeformis and Pinus yunnanensis are supported by both Yin et al. (1984) and Huang & Lu (2015). Beaver & Liu (2010) provides no host evidence for the doubtful Taiwan record.",
   "taxonomy_summary": "The current accepted identity is Tomicus minor (Hartig, 1834).",
   "taxonomy_reference_ids": [
     "johnson2026"

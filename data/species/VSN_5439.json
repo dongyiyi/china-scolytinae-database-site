@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南",
-    "narrative": "Liao et al. (2022) provides the first China record of Scolytoplatypus ruficauda from Ailoshan, Jingdong, Yunnan."
+    "summary": "Yunnan",
+    "narrative": "Liao et al. (2022) provides the first China record of Scolytoplatypus ruficauda from Ailoshan, Jingdong, Yunnan.",
+    "reference_ids": [
+      "src_liaoetal2022_scolytoplatypuschina"
+    ]
   },
   "hosts": [],
   "host_note": "Host is not known in the source; no host is promoted.",

@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "China (NE；broad source wording)；台湾",
-    "narrative": "Beaver & Liu (2010) reports China (NE) and Taiwan. The broad northeastern-China wording supports Mainland China = Present but is not expanded into provinces; Taiwan is accepted directly."
+    "summary": "China (NE, broad source wording); Taiwan",
+    "narrative": "Beaver & Liu (2010) reports China (NE) and Taiwan. The broad northeastern-China wording supports Mainland China = Present but is not expanded into provinces; Taiwan is accepted directly.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [],
   "host_note": "The source describes the species as polyphagous but explicitly states that no hosts were recorded in Taiwan. No host taxon is promoted from this source.",

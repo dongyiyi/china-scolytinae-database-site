@@ -15,15 +15,26 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "重庆；贵州；四川；云南",
-    "narrative": "Smith et al. (2020) describes/records the species from Chongqing, Guizhou and Sichuan, including Wu Xi and Emei Shan. Smith et al. (2022) confirms those areas and adds Yunnan, with locality evidence from Yunnan, Honghe."
+    "summary": "Chongqing; Guizhou; Sichuan; Yunnan",
+    "narrative": "Smith et al. (2020) describes/records the species from Chongqing, Guizhou and Sichuan, including Wu Xi and Emei Shan. Smith et al. (2022) confirms those areas and adds Yunnan, with locality evidence from Yunnan, Honghe.",
+    "reference_ids": [
+      "orig_4cb5c2c867dd",
+      "src_smith2022"
+    ]
   },
   "hosts": [
     {
-      "scientific_name": "Pinus armandii"
+      "scientific_name": "Pinus armandii",
+      "reference_ids": [
+        "orig_4cb5c2c867dd",
+        "src_smith2022"
+      ]
     },
     {
-      "scientific_name": "Juglans regia"
+      "scientific_name": "Juglans regia",
+      "reference_ids": [
+        "src_smith2022"
+      ]
     }
   ],
   "host_note": "The current synthesis retains the existing species-level Pinus armandii host. Smith et al. (2022) reports Pinus armandi (Pinaceae) as published and adds Juglans regia (Juglandaceae); source spelling is preserved in source evidence while the promoted synthesis retains the existing normalized Pinus armandii name.",

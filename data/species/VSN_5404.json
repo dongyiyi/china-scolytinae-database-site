@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南",
-    "narrative": "Gebhardt et al. (2021) described Scolytoplatypus costatus from montane localities in Ailoshan, Jingdong, Yunnan. The source states the species is known from Yunnan above 2300 m."
+    "summary": "Yunnan",
+    "narrative": "Gebhardt et al. (2021) described Scolytoplatypus costatus from montane localities in Ailoshan, Jingdong, Yunnan. The source states the species is known from Yunnan above 2300 m.",
+    "reference_ids": [
+      "src_gebhardtetal2021_scolytoplatypusyunnan"
+    ]
   },
   "hosts": [],
   "host_note": "The original description explicitly states Host plants: Unknown. No host is promoted.",

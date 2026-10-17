@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南",
-    "narrative": "Gebhardt et al. (2021) described Scolytoplatypus geminus from high-elevation localities in Lijiang, Yunnan. The source states the species is known from Yunnan above 3000 m."
+    "summary": "Yunnan",
+    "narrative": "Gebhardt et al. (2021) described Scolytoplatypus geminus from high-elevation localities in Lijiang, Yunnan. The source states the species is known from Yunnan above 3000 m.",
+    "reference_ids": [
+      "src_gebhardtetal2021_scolytoplatypusyunnan"
+    ]
   },
   "hosts": [],
   "host_note": "The original description explicitly states Host plants: Unknown. No host is promoted.",
