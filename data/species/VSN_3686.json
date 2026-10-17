@@ -10,17 +10,18 @@
   "review_status": "Reviewed",
   "china_occurrence": {
     "Mainland China": "Present",
-    "Taiwan": "Not assessed",
+    "Taiwan": "Present",
     "Hong Kong": "Present",
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Fujian; Guizhou; Hainan; Jiangxi; Yunnan; Hong Kong",
-    "narrative": "Smith et al. (2020) describes/records the species from Hong Kong, Tai Po Kau. Lau (2025) independently supports Hong Kong occurrence. Smith et al. (2022) records Fujian, Guizhou, Hainan, Hong Kong, Jiangxi and Yunnan, with locality evidence from Longyan City, Guiyang, Qiongzhong/Jinping, Honghe and Wenshan, thereby adding mainland China records.",
+    "summary": "Fujian; Guizhou; Hainan; Jiangxi; Yunnan; Hong Kong; Taiwan",
+    "narrative": "Smith et al. (2020) describes/records the species from Hong Kong, Tai Po Kau. Lau (2025) independently supports Hong Kong occurrence. Smith et al. (2022) records Fujian, Guizhou, Hainan, Hong Kong, Jiangxi and Yunnan, with locality evidence from Longyan City, Guiyang, Qiongzhong/Jinping, Honghe and Wenshan, thereby adding mainland China records. Lin & Smith (2024) records Microperus latesalebrinus as new to Taiwan. This is a Taiwan-level record; no county-level locality or additional host is inferred.",
     "reference_ids": [
       "src_smith2022",
       "src_lau2025",
-      "src_smith2020"
+      "src_smith2020",
+      "src_linsmith2024_microperustaiwan"
     ]
   },
   "hosts": [
@@ -110,6 +111,16 @@
       ],
       "citation": "Smith, S.M., Beaver, R.A., Pham, T.H. & Cognato, A.I. (2022). New species and new records of Xyleborini from the Oriental region, Japan and Papua New Guinea (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5209(1): 1–33.",
       "doi": "10.11646/zootaxa.5209.1.1"
+    },
+    {
+      "id": "src_linsmith2024_microperustaiwan",
+      "label": "Lin & Smith, 2024",
+      "role": [
+        "distribution evidence",
+        "new country record"
+      ],
+      "citation": "Lin, C.S. & Smith, S.M. (2024). Review of the genus Microperus Wood, 1980 of Taiwan. Taiwania 69(2): 151–167.",
+      "doi": "10.6165/tai.2024.69.151"
     }
   ],
   "recommended_chinese_name": "宽道小材小蠹",
