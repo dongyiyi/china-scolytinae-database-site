@@ -1,0 +1,87 @@
+{
+  "vsn": "VSN_1618",
+  "scientific_name": "Craniodicticus cinnamomi",
+  "authorship": "Lin & Beaver, 2023",
+  "chinese_name": "肉桂异翅拟长小蠹",
+  "genus": "Craniodicticus",
+  "subfamily": "Scolytinae",
+  "tribe": "Carphodicticini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Taiwan (Nantou County, Ren'ai Township)",
+    "narrative": "Lin & Beaver (2023: 129) described Craniodicticus cinnamomi from Taiwan based on specimens collected from unhealthy branches and twigs of Cinnamomum insulari-montanum. The holotype male was collected at Ren'ai Township, Nantou County, Taiwan (1,204 m elevation), on 19 November 2022. This original-description evidence supports Taiwan occurrence; no occurrence in mainland China is inferred.",
+    "reference_ids": [
+      "src_linbeaver2023_craniodicticustaiwan"
+    ]
+  },
+  "hosts": [
+    {
+      "scientific_name": "Cinnamomum insulari-montanum",
+      "reference_ids": [
+        "src_linbeaver2023_craniodicticustaiwan"
+      ]
+    }
+  ],
+  "host_note": "The original description explicitly reports specimens from unhealthy branches and twigs of Cinnamomum insulari-montanum (Lauraceae). Adults and galleries were observed in the host material; the authors described the species as phloeophagous and harem polygynous (Lin & Beaver, 2023: 129, 131–133).",
+  "taxonomy_summary": "The current accepted identity is Craniodicticus cinnamomi Lin & Beaver, 2023, described as a new species from Taiwan.",
+  "taxonomy_reference_ids": [
+    "johnson2026",
+    "src_linbeaver2023_craniodicticustaiwan"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2023",
+      "event": "Original description (current accepted)",
+      "name": "Craniodicticus cinnamomi",
+      "authorship": "Lin & Beaver, 2023",
+      "note": "Described as a new species in Lin & Beaver (2023: 129), with a type locality in Nantou County, Taiwan.",
+      "reference_ids": [
+        "src_linbeaver2023_craniodicticustaiwan",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "The original description published the Chinese name 肉桂異翅擬長小蠹 (Lin & Beaver, 2023: 129); the simplified Chinese display name is 肉桂异翅拟长小蠹. Existing taxonomic backbone identity VSN_1618 is retained.",
+  "nomenclature_note_reference_ids": [
+    "src_linbeaver2023_craniodicticustaiwan"
+  ],
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_linbeaver2023_craniodicticustaiwan",
+      "label": "Lin & Beaver, 2023",
+      "role": [
+        "published evidence",
+        "original description",
+        "distribution evidence",
+        "host evidence",
+        "nomenclatural source"
+      ],
+      "citation": "Lin, C.-S. & Beaver, R.A. (2023). A new species of Craniodicticus Blandford (Coleoptera: Curculionidae: Scolytinae: Carphodicticini) from Taiwan, with notes on its biology. Taiwania 68(2): 129–134.",
+      "doi": "10.6165/tai.2023.68.129"
+    }
+  ],
+  "recommended_chinese_name": "肉桂异翅拟长小蠹",
+  "former_chinese_names": []
+}

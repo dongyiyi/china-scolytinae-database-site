@@ -1265,6 +1265,19 @@
     "former_chinese_names": []
   },
   {
+    "vsn": "VSN_1618",
+    "scientific_name": "Craniodicticus cinnamomi",
+    "authorship": "Lin & Beaver, 2023",
+    "chinese_name": "肉桂异翅拟长小蠹",
+    "genus": "Craniodicticus",
+    "subfamily": "Scolytinae",
+    "tribe": "Carphodicticini",
+    "checklist_status": "Accepted",
+    "review_status": "Reviewed",
+    "recommended_chinese_name": "肉桂异翅拟长小蠹",
+    "former_chinese_names": []
+  },
+  {
     "vsn": "VSN_1620",
     "scientific_name": "Craniodicticus mucronatus",
     "authorship": "Blandford, 1895",
