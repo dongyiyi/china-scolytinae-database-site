@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "The only source evidence retained here is a single Taiwan specimen. Because Beaver & Liu (2010) explicitly questions whether S. nakanei is distinct from S. chikisanii, Taiwan occurrence is assessed as Questionable pending taxonomic resolution."
+    "narrative": "The only source evidence retained here is a single Taiwan specimen. Because Beaver & Liu (2010) explicitly questions whether S. nakanei is distinct from S. chikisanii, Taiwan occurrence is assessed as Questionable pending taxonomic resolution.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [],
   "host_note": "Host is reported as unknown; no host is promoted.",

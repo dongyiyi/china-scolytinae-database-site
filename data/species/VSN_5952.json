@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "Beaver & Liu (2010) noted records from Japan, Mongolia, the Russian Far East and possibly Korea but could trace no Taiwan record; the historical Taiwan attribution is retained as doubtful only."
+    "narrative": "Beaver & Liu (2010) noted records from Japan, Mongolia, the Russian Far East and possibly Korea but could trace no Taiwan record; the historical Taiwan attribution is retained as doubtful only.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [],
   "host_note": "No host evidence is reported for this doubtful Taiwan record.",
