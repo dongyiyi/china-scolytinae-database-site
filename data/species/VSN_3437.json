@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Heilongjiang; Jilin; Xinjiang",
-    "narrative": "Baseline and Wang et al. (2021) agree on Heilongjiang, Jilin and Xinjiang at province level. Wang et al. provides multiple sampled localities but does not expand the province-level synthesis.",
+    "summary": "Heilongjiang; Jilin; Xinjiang; Gansu; Henan; Inner Mongolia; Qinghai",
+    "narrative": "Baseline and Wang et al. (2021) agree on Heilongjiang, Jilin and Xinjiang at province level. Wang et al. provides multiple sampled localities but does not expand the province-level synthesis. Alonso-Zarazaga et al. (2023) list Gansu, Henan, Inner Mongolia, Qinghai as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_wangetal2021",
       "src_co2015",
-      "src_ef1984"
+      "src_ef1984",
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
     ]
   },
   "hosts": [
@@ -189,6 +190,14 @@
         "nomenclatural source"
       ],
       "citation": "Linnaeus, C. (1758). Systema Naturae per regna tria naturae, secundum classes, ordines, genera, species, cum caracteribus, differentiis, synonymis. Tomus I. Edition decima, reformata. Laurentii Salvii, Holmiae vi + 824 + [1] pp."
+    },
+    {
+      "id": "src_alonsozarazagaetal2023_palaearcticcatalogue2ed",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Bouchard, P., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
     }
   ],
   "recommended_chinese_name": "云杉八齿小蠹",

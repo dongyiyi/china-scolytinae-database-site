@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Heilongjiang; Jilin; Liaoning; Taiwan",
-    "narrative": "Yin et al. (1984) and Huang & Lu (2015) consistently report Heilongjiang; Jilin; Liaoning. Beaver & Liu (2010) adds Taiwan and gives broad China; Taiwan. No additional mainland province is inferred from the broad China wording.",
+    "summary": "Heilongjiang; Jilin; Liaoning; Taiwan; Shaanxi; Shandong; Sichuan",
+    "narrative": "Yin et al. (1984) and Huang & Lu (2015) consistently report Heilongjiang; Jilin; Liaoning. Beaver & Liu (2010) adds Taiwan and gives broad China; Taiwan. No additional mainland province is inferred from the broad China wording. Alonso-Zarazaga et al. (2023) list Shaanxi, Shandong, Sichuan as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_beaverliu2010",
       "src_co2015",
-      "src_ef1984"
+      "src_ef1984",
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
     ]
   },
   "hosts": [
@@ -186,6 +187,14 @@
         "nomenclatural source"
       ],
       "citation": "Murayama, J.J. (1940). Nouvelle note sur les Scolytides du Manchoukuo. Annotationes Zoologicae Japonenses 19(3): 229–237."
+    },
+    {
+      "id": "src_alonsozarazagaetal2023_palaearcticcatalogue2ed",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Bouchard, P., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
     }
   ],
   "recommended_chinese_name": "红松根小蠹",

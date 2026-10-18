@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Sichuan; Fujian; Anhui; Zhejiang; Guizhou; Yunnan; Taiwan",
-    "narrative": "Yin et al. (1984) records Sichuan (Emei Shan and Leibo) and Fujian (Nanping, Sanming and Yongchun). Huang & Lu (2015) additionally reports Anhui, Zhejiang, Guizhou and Yunnan. Beaver & Liu (2010) reports Taiwan and broad mainland China regions (CE, NO, SE, SW), which are not expanded into provinces.",
+    "summary": "Sichuan; Fujian; Anhui; Zhejiang; Guizhou; Yunnan; Taiwan; Henan; Hunan; Shanxi",
+    "narrative": "Yin et al. (1984) records Sichuan (Emei Shan and Leibo) and Fujian (Nanping, Sanming and Yongchun). Huang & Lu (2015) additionally reports Anhui, Zhejiang, Guizhou and Yunnan. Beaver & Liu (2010) reports Taiwan and broad mainland China regions (CE, NO, SE, SW), which are not expanded into provinces. Alonso-Zarazaga et al. (2023) list Henan, Hunan, Shanxi as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015",
-      "src_beaverliu2010"
+      "src_beaverliu2010",
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
     ]
   },
   "hosts": [
@@ -143,6 +144,14 @@
         "nomenclatural source"
       ],
       "citation": "Chapuis, F. & Eichhoff, W.J. (1876). Scolytides recueillis au Japon par M. C. Lewis [cont.]. Annales de la Société Entomologique de Belgique 18: 197–204."
+    },
+    {
+      "id": "src_alonsozarazagaetal2023_palaearcticcatalogue2ed",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Bouchard, P., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
     }
   ],
   "recommended_chinese_name": "罗汉肤小蠹",

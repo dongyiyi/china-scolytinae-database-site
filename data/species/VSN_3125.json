@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Heilongjiang; Liaoning; Shaanxi; Sichuan; Yunnan",
-    "narrative": "Yin et al. (1984) and Huang & Lu (2015) confirm mainland records under the historical treatments Hylurgops longipilis and Hylurgops likiangensis, together covering Heilongjiang, Liaoning, Shaanxi, Sichuan and Yunnan. Beaver & Liu (2010) could trace no Taiwanese source for Hylurgops longipilus and retained Taiwan as doubtful. Taiwan is therefore Questionable and excluded from the current distribution summary.",
+    "summary": "Heilongjiang; Liaoning; Shaanxi; Sichuan; Yunnan; Gansu; Guangxi; Shanxi",
+    "narrative": "Yin et al. (1984) and Huang & Lu (2015) confirm mainland records under the historical treatments Hylurgops longipilis and Hylurgops likiangensis, together covering Heilongjiang, Liaoning, Shaanxi, Sichuan and Yunnan. Beaver & Liu (2010) could trace no Taiwanese source for Hylurgops longipilus and retained Taiwan as doubtful. Taiwan is therefore Questionable and excluded from the current distribution summary. Alonso-Zarazaga et al. (2023) list Gansu, Guangxi, Shanxi, Yunnan as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_beaverliu2010",
       "src_co2015",
-      "src_ef1984"
+      "src_ef1984",
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
     ]
   },
   "hosts": [
@@ -177,6 +178,14 @@
         "nomenclatural source"
       ],
       "citation": "Eggers, H. (1941d). Zur paläarktischen Borkenkäferfauna VI. Stettiner Entomologische Zeitung 102: 119–124."
+    },
+    {
+      "id": "src_alonsozarazagaetal2023_palaearcticcatalogue2ed",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Bouchard, P., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
     }
   ],
   "recommended_chinese_name": "长毛干小蠹",

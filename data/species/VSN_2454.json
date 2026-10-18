@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Sichuan; Fujian; Hainan; Guangxi; Yunnan; Xizang; Taiwan",
-    "narrative": "Huang & Lu (2015) reports Sichuan, Fujian, Hainan, Guangxi, Yunnan and Xizang under the historical species usage Dryocoetiops coffeae. Beaver & Liu (2010) separately reports Taiwan under the same historical usage. Beaver et al. (2019), using the current accepted name Dryocoetiops moestus, independently reports Sichuan, Yunnan and Taiwan, supporting a subset of the already reviewed distribution rather than replacing the earlier records.",
+    "summary": "Sichuan; Fujian; Hainan; Guangxi; Yunnan; Xizang; Taiwan; Chongqing",
+    "narrative": "Huang & Lu (2015) reports Sichuan, Fujian, Hainan, Guangxi, Yunnan and Xizang under the historical species usage Dryocoetiops coffeae. Beaver & Liu (2010) separately reports Taiwan under the same historical usage. Beaver et al. (2019), using the current accepted name Dryocoetiops moestus, independently reports Sichuan, Yunnan and Taiwan, supporting a subset of the already reviewed distribution rather than replacing the earlier records. Alonso-Zarazaga et al. (2023) list Chongqing as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_co2015",
       "src_beaverliu2010",
-      "src_beaveretal2019_dryocoetiopsreview"
+      "src_beaveretal2019_dryocoetiopsreview",
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
     ]
   },
   "hosts": [
@@ -312,6 +313,14 @@
         "nomenclatural source"
       ],
       "citation": "Murayama, J.J. (1957b). Dryocoetinae (Coleoptera, Ipidae) from the northern half of the Far East. Bulletin of the Faculty of Agriculture, Yamaguchi University 8: 587–632."
+    },
+    {
+      "id": "src_alonsozarazagaetal2023_palaearcticcatalogue2ed",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Bouchard, P., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
     }
   ],
   "recommended_chinese_name": "咖啡似毛小蠹",

@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Jilin; Liaoning; Inner Mongolia; Beijing; Hebei; Shaanxi; Sichuan; Taiwan",
-    "narrative": "Yin et al. (1984) and Huang & Lu (2015) establish mainland records from Jilin, Liaoning, Inner Mongolia, Beijing, Hebei, Shaanxi, Sichuan. Beaver & Liu (2010) adds accepted Taiwan occurrence and reports broad China (CE, NE, NO, SW); the broad regional wording is retained as context and does not generate additional province records.",
+    "summary": "Jilin; Liaoning; Inner Mongolia; Beijing; Hebei; Shaanxi; Sichuan; Taiwan; Chongqing; Heilongjiang; Shanxi; Shanghai",
+    "narrative": "Yin et al. (1984) and Huang & Lu (2015) establish mainland records from Jilin, Liaoning, Inner Mongolia, Beijing, Hebei, Shaanxi, Sichuan. Beaver & Liu (2010) adds accepted Taiwan occurrence and reports broad China (CE, NE, NO, SW); the broad regional wording is retained as context and does not generate additional province records. Alonso-Zarazaga et al. (2023) list Chongqing, Heilongjiang, Shanxi, Shanghai as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015",
-      "src_beaverliu2010"
+      "src_beaverliu2010",
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
     ]
   },
   "hosts": [
@@ -258,6 +259,14 @@
         "nomenclatural source"
       ],
       "citation": "Eggers, H. (1922a). Seltene und neue paläarktische Borkenkäfer, III. Entomologische Blätter 18: 12–18."
+    },
+    {
+      "id": "src_alonsozarazagaetal2023_palaearcticcatalogue2ed",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Bouchard, P., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
     }
   ],
   "recommended_chinese_name": "果树小蠹",

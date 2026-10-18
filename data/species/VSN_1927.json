@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Heilongjiang",
-    "narrative": "Yin et al. (1984) recorded Heilongjiang (Yichun). Huang & Lu (2015) recorded Heilongjiang. These are literature-based occurrence records; the checklist occurrence review has not yet been completed.",
+    "summary": "Heilongjiang; Liaoning",
+    "narrative": "Yin et al. (1984) recorded Heilongjiang (Yichun). Huang & Lu (2015) recorded Heilongjiang. These are literature-based occurrence records; the checklist occurrence review has not yet been completed. Alonso-Zarazaga et al. (2023) list Liaoning as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_ef1984",
-      "src_co2015"
+      "src_co2015",
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
     ]
   },
   "hosts": [
@@ -109,6 +110,14 @@
         "nomenclatural source"
       ],
       "citation": "Roubal, J. (1910). K faune zheskokrylykh Litvy. Russkoe Entomologicheskoe Obozrenie [Revue Russe D’Entomologie] 10: 195–2014."
+    },
+    {
+      "id": "src_alonsozarazagaetal2023_palaearcticcatalogue2ed",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Bouchard, P., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
     }
   ],
   "recommended_chinese_name": "松微小蠹",

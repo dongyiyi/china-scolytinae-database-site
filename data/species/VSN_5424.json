@@ -15,10 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Sichuan; Yunnan",
-    "narrative": "Liao et al. (2022) provides the first China records of Scolytoplatypus minimus from Sichuan and Yunnan.",
+    "summary": "Sichuan; Yunnan; Taiwan",
+    "narrative": "Liao et al. (2022) provides the first China records of Scolytoplatypus minimus from Sichuan and Yunnan. Alonso-Zarazaga et al. (2023) list Taiwan as catalogue-reported Taiwan distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
-      "src_liaoetal2022_scolytoplatypuschina"
+      "src_liaoetal2022_scolytoplatypuschina",
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
     ]
   },
   "hosts": [
@@ -80,6 +81,14 @@
         "nomenclatural source"
       ],
       "citation": "Hagedorn, J.M. (1904b). Enumeratio Scolytidarum e Sikkim et Japan natarum Musei historiconaturalis Parisiorum, quas dominus J. Harmand annis 1890 et 1901 collegit descriptionibus specierum novarum adjectis. Bulletin du Muséum d'Histoire Naturelle de Paris 10: 122–126."
+    },
+    {
+      "id": "src_alonsozarazagaetal2023_palaearcticcatalogue2ed",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Bouchard, P., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
     }
   ],
   "recommended_chinese_name": "小锉小蠹",

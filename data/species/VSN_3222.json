@@ -15,10 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Hebei; Henan; Shaanxi; Yunnan",
-    "narrative": "Huang & Lu (2015) reported Hebei, Henan, Shaanxi, Yunnan. These are literature-based records; Mainland China remains Candidate pending occurrence review.",
+    "summary": "Hebei; Henan; Shaanxi; Yunnan; Anhui; Gansu; Guizhou; Hubei; Jiangsu; Liaoning; Sichuan; Shandong; Shanxi",
+    "narrative": "Huang & Lu (2015) reported Hebei, Henan, Shaanxi, Yunnan. These are literature-based records; Mainland China remains Candidate pending occurrence review. Alonso-Zarazaga et al. (2023) list Anhui, Gansu, Guizhou, Hubei, Jiangsu, Liaoning, Sichuan, Shandong, Shanxi as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
-      "src_co2015"
+      "src_co2015",
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
     ]
   },
   "hosts": [
@@ -249,6 +250,14 @@
         "nomenclatural source"
       ],
       "citation": "Eichhoff, W.J. (1878b). Ratio, descriptio, emendatio eorum Tomicinorum qui sunt in Dr. Medin. Chapuisi et autoris ipsius collectionilbus et quos praeterea recognovit. Mémoires de la Société Royale des Sciences de Liège 8(2): 1–531."
+    },
+    {
+      "id": "src_alonsozarazagaetal2023_palaearcticcatalogue2ed",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Bouchard, P., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
     }
   ],
   "recommended_chinese_name": "核桃咪小蠹",

@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Hebei; Shanxi; Anhui; Hunan; Sichuan",
-    "narrative": "Yin et al. (1984) report Qinhuangdao and Shexian (Hebei), Huoxian (Shanxi), Chuxian (Anhui), Chengbu (Hunan), and Tianquan (Sichuan). Huang & Lu (2015) list the same five provincial-level regions. Historical county names are retained in transliteration pending any administrative-name update. The regional occurrence assessment remains unchanged.",
+    "summary": "Hebei; Shanxi; Anhui; Hunan; Sichuan; Beijing; Heilongjiang; Henan; Shaanxi",
+    "narrative": "Yin et al. (1984) report Qinhuangdao and Shexian (Hebei), Huoxian (Shanxi), Chuxian (Anhui), Chengbu (Hunan), and Tianquan (Sichuan). Huang & Lu (2015) list the same five provincial-level regions. Historical county names are retained in transliteration pending any administrative-name update. The regional occurrence assessment remains unchanged. Alonso-Zarazaga et al. (2023) list Beijing, Heilongjiang, Henan, Shaanxi as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_ef1984",
-      "src_co2015"
+      "src_co2015",
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
     ]
   },
   "hosts": [
@@ -98,6 +99,14 @@
         "nomenclatural source"
       ],
       "citation": "Stebbing, E.P. (1906). Departmental notes on insects that affect forestry. No. 3. Office of the Superintendent of Government Printing, Calcutta 335–469, Pls XX–XXVII."
+    },
+    {
+      "id": "src_alonsozarazagaetal2023_palaearcticcatalogue2ed",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Bouchard, P., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
     }
   ],
   "recommended_chinese_name": "黄须球小蠹",

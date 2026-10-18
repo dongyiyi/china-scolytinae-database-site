@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Heilongjiang; Jilin; Liaoning; Xinjiang",
-    "narrative": "Baseline records support Heilongjiang and Jilin; Wang et al. (2021) adds Liaoning and Xinjiang. The synthesis is the union of validated source evidence.",
+    "summary": "Heilongjiang; Jilin; Liaoning; Xinjiang; Henan; Inner Mongolia; Shaanxi; Shandong; Shanxi",
+    "narrative": "Baseline records support Heilongjiang and Jilin; Wang et al. (2021) adds Liaoning and Xinjiang. The synthesis is the union of validated source evidence. Alonso-Zarazaga et al. (2023) list Henan, Inner Mongolia, Shaanxi, Shandong, Shanxi as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_wangetal2021",
       "src_co2015",
-      "src_ef1984"
+      "src_ef1984",
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
     ]
   },
   "hosts": [
@@ -138,6 +139,14 @@
         "nomenclatural source"
       ],
       "citation": "Motschulsky, V. de (1860). Coléoptères rapportés de la Sibérie orientale et notamment des pays situés sur les bords du fleuve Amour par MM. Schrenck, Maack, Ditmar, Voznessenski etc. In: Schrenck, L. von (Ed.), Reisen und Forschungen im Amur-Lande in den Jahren 1854–1856 im Auftrage der Kaiserlichen Akademie der Wissenschaften zu St. Petersburg ausgeführt und in Verbindung mit mehreren Gelehrten herausgegeben. Band II. Zweite Lieferung. Coleopteren. Eggers & Comp., St. Petersburg, 80–257 + [1] pp., pls. VI–XI, 1 map."
+    },
+    {
+      "id": "src_alonsozarazagaetal2023_palaearcticcatalogue2ed",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Bouchard, P., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. 2nd edition. Monografías electrónicas S.E.A., 14: 1–780."
     }
   ],
   "recommended_chinese_name": "落叶松八齿小蠹",
