@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "Taiwan (doubtful)",
-    "narrative": "Beaver & Liu (2010) treated Browne's imported-timber record as requiring confirmation. Although the species is widespread in the Oriental/Pacific region, Taiwanese occurrence was not confirmed."
+    "narrative": "Beaver & Liu (2010) treated Browne's imported-timber record as requiring confirmation. Although the species is widespread in the Oriental/Pacific region, Taiwanese occurrence was not confirmed.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [],
   "host_note": "No host evidence is reported for this doubtful Taiwan record.",

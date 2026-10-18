@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "台湾（存疑）",
-    "narrative": "Beaver & Liu (2010) treated the Miwa Taiwan record as doubtful, likely based on Shiraki material. The species was described from Sri Lanka and was not otherwise known in their treatment."
+    "summary": "Taiwan (doubtful)",
+    "narrative": "Beaver & Liu (2010) treated the Miwa Taiwan record as doubtful, likely based on Shiraki material. The species was described from Sri Lanka and was not otherwise known in their treatment.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [],
   "host_note": "No host evidence is reported for this doubtful Taiwan record.",

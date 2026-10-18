@@ -15,8 +15,8 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "陕西；四川",
-    "narrative": "殷蕙芬等 (1984) recorded 陕西（宁陕，石泉，沔县，黎坪），四川（城口，万源，南江）. 黄复生等 (2015) recorded 陕西，四川. These are literature-based occurrence records; the checklist occurrence review has not yet been completed.",
+    "summary": "Shaanxi; Sichuan",
+    "narrative": "Yin et al. (1984) recorded Shaanxi (Ningshan, Shiquan, Mian County, Liping), Sichuan (Chengkou, Wanyuan, Nanjiang). Huang & Lu (2015) recorded Shaanxi, Sichuan. These are literature-based occurrence records; the checklist occurrence review has not yet been completed.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015"
@@ -40,7 +40,7 @@
       "chinese_name": "油松"
     }
   ],
-  "host_note": "殷蕙芬等 (1984) reported these hosts, and 黄复生等 (2015) repeated the same host names. The records have not yet undergone independent host review.",
+  "host_note": "Yin et al. (1984) reported these hosts, and Huang & Lu (2015) repeated the same host names. The records have not yet undergone independent host review.",
   "taxonomy_summary": "The current accepted identity is Dendroctonus armandi Tsai & Li, 1959.",
   "taxonomy_reference_ids": [
     "johnson2026"

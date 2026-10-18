@@ -15,8 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "台湾（存疑）",
-    "narrative": "Beaver & Liu (2010) treated the historical Taiwan attribution as doubtful. The species was otherwise known from the Philippines; a single Shiraki specimen labelled Kankau (Pingtung) was considered insufficient confirmation. No confirmed Taiwan occurrence is promoted."
+    "summary": "Taiwan (doubtful)",
+    "narrative": "Beaver & Liu (2010) treated the historical Taiwan attribution as doubtful. The species was otherwise known from the Philippines; a single Shiraki specimen labelled Kankau (Pingtung) was considered insufficient confirmation. No confirmed Taiwan occurrence is promoted.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [],
   "host_note": "No host evidence is reported for this doubtful Taiwan record; no host is promoted from Beaver & Liu (2010).",

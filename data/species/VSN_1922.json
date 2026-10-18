@@ -15,8 +15,8 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "黑龙江",
-    "narrative": "殷蕙芬等 (1984) recorded 黑龙江（伊春）. 黄复生等 (2015) recorded 黑龙江. These are literature-based occurrence records; the checklist occurrence review has not yet been completed.",
+    "summary": "Heilongjiang",
+    "narrative": "Yin et al. (1984) recorded Heilongjiang (Yichun). Huang & Lu (2015) recorded Heilongjiang. These are literature-based occurrence records; the checklist occurrence review has not yet been completed.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015"
@@ -40,7 +40,7 @@
       "chinese_name": "鱼鳞松"
     }
   ],
-  "host_note": "殷蕙芬等 (1984) reported these hosts, and 黄复生等 (2015) repeated the same host names. The records have not yet undergone independent host review.",
+  "host_note": "Yin et al. (1984) reported these hosts, and Huang & Lu (2015) repeated the same host names. The records have not yet undergone independent host review.",
   "taxonomy_summary": "The current accepted identity is Crypturgus cinereus (Herbst, 1793).",
   "taxonomy_reference_ids": [
     "johnson2026"

@@ -15,8 +15,8 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "四川；云南；西藏",
-    "narrative": "殷蕙芬等 (1984) recorded 四川（德昌），云南（丽江）. 黄复生等 (2015) recorded 四川，云南，西藏. These are literature-based occurrence records; the checklist occurrence review has not yet been completed.",
+    "summary": "Sichuan; Yunnan; Xizang",
+    "narrative": "Yin et al. (1984) recorded Sichuan (Dechang), Yunnan (Lijiang). Huang & Lu (2015) recorded Sichuan, Yunnan, Xizang. These are literature-based occurrence records; the checklist occurrence review has not yet been completed.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015"
@@ -48,7 +48,7 @@
       "chinese_name": "云南松"
     }
   ],
-  "host_note": "殷蕙芬等 (1984) reported these hosts, and 黄复生等 (2015) repeated the same host names. The records have not yet undergone independent host review.",
+  "host_note": "Yin et al. (1984) reported these hosts, and Huang & Lu (2015) repeated the same host names. The records have not yet undergone independent host review.",
   "taxonomy_summary": "The current accepted identity is Hylastes techangensis Tsai & Huang, 1964.",
   "taxonomy_reference_ids": [
     "johnson2026"

@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "Taiwan (doubtful)",
-    "narrative": "Beaver & Liu (2010) treated Browne's imported-timber record as doubtful; the species is Pacific/Philippine in distribution and was not confirmed from Taiwan."
+    "narrative": "Beaver & Liu (2010) treated Browne's imported-timber record as doubtful; the species is Pacific/Philippine in distribution and was not confirmed from Taiwan.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [],
   "host_note": "No host evidence is reported for this doubtful Taiwan record.",

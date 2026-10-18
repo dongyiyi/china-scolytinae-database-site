@@ -15,8 +15,8 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "四川",
-    "narrative": "殷蕙芬等 (1984) recorded 四川（刷经寺）. 黄复生等 (2015) recorded 四川. These are literature-based occurrence records; the checklist occurrence review has not yet been completed.",
+    "summary": "Sichuan",
+    "narrative": "Yin et al. (1984) recorded Sichuan (Shuajingsi). Huang & Lu (2015) recorded Sichuan. These are literature-based occurrence records; the checklist occurrence review has not yet been completed.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015"
@@ -32,7 +32,7 @@
       "chinese_name": "云杉"
     }
   ],
-  "host_note": "殷蕙芬等 (1984) reported these hosts, and 黄复生等 (2015) repeated the same host names. The records have not yet undergone independent host review.",
+  "host_note": "Yin et al. (1984) reported these hosts, and Huang & Lu (2015) repeated the same host names. The records have not yet undergone independent host review.",
   "taxonomy_summary": "The current accepted identity is Hylastes cunicularius Erichson, 1836.",
   "taxonomy_reference_ids": [
     "johnson2026"
