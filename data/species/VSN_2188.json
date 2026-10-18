@@ -6,19 +6,20 @@
   "genus": "Dactylipalpus",
   "subfamily": "Scolytinae",
   "tribe": "Hylesinini",
-  "checklist_status": "Questionable",
+  "checklist_status": "Accepted",
   "review_status": "Reviewed",
   "china_occurrence": {
-    "Mainland China": "Not assessed",
+    "Mainland China": "Present",
     "Taiwan": "Questionable",
     "Hong Kong": "Not assessed",
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Taiwan (doubtful)",
-    "narrative": "Beaver & Liu (2010) treated the historical Taiwan attribution as doubtful; Miwa (1931) was probably based on Shiraki material. No confirmed Taiwan occurrence is promoted.",
+    "summary": "Yunnan; Taiwan (historical, doubtful)",
+    "narrative": "Lin & Li (2025) documented Dactylipalpus transversus from specimens collected in Yunnan (Xishuangbanna, Jinghong, Jinuo Mountains), constituting the first confirmed record of this genus and species from mainland China. The historical Taiwan record remains doubtful according to Beaver & Liu (2010); this new mainland record does not confirm occurrence in Taiwan.",
     "reference_ids": [
-      "src_beaverliu2010"
+      "src_beaverliu2010",
+      "src_linli2025_dactylipalpuschina"
     ]
   },
   "hosts": [],
@@ -85,6 +86,16 @@
         "nomenclatural source"
       ],
       "citation": "Chapuis, F. (1869). Synopsis des Scolytides. (Prodrome d’un travail monographique). J. Desoer, Liège 61 pp."
+    },
+    {
+      "id": "src_linli2025_dactylipalpuschina",
+      "label": "Lin & Li, 2025",
+      "role": [
+        "published evidence",
+        "distribution evidence"
+      ],
+      "citation": "Lin, W. & Li, Y. (2025). The first record of the genus Dactylipalpus Chapuis and the species Dactylipalpus transversus Chapuis (Coleoptera: Curculionidae: Scolytinae) from China. The Indochina Entomologist 1(79): 791–796.",
+      "doi": "10.70590/ice.2025.01.79"
     }
   ],
   "recommended_chinese_name": "窗胸宽小蠹",

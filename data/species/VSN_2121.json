@@ -15,13 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Henan; Shaanxi; Jiangsu; Jiangxi; Hunan; Sichuan; Fujian; Guangdong; Guangxi; Yunnan; Chongqing; Hainan; Taiwan; Hong Kong",
-    "narrative": "Yin et al. (1984), under Dryocoetes luteus, documents Henan (Xinyang), Shaanxi (Shiquan), Jiangsu (Nanjing), Jiangxi (Yiyang), Hunan (Changsha, Qidong, Jianghua, Chengbu), Sichuan (historical Chongqing locality), Fujian (Hua'an), Guangdong (Guangzhou), Guangxi (Yangshuo) and Yunnan (Lijiang, Yongsheng, Simao, Xishuangbanna). Huang et al. (2015) repeats the mainland baseline and additionally lists Chongqing and Hainan; this repetition is not independent field confirmation. Beaver & Liu (2010) reports Taiwan plus broad China regions, without adding province-level records. Lau (2025) supplies secondary Hong Kong checklist evidence.",
+    "summary": "Henan; Shaanxi; Shandong; Jiangsu; Jiangxi; Hunan; Sichuan; Fujian; Guangdong; Guangxi; Yunnan; Chongqing; Hainan; Taiwan; Hong Kong",
+    "narrative": "Yin et al. (1984), under Dryocoetes luteus, documents Henan (Xinyang), Shaanxi (Shiquan), Jiangsu (Nanjing), Jiangxi (Yiyang), Hunan (Changsha, Qidong, Jianghua, Chengbu), Sichuan (historical Chongqing locality), Fujian (Hua'an), Guangdong (Guangzhou), Guangxi (Yangshuo) and Yunnan (Lijiang, Yongsheng, Simao, Xishuangbanna). Huang et al. (2015) repeats the mainland baseline and additionally lists Chongqing and Hainan; this repetition is not independent field confirmation. Beaver & Liu (2010) reports Taiwan plus broad China regions, without adding province-level records. Lau (2025) supplies secondary Hong Kong checklist evidence. Wang et al. (2023) additionally reported Cyrtogenius luteus damaging black pine in Qingdao, Shandong; the Shandong report is not inferred from the older 1984/2015 syntheses.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015",
       "src_beaverliu2010",
-      "src_lau2025"
+      "src_lau2025",
+      "src_wangetal2023_cyrtogeniusluteusqingdao"
     ]
   },
   "hosts": [
@@ -210,6 +211,15 @@
         "nomenclatural source"
       ],
       "citation": "Schedl, K.E. (1952h). Formosan Scolytoidea, I. lll Contribution to the morphology and taxonomy of the Scolytoidea. Philippine Journal of Science 81(1): 61–65."
+    },
+    {
+      "id": "src_wangetal2023_cyrtogeniusluteusqingdao",
+      "label": "Wang et al., 2023",
+      "role": [
+        "published evidence",
+        "distribution evidence"
+      ],
+      "citation": "王子豪, 王婷婷, 曹鹏, 等. 2023. 青岛发现危害黑松新害虫——松曲毛小蠹 Cyrtogenius luteus (Blandford). 生物安全学报 32(1): 74–79."
     }
   ],
   "recommended_chinese_name": "额毛小蠹",
