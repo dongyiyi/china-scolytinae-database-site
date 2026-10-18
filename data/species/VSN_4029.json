@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "Ning et al. (2025) described Phloeosinus metasequoiae from Hubei, China. Its taxonomic distinction from Phloeosinus rudis remains under review; no synonymy is accepted here. The checklist occurrence status remains Questionable."
+    "narrative": "Ning et al. (2025) described Phloeosinus metasequoiae from Hubei, China. Its taxonomic distinction from Phloeosinus rudis remains under review; no synonymy is accepted here. The checklist occurrence status remains Questionable.",
+    "reference_ids": [
+      "orig_6e07309f4ed9"
+    ]
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",

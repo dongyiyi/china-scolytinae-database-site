@@ -21,14 +21,7 @@
       "src_beaverliu2010"
     ]
   },
-  "hosts": [
-    {
-      "scientific_name": "Polyphagous"
-    },
-    {
-      "scientific_name": "stems including bamboo and rattans, and seeds"
-    }
-  ],
+  "hosts": [],
   "host_note": "The source characterizes the species as polyphagous, including stems of bamboo and rattans and seeds. This broad ecological statement is retained without inventing additional host taxa.",
   "taxonomy_summary": "The current accepted identity is Hypothenemus fuscicollis (Eichhoff, 1878).",
   "taxonomy_reference_ids": [
