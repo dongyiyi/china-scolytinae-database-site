@@ -130,3 +130,6 @@
     grid-column:1 / -1;
   }
 }
+
+.taxonomy-group .higher-taxon-cn{font-size:.9em;font-weight:500;white-space:normal}
+.taxonomy-group .group-label{line-height:1.55}

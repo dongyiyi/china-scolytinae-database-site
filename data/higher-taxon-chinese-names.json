@@ -1,0 +1,716 @@
+{
+  "schema_version": 1,
+  "display_basis": "User-requested website-wide bilingual display trial 2026-10-18; NOT publication-verified or Notion Approved for Display",
+  "source_review_note": "Chinese higher-taxon names are transcribed from the project's Notion registers. Original-source verification remains pending.",
+  "genera": {
+    "Acacicis": {
+      "chinese": "小球小蠹属",
+      "tribe": "Diamerini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Acanthotomicus": {
+      "chinese": "刺小蠹属",
+      "tribe": "Ipini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Alniphagus": {
+      "chinese": "桤小蠹属",
+      "tribe": "Hylesinini",
+      "evidence_status": "Review required",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Amasa": {
+      "chinese": "尾截小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Ambrosiodmus": {
+      "chinese": "粗胸小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Ambrosiophilus": {
+      "chinese": "滑胸小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Ancipitis": {
+      "chinese": "扁尾小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Anisandrus": {
+      "chinese": "毛胸小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Arixyleborus": {
+      "chinese": "脊间小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Beaverium": {
+      "chinese": "壮小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Blandfordium": {
+      "chinese": "布氏小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Carphoborus": {
+      "chinese": "粉小蠹属",
+      "tribe": "Polygraphini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Cnestus": {
+      "chinese": "缘胸小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Coccotrypes": {
+      "chinese": "椰小蠹属",
+      "tribe": "Dryocoetini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Coptodryas": {
+      "chinese": "微材小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Coriacephilus": {
+      "chinese": "革小蠹属",
+      "tribe": "Coriacephilini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Cosmoderes": {
+      "chinese": "茎小蠹属",
+      "tribe": "Trypophloeini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Craniodicticus": {
+      "chinese": "拟长小蠹属",
+      "tribe": "Carphodicticini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Cryphalus": {
+      "chinese": "梢小蠹属",
+      "tribe": "Cryphalini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Cryptoxyleborus": {
+      "chinese": "隐材小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Crypturgus": {
+      "chinese": "微小蠹属",
+      "tribe": "Crypturgini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Cyclorhipidion": {
+      "chinese": "环小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Cyrtogenius": {
+      "chinese": "额毛小蠹属",
+      "tribe": "Dryocoetini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Dactylipalpus": {
+      "chinese": "宽小蠹属",
+      "tribe": "Hylesinini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Debus": {
+      "chinese": "凹鞘小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Dendroctonus": {
+      "chinese": "大小蠹属",
+      "tribe": "Hylurgini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Diamerus": {
+      "chinese": "小球小蠹属",
+      "tribe": "Diamerini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Diuncus": {
+      "chinese": "双棘小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Dryocoetes": {
+      "chinese": "毛小蠹属",
+      "tribe": "Dryocoetini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Dryocoetiops": {
+      "chinese": "似毛小蠹属",
+      "tribe": "Dryocoetini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Dryoxylon": {
+      "chinese": "长胸小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Eccoptopterus": {
+      "chinese": "胫浆小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Eidophelus": {
+      "chinese": "藤小蠹属",
+      "tribe": "Ernoporini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Ernoporus": {
+      "chinese": "枝小蠹属",
+      "tribe": "Ernoporini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Euwallacea": {
+      "chinese": "方胸小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Ficicis": {
+      "chinese": "榕小蠹属",
+      "tribe": "Hylesinini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Fraudatrix": {
+      "chinese": "尖鞘小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Hadrodemius": {
+      "chinese": "巨材小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Heteroborips": {
+      "chinese": "菌室小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Review required",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Hylastes": {
+      "chinese": "根小蠹属",
+      "tribe": "Hylastini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Hyledius": {
+      "chinese": "类肤小蠹属",
+      "tribe": "Phloeosinini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Hylesinus": {
+      "chinese": "海小蠹属",
+      "tribe": "Hylesinini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Hylurgops": {
+      "chinese": "干小蠹属",
+      "tribe": "Hylastini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Hylurgus": {
+      "chinese": "林小蠹属",
+      "tribe": "Hylurgini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Hyorrhynchus": {
+      "chinese": "喙小蠹属",
+      "tribe": "Hyorrhynchini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Hypothenemus": {
+      "chinese": "咪小蠹属",
+      "tribe": "Trypophloeini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Immanus": {
+      "chinese": "粗材小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Indocryphalus": {
+      "chinese": "印木小蠹属",
+      "tribe": "Xyloterini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Ips": {
+      "chinese": "齿小蠹属",
+      "tribe": "Ipini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Leptoxyleborus": {
+      "chinese": "半坡小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Microperus": {
+      "chinese": "小材小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Neopteleobius": {
+      "chinese": "新榆小蠹属",
+      "tribe": "Hylesinini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Orthotomicus": {
+      "chinese": "瘤小蠹属",
+      "tribe": "Ipini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Phloeocranus": {
+      "chinese": "突肩小蠹属",
+      "tribe": "Phloeosinini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Phloeosinus": {
+      "chinese": "肤小蠹属",
+      "tribe": "Phloeosinini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Pityogenes": {
+      "chinese": "星坑小蠹属",
+      "tribe": "Ipini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Pityophthorus": {
+      "chinese": "细小蠹属",
+      "tribe": "Corthylini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Planiculus": {
+      "chinese": "扁小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Polygraphus": {
+      "chinese": "四眼小蠹属",
+      "tribe": "Polygraphini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Procryphalus": {
+      "chinese": "前隐小蠹属",
+      "tribe": "Ernoporini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Pseudips": {
+      "chinese": "假齿小蠹属",
+      "tribe": "Ipini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Pseudohyorrhynchus": {
+      "chinese": "近喙小蠹属",
+      "tribe": "Hyorrhynchini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Pseudopityophthorus": {
+      "chinese": "鬃额小蠹属",
+      "tribe": "Corthylini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Pseudothysanoes": {
+      "chinese": "拟樱小蠹属",
+      "tribe": "Micracidini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Pseudowebbia": {
+      "chinese": "类桩截小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Pseudoxylechinus": {
+      "chinese": "拟鳞小蠹属",
+      "tribe": "Hylurgini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Scolytoplatypus": {
+      "chinese": "锉小蠹属",
+      "tribe": "Scolytoplatypodini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Scolytus": {
+      "chinese": "小蠹属",
+      "tribe": "Scolytini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Sphaerotrypes": {
+      "chinese": "球小蠹属",
+      "tribe": "Diamerini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Stictodex": {
+      "chinese": "锤角小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Streptocranus": {
+      "chinese": "尾窄小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Sueus": {
+      "chinese": "矮喙小蠹属",
+      "tribe": "Hyorrhynchini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Taphrorychus": {
+      "chinese": "细毛小蠹属",
+      "tribe": "Dryocoetini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Tomicus": {
+      "chinese": "切梢小蠹属",
+      "tribe": "Hylurgini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Tricosa": {
+      "chinese": "魔小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Truncaudum": {
+      "chinese": "截材小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Trypodendron": {
+      "chinese": "木小蠹属",
+      "tribe": "Xyloterini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Trypophloeus": {
+      "chinese": "角梢小蠹属",
+      "tribe": "Trypophloeini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Webbia": {
+      "chinese": "桩截小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Xyleborinus": {
+      "chinese": "绒盾小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Xyleborus": {
+      "chinese": "材小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Xylechinus": {
+      "chinese": "鳞小蠹属",
+      "tribe": "Hylurgini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Xylosandrus": {
+      "chinese": "足距小蠹属",
+      "tribe": "Xyleborini",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    }
+  },
+  "tribes": {
+    "Carphodicticini": {
+      "chinese": "长翅小蠹族",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Coriacephilini": {
+      "chinese": "革小蠹族",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Corthylini": {
+      "chinese": "光小蠹族",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Cryphalini": {
+      "chinese": "梢小蠹族",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Crypturgini": {
+      "chinese": "微小蠹族",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Diamerini": {
+      "chinese": "达梅小蠹族",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Dryocoetini": {
+      "chinese": "毛小蠹族",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Ernoporini": {
+      "chinese": "枝小蠹族",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Hylastini": {
+      "chinese": "根小蠹族",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Hylesinini": {
+      "chinese": "海小蠹族",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Hylurgini": {
+      "chinese": "林小蠹族",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Hyorrhynchini": {
+      "chinese": "喙小蠹族",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Ipini": {
+      "chinese": "齿小蠹族",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Micracidini": {
+      "chinese": "锥尾小蠹族",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Phloeosinini": {
+      "chinese": "肤小蠹族",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Polygraphini": {
+      "chinese": "四眼小蠹族",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Scolytini": {
+      "chinese": "小蠹族",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Scolytoplatypodini": {
+      "chinese": "锉小蠹族",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Trypophloeini": {
+      "chinese": "角梢小蠹族",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Xyleborini": {
+      "chinese": "材小蠹族",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Xyloterini": {
+      "chinese": "木小蠹族",
+      "evidence_status": "Spreadsheet transcribed",
+      "notion_approved": false,
+      "web_display_authorized": true
+    }
+  }
+}
