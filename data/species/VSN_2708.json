@@ -113,10 +113,12 @@
       ]
     }
   ],
-  "nomenclature_note": "Smith & Cognato (2026) transferred this taxon to Blandfordium minutus. Earlier treatments used Planiculus minutus (Beaver & Liu, 2010) and Euwallacea minutus (Smith et al., 2020). The current integrated taxonomic backbone identifies Blandfordium minutus (Blandford, 1894) as the accepted combination. The earlier mainland China and Taiwan occurrence evidence is retained.",
+  "nomenclature_note": "Smith & Cognato (2026) transferred this taxon to Blandfordium minutus. Earlier treatments used Planiculus minutus (Beaver & Liu, 2010) and Wallacellus minutus (Beaver et al., 2014). Following the synonymization of Wallacellus with Euwallacea (Storer et al., 2015), the species was treated as Euwallacea minutus (e.g., Smith et al., 2020). The current integrated taxonomic backbone identifies Blandfordium minutus (Blandford, 1894) as the accepted combination. The earlier mainland China and Taiwan occurrence evidence is retained.",
   "nomenclature_note_reference_ids": [
     "src_smithcognato2026_paleotropicalxyleborini",
     "src_beaverliu2010",
+    "src_beaveretal2014_thailand",
+    "src_storeretal2015_wallacellus_euwallacea",
     "src_smith2020"
   ],
   "resources": {
@@ -186,6 +188,26 @@
         "nomenclatural source"
       ],
       "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
+    },
+    {
+      "id": "src_beaveretal2014_thailand",
+      "label": "Beaver et al., 2014",
+      "role": [
+        "taxonomic treatment",
+        "new combination"
+      ],
+      "citation": "Beaver, R.A., Sittichaya, W. & Liu, L.-Y. (2014). A synopsis of the scolytine ambrosia beetles of Thailand (Coleoptera: Curculionidae: Scolytinae). Zootaxa 3875(1): 1–82.",
+      "doi": "10.11646/zootaxa.3875.1.1"
+    },
+    {
+      "id": "src_storeretal2015_wallacellus_euwallacea",
+      "label": "Storer et al., 2015",
+      "role": [
+        "taxonomic treatment",
+        "generic synonymy"
+      ],
+      "citation": "Storer, C.G., Breinholt, J.W. & Hulcr, J. (2015). Wallacellus is Euwallacea: molecular phylogenetics settles generic relationships (Coleoptera: Curculionidae: Scolytinae: Xyleborini). Zootaxa 3974(3): 391–400.",
+      "doi": "10.11646/zootaxa.3974.3.6"
     }
   ],
   "recommended_chinese_name": "微小布氏小蠹",
