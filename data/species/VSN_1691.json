@@ -2,7 +2,7 @@
   "vsn": "VSN_1691",
   "scientific_name": "Cryphalus exiguus",
   "authorship": "Blandford, 1894",
-  "chinese_name": "桑梢小蠹",
+  "chinese_name": "北桑梢小蠹",
   "genus": "Cryphalus",
   "subfamily": "Scolytinae",
   "tribe": "Cryphalini",
@@ -132,6 +132,6 @@
       "citation": "Sasaki, C. (1899). Nippon Nôsakumotsu Gaichû Hen. [Manual of crop insect pests in Japan.]. Tokyo 520 pp."
     }
   ],
-  "recommended_chinese_name": "桑梢小蠹",
+  "recommended_chinese_name": "北桑梢小蠹",
   "former_chinese_names": []
 }

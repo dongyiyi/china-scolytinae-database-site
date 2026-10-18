@@ -1387,13 +1387,13 @@
     "vsn": "VSN_1691",
     "scientific_name": "Cryphalus exiguus",
     "authorship": "Blandford, 1894",
-    "chinese_name": "桑梢小蠹",
+    "chinese_name": "北桑梢小蠹",
     "genus": "Cryphalus",
     "subfamily": "Scolytinae",
     "tribe": "Cryphalini",
     "checklist_status": "Accepted",
     "review_status": "Reviewed",
-    "recommended_chinese_name": "桑梢小蠹",
+    "recommended_chinese_name": "北桑梢小蠹",
     "former_chinese_names": []
   },
   {
@@ -2536,13 +2536,13 @@
     "vsn": "VSN_2348",
     "scientific_name": "Diamerus matangi",
     "authorship": "Sampson, 1919",
-    "chinese_name": "马唐达梅小蠹",
+    "chinese_name": "马当达梅小蠹",
     "genus": "Diamerus",
     "subfamily": "Scolytinae",
     "tribe": "Diamerini",
     "checklist_status": "Accepted",
     "review_status": "In review",
-    "recommended_chinese_name": "马唐达梅小蠹",
+    "recommended_chinese_name": "马当达梅小蠹",
     "former_chinese_names": []
   },
   {
