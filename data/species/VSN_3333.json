@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "台湾（存疑）",
-    "narrative": "The Taiwan attribution in Wood & Bright (1992) lacked supporting evidence; Beaver & Liu (2010) noted possible confusion with Hypothenemus javanus and excluded the record as doubtful."
+    "narrative": "The Taiwan attribution in Wood & Bright (1992) lacked supporting evidence; Beaver & Liu (2010) noted possible confusion with Hypothenemus javanus and excluded the record as doubtful.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [],
   "host_note": "No host evidence is reported for this doubtful Taiwan record.",

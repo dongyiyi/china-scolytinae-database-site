@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "台湾",
-    "narrative": "Do not promote Taiwan to Present from Beaver & Liu (2010) alone. The species is known only from the type series in the source and its taxonomic distinctness is explicitly questioned."
+    "narrative": "Do not promote Taiwan to Present from Beaver & Liu (2010) alone. The species is known only from the type series in the source and its taxonomic distinctness is explicitly questioned.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [],
   "host_note": "Host unknown in Beaver & Liu (2010); no host is promoted.",

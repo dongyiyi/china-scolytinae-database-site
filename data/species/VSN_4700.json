@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "Beaver & Liu (2010) lists Taiwan but clarifies that P. formosanus was described from pine wood imported from Taiwan to Japan and is known only from the type series. This is retained as Questionable Taiwan evidence rather than direct established occurrence."
+    "narrative": "Beaver & Liu (2010) lists Taiwan but clarifies that P. formosanus was described from pine wood imported from Taiwan to Japan and is known only from the type series. This is retained as Questionable Taiwan evidence rather than direct established occurrence.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [],
   "host_note": "Pinus sp. is preserved at the source-reported resolution, but because the evidence comes from imported type-series material it is not promoted to Current Host Summary.",

@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "台湾（存疑）",
-    "narrative": "The Taiwan report was based on Shiraki specimens; Beaver & Liu (2010) noted frequent confusion with Ips subelongatus and did not confirm I. cembrae from Taiwan."
+    "narrative": "The Taiwan report was based on Shiraki specimens; Beaver & Liu (2010) noted frequent confusion with Ips subelongatus and did not confirm I. cembrae from Taiwan.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [],
   "host_note": "No host evidence is reported for this doubtful Taiwan record.",
