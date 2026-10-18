@@ -1281,14 +1281,16 @@
     "vsn": "VSN_1620",
     "scientific_name": "Craniodicticus mucronatus",
     "authorship": "Blandford, 1895",
-    "chinese_name": "斑盔小蠹",
+    "chinese_name": "斑拟长小蠹",
     "genus": "Craniodicticus",
     "subfamily": "Scolytinae",
     "tribe": "Carphodicticini",
     "checklist_status": "Questionable",
     "review_status": "Reviewed",
-    "recommended_chinese_name": "斑盔小蠹",
-    "former_chinese_names": []
+    "recommended_chinese_name": "斑拟长小蠹",
+    "former_chinese_names": [
+      "斑盔小蠹"
+    ]
   },
   {
     "vsn": "VSN_1634",
@@ -4236,14 +4238,16 @@
     "vsn": "VSN_3417",
     "scientific_name": "Ips longifolia",
     "authorship": "(Stebbing, 1909)",
-    "chinese_name": "印度云杉齿小蠹",
+    "chinese_name": "喜马拉雅长叶松齿小蠹",
     "genus": "Ips",
     "subfamily": "Scolytinae",
     "tribe": "Ipini",
     "checklist_status": "Accepted",
     "review_status": "In review",
-    "recommended_chinese_name": "印度云杉齿小蠹",
-    "former_chinese_names": []
+    "recommended_chinese_name": "喜马拉雅长叶松齿小蠹",
+    "former_chinese_names": [
+      "印度云杉齿小蠹"
+    ]
   },
   {
     "vsn": "VSN_3419",
