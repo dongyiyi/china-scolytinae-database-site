@@ -20,10 +20,17 @@
   },
   "hosts": [
     {
-      "scientific_name": "Liquidambar formosana"
+      "scientific_name": "Liquidambar formosana",
+      "reference_ids": [
+        "src_smith2020",
+        "src_smith2022"
+      ]
     },
     {
-      "scientific_name": "Castanopsis chinensis"
+      "scientific_name": "Castanopsis chinensis",
+      "reference_ids": [
+        "src_smith2022"
+      ]
     }
   ],
   "host_note": "Liquidambar formosana is retained from Smith et al. (2020). Smith et al. (2022) independently reports it and adds Castanopsis chinensis.",

@@ -20,13 +20,22 @@
   },
   "hosts": [
     {
-      "scientific_name": "Ficus sp."
+      "scientific_name": "Ficus sp.",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Castanopsis carlesii"
+      "scientific_name": "Castanopsis carlesii",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Cassia siamea"
+      "scientific_name": "Cassia siamea",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Current hosts remain Ficus sp., Castanopsis carlesii, and Cassia siamea (= Senna siamea). Beaver & Liu (2010) reports only an undetermined tree for the Beaverium chujoi source entry, which is not promoted as a host taxon.",

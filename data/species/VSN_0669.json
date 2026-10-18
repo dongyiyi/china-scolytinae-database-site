@@ -20,19 +20,36 @@
   },
   "hosts": [
     {
-      "scientific_name": "Castanopsis sp."
+      "scientific_name": "Castanopsis sp.",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Machilus sp."
+      "scientific_name": "Machilus sp.",
+      "reference_ids": [
+        "src_co2015",
+        "src_ef1984"
+      ]
     },
     {
-      "scientific_name": "Castanopsis fargesii"
+      "scientific_name": "Castanopsis fargesii",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Castanopsis indica"
+      "scientific_name": "Castanopsis indica",
+      "reference_ids": [
+        "src_co2015"
+      ]
     },
     {
-      "scientific_name": "Cyclobalanopsis glauca"
+      "scientific_name": "Cyclobalanopsis glauca",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Baseline hosts Castanopsis sp., Machilus sp., Castanopsis fargesii, and Castanopsis indica are retained; Smith et al. (2020) adds Cyclobalanopsis glauca and also reports Machilus at genus level.",

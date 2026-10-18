@@ -20,19 +20,34 @@
   },
   "hosts": [
     {
-      "scientific_name": "Quercus × leana"
+      "scientific_name": "Quercus × leana",
+      "reference_ids": [
+        "src_lin2025"
+      ]
     },
     {
-      "scientific_name": "Schima superba"
+      "scientific_name": "Schima superba",
+      "reference_ids": [
+        "src_lin2025"
+      ]
     },
     {
-      "scientific_name": "Camphora officinarum"
+      "scientific_name": "Camphora officinarum",
+      "reference_ids": [
+        "src_lin2025"
+      ]
     },
     {
-      "scientific_name": "Castanea sp."
+      "scientific_name": "Castanea sp.",
+      "reference_ids": [
+        "src_lin2025"
+      ]
     },
     {
-      "scientific_name": "Salix babylonica"
+      "scientific_name": "Salix babylonica",
+      "reference_ids": [
+        "src_lin2025"
+      ]
     }
   ],
   "host_note": "These host taxa are supported by direct specimen-label records. Arundinaria fargesii is retained only as habitat context because the specimen was ground-trapped in that forest, not collected ex host.",

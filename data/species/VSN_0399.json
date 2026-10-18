@@ -20,43 +20,82 @@
   },
   "hosts": [
     {
-      "scientific_name": "Cyclobalanopsis glauca"
+      "scientific_name": "Cyclobalanopsis glauca",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     },
     {
-      "scientific_name": "Schefflera octophylla"
+      "scientific_name": "Schefflera octophylla",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Castanea argentea"
+      "scientific_name": "Castanea argentea",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Celtis luzonica"
+      "scientific_name": "Celtis luzonica",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Cinchona sp."
+      "scientific_name": "Cinchona sp.",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Eupatoriumpallescens"
+      "scientific_name": "Eupatoriumpallescens",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Ficus septica"
+      "scientific_name": "Ficus septica",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Glutasp."
+      "scientific_name": "Glutasp.",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Semecarpus sp."
+      "scientific_name": "Semecarpus sp.",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Gonystylus sp."
+      "scientific_name": "Gonystylus sp.",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Gossampinus heptaphylla [= Pseudobombax septenatum]"
+      "scientific_name": "Gossampinus heptaphylla [= Pseudobombax septenatum]",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Podocarpusimbricata"
+      "scientific_name": "Podocarpusimbricata",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Schefflera aromatica"
+      "scientific_name": "Schefflera aromatica",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     }
   ],
   "host_note": "The additional hosts from Lin & Smith (2022) are retained at the source-reported resolution and spelling; no silent taxonomic correction is applied.",

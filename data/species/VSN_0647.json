@@ -20,22 +20,40 @@
   },
   "hosts": [
     {
-      "scientific_name": "Castanopsis tunggurut"
+      "scientific_name": "Castanopsis tunggurut",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Dalbergia sp."
+      "scientific_name": "Dalbergia sp.",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Dryobalanops oblongifolia"
+      "scientific_name": "Dryobalanops oblongifolia",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Palaquium maingayi"
+      "scientific_name": "Palaquium maingayi",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Shorea balanocarpoides"
+      "scientific_name": "Shorea balanocarpoides",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     },
     {
-      "scientific_name": "Shorea leprosula"
+      "scientific_name": "Shorea leprosula",
+      "reference_ids": [
+        "src_linsmith2022"
+      ]
     }
   ],
   "host_note": "Host names are retained from the Lin & Smith (2022) evidence at the reported taxonomic resolution.",

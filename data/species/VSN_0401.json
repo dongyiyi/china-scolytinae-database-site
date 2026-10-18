@@ -20,7 +20,10 @@
   },
   "hosts": [
     {
-      "scientific_name": "Fagaceae"
+      "scientific_name": "Fagaceae",
+      "reference_ids": [
+        "src_smith2020"
+      ]
     }
   ],
   "host_note": "Fagaceae is retained as the family-level host from Smith et al. (2020).",
