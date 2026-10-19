@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "display_basis": "User-requested website-wide bilingual display trial 2026-10-18; NOT publication-verified or Notion Approved for Display",
-  "source_review_note": "Chinese higher-taxon names are transcribed from the project's Notion registers. Original-source verification remains pending.",
+  "display_basis": "Chinese genus/tribe display approved for the website. Original-source verification is tracked separately; the curator-approved Phloeosinopsioides name is Notion Approved for Display, while earlier website-wide labels remain curator-authorized with Notion approvals unchanged.",
+  "source_review_note": "Most Chinese higher-taxon names were transcribed from spreadsheets; Phloeosinopsioides Chinese name 类皮小蠹属 was curator-supplied on 18 October 2026. Original-publication verification remains pending.",
   "genera": {
     "Acacicis": {
       "chinese": "小球小蠹属",
@@ -379,6 +379,13 @@
       "tribe": "Phloeosinini",
       "evidence_status": "Spreadsheet transcribed",
       "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Phloeosinopsioides": {
+      "chinese": "类皮小蠹属",
+      "tribe": "Phloeosinini",
+      "evidence_status": "Review required",
+      "notion_approved": true,
       "web_display_authorized": true
     },
     "Phloeosinus": {
