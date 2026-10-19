@@ -168,7 +168,7 @@ async function browseRegions(params=new URLSearchParams()){
   const [taxa,index]=await Promise.all([getJSON('data/taxa.json'),getJSON('data/region-index.json')]);
   const byVSN=new Map(taxa.map(t=>[t.vsn,t]));
   const regions=index.regions;
-  app.innerHTML='<section class="taxonomy-banner"><div class="eyebrow">Browse taxa</div><h1>Browse by region</h1><p class="subtitle">Literature-reported occurrences based on named regions in published distribution summaries. Results are not specimen-verified and may be incomplete; review the cited evidence in each species profile.</p></section><section class="browse-tools"><input type="search" id="region-q" placeholder="Search region (e.g. Sichuan or 四川)" aria-label="Search province or region"><select id="region-select" aria-label="Select region"><option value="">All regions</option>'+regions.map(r=>'<option value="'+esc(r.name)+'">'+esc(r.name)+' · '+esc(r.chinese)+'</option>').join('')+'</select><span id="region-count" role="status" aria-live="polite"></span></section><div id="region-results"></div>';
+  app.innerHTML='<section class="taxonomy-banner"><div class="eyebrow">Browse taxa</div><h1>Browse by region</h1><p class="subtitle">Literature-reported occurrences based on named regions in published distribution summaries. Records may be incomplete or pending review. Species without a named regional record remain in the checklist; not appearing in a regional list does not imply absence. Check the original evidence in each species profile.</p></section><section class="browse-tools"><input type="search" id="region-q" placeholder="Search region (e.g. Sichuan or 四川)" aria-label="Search province or region"><select id="region-select" aria-label="Select region"><option value="">All regions</option>'+regions.map(r=>'<option value="'+esc(r.name)+'">'+esc(r.name)+' · '+esc(r.chinese)+'</option>').join('')+'</select><span id="region-count" role="status" aria-live="polite"></span></section><div id="region-results"></div>';
   showBackToTop();
   const q=document.querySelector('#region-q'),select=document.querySelector('#region-select'),out=document.querySelector('#region-results'),count=document.querySelector('#region-count');
   const initial=params.get('q')||params.get('region')||'';
@@ -183,7 +183,7 @@ async function browseRegions(params=new URLSearchParams()){
         const t=byVSN.get(item.vsn);
         if(!t)return '';
         const state=item.occurrence_assessment;
-        return '<a class="result" href="'+taxonUrl(t.vsn)+'"><strong>'+sci(t.scientific_name)+' '+esc(t.authorship)+'</strong><br><small>'+esc(t.chinese_name||'')+' · '+esc(t.vsn)+' · '+esc(t.tribe)+' · '+esc(state)+' · '+esc(item.review_status)+'</small></a>';
+        return '<a class="result" href="'+taxonUrl(t.vsn)+'"><strong>'+sci(t.scientific_name)+' '+esc(t.authorship)+'</strong><br><small>'+esc(t.chinese_name||'')+' · '+esc(t.vsn)+' · '+esc(t.tribe)+' · '+esc(item.assessment_scope)+': '+esc(state)+' · '+esc(item.review_status)+'</small></a>';
       }).join('');
       return '<details class="taxonomy-group"'+(query||selected?' open':'')+'><summary><span class="group-label">'+esc(r.name)+' <span class="higher-taxon-cn" lang="zh-Hans">'+esc(r.chinese)+'</span> · <span class="group-count">'+r.count+' reported species</span></span></summary><div class="taxonomy-group-body">'+(entries||'<p class="notice">No explicitly indexed records for this region.</p>')+'</div></details>';
     }).join(''):'<p class="notice">No matching region. Try the English or Chinese province name.</p>';
