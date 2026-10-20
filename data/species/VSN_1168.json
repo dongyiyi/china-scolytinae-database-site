@@ -15,8 +15,16 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "云南；香港",
-    "narrative": "Yan et al. (2010) explicitly list Coccotrypes dactyliperda among stored-grain insects in China, providing country-level evidence for Mainland China occurrence. Spennemann (2018) subsequently treats China as naturalised, citing Yan et al. (2010), supporting established/naturalised status. 黄昱舒等 (2026) reports Yunnan and presents the record as the first discovery in China; that priority claim is retained at source level only because earlier mainland China evidence already exists. Lau (2025) supports Hong Kong. 殷蕙芬等 (1984) records Tianjin and Qinhuangdao as input ports; those records are retained as pathway/interception evidence rather than current locality records. A previously attributed Hebei record is under re-review and is not included in the current reviewed distribution."
+    "summary": "Yunnan; Hong Kong",
+    "narrative": "Yan et al. (2010) listed Coccotrypes dactyliperda among stored-grain insects in China, providing country-level occurrence evidence without a provincial locality. Spennemann (2018) subsequently treated China as naturalised, citing Yan et al. (2010). Huang et al. (2026) reported Yunnan and described it as the first discovery in China; that priority claim is retained as the authors' interpretation rather than adopted here because earlier mainland-China evidence exists. Lau (2025) supports Hong Kong. Yin et al. (1984) listed Tianjin and Qinhuangdao as ports of entry; these records are treated as pathway or interception evidence, not confirmed current localities. The Hebei attribution in Huang & Lu (2015) remains under review and is excluded from the current reviewed distribution.",
+    "reference_ids": [
+      "src_yanetal2010_storedgrainarthropodschina",
+      "src_spennemann2018_coccotrypesdactyliperda",
+      "src_huangetal2026_coccotrypesdactyliperdachina",
+      "src_lau2025",
+      "src_ef1984",
+      "src_co2015"
+    ]
   },
   "hosts": [
     {
@@ -181,7 +189,7 @@
     },
     {
       "id": "src_co2015",
-      "label": "黄复生等 2015",
+      "label": "Huang & Lu, 2015",
       "role": [
         "published evidence"
       ],
@@ -189,7 +197,7 @@
     },
     {
       "id": "src_ef1984",
-      "label": "殷蕙芬等 1984",
+      "label": "Yin et al., 1984",
       "role": [
         "published evidence"
       ],
@@ -294,7 +302,7 @@
     },
     {
       "id": "src_huangetal2026_coccotrypesdactyliperdachina",
-      "label": "黄昱舒等 2026",
+      "label": "Huang et al., 2026",
       "role": [
         "published evidence"
       ],
