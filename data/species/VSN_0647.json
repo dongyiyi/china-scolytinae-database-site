@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "Taiwan",
-    "narrative": "Lin & Smith (2022) reported Arixyleborus minor as new to Taiwan. No mainland China occurrence is inferred from this source."
+    "narrative": "Lin & Smith (2022) reported Arixyleborus minor as new to Taiwan. No mainland China occurrence is inferred from this source.",
+    "reference_ids": [
+      "src_linsmith2022"
+    ]
   },
   "hosts": [
     {

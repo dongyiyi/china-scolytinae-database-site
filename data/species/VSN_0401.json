@@ -16,7 +16,11 @@
   },
   "distribution": {
     "summary": "Chongqing; Fujian; Sichuan",
-    "narrative": "Smith et al. (2020) described Anisandrus xuannu from Chongqing and Sichuan. Smith et al. (2022) confirms those areas and adds Fujian."
+    "narrative": "Smith et al. (2020) described Anisandrus xuannu from Chongqing and Sichuan. Smith et al. (2022) confirms those areas and adds Fujian.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_smith2022"
+    ]
   },
   "hosts": [
     {

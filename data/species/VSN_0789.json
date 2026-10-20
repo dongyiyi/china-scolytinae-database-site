@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "Broad NE China occurrence, no individual provinces inferred."
+    "narrative": "Broad NE China occurrence, no individual provinces inferred.",
+    "reference_ids": [
+      "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
+    ]
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",

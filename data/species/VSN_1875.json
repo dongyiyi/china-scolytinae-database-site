@@ -16,7 +16,12 @@
   },
   "distribution": {
     "summary": "Shaanxi; Shaanxi (unconfirmed); Shanxi (unconfirmed)",
-    "narrative": "Johnson et al. (2020) could not corroborate Shaanxi or Shanxi records and notes that earlier northern-China reports were partly confused with C. scopiger. Chinese occurrence remains unconfirmed."
+    "narrative": "Johnson et al. (2020) could not corroborate Shaanxi or Shanxi records and notes that earlier northern-China reports were partly confused with C. scopiger. Chinese occurrence remains unconfirmed.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_johnsonetal2020_cryphaluseastasia"
+    ]
   },
   "hosts": [],
   "host_note": "Viburnum dilatatum is retained only as a questionable historical host for China.",

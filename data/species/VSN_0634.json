@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "Yunnan",
-    "narrative": "Smith et al. (2020) records Arixyleborus granifer from Yunnan, including Xishuangbanna."
+    "narrative": "Smith et al. (2020) records Arixyleborus granifer from Yunnan, including Xishuangbanna.",
+    "reference_ids": [
+      "src_smith2020"
+    ]
   },
   "hosts": [],
   "host_note": "The imported host string is evidently concatenated or corrupted. The public host summary remains blank until checked against the publication.",

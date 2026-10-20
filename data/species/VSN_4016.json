@@ -16,7 +16,11 @@
   },
   "distribution": {
     "summary": "",
-    "narrative": "Historical reports have attributed Phloeosinus granosus to South China, but the precise locality and supporting specimen evidence remain unresolved. A proposed Guangdong interpretation of 'Lilong' and a separate Liaoning attribution have not been confirmed from reviewed specimens. China occurrence is therefore Questionable."
+    "narrative": "Historical reports have attributed Phloeosinus granosus to South China, but the precise locality and supporting specimen evidence remain unresolved. A proposed Guangdong interpretation of 'Lilong' and a separate Liaoning attribution have not been confirmed from reviewed specimens. China occurrence is therefore Questionable.",
+    "reference_ids": [
+      "orig_3b130b9d213d",
+      "src_bright2021_scolytidaesupplement4"
+    ]
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",

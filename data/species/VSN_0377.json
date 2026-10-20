@@ -16,7 +16,11 @@
   },
   "distribution": {
     "summary": "Fujian",
-    "narrative": "Huang & Lu (2015) and Smith et al. (2020) both support occurrence in Fujian. Smith et al. (2020) includes locality evidence from Shaowu, Tachulan."
+    "narrative": "Huang & Lu (2015) and Smith et al. (2020) both support occurrence in Fujian. Smith et al. (2020) includes locality evidence from Shaowu, Tachulan.",
+    "reference_ids": [
+      "src_co2015",
+      "src_smith2020"
+    ]
   },
   "hosts": [
     {

@@ -16,7 +16,11 @@
   },
   "distribution": {
     "summary": "Sichuan; Yunnan",
-    "narrative": "Smith et al. (2020) records Anisandrus lineatus from Sichuan. Smith et al. (2022) adds Yunnan, including locality evidence from Honghe."
+    "narrative": "Smith et al. (2020) records Anisandrus lineatus from Sichuan. Smith et al. (2022) adds Yunnan, including locality evidence from Honghe.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_smith2022"
+    ]
   },
   "hosts": [
     {

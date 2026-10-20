@@ -16,7 +16,12 @@
   },
   "distribution": {
     "summary": "Fujian; Jiangxi; Sichuan; Xizang; Yunnan; Taiwan",
-    "narrative": "Yin et al. (1984) recorded Fujian and Sichuan; Huang & Lu (2015) added Yunnan and Xizang; Smith et al. (2020) documented the range, including Jiangxi and Taiwan."
+    "narrative": "Yin et al. (1984) recorded Fujian and Sichuan; Huang & Lu (2015) added Yunnan and Xizang; Smith et al. (2020) documented the range, including Jiangxi and Taiwan.",
+    "reference_ids": [
+      "src_ef1984",
+      "src_co2015",
+      "src_smith2020"
+    ]
   },
   "hosts": [
     {

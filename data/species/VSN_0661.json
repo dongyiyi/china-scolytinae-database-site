@@ -16,7 +16,11 @@
   },
   "distribution": {
     "summary": "Fujian; Guangxi; Hainan",
-    "narrative": "Smith et al. (2020) describes Arixyleborus silvanus from Guangxi and Hainan. Smith et al. (2022) adds Fujian."
+    "narrative": "Smith et al. (2020) describes Arixyleborus silvanus from Guangxi and Hainan. Smith et al. (2022) adds Fujian.",
+    "reference_ids": [
+      "src_smith2020",
+      "src_smith2022"
+    ]
   },
   "hosts": [
     {

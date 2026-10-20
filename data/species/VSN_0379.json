@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "Yunnan",
-    "narrative": "Smith et al. (2022) records Anisandrus longidens from Yunnan, with locality evidence from Honghe."
+    "narrative": "Smith et al. (2022) records Anisandrus longidens from Yunnan, with locality evidence from Honghe.",
+    "reference_ids": [
+      "src_smith2022"
+    ]
   },
   "hosts": [],
   "host_note": "No confirmed host is reported in the integrated Smith et al. (2022) record; no host is promoted.",

@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "Yunnan",
-    "narrative": "Smith et al. (2022) records Anisandrus congruens from Yunnan, with locality evidence from Puer."
+    "narrative": "Smith et al. (2022) records Anisandrus congruens from Yunnan, with locality evidence from Puer.",
+    "reference_ids": [
+      "src_smith2022"
+    ]
   },
   "hosts": [],
   "host_note": "No confirmed host is reported in the integrated Smith et al. (2022) record; no host is promoted.",

@@ -16,7 +16,10 @@
   },
   "distribution": {
     "summary": "Taiwan",
-    "narrative": "Beaver & Liu (2010) provides the first Taiwan record of Arixyleborus rugosipes, including examined localities from Nantou and Taichung."
+    "narrative": "Beaver & Liu (2010) provides the first Taiwan record of Arixyleborus rugosipes, including examined localities from Nantou and Taichung.",
+    "reference_ids": [
+      "src_beaverliu2010"
+    ]
   },
   "hosts": [],
   "host_note": "The source describes the species as polyphagous, with a possible preference for Dipterocarpaceae. Because no identified host taxon is provided, no host is promoted.",
