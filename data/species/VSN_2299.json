@@ -15,10 +15,11 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Hebei; Henan; Shaanxi; Shanxi",
-    "narrative": "Huang & Lu (2015) report Hebei, Henan, Shaanxi, and Shanxi. This is published geographic evidence; the regional occurrence assessment remains unchanged pending separate review.",
+    "summary": "Hebei; Henan; Liaoning; Shaanxi; Shanxi",
+    "narrative": "Huang & Lu (2015) report Hebei, Henan, Shaanxi, and Shanxi; Li (2020) reports Liaoning. These are published distribution records; the regional occurrence assessment and review status remain unchanged.",
     "reference_ids": [
-      "src_co2015"
+      "src_co2015",
+      "src_li2020_dendroctonusvalensliaoning"
     ]
   },
   "hosts": [
@@ -141,6 +142,14 @@
         "nomenclatural source"
       ],
       "citation": "Thatcher, T.O. (1954). A new species of Dendroctonus from Guatemala (Scolytidae). The Coleopterists Bulletin 8: 3–6."
+    },
+    {
+      "id": "src_li2020_dendroctonusvalensliaoning",
+      "label": "Li, 2020",
+      "role": [
+        "distribution evidence"
+      ],
+      "citation": "Li, J. (2020). Necessity and countermeasures for prevention and control of Dendroctonus valens in Liaoning area. Forest Pest and Disease 39(4): 6–10."
     }
   ],
   "recommended_chinese_name": "红脂大小蠹",

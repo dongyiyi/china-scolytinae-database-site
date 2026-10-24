@@ -4535,7 +4535,7 @@
         "辽宁",
         "遼寧"
       ],
-      "count": 35,
+      "count": 36,
       "records": [
         {
           "vsn": "VSN_0802",
@@ -4576,6 +4576,12 @@
         {
           "vsn": "VSN_2288",
           "occurrence_assessment": "Candidate",
+          "assessment_scope": "Mainland China",
+          "review_status": "Not started"
+        },
+        {
+          "vsn": "VSN_2299",
+          "occurrence_assessment": "Present",
           "assessment_scope": "Mainland China",
           "review_status": "Not started"
         },
@@ -5371,7 +5377,7 @@
         "山东",
         "山東"
       ],
-      "count": 20,
+      "count": 21,
       "records": [
         {
           "vsn": "VSN_0246",
@@ -5402,6 +5408,12 @@
           "occurrence_assessment": "Present",
           "assessment_scope": "Mainland China",
           "review_status": "Reviewed"
+        },
+        {
+          "vsn": "VSN_2931",
+          "occurrence_assessment": "Candidate",
+          "assessment_scope": "Mainland China",
+          "review_status": "In review"
         },
         {
           "vsn": "VSN_2933",
