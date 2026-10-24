@@ -186,10 +186,10 @@
       "web_display_authorized": true
     },
     "Diamerus": {
-      "chinese": "小球小蠹属",
+      "chinese": "达梅小蠹属",
       "tribe": "Diamerini",
-      "evidence_status": "Spreadsheet transcribed",
-      "notion_approved": false,
+      "evidence_status": "Review required",
+      "notion_approved": true,
       "web_display_authorized": true
     },
     "Diuncus": {
@@ -589,6 +589,20 @@
       "tribe": "Xyleborini",
       "evidence_status": "Spreadsheet transcribed",
       "notion_approved": false,
+      "web_display_authorized": true
+    },
+    "Gnatharus": {
+      "chinese": "藏光小蠹属",
+      "tribe": "Corthylini",
+      "evidence_status": "Review required",
+      "notion_approved": true,
+      "web_display_authorized": true
+    },
+    "Urocorthylus": {
+      "chinese": "密毛小蠹属",
+      "tribe": "Dryocoetini",
+      "evidence_status": "Review required",
+      "notion_approved": true,
       "web_display_authorized": true
     }
   },

@@ -3310,6 +3310,19 @@
     "former_chinese_names": []
   },
   {
+    "vsn": "VSN_2801",
+    "scientific_name": "Gnatharus tibetensis",
+    "authorship": "Wood & Yin, 1986",
+    "chinese_name": "藏光小蠹",
+    "genus": "Gnatharus",
+    "subfamily": "Scolytinae",
+    "tribe": "Corthylini",
+    "checklist_status": "Accepted",
+    "review_status": "Reviewed",
+    "recommended_chinese_name": "藏光小蠹",
+    "former_chinese_names": []
+  },
+  {
     "vsn": "VSN_2867",
     "scientific_name": "Hadrodemius comans",
     "authorship": "(Sampson, 1919)",
@@ -6812,6 +6825,32 @@
     "checklist_status": "Accepted",
     "review_status": "In review",
     "recommended_chinese_name": "克里角梢小蠹",
+    "former_chinese_names": []
+  },
+  {
+    "vsn": "VSN_5977",
+    "scientific_name": "Urocorthylus fanii",
+    "authorship": "Wang, Beaver & Hulcr, 2017",
+    "chinese_name": "范氏密毛小蠹",
+    "genus": "Urocorthylus",
+    "subfamily": "Scolytinae",
+    "tribe": "Dryocoetini",
+    "checklist_status": "Accepted",
+    "review_status": "Reviewed",
+    "recommended_chinese_name": "范氏密毛小蠹",
+    "former_chinese_names": []
+  },
+  {
+    "vsn": "VSN_5978",
+    "scientific_name": "Urocorthylus hirtellus",
+    "authorship": "Petrov, Mandelshtam & Beaver, 2007",
+    "chinese_name": "密毛小蠹",
+    "genus": "Urocorthylus",
+    "subfamily": "Scolytinae",
+    "tribe": "Dryocoetini",
+    "checklist_status": "Accepted",
+    "review_status": "Reviewed",
+    "recommended_chinese_name": "密毛小蠹",
     "former_chinese_names": []
   },
   {

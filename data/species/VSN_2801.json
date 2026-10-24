@@ -1,0 +1,74 @@
+{
+  "vsn": "VSN_2801",
+  "scientific_name": "Gnatharus tibetensis",
+  "authorship": "Wood & Yin, 1986",
+  "chinese_name": "藏光小蠹",
+  "genus": "Gnatharus",
+  "subfamily": "Scolytinae",
+  "tribe": "Corthylini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Xizang",
+    "narrative": "Wood & Yin (1986) described Gnatharus tibetensis from Tibet (Xizang), China, as the type species of the new genus Gnatharus.",
+    "reference_ids": [
+      "orig_c868c0d57a2c"
+    ]
+  },
+  "hosts": [],
+  "host_note": "The submitted source record has no host information; host associations have not been independently consolidated for this new China checklist profile.",
+  "taxonomy_summary": "The current accepted identity is Gnatharus tibetensis Wood & Yin, 1986. Original genus and species published in Wood & Yin (1986).",
+  "taxonomy_reference_ids": [
+    "johnson2026",
+    "orig_c868c0d57a2c"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "1986",
+      "event": "Original description (current accepted)",
+      "name": "Gnatharus tibetensis",
+      "authorship": "Wood & Yin, 1986",
+      "note": "Original genus and species published in Wood & Yin (1986).",
+      "reference_ids": [
+        "orig_c868c0d57a2c",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Recommended Chinese name: 藏光小蠹 (newly proposed in the 2026 China checklist; curator-approved).",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "orig_c868c0d57a2c",
+      "label": "Wood & Yin, 1986",
+      "role": [
+        "nomenclatural source",
+        "original description",
+        "distribution evidence"
+      ],
+      "citation": "Wood, S.L. & Yin, H.F. (1986). Relict occurrence of three 'American' Scolytidae (Coleoptera) in Asia. The Great Basin Naturalist 46(3): 461–464."
+    }
+  ],
+  "recommended_chinese_name": "藏光小蠹",
+  "former_chinese_names": []
+}

@@ -1,0 +1,82 @@
+{
+  "vsn": "VSN_5977",
+  "scientific_name": "Urocorthylus fanii",
+  "authorship": "Wang, Beaver & Hulcr, 2017",
+  "chinese_name": "范氏密毛小蠹",
+  "genus": "Urocorthylus",
+  "subfamily": "Scolytinae",
+  "tribe": "Dryocoetini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Not assessed",
+    "Taiwan": "Present",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Taiwan",
+    "narrative": "Wang, Beaver & Hulcr (2017) described this species from Ilan County, Taiwan (Yuanshan, Fushan Research Center). Originally reported under Corthylini, its genus was transferred to Dryocoetini by Johnson et al. (2023).",
+    "reference_ids": [
+      "src_wangbeaverhulcr2017_urocorthylusfanii"
+    ]
+  },
+  "hosts": [
+    {
+      "scientific_name": "Lithocarpus hancei",
+      "reference_ids": [
+        "src_wangbeaverhulcr2017_urocorthylusfanii"
+      ]
+    }
+  ],
+  "host_note": "Reported from fallen logs of Lithocarpus hancei in Taiwan (Wang et al., 2017).",
+  "taxonomy_summary": "The current accepted identity is Urocorthylus fanii Wang, Beaver & Hulcr, 2017. Original description 2017, current tribal placement Dryocoetini following Johnson et al. (2023).",
+  "taxonomy_reference_ids": [
+    "johnson2026",
+    "src_wangbeaverhulcr2017_urocorthylusfanii"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2017",
+      "event": "Original description (current accepted)",
+      "name": "Urocorthylus fanii",
+      "authorship": "Wang, Beaver & Hulcr, 2017",
+      "note": "Original description 2017, current tribal placement Dryocoetini following Johnson et al. (2023).",
+      "reference_ids": [
+        "src_wangbeaverhulcr2017_urocorthylusfanii",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Recommended Chinese name: 范氏密毛小蠹 (newly proposed in the 2026 China checklist; curator-approved).",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_wangbeaverhulcr2017_urocorthylusfanii",
+      "label": "Wang et al., 2017",
+      "role": [
+        "original description",
+        "distribution evidence",
+        "host evidence",
+        "nomenclatural source"
+      ],
+      "citation": "Wang, L.J., Beaver, R.A. & Hulcr, J. (2017). A new species of ambrosia beetle, Urocorthylus fanii, from Taiwan (Coleoptera: Curculionidae: Scolytinae: Corthylini). Japanese Journal of Systematic Entomology 23(1): 53–56."
+    }
+  ],
+  "recommended_chinese_name": "范氏密毛小蠹",
+  "former_chinese_names": []
+}

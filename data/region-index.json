@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "method": "Explicit province/region names in the published distribution.summary only; not a complete or specimen-verified occurrence list.",
-  "profile_count": 574,
+  "profile_count": 577,
   "regions": [
     {
       "name": "Anhui",
@@ -6803,7 +6803,7 @@
         "Tibet",
         "西藏"
       ],
-      "count": 58,
+      "count": 59,
       "records": [
         {
           "vsn": "VSN_0208",
@@ -6951,6 +6951,12 @@
         },
         {
           "vsn": "VSN_2746",
+          "occurrence_assessment": "Present",
+          "assessment_scope": "Mainland China",
+          "review_status": "Reviewed"
+        },
+        {
+          "vsn": "VSN_2801",
           "occurrence_assessment": "Present",
           "assessment_scope": "Mainland China",
           "review_status": "Reviewed"
@@ -7163,7 +7169,7 @@
         "云南",
         "雲南"
       ],
-      "count": 250,
+      "count": 251,
       "records": [
         {
           "vsn": "VSN_0049",
@@ -8444,6 +8450,12 @@
           "review_status": "Reviewed"
         },
         {
+          "vsn": "VSN_5978",
+          "occurrence_assessment": "Present",
+          "assessment_scope": "Mainland China",
+          "review_status": "Reviewed"
+        },
+        {
           "vsn": "VSN_6005",
           "occurrence_assessment": "Present",
           "assessment_scope": "Mainland China",
@@ -8839,7 +8851,7 @@
         "臺灣",
         "台灣"
       ],
-      "count": 192,
+      "count": 193,
       "records": [
         {
           "vsn": "VSN_0001",
@@ -9803,6 +9815,12 @@
         },
         {
           "vsn": "VSN_5915",
+          "occurrence_assessment": "Present",
+          "assessment_scope": "Taiwan",
+          "review_status": "Reviewed"
+        },
+        {
+          "vsn": "VSN_5977",
           "occurrence_assessment": "Present",
           "assessment_scope": "Taiwan",
           "review_status": "Reviewed"

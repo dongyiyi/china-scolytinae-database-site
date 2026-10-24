@@ -1,0 +1,88 @@
+{
+  "vsn": "VSN_5978",
+  "scientific_name": "Urocorthylus hirtellus",
+  "authorship": "Petrov, Mandelshtam & Beaver, 2007",
+  "chinese_name": "密毛小蠹",
+  "genus": "Urocorthylus",
+  "subfamily": "Scolytinae",
+  "tribe": "Dryocoetini",
+  "checklist_status": "Accepted",
+  "review_status": "Reviewed",
+  "china_occurrence": {
+    "Mainland China": "Present",
+    "Taiwan": "Not assessed",
+    "Hong Kong": "Not assessed",
+    "Macao": "Not assessed"
+  },
+  "distribution": {
+    "summary": "Yunnan",
+    "narrative": "Johnson et al. (2023) documented Chinese specimens from Yunnan, and placed the genus Urocorthylus in Dryocoetini. The China-associated host observations are distinct from Thailand-only Lithocarpus material.",
+    "reference_ids": [
+      "src_johnsonetal2023_urocorthylusplacement"
+    ]
+  },
+  "hosts": [
+    {
+      "scientific_name": "Quercus glauca",
+      "reference_ids": [
+        "src_johnsonetal2023_urocorthylusplacement"
+      ]
+    },
+    {
+      "scientific_name": "Cyclobalanopsis sp.",
+      "reference_ids": [
+        "src_johnsonetal2023_urocorthylusplacement"
+      ]
+    }
+  ],
+  "host_note": "China-associated host names as reported for Yunnan specimens. Lithocarpus sp. records from Thailand in Johnson et al. (2023) are not attributed to Chinese occurrences.",
+  "taxonomy_summary": "The current accepted identity is Urocorthylus hirtellus Petrov, Mandelshtam & Beaver, 2007. Original authorship Petrov, Mandelshtam & Beaver, 2007; later Yunnan evidence and Dryocoetini placement in Johnson et al. (2023).",
+  "taxonomy_reference_ids": [
+    "johnson2026",
+    "src_johnsonetal2023_urocorthylusplacement"
+  ],
+  "taxonomic_history": [
+    {
+      "year": "2007",
+      "event": "Original description (current accepted)",
+      "name": "Urocorthylus hirtellus",
+      "authorship": "Petrov, Mandelshtam & Beaver, 2007",
+      "note": "Original authorship Petrov, Mandelshtam & Beaver, 2007; later Yunnan evidence and Dryocoetini placement in Johnson et al. (2023).",
+      "reference_ids": [
+        "src_johnsonetal2023_urocorthylusplacement",
+        "johnson2026"
+      ]
+    }
+  ],
+  "nomenclature_note": "Recommended Chinese name: 密毛小蠹 (newly proposed in the 2026 China checklist; curator-approved).",
+  "resources": {
+    "images": "No image records are linked yet.",
+    "specimens": "No specimen records are linked yet.",
+    "molecular": "No molecular records are linked yet.",
+    "symbionts": "No symbiont-association records are linked yet."
+  },
+  "references": [
+    {
+      "id": "johnson2026",
+      "label": "Johnson et al., 2026",
+      "role": [
+        "taxonomic backbone"
+      ],
+      "citation": "Johnson, A.J., Atkinson, T.H., Beaver, R.A., Cognato, A.I., Jordal, B.H., Knížek, M., Mandelshtam, M.Yu., Rabaglia, R.J., Smith, S.M. & Hulcr, J. (2026). A comprehensive taxonomic checklist of bark and ambrosia beetle species (Curculionidae, Scolytinae). ZooKeys 1271: 1–285.",
+      "doi": "10.3897/zookeys.1271.168928"
+    },
+    {
+      "id": "src_johnsonetal2023_urocorthylusplacement",
+      "label": "Johnson et al., 2023",
+      "role": [
+        "taxonomic treatment",
+        "distribution evidence",
+        "host evidence"
+      ],
+      "citation": "Johnson, A.J., Sittichaya, W., Lai, S., Li, Y. & Beaver, R.A. (2023). The tribal placement of Urocorthylus Petrov, Mandelshtam & Beaver, with a description of the male of U. hirtellus Petrov et al., and notes on its biology (Coleoptera: Curculionidae: Scolytinae). Zootaxa 5306(1): 116–126.",
+      "doi": "10.11646/zootaxa.5306.1.5"
+    }
+  ],
+  "recommended_chinese_name": "密毛小蠹",
+  "former_chinese_names": []
+}
