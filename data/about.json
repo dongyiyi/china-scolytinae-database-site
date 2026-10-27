@@ -20,7 +20,6 @@
     {
       "heading": "Current scope and limitations",
       "paragraphs": [
-        "The current database implementation covers Scolytinae only. Platypodinae is part of the long-term project scope but has not yet been integrated.",
         "This is an active and evolving database, not a finished catalogue. Some published literature may not yet have been collected; some older records may require reinterpretation; some entries remain candidate or unreviewed; and transcription, linkage, or interpretation errors are still possible. Critical records should therefore be checked against the cited original sources.",
         "If you notice missing literature, an incorrect record, a questionable taxonomic interpretation, or any other problem, feedback and corrections are very welcome. Community feedback is especially valuable for improving coverage and identifying records that need re-review."
       ]
