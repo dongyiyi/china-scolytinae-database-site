@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "scope": "Scolytinae entries already represented by the public Chinese checklist; not exhaustive official pest registers",
+  "note_zh": "本页面仅列出与当前中国 Scolytinae 数据库收录分类单元相对应的官方名录项目，不代表官方名录完整内容；名录收录不代表该分类单元为中国的非本土入侵种。属级条款应保留原始限定范围。",
+  "source_basis": "User-reviewed worksheet 林业检疫性有害生物.xlsx, reconciled to public VSN index",
+  "groups": [
+    {
+      "id": "forest-quarantine",
+      "label": "全国林业检疫性有害生物",
+      "source_title": "全国林业检疫性有害生物名单（国家林业局2013年第4号公告）",
+      "source_url": "https://www.forestry.gov.cn/c/www/gkgjlyjgb/38791.jhtml",
+      "source_date": "2013-01-09",
+      "species": [
+        {
+          "vsn": "VSN_2299",
+          "scientific_name": "Dendroctonus valens"
+        }
+      ],
+      "genera": []
+    },
+    {
+      "id": "forest-danger",
+      "label": "全国林业危险性有害生物",
+      "source_title": "全国林业危险性有害生物名单（国家林业局2013年第4号公告）",
+      "source_url": "https://www.forestry.gov.cn/c/www/gkgjlyjgb/38791.jhtml",
+      "source_date": "2013-01-09",
+      "species": [
+        {
+          "vsn": "VSN_2281",
+          "scientific_name": "Dendroctonus armandi"
+        },
+        {
+          "vsn": "VSN_2288",
+          "scientific_name": "Dendroctonus micans"
+        },
+        {
+          "vsn": "VSN_3419",
+          "scientific_name": "Ips nitidus"
+        },
+        {
+          "vsn": "VSN_3431",
+          "scientific_name": "Ips sexdentatus"
+        },
+        {
+          "vsn": "VSN_3434",
+          "scientific_name": "Ips subelongatus"
+        },
+        {
+          "vsn": "VSN_3437",
+          "scientific_name": "Ips typographus"
+        },
+        {
+          "vsn": "VSN_4000",
+          "scientific_name": "Phloeosinus aubei"
+        },
+        {
+          "vsn": "VSN_4052",
+          "scientific_name": "Phloeosinus sinensis"
+        },
+        {
+          "vsn": "VSN_5848",
+          "scientific_name": "Tomicus minor"
+        },
+        {
+          "vsn": "VSN_5850",
+          "scientific_name": "Tomicus piniperda"
+        }
+      ],
+      "genera": []
+    },
+    {
+      "id": "import-quarantine",
+      "label": "进境植物检疫性有害生物",
+      "source_title": "进境植物检疫性有害生物名录总表（更新至2024年11月28日）",
+      "source_url": "https://www.cceeccic.org/ChinaCeec/columnInfoCN/appendix/20250110/1a102699-f774-4bda-9525-2b9533fffdce/%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E8%BF%9B%E5%A2%83%E6%A4%8D%E7%89%A9%E6%A3%80%E7%96%AB%E6%80%A7%E6%9C%89%E5%AE%B3%E7%94%9F%E7%89%A9%E5%90%8D%E5%BD%95.pdf",
+      "source_date": "2024-11-28",
+      "supplement_url": "https://www.moa.gov.cn/govpublic/ZZYGLS/202412/P020250115335420987617.pdf",
+      "species": [
+        {
+          "vsn": "VSN_3137",
+          "scientific_name": "Hylurgus ligniperda"
+        },
+        {
+          "vsn": "VSN_3238",
+          "scientific_name": "Hypothenemus hampei"
+        }
+      ],
+      "genera": [
+        {
+          "genus": "Dendroctonus",
+          "as_listed": "Dendroctonus spp. (e.g., D. valens and non-Chinese)",
+          "restriction_zh": "原条款举例包括红脂大小蠹（D. valens），其余范围以原文所述非中国种为限；不应将整个属所有物种自动视为列名对象。",
+          "mentioned_vsn": "VSN_2299"
+        },
+        {
+          "genus": "Ips",
+          "as_listed": "Ips spp. (non-Chinese)",
+          "restriction_zh": "仅限非中国种；不代表本数据库收录的全部 Ips 物种都属于该条款。"
+        },
+        {
+          "genus": "Xyleborus",
+          "as_listed": "Xyleborus spp. (non-Chinese)",
+          "restriction_zh": "仅限非中国种；不代表本数据库收录的全部 Xyleborus 物种都属于该条款。"
+        }
+      ]
+    }
+  ]
+}
