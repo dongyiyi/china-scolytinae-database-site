@@ -144,7 +144,7 @@
 .pest-nav button.is-active{background:var(--accent-soft);color:var(--accent);font-weight:700}
 .pest-count{font-size:.82rem;color:var(--muted);flex:none}
 .pest-panel{min-width:0;background:var(--panel);border:1px solid var(--line);border-radius:13px;padding:26px 30px;min-height:300px}
-.pest-panel h2{margin:0 0 10px}.pest-lead{color:var(--muted);margin:0 0 20px}
+.pest-section{scroll-margin-top:90px}.pest-section+.pest-section{border-top:1px solid var(--line);margin-top:32px;padding-top:32px}.pest-section h2{margin:0 0 10px}.pest-lead{color:var(--muted);margin:0 0 20px}
 .pest-source{font-size:.9rem;border-bottom:1px solid var(--line);padding-bottom:15px;margin-bottom:17px}
 .pest-species>.result{margin:9px 0}.pest-genus-entry{border:1px solid var(--line);border-radius:10px;padding:14px 16px;margin:10px 0}
 .pest-name{font-weight:700}.pest-rank{font-size:.79rem;color:var(--muted);font-weight:500;margin-left:8px}

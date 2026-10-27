@@ -1,13 +1,12 @@
 {
   "schema_version": 1,
   "scope": "Scolytinae entries already represented by the public Chinese checklist; not exhaustive official pest registers",
-  "note_zh": "本页面仅列出与当前中国 Scolytinae 数据库收录分类单元相对应的官方名录项目，不代表官方名录完整内容；名录收录不代表该分类单元为中国的非本土入侵种。属级条款应保留原始限定范围。",
   "source_basis": "User-reviewed worksheet 林业检疫性有害生物.xlsx, reconciled to public VSN index",
   "groups": [
     {
       "id": "forest-quarantine",
       "label": "全国林业检疫性有害生物",
-      "source_title": "全国林业检疫性有害生物名单（国家林业局2013年第4号公告）",
+      "source_title": "全国林业检疫性有害生物名单（2013年第4号公告）",
       "source_url": "https://www.forestry.gov.cn/c/www/gkgjlyjgb/38791.jhtml",
       "source_date": "2013-01-09",
       "species": [
@@ -21,7 +20,7 @@
     {
       "id": "forest-danger",
       "label": "全国林业危险性有害生物",
-      "source_title": "全国林业危险性有害生物名单（国家林业局2013年第4号公告）",
+      "source_title": "全国林业危险性有害生物名单（2013年第4号公告）",
       "source_url": "https://www.forestry.gov.cn/c/www/gkgjlyjgb/38791.jhtml",
       "source_date": "2013-01-09",
       "species": [
@@ -89,18 +88,18 @@
         {
           "genus": "Dendroctonus",
           "as_listed": "Dendroctonus spp. (e.g., D. valens and non-Chinese)",
-          "restriction_zh": "原条款举例包括红脂大小蠹（D. valens），其余范围以原文所述非中国种为限；不应将整个属所有物种自动视为列名对象。",
+          "restriction_zh": "仅限非中国种，例如红脂大小蠹（Dendroctonus valens）。",
           "mentioned_vsn": "VSN_2299"
         },
         {
           "genus": "Ips",
           "as_listed": "Ips spp. (non-Chinese)",
-          "restriction_zh": "仅限非中国种；不代表本数据库收录的全部 Ips 物种都属于该条款。"
+          "restriction_zh": "仅限非中国种。"
         },
         {
           "genus": "Xyleborus",
           "as_listed": "Xyleborus spp. (non-Chinese)",
-          "restriction_zh": "仅限非中国种；不代表本数据库收录的全部 Xyleborus 物种都属于该条款。"
+          "restriction_zh": "仅限非中国种。"
         }
       ]
     }

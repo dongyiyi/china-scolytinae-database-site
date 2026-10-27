@@ -194,43 +194,33 @@ async function browseRegions(params=new URLSearchParams()){
 
 async function invasiveSpecies(){
   const [taxa,lists]=await Promise.all([getJSON('data/taxa.json'),getJSON('data/pest-lists.json')]);
-  const index=new Map(taxa.map(t=>[t.vsn,t]));
+  const byVSN=new Map(taxa.map(t=>[t.vsn,t]));
   const nonnative=taxa.filter(t=>t.invasive_status==='Invasive').sort((a,b)=>a.scientific_name.localeCompare(b.scientific_name,'en'));
-  const navigation=[
-    {id:'invasive',label:'Non-native invasive species',count:nonnative.length},
-    ...lists.groups.map(g=>({id:g.id,label:g.label,count:g.species.length+g.genera.length}))
+  const categories=[
+    {id:'invasive',label:'Non-native invasive species'},
+    ...lists.groups.map(g=>({id:g.id,label:g.label}))
   ];
-  const renderEntry=(item)=>{
-    const taxon=index.get(item.vsn);
-    return taxon?speciesResult(taxon):'<p class="notice">List match requires taxonomic review.</p>';
+  const renderSpecies=item=>{
+    const t=byVSN.get(item.vsn);
+    return t?speciesResult(t):'<p class="notice">List match requires taxonomic review.</p>';
   };
-  const renderGenus=(item)=>{
-    const url='#/genera';
-    return '<article class="pest-genus-entry"><div class="pest-name"><a href="'+url+'"><i>'+esc(item.genus)+'</i></a> <span class="pest-rank">属级条款</span></div><div class="pest-listed-name">'+esc(item.as_listed)+'</div><p class="pest-limitation" lang="zh-Hans">'+esc(item.restriction_zh)+'</p></article>';
-  };
-  app.innerHTML='<section class="taxonomy-banner" id="pest-top"><div class="eyebrow">Species of interest</div><h1>Pest lists &amp; invasiveness</h1><p class="subtitle">Invasiveness assessments and records from official Chinese pest lists are presented separately. Inclusion in an official list does not establish that a taxon is invasive in China.</p></section><div class="pest-layout"><nav class="pest-nav" aria-label="Pest and invasion categories"><div class="pest-nav-title">Categories</div>'+navigation.map(n=>'<button type="button" data-pest-category="'+esc(n.id)+'" aria-pressed="false">'+esc(n.label)+' <span class="pest-count">'+n.count+'</span></button>').join('')+'</nav><section class="pest-panel" id="pest-panel" aria-live="polite"></section></div>';
-  const sidebar=Array.from(app.querySelectorAll('[data-pest-category]'));
-  const panel=app.querySelector('#pest-panel');
-  const display=(id)=>{
-    sidebar.forEach(btn=>{
-      const selected=btn.dataset.pestCategory===id;
-      btn.setAttribute('aria-pressed',String(selected));
-      btn.classList.toggle('is-active',selected);
-    });
-    if(id==='invasive'){
-      panel.innerHTML='<h2>Non-native invasive species</h2><p class="pest-lead">'+nonnative.length+' taxa not native to China and currently flagged as invasive in this checklist. This flag is separate from official pest-list membership.</p><div class="pest-species">'+nonnative.map(speciesResult).join('')+'</div>';
-      return;
-    }
-    const group=lists.groups.find(x=>x.id===id);
-    if(!group)return;
-    const source='<p class="pest-source"><strong>名录依据：</strong><a href="'+esc(group.source_url)+'" target="_blank" rel="noopener noreferrer">'+esc(group.source_title)+'</a></p>';
-    const entries=group.species.map(renderEntry).join('');
-    const genera=(group.genera||[]).map(renderGenus).join('');
-    const count=group.species.length+(group.genera||[]).length;
-    panel.innerHTML='<h2 lang="zh-Hans">'+esc(group.label)+'</h2><p class="pest-lead" lang="zh-Hans">本数据库对应条目：'+count+'（'+group.species.length+' 个种级条目'+(group.genera.length?'、'+group.genera.length+' 个属级条款':'')+'）。仅为数据库匹配结果，并非该官方名录全文。</p>'+source+'<div class="pest-species">'+entries+genera+'</div><p class="pest-disclaimer" lang="zh-Hans">'+esc(lists.note_zh)+'</p>';
-  };
-  sidebar.forEach(btn=>btn.addEventListener('click',()=>display(btn.dataset.pestCategory)));
-  display('invasive');
+  const renderGenus=item=>'<article class="pest-genus-entry"><div class="pest-name"><i>'+esc(item.genus)+'</i> <span class="pest-rank">属级条款</span></div><div class="pest-listed-name">'+esc(item.as_listed)+'</div>'+(item.restriction_zh?'<p class="pest-limitation" lang="zh-Hans">'+esc(item.restriction_zh)+'</p>':'')+'</article>';
+  const invasiveBlock='<section class="pest-section" id="pest-section-invasive" aria-labelledby="pest-heading-invasive"><h2 id="pest-heading-invasive">Non-native invasive species</h2><p class="pest-lead">'+nonnative.length+' taxa not native to China and currently flagged as invasive in this checklist.</p><div class="pest-species">'+nonnative.map(speciesResult).join('')+'</div></section>';
+  const officialBlocks=lists.groups.map(g=>{
+    const species=g.species.map(renderSpecies).join('');
+    const genera=(g.genera||[]).map(renderGenus).join('');
+    const source='<p class="pest-source" lang="zh-Hans"><strong>名录依据：</strong>'+esc(g.source_title)+'</p>';
+    return '<section class="pest-section" id="pest-section-'+esc(g.id)+'" aria-labelledby="pest-heading-'+esc(g.id)+'"><h2 lang="zh-Hans" id="pest-heading-'+esc(g.id)+'">'+esc(g.label)+'</h2>'+source+'<div class="pest-species">'+species+genera+'</div></section>';
+  }).join('');
+  const nav=categories.map(n=>'<button type="button" data-scroll-pest="'+esc(n.id)+'" aria-controls="pest-section-'+esc(n.id)+'">'+esc(n.label)+'</button>').join('');
+  app.innerHTML='<section class="taxonomy-banner" id="pest-top"><div class="eyebrow">Species of interest</div><h1>Pest lists &amp; invasiveness</h1><p class="subtitle">Invasiveness assessments and records from official Chinese pest lists are presented separately. Inclusion in an official list does not establish that a taxon is invasive in China.</p></section><div class="pest-layout"><nav class="pest-nav" aria-label="Pest and invasion categories"><div class="pest-nav-title">On this page</div>'+nav+'</nav><div class="pest-panel">'+invasiveBlock+officialBlocks+'</div></div>';
+  const buttons=Array.from(app.querySelectorAll('[data-scroll-pest]'));
+  buttons.forEach(button=>button.addEventListener('click',()=>{
+    const target=app.querySelector('#pest-section-'+button.dataset.scrollPest);
+    if(!target)return;
+    buttons.forEach(b=>b.classList.toggle('is-active',b===button));
+    target.scrollIntoView({behavior:'smooth',block:'start'});
+  }));
   showBackToTop('pest-top');
 }
 
