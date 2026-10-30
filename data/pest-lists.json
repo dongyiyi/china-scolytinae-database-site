@@ -87,8 +87,8 @@
       "genera": [
         {
           "genus": "Dendroctonus",
-          "as_listed": "Dendroctonus spp. (e.g., D. valens and non-Chinese)",
-          "restriction_zh": "仅限非中国种，例如红脂大小蠹（Dendroctonus valens）。",
+          "as_listed": "Dendroctonus spp. (non-Chinese species and D. valens)",
+          "restriction_zh": "仅限非中国种和红脂大小蠹（Dendroctonus valens）。",
           "mentioned_vsn": "VSN_2299"
         },
         {
