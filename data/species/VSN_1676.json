@@ -81,9 +81,20 @@
         "orig_d87a90ab173c",
         "johnson2026"
       ]
+    },
+    {
+      "year": "2017",
+      "event": "Historical combination",
+      "name": "Hypocryphalus dilutus",
+      "authorship": "(Eichhoff, 1878a)",
+      "note": "Johnson et al. (2017) used Hypocryphalus dilutus (Eichhoff, 1878a), stat. rev., and treated Cryphalus dilutus Eichhoff, 1878b: 490 as a new synonym. Following the generic synonymy of Hypocryphalus with Cryphalus (Johnson et al., 2020), this is a historical combination of the accepted species, not a separate species-level synonym.",
+      "reference_ids": [
+        "src_johnson2017_mango_fig",
+        "src_johnsonetal2020_cryphaluseastasia"
+      ]
     }
   ],
-  "nomenclature_note": "The integrated taxonomic backbone links 1 additional historical name usage to the current accepted taxon.",
+  "nomenclature_note": "Johnson et al. (2017) used Hypocryphalus dilutus (Eichhoff, 1878a) as a reinstated valid species and synonymized Cryphalus dilutus Eichhoff, 1878b: 490. The 2017 genus placement is recorded as a historical combination, not an additional species-level synonym. The 1878a accepted name and 1878b synonym are retained.",
   "resources": {
     "images": "No image records are linked yet.",
     "specimens": "No specimen records are linked yet.",
@@ -132,6 +143,16 @@
         "nomenclatural source"
       ],
       "citation": "Eichhoff, W.J. (1878a). Neue oder noch unbeschriebene Tomicinen. Stettiner Entomologische Zeitung 39: 383–392."
+    },
+    {
+      "id": "src_johnson2017_mango_fig",
+      "label": "Johnson et al., 2017",
+      "role": [
+        "taxonomic treatment",
+        "historical combination"
+      ],
+      "citation": "Johnson, A.J., Knížek, M., Atkinson, T.H., Jordal, B.H., Ploetz, R.C. & Hulcr, J. (2017). Resolution of a Global Mango and Fig Pest Identity Crisis. Insect Systematics and Diversity 1(2): ixx010.",
+      "doi": "10.1093/isd/ixx010"
     }
   ],
   "recommended_chinese_name": "刺足梢小蠹",
