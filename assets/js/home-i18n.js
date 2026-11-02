@@ -79,7 +79,7 @@
   // Preserve each source-language DOM text node so toggling is reversible.
   const originalText = new WeakMap();
   const originalInput = new WeakMap();
-  const homepage = () => site === 'portal' || !location.hash || /^#\\/?(?:\\?.*)?$/.test(location.hash);
+  const homepage = () => site === 'portal' || ['', '#', '#/'].includes(location.hash) || location.hash.startsWith('#/?');
   let lang;
   try { lang = localStorage.getItem(KEY) === 'zh' ? 'zh' : 'en'; } catch { lang='en'; }
   let observer=null;
