@@ -8,6 +8,8 @@
   const terms = {
     'China Scolytinae & Platypodinae Database':'中国小蠹亚科与长小蠹亚科数据库',
     'China Scolytinae Database':'中国小蠹亚科数据库',
+    'Scolytinae':'小蠹亚科',
+    'Platypodinae':'长小蠹亚科',
     'China Platypodinae Database':'中国长小蠹亚科数据库',
     'Home':'首页', 'All subfamilies':'联合主页', 'Browse taxa':'浏览物种',
     'Data & coverage':'数据与覆盖范围','Methods':'研究方法','Contribute':'提交数据','Cite':'引用','About':'关于',
@@ -49,14 +51,14 @@
     '. Comprehensive assessments and lists are not yet published.':'。完整的评估和名录尚未发布。',
     'Explore published region-level reports and their cited species profiles.':'浏览有文献依据的地区记录及其对应的物种档案。',
     'Visit the independent Scolytinae database.':'访问独立的小蠹亚科数据库。',
-    'Profiles are evidence-qualified and remain subject to ongoing taxonomic review. An absent regional record does not indicate species absence.':'物种档案均依据已有证据整理，分类学审核仍在进行中。某地区缺少记录并不代表该物种在那里不存在。',
-    'Website designed and developed by Yiyi Dong. Separate subfamily datasets and permanent IDs are maintained independently.':'网站由董一一设计与开发。两个亚科的数据集与永久标识符独立维护。',
-    'Website designed and developed by Yiyi Dong.':'网站由董一一设计与开发。',
+    'Profiles are evidence-qualified and remain subject to ongoing taxonomic review.':'物种档案均依据已有证据整理，分类学审核仍在进行中。',
+    'Website designed and developed by Yiyi Dong. Separate subfamily datasets and permanent IDs are maintained independently.':'网站由董乙乂设计与开发。两个亚科的数据集与永久标识符独立维护。',
+    'Website designed and developed by Yiyi Dong.':'网站由董乙乂设计与开发。',
     'Platypodinae remains provisionally scoped pending scientific QA.':'长小蠹亚科数据库仍为暂定版本，尚待进一步科学审核。',
     'Feedback and corrections welcome. · Last updated: 28 October 2026':'欢迎反馈与勘误 · 最后更新：2026年10月28日',
     'Feedback and corrections welcome. · Last updated: 18 October 2026':'欢迎反馈与勘误 · 最后更新：2026年10月18日',
-    'Taxonomic content maintained by Yiyi Dong.':'分类学内容由董一一维护。',
-    'Taxonomic content maintained by Yiyi Dong and Wei Lin.':'分类学内容由董一一和林伟维护。',
+    'Taxonomic content maintained by Yiyi Dong.':'分类学内容由董乙乂维护。',
+    'Taxonomic content maintained by Yiyi Dong and Wei Lin.':'分类学内容由董乙乂和林伟维护。',
     'No matching taxon in the current database.':'当前数据库中没有匹配的物种。',
     'No matching published species profile.':'没有匹配的已发布物种档案。',
     'Search indexes are unavailable.':'搜索索引暂不可用。',
@@ -70,91 +72,111 @@
     'Search scientific/Chinese names, former names, genus, tribe, or VSN':'搜索学名、中文名、曾用名、属名、族名或 VSN',
     'Search Platypodinae':'搜索长小蠹亚科',
   };
-  const original = new WeakMap();
-  const originalsAttr = new WeakMap();
-  const translatedRoots = () => {
-    const roots = [
-      ...document.querySelectorAll('.site-header, .site-footer'),
-      ...document.querySelectorAll('#app > .hero, #app > .grid, #app > .notice, main.shell > .hero, main.shell > .grid, main.shell > .muted')
-    ];
-    return roots;
-  };
-  function swapText(node, isZH) {
-    if (!original.has(node)) original.set(node, node.nodeValue);
-    const en = original.get(node);
-    if (!en.trim()) return;
-    const trimmed = en.trim();
-    let zh = terms[trimmed];
-    if (zh === undefined && /^\s*species\s*$/.test(en)) zh = '种';
-    if (zh === undefined && /^\s*species profiles\s*$/.test(en)) zh = '物种档案';
-    if (zh === undefined && /^\d+ matching species$/.test(trimmed)) zh = trimmed.replace(' matching species',' 个匹配物种');
-    if (zh === undefined) return;
-    const leading = en.match(/^\s*/)[0], trailing = en.match(/\s*$/)[0];
-    const next = isZH ? leading + zh + trailing : en;
-    if (node.nodeValue !== next) node.nodeValue = next;
+
+  // Preserve each source-language DOM text node so toggling is reversible.
+  const originalText = new WeakMap();
+  const originalInput = new WeakMap();
+  const homepage = () => site === 'portal' || !location.hash || /^#\\/?(?:\\?.*)?$/.test(location.hash);
+  let lang;
+  try { lang = localStorage.getItem(KEY) === 'zh' ? 'zh' : 'en'; } catch { lang='en'; }
+  let observer=null;
+  let scheduled=false;
+  let applying=false;
+  function replaceNode(node, chinese) {
+    if (!originalText.has(node)) originalText.set(node,node.nodeValue);
+    const english=originalText.get(node);
+    const word=english.trim();
+    if (!word) return;
+    let translated=terms[word];
+    if (translated===undefined && /^\\d+ matching species$/.test(word)) {
+      translated=word.replace(' matching species',' 个匹配物种');
+    }
+    if (translated===undefined) return;
+    const prefix=english.match(/^\\s*/)[0], suffix=english.match(/\\s*$/)[0];
+    const expected=chinese ? prefix + translated + suffix : english;
+    if(node.nodeValue!==expected) node.nodeValue=expected;
   }
-  function walk(root, isZH) {
-    if (!root) return;
-    const walker = document.createTreeWalker(root, NodeFilter.SHOW_TEXT);
-    const nodes = [];
-    while (walker.nextNode()) nodes.push(walker.currentNode);
-    nodes.forEach(n => swapText(n,isZH));
-    root.querySelectorAll('input[placeholder], input[aria-label]').forEach(input => {
-      if (!originalsAttr.has(input)) originalsAttr.set(input,{placeholder:input.getAttribute('placeholder'),label:input.getAttribute('aria-label')});
-      const old=originalsAttr.get(input);
-      for(const [attr,val] of [['placeholder',old.placeholder],['aria-label',old.label]]){
-        if(val!==null) {const next=isZH ? (terms[val]||val) : val;if(input.getAttribute(attr)!==next)input.setAttribute(attr,next);}
+  function translateRegion(root,chinese){
+    if(!root)return;
+    const walker=document.createTreeWalker(root,NodeFilter.SHOW_TEXT);
+    const nodes=[];
+    while(walker.nextNode())nodes.push(walker.currentNode);
+    for(const node of nodes) replaceNode(node,chinese);
+    root.querySelectorAll('input[placeholder], input[aria-label]').forEach(input=>{
+      if(!originalInput.has(input)) originalInput.set(input,{placeholder:input.getAttribute('placeholder'),label:input.getAttribute('aria-label')});
+      const prior=originalInput.get(input);
+      for(const [attr,english] of [['placeholder',prior.placeholder],['aria-label',prior.label]]){
+        if(english===null)continue;
+        const expected=chinese ? (terms[english] ?? english) : english;
+        if(input.getAttribute(attr)!==expected)input.setAttribute(attr,expected);
       }
     });
   }
-  let preferred;
-  try { preferred = localStorage.getItem(KEY) || 'en'; } catch { preferred='en'; }
-  if (!['zh','en'].includes(preferred)) preferred='en';
-  let running=false;
-  let observer;
-  function apply() {
-    if(running) return;
-    running=true;
+  function update(){
+    if(applying)return;
+    applying=true;
     if(observer)observer.disconnect();
-    try {
-      const isHome=home(),isZH=isHome&&preferred==='zh';
-      document.documentElement.lang=isZH?'zh-CN':'en';
+    try{
+      const onHome=homepage();
+      const chinese=onHome && lang==='zh';
+      document.documentElement.lang=chinese?'zh-CN':'en';
       const control=document.querySelector('#home-language-control');
       if(control){
-        control.hidden=!isHome;
-        control.querySelectorAll('button').forEach(btn=>{
-          const active=btn.dataset.lang===preferred;
-          btn.setAttribute('aria-pressed',String(active));
-          btn.style.fontWeight=active?'700':'400';
-          btn.style.background=active?'var(--panel, #e5ebf3)':'transparent';
-        });
+        control.hidden=!onHome;
+        for(const btn of control.querySelectorAll('button')){
+          const selected=btn.dataset.lang===lang;
+          btn.setAttribute('aria-pressed',String(selected));
+          btn.style.fontWeight=selected?'700':'400';
+          btn.style.background=selected?'var(--panel, #e5ebf3)':'transparent';
+        }
       }
-      for(const root of translatedRoots())walk(root,isZH);
-    } finally {
-      running=false;
-      if(observer)observer.observe(document.body,{subtree:true,childList:true,characterData:true});
+      for(const root of document.querySelectorAll('.site-header, .site-footer, main > .hero, main > .grid, main > .notice, main > .muted')){
+        if(root.id==='home-language-control')continue;
+        translateRegion(root,chinese);
+      }
+    }finally{
+      applying=false;
+      if(observer)observer.observe(document.body,{subtree:true,childList:true});
     }
+  }
+  function schedule(){
+    if(scheduled)return;
+    scheduled=true;
+    requestAnimationFrame(()=>{
+      scheduled=false;
+      update();
+    });
   }
   function init(){
     const nav=document.querySelector('.site-header nav');
-    if(nav){
-      const wrap=document.createElement('span');
-      wrap.id='home-language-control';
-      wrap.setAttribute('role','group');
-      wrap.setAttribute('aria-label','Homepage language / 首页语言');
-      wrap.style.cssText='display:inline-flex;align-items:center;gap:3px;margin-left:8px;padding:3px;border:1px solid currentColor;border-radius:7px;font-size:.85rem;white-space:nowrap';
-      for(const [label,lang] of [['English','en'],['中文','zh']]){
-        const button=document.createElement('button');
-        button.type='button';button.dataset.lang=lang;button.textContent=label;
-        button.style.cssText='cursor:pointer;border:0;border-radius:4px;padding:5px 7px;color:inherit;font:inherit';
-        button.addEventListener('click',()=>{preferred=lang;try{localStorage.setItem(KEY,lang)}catch{}apply()});
-        wrap.append(button);
+    if(nav && !document.querySelector('#home-language-control')){
+      const control=document.createElement('span');
+      control.id='home-language-control';
+      control.setAttribute('role','group');
+      control.setAttribute('aria-label','Homepage language / 首页语言');
+      control.style.cssText='display:inline-flex;align-items:center;gap:3px;margin-left:8px;padding:3px;border:1px solid currentColor;border-radius:7px;font-size:.85rem;white-space:nowrap';
+      for(const [label,value] of [['English','en'],['中文','zh']]){
+        const btn=document.createElement('button');
+        btn.type='button';
+        btn.dataset.lang=value;
+        btn.textContent=label;
+        btn.style.cssText='cursor:pointer;border:0;border-radius:4px;padding:5px 7px;color:inherit;font:inherit';
+        btn.addEventListener('click',()=>{
+          lang=value;
+          try { localStorage.setItem(KEY,value); } catch {}
+          // Translate on the same click, without waiting for a navigation or reload.
+          update();
+          // Reapply once after a scheduled home-page render.
+          schedule();
+        });
+        control.append(btn);
       }
-      nav.append(wrap);
+      nav.append(control);
     }
-    observer=new MutationObserver(()=>apply());
-    window.addEventListener('hashchange',()=>queueMicrotask(apply));
-    apply();
+    observer=new MutationObserver(schedule);
+    window.addEventListener('hashchange',schedule);
+    window.addEventListener('pageshow',schedule);
+    update();
   }
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',init,{once:true});else init();
 })();
