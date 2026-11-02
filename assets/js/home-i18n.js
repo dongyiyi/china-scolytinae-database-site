@@ -85,11 +85,11 @@
     if (!en.trim()) return;
     const trimmed = en.trim();
     let zh = terms[trimmed];
-    if (zh === undefined && /^\\s*species\\s*$/.test(en)) zh = '种';
-    if (zh === undefined && /^\\s*species profiles\\s*$/.test(en)) zh = '物种档案';
-    if (zh === undefined && /^\\d+ matching species$/.test(trimmed)) zh = trimmed.replace(' matching species',' 个匹配物种');
+    if (zh === undefined && /^\s*species\s*$/.test(en)) zh = '种';
+    if (zh === undefined && /^\s*species profiles\s*$/.test(en)) zh = '物种档案';
+    if (zh === undefined && /^\d+ matching species$/.test(trimmed)) zh = trimmed.replace(' matching species',' 个匹配物种');
     if (zh === undefined) return;
-    const leading = en.match(/^\\s*/)[0], trailing = en.match(/\\s*$/)[0];
+    const leading = en.match(/^\s*/)[0], trailing = en.match(/\s*$/)[0];
     const next = isZH ? leading + zh + trailing : en;
     if (node.nodeValue !== next) node.nodeValue = next;
   }
