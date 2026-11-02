@@ -131,7 +131,7 @@
           const selected=btn.dataset.lang===lang;
           btn.setAttribute('aria-pressed',String(selected));
           btn.style.fontWeight=selected?'700':'400';
-          btn.style.background=selected?'var(--panel, #e5ebf3)':'transparent';
+          btn.style.textDecoration=selected?'underline':'none';
         }
       }
       for(const root of document.querySelectorAll('.site-header, .site-footer, main > .hero, main > .grid, main > .notice, main > .muted')){
@@ -158,13 +158,13 @@
       control.id='home-language-control';
       control.setAttribute('role','group');
       control.setAttribute('aria-label','Homepage language / 首页语言');
-      control.style.cssText='display:inline-flex;align-items:center;gap:3px;margin-left:8px;padding:3px;border:1px solid currentColor;border-radius:7px;font-size:.85rem;white-space:nowrap';
+      control.style.cssText='display:inline-flex;align-items:baseline;gap:12px;margin:0;padding:0;border:0;background:none;font-size:inherit;line-height:inherit;white-space:nowrap';
       for(const [label,value] of [['English','en'],['中文','zh']]){
         const btn=document.createElement('button');
         btn.type='button';
         btn.dataset.lang=value;
         btn.textContent=label;
-        btn.style.cssText='cursor:pointer;border:0;border-radius:4px;padding:5px 7px;color:inherit;font:inherit';
+        btn.style.cssText='cursor:pointer;appearance:none;border:0;border-radius:0;padding:0;margin:0;background:none;box-shadow:none;color:inherit;font:inherit;line-height:inherit;text-decoration:none';
         btn.addEventListener('click',()=>{
           lang=value;
           try { localStorage.setItem(KEY,value); } catch {}
