@@ -95,7 +95,8 @@
       translated=word.replace(' matching species',' 个匹配物种');
     }
     if (translated===undefined) return;
-    const prefix=english.match(/^\\s*/)[0], suffix=english.match(/\\s*$/)[0];
+    const start=english.indexOf(word);
+    const prefix=english.slice(0,start), suffix=english.slice(start+word.length);
     const expected=chinese ? prefix + translated + suffix : english;
     if(node.nodeValue!==expected) node.nodeValue=expected;
   }
