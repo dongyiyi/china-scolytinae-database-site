@@ -20,7 +20,7 @@
     'Explore published Chinese Platypodinae taxon profiles, nomenclatural histories, provincial distribution records, host associations and linked literature. Taxonomic and occurrence reviews remain ongoing.':'浏览中国长小蠹亚科的已公开物种档案、命名历史、省级分布、寄主及相关文献。分类与分布记录仍在持续审核中。',
     'Associated manuscript':'相关论文',
     'Submitted to':'已投稿至',
-    'Not yet peer-reviewed or published.':'尚未经过同行评审或正式发表。',
+    '(October 2026). Not yet peer-reviewed or published.':'（2026年10月）。尚未经过同行评审或正式发表。',
     'Database version':'数据库版本',
     'Release archive':'版本发布归档',
     'v1.0.0 · 577 accepted species':'v1.0.0 · 577 个接受种',
