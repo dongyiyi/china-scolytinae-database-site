@@ -54,6 +54,7 @@
     'Profiles are evidence-qualified and remain subject to ongoing taxonomic review.':'物种档案均依据已有证据整理，分类学审核仍在进行中。',
     'Website designed and developed by Yiyi Dong. Separate subfamily datasets and permanent IDs are maintained independently.':'网站由董乙乂设计与开发。两个亚科的数据集与永久标识符独立维护。',
     'Website designed and developed by Yiyi Dong.':'网站由董乙乂设计与开发。',
+    'Website designed and developed by Yiyi Dong. Platypodinae remains provisionally scoped pending scientific QA.':'网站由董乙乂设计与开发。长小蠹亚科数据库仍为暂定版本，尚待进一步科学审核。',
     'Platypodinae remains provisionally scoped pending scientific QA.':'长小蠹亚科数据库仍为暂定版本，尚待进一步科学审核。',
     'Feedback and corrections welcome. · Last updated: 28 October 2026':'欢迎反馈与勘误 · 最后更新：2026年10月28日',
     'Feedback and corrections welcome. · Last updated: 18 October 2026':'欢迎反馈与勘误 · 最后更新：2026年10月18日',
@@ -71,6 +72,8 @@
     'Search scientific or Chinese name, alternative name, genus, tribe, or PLT ID':'搜索学名、中文名、曾用名、属名、族名或 PLT ID',
     'Search scientific/Chinese names, former names, genus, tribe, or VSN':'搜索学名、中文名、曾用名、属名、族名或 VSN',
     'Search Platypodinae':'搜索长小蠹亚科',
+    'Search published taxa':'搜索已公开物种',
+    'Search scientific or Chinese names, genus, tribe, author or ID':'搜索学名、中文名、属名、族名、命名人或 ID',
   };
 
   // Preserve each source-language DOM text node so toggling is reversible.
