@@ -129,11 +129,11 @@
     if(observer)observer.disconnect();
     try{
       const onHome=homepage();
-      const chinese=onHome && lang==='zh';
+      const chinese=lang==='zh';
       document.documentElement.lang=chinese?'zh-CN':'en';
       const control=document.querySelector('#home-language-control');
       if(control){
-        control.hidden=!onHome;
+        control.hidden=false;
         for(const btn of control.querySelectorAll('button')){
           const selected=btn.dataset.lang===lang;
           btn.setAttribute('aria-pressed',String(selected));
@@ -141,7 +141,7 @@
           btn.style.textDecoration=selected?'underline':'none';
         }
       }
-      for(const root of document.querySelectorAll('.site-header, .site-footer, main > .hero, main > .grid, main > .notice, main > .muted')){
+      for(const root of document.querySelectorAll(onHome ? '.site-header, .site-footer, main > .hero, main > .grid, main > .notice, main > .muted' : '.site-header, .site-footer')){
         if(root.id==='home-language-control')continue;
         translateRegion(root,chinese);
       }
