@@ -16,14 +16,14 @@
   },
   "distribution": {
     "summary": "Yunnan; Hong Kong",
-    "narrative": "Yan et al. (2010) listed Coccotrypes dactyliperda among stored-grain insects in China, providing country-level occurrence evidence without a provincial locality. Spennemann (2018) subsequently treated China as naturalised, citing Yan et al. (2010). Huang et al. (2026) reported Yunnan and described it as the first discovery in China; that priority claim is retained as the authors' interpretation rather than adopted here because earlier mainland-China evidence exists. Lau (2025) supports Hong Kong. Yin et al. (1984) listed Tianjin and Qinhuangdao as ports of entry; these records are treated as pathway or interception evidence, not confirmed current localities. The Hebei attribution in Huang & Lu (2015) remains under review and is excluded from the current reviewed distribution.",
+    "narrative": "Yan et al. (2010) listed Coccotrypes dactyliperda among stored-grain insects in China, providing country-level occurrence evidence without a provincial locality. Spennemann (2018) subsequently treated China as naturalised, citing Yan et al. (2010). Huang et al. (2026) reported Yunnan and described it as the first discovery in China; that priority claim is retained as the authors' interpretation rather than adopted here because earlier mainland-China evidence exists. Lau (2025) supports Hong Kong. Yin et al. (1984) listed Tianjin and Qinhuangdao as ports of entry; these records are treated as pathway or interception evidence, not confirmed current localities. Zhang (2014) reported Tianjin and Hebei, but the species entry does not identify whether these records came from examined specimens or prior literature; they remain secondary regional occurrence evidence and are excluded from the current reviewed distribution.",
     "reference_ids": [
       "src_yanetal2010_storedgrainarthropodschina",
       "src_spennemann2018_coccotrypesdactyliperda",
       "src_huangetal2026_coccotrypesdactyliperdachina",
       "src_lau2025",
       "src_ef1984",
-      "src_co2015"
+      "src_zhang2014_jingjinjicoleopterathesis"
     ]
   },
   "hosts": [
@@ -316,6 +316,14 @@
       ],
       "citation": "Yan, X., Zhou, H., Shen, Z., Li, W., Guo, D., Song, Y., Lan, S. & Zhang, J. (2010). National investigations of stored grain arthropods in China. Julius-Kühn-Archiv 425: 212-218.",
       "doi": "10.5073/jka.2010.425.145"
+    },
+    {
+      "id": "src_zhang2014_jingjinjicoleopterathesis",
+      "label": "Zhang, 2014",
+      "role": [
+        "published evidence"
+      ],
+      "citation": "张越. 2014. 冀京津地区甲虫物种多样性与区系分布. 河北大学硕士学位论文."
     }
   ],
   "recommended_chinese_name": "枣核椰小蠹",
