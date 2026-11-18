@@ -23,12 +23,9 @@ for(const id of ids){
 
   const hp='taxa/'+id+'/index.html',original=await read(hp);
   let html=original,count=0,one=0;
-  html=html.replace(/(<meta (?:name="description"|property="og:description") content=")([^"\n]*)(">)/g,(_m,a,b,c)=>{
-    if(!b.includes('Taxon profile in the China Scolytinae Database.'))return _m;
-    const cleaned=b.replace(/\sreviewed China distribution: .*?(?=\. Taxon profile in the China Scolytinae Database\.)/,'');
-    const updated=cleaned.replace('. Taxon profile in the China Scolytinae Database.', '. reviewed China distribution: '+esc(d.en)+'. Taxon profile in the China Scolytinae Database.');
-    count++;return a+updated+c;
-  });
+  // Some legacy SEO descriptions are truncated; regenerate both from the profile.
+  const seo=esc(t.scientific_name+' '+(t.authorship||'')+'. '+t.subfamily+'. '+t.tribe+'. reviewed China distribution: '+d.en+'. Taxon profile in the China Scolytinae Database.');
+  html=html.replace(/(<meta (?:name="description"|property="og:description") content=")[^"\n]*(">)/g,(_all,a,b)=>{count++;return a+seo+b});
   html=html.replace(/<noscript>([\s\S]*?)<\/noscript>/,(_all,inside)=>{
     if(inside.includes('<dt>China distribution</dt>')){
       inside=inside.replace(/(<dt>China distribution<\/dt><dd>)([^<]*)(<\/dd>)/,(_m,a,_b,c)=>a+esc(d.en)+c);
