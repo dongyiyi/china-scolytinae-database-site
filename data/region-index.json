@@ -4504,7 +4504,7 @@
         "Kirin",
         "吉林"
       ],
-      "count": 40,
+      "count": 41,
       "records": [
         {
           "vsn": "VSN_0146",
@@ -4569,6 +4569,12 @@
         {
           "vsn": "VSN_3121",
           "occurrence_assessment": "Present",
+          "assessment_scope": "Mainland China",
+          "review_status": "Reviewed"
+        },
+        {
+          "vsn": "VSN_3387",
+          "occurrence_assessment": "Candidate",
           "assessment_scope": "Mainland China",
           "review_status": "Reviewed"
         },
