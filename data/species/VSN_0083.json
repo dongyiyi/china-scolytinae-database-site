@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
+    "summary": "Sichuan; Yunnan",
     "narrative": "Huang & Lu (2015) reported Sichuan and Yunnan under the published name Acanthotomicus perexignus. These are literature-based locality reports, not a verified current distribution. Mainland China remains Candidate pending scientific review; the 2015 record also marks these provinces as shared with 1984, but no separate 1984 source record is presently linked to this species.",
     "reference_ids": [
       "huanglu2015"
-    ]
+    ],
+    "summary_zh": "四川；云南"
   },
   "hosts": [
     {

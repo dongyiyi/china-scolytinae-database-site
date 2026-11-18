@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Fujian; Jiangxi; Yunnan; Taiwan",
+    "summary": "Fujian; Jiangxi; Taiwan; Yunnan",
     "narrative": "Smith et al. (2020) records Ambrosiophilus sulcatus from Fujian, Jiangxi and Taiwan. Smith et al. (2022) confirms Fujian, Jiangxi and Taiwan and adds Yunnan, including Xishuangbanna locality evidence. The reviewed distribution is the union Fujian, Jiangxi, Yunnan and Taiwan.",
     "reference_ids": [
       "src_smith2020",
       "src_smith2022"
-    ]
+    ],
+    "summary_zh": "福建；江西；台湾；云南"
   },
   "hosts": [
     {

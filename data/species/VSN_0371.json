@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Hunan; Guizhou; Fujian; Xizang; Yunnan",
+    "summary": "Hunan; Guizhou; Fujian; Xizang (Tibet); Yunnan",
     "narrative": "Huang & Lu (2015) recorded Anisandrus eggersi under the source name Terminalinus eggersi from Hunan, Guizhou, Fujian and Xizang. Smith et al. (2022) adds Yunnan, with locality evidence from Honghe. The reviewed current distribution is the union of these confirmed records.",
     "reference_ids": [
       "src_co2015",
       "src_smith2022"
-    ]
+    ],
+    "summary_zh": "湖南；贵州；福建；西藏；云南"
   },
   "hosts": [
     {

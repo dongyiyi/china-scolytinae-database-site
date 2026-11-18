@@ -15,14 +15,15 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Sichuan; Fujian; Hainan; Taiwan; Guangxi; Shaanxi",
+    "summary": "Sichuan; Fujian; Taiwan; Hainan; Guangxi; Shaanxi",
     "narrative": "Yin et al. (1984) records Sichuan and Fujian; Huang & Lu (2015) adds Hainan and Taiwan. Beaver & Liu (2010) independently reports Taiwan and broad China (SE, SW). The broad regional wording is retained as context only and does not generate new province records. Alonso-Zarazaga et al. (2023) list Guangxi, Shaanxi as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015",
       "src_beaverliu2010",
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "四川；福建；台湾；海南；广西；陕西"
   },
   "hosts": [
     {

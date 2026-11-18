@@ -15,14 +15,15 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Heilongjiang; Liaoning",
+    "summary": "Liaoning; Heilongjiang",
     "narrative": "Yin et al. (1984) and Huang & Lu (2015) list Liaoning under Cryphalus malus and Heilongjiang under historical synonym Cryphalus padi. Yang (2020) also lists Liaoning. Alonso-Zarazaga et al. (2023) list Heilongjiang as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015",
       "src_yangcryphaluschecklistal2020",
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "辽宁；黑龙江"
   },
   "hosts": [
     {

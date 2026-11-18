@@ -15,7 +15,7 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Anhui; Fujian; Guizhou; Hainan; Hong Kong; Jiangsu; Jiangxi; Shaanxi; Shanghai; Sichuan; Yunnan; Zhejiang; Taiwan",
+    "summary": "Anhui; Zhejiang; Fujian; Sichuan; Yunnan; Guizhou; Hainan; Hong Kong; Jiangsu; Jiangxi; Shaanxi; Shanghai; Taiwan",
     "narrative": "Yin et al. (1984), Huang & Lu (2015) and Smith et al. (2020) document the reviewed Chinese distribution. Beaver & Liu (2010) independently documented Taiwan; their broad regional China wording is not converted to provinces. Lau (2025) provides secondary checklist evidence for Hong Kong.",
     "reference_ids": [
       "src_ef1984",
@@ -23,7 +23,8 @@
       "src_smith2020",
       "src_beaverliu2010",
       "src_lau2025"
-    ]
+    ],
+    "summary_zh": "安徽；浙江；福建；四川；云南；贵州；海南；香港；江苏；江西；陕西；上海；台湾"
   },
   "hosts": [
     {

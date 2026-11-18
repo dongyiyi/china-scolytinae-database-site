@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Shanghai",
+    "summary": "Guangdong; Shanghai",
     "narrative": "A source record attributed to Shan et al. (2025) lists Shanghai. The locality attribution requires verification against the publication; the regional occurrence assessment remains Candidate.",
     "reference_ids": [
       "src_shanetal2025_barkbeetlesmangrove"
-    ]
+    ],
+    "summary_zh": "广东；上海"
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",

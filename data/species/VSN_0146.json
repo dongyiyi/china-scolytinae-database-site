@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Jilin (literature report; unconfirmed)",
+    "summary": "Jilin; Taiwan",
     "narrative": "Alonso-Zarazaga et al. (2023) lists Jilin Province for Alniphagus costatus. This is a literature-based provincial report from Source Record CAT2023_VSN_0146; the underlying occurrence evidence has not been independently verified. Mainland China remains Candidate and the Checklist Review Status remains In review. The report is not promoted to a confirmed provincial occurrence.",
     "reference_ids": [
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "吉林；台湾"
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",

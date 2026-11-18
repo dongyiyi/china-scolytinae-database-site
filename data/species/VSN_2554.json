@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Yunnan；Hubei",
+    "summary": "Yannan; Hubei",
     "narrative": "Yin2001_Scolytogenes reports Yannan: Gongshan; Hubei: Lichuan. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review. Existing note: The name submitted with this occurrence has been reconciled to the accepted taxonomic identity. The occurrence itself remains under review.",
     "reference_ids": [
       "orig_fae687515ff3"
-    ]
+    ],
+    "summary_zh": "云南（原文拼写为 Yannan）；湖北"
   },
   "hosts": [
     {

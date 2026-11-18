@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
+    "summary": "Northeast China",
     "narrative": "Broad NE China occurrence, no individual provinces inferred.",
     "reference_ids": [
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "中国东北地区"
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",

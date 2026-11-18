@@ -15,7 +15,7 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Anhui; Beijing; Chongqing; Fujian; Guangdong; Guangxi; Guizhou; Hebei; Heilongjiang; Hong Kong; Hunan; Jiangxi; Shaanxi; Shandong; Sichuan; Xizang; Yunnan; Zhejiang; Taiwan",
+    "summary": "Anhui; Beijing; Chongqing; Fujian; Guangdong; Guangxi; Guizhou; Hebei; Heilongjiang; Hong Kong; Hunan; Jiangxi; Shaanxi; Shandong; Sichuan; Xizang (Tibet); Yunnan; Zhejiang; Taiwan",
     "narrative": "Yin et al. (1984) and Huang & Lu (2015) document a broad mainland distribution and Taiwan. Smith et al. (2020) substantially expands the reviewed geographic evidence. Beaver & Liu (2010) independently supports Taiwan and broad China occurrence; its CE/NE/NO/SW regional wording is not converted into additional provinces. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
     "reference_ids": [
       "src_ef1984",
@@ -23,7 +23,8 @@
       "src_smith2020",
       "src_beaverliu2010",
       "src_lau2025"
-    ]
+    ],
+    "summary_zh": "安徽；北京；重庆；福建；广东；广西；贵州；河北；黑龙江；香港；湖南；江西；陕西；山东；四川；西藏；云南；浙江；台湾"
   },
   "hosts": [
     {

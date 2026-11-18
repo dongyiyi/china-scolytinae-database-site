@@ -15,14 +15,15 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Fujian; Guangxi; Guizhou; Hubei; Hunan; Shaanxi; Shanxi; Sichuan; Xizang; Yunnan; Taiwan",
+    "summary": "Fujian; Shaanxi; Sichuan; Xizang (Tibet); Guangxi; Guizhou; Hubei; Hunan; Shanxi; Yunnan; Taiwan",
     "narrative": "Yin et al. (1984), using the historical name Xyleborus emarginatus, records Fujian (Chong'an and Jianyang), Shaanxi (Liping), Sichuan (Ebian and Leibo), and Xizang (Zayu and Motuo). Smith et al. (2020) treats Debus emarginatus and lists Fujian, Guangxi (including Miaoershan), Guizhou, Hubei, Hunan, Shaanxi, Shanxi, Sichuan, Xizang, Yunnan and Taiwan. Beaver & Liu (2010) independently records Taiwan and uses only broad China (WP) wording for the mainland, which is not interpreted as provinces. Huang & Lu (2015) published the name Coptoborus emarginatus with Eichhoff authorship, now crosswalked in Notion to this Debus species rather than VSN_1355; its additional Guangdong and Hainan reports remain unreviewed source-level evidence and are NOT included in the reviewed distribution summary.",
     "reference_ids": [
       "src_ef1984",
       "src_smith2020",
       "src_beaverliu2010",
       "src_co2015"
-    ]
+    ],
+    "summary_zh": "福建；陕西；四川；西藏；广西；贵州；湖北；湖南；山西；云南；台湾"
   },
   "hosts": [
     {

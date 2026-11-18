@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Yunnan; Hainan",
+    "summary": "Yunnan; Hainan; Taiwan (doubtful)",
     "narrative": "Yang (2020) listed Yunnan and Hainan. A separate historical Taiwan report published as Cryphalus scabricollis was considered doubtful by Beaver & Liu (2010); Taiwan remains Questionable, not Present.",
     "reference_ids": [
       "src_yangcryphaluschecklistal2020",
       "src_beaverliu2010"
-    ]
+    ],
+    "summary_zh": "云南；海南；台湾（存疑）"
   },
   "hosts": [],
   "host_note": "No host evidence is reported for this doubtful Taiwan record.",

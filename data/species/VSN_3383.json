@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Yunnan; Tibet",
+    "summary": "Yunnan; Xizang (Tibet)",
     "narrative": "Huang & Lu (2015) reported Yunnan, Tibet. These are literature-based records; Mainland China remains Candidate pending occurrence review.",
     "reference_ids": [
       "src_co2015"
-    ]
+    ],
+    "summary_zh": "云南；西藏"
   },
   "hosts": [
     {

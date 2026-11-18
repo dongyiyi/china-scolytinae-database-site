@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Xizang; Qinghai; Gansu; Sichuan; Yunnan; Shaanxi",
+    "summary": "Xizang (Tibet); Qinghai; Gansu; Sichuan; Shaanxi; Yunnan",
     "narrative": "Wang et al. (2021) reports Ips shangrila from Xizang, Qinghai, Gansu, Sichuan and Yunnan. Alonso-Zarazaga et al. (2023) list Sichuan, Shaanxi, Yunnan as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_wangetal2021",
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "西藏；青海；甘肃；四川；陕西；云南"
   },
   "hosts": [
     {

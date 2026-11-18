@@ -15,13 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Guangdong; Hainan; Yunnan",
+    "summary": "Guangdong; Yunnan; Hainan",
     "narrative": "Smith et al. (2020) records Hainan. Lin et al. (2024) adds Guangdong and Yunnan. Smith et al. (2022) independently supports the Hainan occurrence; no additional province is added by the 2022 record.",
     "reference_ids": [
       "orig_4cb5c2c867dd",
       "src_linetal2024_xylosandruschina",
       "src_smith2022"
-    ]
+    ],
+    "summary_zh": "广东；云南；海南"
   },
   "hosts": [],
   "host_note": "No host is reported in the integrated Smith et al. (2022) record; the current synthesis remains without a promoted host.",

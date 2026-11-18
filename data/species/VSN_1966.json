@@ -15,14 +15,15 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Fujian; Jiangxi; Sichuan; Yunnan; Taiwan",
+    "summary": "Fujian; Yunnan; Jiangxi; Sichuan; Taiwan",
     "narrative": "Yin et al. (1984) recorded Fujian (Chong'an, Jianyang, Sanming) and Yunnan (Xishuangbanna) as Xyleborus armiger; Huang & Lu (2015) retained both provinces. Smith et al. (2020) also reported Jiangxi, Sichuan and Taiwan under Cyclorhipidion armiger. Lin & Smith (2022) independently reported Taiwan.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015",
       "src_smith2020",
       "src_linsmith2022"
-    ]
+    ],
+    "summary_zh": "福建；云南；江西；四川；台湾"
   },
   "hosts": [
     {

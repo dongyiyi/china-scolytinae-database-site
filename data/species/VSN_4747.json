@@ -15,13 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Qinghai; Sichuan; Yunnan; Xizang; Guizhou; Liaoning; Gansu",
+    "summary": "Guizhou; Yunnan; Xizang (Tibet); Liaoning; Gansu; Qinghai",
     "narrative": "Yin et al. (1984) documented three separately published name usages now crosswalked to this taxon. Under Polygraphus squameus, the source lists Qinghai (Yushu); Sichuan (Chengdu, Miyaluo, Maerkang); Yunnan (Zhongdian, Lijiang); and Xizang (Changdu, Basu, Chayu, Bomi, Milin, Linzhi, Gongbojiangda, Jilong). Under Polygraphus zhungdianensis, it lists Sichuan (Kangding); Yunnan (Zhongdian); and Xizang (Bomi, Linzhi, Cuona, Yadong, Jilong). Under Polygraphus rudis, it lists Sichuan (Miyaluo, Songgang, Mount Emei, Ebian, Kangding) and Yunnan (Lijiang). Huang & Lu (2015) list Guizhou, Yunnan, and Xizang under Polygraphus rudis rudis. These historical records are mapped through the taxonomic backbone; their subspecific assignments and occurrences have not been independently verified. Mainland China remains Candidate. Alonso-Zarazaga et al. (2023) list Liaoning, Gansu, Qinghai as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015",
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "贵州；云南；西藏；辽宁；甘肃；青海"
   },
   "hosts": [
     {

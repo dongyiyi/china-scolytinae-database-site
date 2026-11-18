@@ -15,13 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Heilongjiang; Hebei; Henan; Shaanxi; Ningxia; Gansu; Guizhou; Jiangsu; Jilin; Liaoning; Qinghai; Inner Mongolia; Sichuan; Shanxi; Xinjiang; Yunnan",
+    "summary": "Heilongjiang; Hebei; Henan; Shaanxi; Ningxia; Gansu; Guizhou; Jiangsu; Jilin; Liaoning; Qinghai; Neimenggu (Inner Mongolia); Sichuan; Shanxi; Xinjiang; Yunnan",
     "narrative": "Yin et al. (1984) report Harbin (Heilongjiang), Qinhuangdao (Hebei), Anyang (Henan), Wugong (Shaanxi), and Yinchuan (Ningxia). Huang & Lu (2015) list the same five provincial-level regions. These are published records; the regional occurrence assessment is unchanged. Alonso-Zarazaga et al. (2023) list Gansu, Guizhou, Jiangsu, Jilin, Liaoning, Qinghai, Inner Mongolia, Sichuan, Shanxi, Xinjiang, Yunnan as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015",
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "黑龙江；河北；河南；陕西；宁夏；甘肃；贵州；江苏；吉林；辽宁；青海；内蒙古；四川；山西；新疆；云南"
   },
   "hosts": [
     {

@@ -19,7 +19,8 @@
     "narrative": "Liao et al. (2022) provides the first China record of Scolytoplatypus samsinghensis from Xishuangbanna, Yunnan.",
     "reference_ids": [
       "src_liaoetal2022_scolytoplatypuschina"
-    ]
+    ],
+    "summary_zh": "云南"
   },
   "hosts": [],
   "host_note": "Host is not known in the source; no host is promoted.",

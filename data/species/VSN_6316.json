@@ -15,7 +15,7 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Guangxi; Hainan; Shanxi; Yunnan; Hong Kong; Taiwan",
+    "summary": "Guangxi; Yunnan; Hainan; Shanxi; Hong Kong; Taiwan",
     "narrative": "Yin et al. (1984) records Guangxi and Yunnan. Huang & Lu (2015) retains those records. Smith et al. (2020) confirms Guangxi and Yunnan and adds Shanxi, Hong Kong and Taiwan. Lau (2025) provides additional secondary checklist evidence for Hong Kong. Smith et al. (2022) confirms Guangxi, Hong Kong, Shanxi, Yunnan and Taiwan and adds Hainan, with locality evidence from Hainan, Qiongzhong.",
     "reference_ids": [
       "src_ef1984",
@@ -24,7 +24,8 @@
       "src_beaverliu2010",
       "src_lau2025",
       "src_smith2022"
-    ]
+    ],
+    "summary_zh": "广西；云南；海南；山西；香港；台湾"
   },
   "hosts": [
     {

@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
+    "summary": "Gansu; Hebei; Heilongjiang; Liaoning; Shanxi",
     "narrative": "Published Source Records report Gansu, Hebei, Heilongjiang, Liaoning, Shanxi. These are source-level reports, not independently confirmed Chinese occurrence; current Candidate/In review determinations remain unchanged.",
     "reference_ids": [
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "甘肃；河北；黑龙江；辽宁；山西"
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",

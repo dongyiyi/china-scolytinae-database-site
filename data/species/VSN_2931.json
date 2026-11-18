@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Shandong",
+    "summary": "Shandong; Mandelshtam and Petrov also reported the species from mainland China without specifying a locality",
     "narrative": "Wang et al. (2024) report Qingdao, Shandong. Mandelshtam & Petrov (2019) additionally report mainland China without specifying a locality. The existing mainland occurrence assessment remains Candidate pending separate review.",
     "reference_ids": [
       "src_mandelshtampetrov2019_hylastini",
       "src_wangetal2024_hylastesopacusqingdao"
-    ]
+    ],
+    "summary_zh": "山东；Mandelshtam 和 Petrov 亦报告该种分布于中国大陆，但未提供具体地点"
   },
   "hosts": [
     {

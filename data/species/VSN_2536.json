@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Yunnan; Taiwan (Nantou)",
+    "summary": "Yunnan; Taiwan",
     "narrative": "Huang & Lu (2015) records Eidophelus darwini from Yunnan. Lin & Beaver (2021) adds the first Taiwan record, based on one female from Yuchi Township, Nantou. The reviewed synthesis therefore treats mainland China (Yunnan) and Taiwan as present.",
     "reference_ids": [
       "src_linbeaver2021_taiwanbarkbeetles",
       "src_co2015"
-    ]
+    ],
+    "summary_zh": "云南；台湾"
   },
   "hosts": [],
   "host_note": "Huang & Lu (2015) supplies only the vague Chinese vernacular host term for a climbing vine, without an identifiable host species. Lin & Beaver (2021) cites Cryptolepis buchanani and Parameria barbata from previous literature, whereas the Taiwanese specimen was caught in a trap. No host species is promoted to the reviewed host list.",

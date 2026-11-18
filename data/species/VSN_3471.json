@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Guangxi; Jiangxi; Yunnan; Taiwan",
+    "summary": "Guangxi; Jiangxi; Taiwan; Yunnan",
     "narrative": "Smith et al. (2020) records Guangxi, Jiangxi and Taiwan. Smith et al. (2022) confirms Guangxi, Jiangxi and Taiwan and adds Yunnan, with Xishuangbanna locality evidence.",
     "reference_ids": [
       "src_smith2022",
       "src_smith2020"
-    ]
+    ],
+    "summary_zh": "广西；江西；台湾；云南"
   },
   "hosts": [],
   "host_note": "No host is reported in either integrated Smith record.",

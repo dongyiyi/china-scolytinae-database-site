@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
+    "summary": "Guizhou; Sichuan; Shaanxi; Shanxi; Xizang (Tibet); Yunnan",
     "narrative": "Published Source Records report Guizhou, Sichuan, Shaanxi, Shanxi, Xizang, Yunnan. These are source-level reports, not independently confirmed Chinese occurrence; current Candidate/In review determinations remain unchanged.",
     "reference_ids": [
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "贵州；四川；陕西；山西；西藏；云南"
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",

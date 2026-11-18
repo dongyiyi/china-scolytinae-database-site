@@ -19,7 +19,8 @@
     "narrative": "Smith et al. (2020) records Guangxi and Sichuan, including Leibo in Sichuan. No named host taxon is confirmed by the reviewed source record.",
     "reference_ids": [
       "src_smith2020"
-    ]
+    ],
+    "summary_zh": "广西；四川"
   },
   "hosts": [],
   "host_note": "No confirmed host is promoted from the reviewed record.",

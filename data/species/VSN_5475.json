@@ -15,13 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Beijing; Shaanxi; Hebei; Heilongjiang; Inner Mongolia",
+    "summary": "Beijing; Shaanxi; Hebei; Heilongjiang; Neimenggu (Inner Mongolia)",
     "narrative": "Yin et al. (1984) reported Beijing, Shaanxi (Lintong, Wugong). Huang & Lu (2015) reported Beijing, Shaanxi. Literature-based occurrence records; the regional occurrence assessment remains Candidate pending independent review. Alonso-Zarazaga et al. (2023) list Hebei, Heilongjiang, Inner Mongolia as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015",
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "北京；陕西；河北；黑龙江；内蒙古"
   },
   "hosts": [
     {

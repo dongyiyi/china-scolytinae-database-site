@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Anhui; Fujian; Guangxi; Guizhou; Sichuan; Xizang; Yunnan; Taiwan",
+    "summary": "Anhui; Sichuan; Guizhou; Fujian; Guangxi; Yunnan; Xizang (Tibet); Taiwan",
     "narrative": "Huang & Lu (2015), under the source spelling Coccotrypes cypri, recorded Anhui, Sichuan, Guizhou, Fujian, Guangxi, Yunnan and Xizang. Beaver & Liu (2010) reported the first Taiwan record, including Nantou (Huison) and Pingtung (Shantimen).",
     "reference_ids": [
       "src_co2015",
       "src_beaverliu2010"
-    ]
+    ],
+    "summary_zh": "安徽；四川；贵州；福建；广西；云南；西藏；台湾"
   },
   "hosts": [
     {

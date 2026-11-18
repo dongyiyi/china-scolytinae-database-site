@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Hebei; Henan; Liaoning; Shaanxi; Shanxi",
+    "summary": "Hebei; Henan; Shaanxi; Shanxi; Liaoning",
     "narrative": "Huang & Lu (2015) report Hebei, Henan, Shaanxi, and Shanxi; Li (2020) reports Liaoning. These are published distribution records; the regional occurrence assessment and review status remain unchanged.",
     "reference_ids": [
       "src_co2015",
       "src_li2020_dendroctonusvalensliaoning"
-    ]
+    ],
+    "summary_zh": "河北；河南；陕西；山西；辽宁"
   },
   "hosts": [
     {

@@ -15,13 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Hebei; Sichuan; Yunnan; Xizang; Taiwan",
+    "summary": "Hebei; Sichuan; Yunnan; Xizang (Tibet); Taiwan",
     "narrative": "Yin et al. (1984) supports Hebei, Sichuan, Yunnan; Huang & Lu (2015) adds Xizang. Beaver & Liu (2010) adds Taiwan and gives the broad source wording China (NO, SW); Taiwan. No additional mainland province is inferred from the broad regional wording.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015",
       "src_beaverliu2010"
-    ]
+    ],
+    "summary_zh": "河北；四川；云南；西藏；台湾"
   },
   "hosts": [
     {

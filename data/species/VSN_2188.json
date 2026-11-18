@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Yunnan; Taiwan (historical, doubtful)",
+    "summary": "Yunnan; Taiwan (doubtful)",
     "narrative": "Lin & Li (2025) documented Dactylipalpus transversus from specimens collected in Yunnan (Xishuangbanna, Jinghong, Jinuo Mountains), constituting the first confirmed record of this genus and species from mainland China. The historical Taiwan record remains doubtful according to Beaver & Liu (2010); this new mainland record does not confirm occurrence in Taiwan.",
     "reference_ids": [
       "src_beaverliu2010",
       "src_linli2025_dactylipalpuschina"
-    ]
+    ],
+    "summary_zh": "云南；台湾（存疑）"
   },
   "hosts": [],
   "host_note": "No host evidence is reported for this doubtful Taiwan record.",

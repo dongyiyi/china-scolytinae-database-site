@@ -15,14 +15,15 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Fujian; Guangxi; Sichuan; Yunnan",
+    "summary": "Fujian; Sichuan; Guangxi; Yunnan",
     "narrative": "Yin et al. (1984) and Huang & Lu (2015) recorded Fujian and Sichuan under the historical name Xyleborus armipennis. Smith et al. (2020) reported Fujian, Guangxi and Sichuan as Cyclorhipidion miyazakiense. Smith et al. (2022) added Yunnan with Honghe locality evidence.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015",
       "src_smith2020",
       "src_smith2022"
-    ]
+    ],
+    "summary_zh": "福建；四川；广西；云南"
   },
   "hosts": [
     {

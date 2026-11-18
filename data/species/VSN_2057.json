@@ -19,7 +19,8 @@
     "narrative": "Smith et al. (2020) reports Fujian and Yunnan; the source-linked Yunnan locality includes Lijiang.",
     "reference_ids": [
       "src_smith2020"
-    ]
+    ],
+    "summary_zh": "福建；云南"
   },
   "hosts": [],
   "host_note": "The staging/source string 'istacia (Anacardiaceae)' may be incomplete or typographically damaged. It is not silently normalized or promoted.",

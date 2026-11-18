@@ -19,7 +19,8 @@
     "narrative": "Lin & Smith (2022) described Cyclorhipidion cognatoi from Taiwan (Taichung City). Mainland China occurrence is not inferred.",
     "reference_ids": [
       "src_linsmith2022"
-    ]
+    ],
+    "summary_zh": "台湾"
   },
   "hosts": [],
   "host_note": "The linked Lin & Smith (2022) record does not provide a confirmed host.",

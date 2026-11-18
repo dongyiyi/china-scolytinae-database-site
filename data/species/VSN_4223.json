@@ -15,13 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Xizang; Yunnan",
+    "summary": "Xizang (Tibet); Yunnan",
     "narrative": "Huang & Lu (2015) records the taxon from Xizang under the source name Pityogenes coniferae. Beaver & Liu (2010) treated the historical Taiwan record as doubtful and likely based on Shiraki material. Taiwan is retained as Questionable and is not added to the current distribution summary. Alonso-Zarazaga et al. (2023) list Yunnan as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_co2015",
       "src_beaverliu2010",
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "西藏；云南"
   },
   "hosts": [
     {

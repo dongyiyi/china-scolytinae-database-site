@@ -15,13 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Heilongjiang; Liaoning; Qinghai; Sichuan; Xizang; Gansu; Inner Mongolia; Xinjiang",
+    "summary": "Heilongjiang; Liaoning; Qinghai; Sichuan; Xizang (Tibet); Gansu; Neimenggu (Inner Mongolia); Xinjiang",
     "narrative": "Yin et al. (1984) reported Heilongjiang (Dailing), Liaoning (Zhaowuda League), Qinghai (Qilian Mountains), Sichuan (Shuajingsi). Huang & Lu (2015) reported Heilongjiang, Liaoning, Qinghai, Sichuan, Xizang. These are literature-based occurrence reports; Mainland China remains Candidate pending occurrence review. Alonso-Zarazaga et al. (2023) list Gansu, Inner Mongolia, Xinjiang as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015",
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "黑龙江；辽宁；青海；四川；西藏；甘肃；内蒙古；新疆"
   },
   "hosts": [
     {

@@ -15,14 +15,15 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Shanxi; Sichuan; Yunnan; Taiwan",
+    "summary": "Sichuan; Yunnan; Shanxi; Taiwan",
     "narrative": "Yin et al. (1984) recorded Sichuan (Yibin, Ebian) as Xyleborus pelliculosus. Huang & Lu (2015) retained Sichuan and added Yunnan. Smith et al. (2020) documented Shanxi, Sichuan and Taiwan; Lin & Smith (2022) independently listed Taiwan.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015",
       "src_smith2020",
       "src_linsmith2022"
-    ]
+    ],
+    "summary_zh": "四川；云南；山西；台湾"
   },
   "hosts": [
     {

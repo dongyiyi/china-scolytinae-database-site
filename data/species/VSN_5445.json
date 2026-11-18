@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Sichuan; Tibet",
+    "summary": "Sichuan; Xizang (Tibet)",
     "narrative": "Huang & Lu (2015) reported Sichuan, Tibet. Yin et al. (1984) reported Sichuan (Leibo). Literature-based occurrence records; the regional occurrence assessment remains Candidate pending independent review.",
     "reference_ids": [
       "src_co2015",
       "src_ef1984"
-    ]
+    ],
+    "summary_zh": "四川；西藏"
   },
   "hosts": [
     {

@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Taiwan (Nantou); Hong Kong",
+    "summary": "Taiwan; Hong Kong",
     "narrative": "Lin & Beaver (2021) documents the first Taiwan record from Yuchi Township, Nantou, including 26 males and 23 females bred from Lindera communis. Lau (2025) provides additional Hong Kong checklist evidence, without a finer locality.",
     "reference_ids": [
       "src_linbeaver2021_taiwanbarkbeetles",
       "src_lau2025"
-    ]
+    ],
+    "summary_zh": "台湾；香港"
   },
   "hosts": [
     {

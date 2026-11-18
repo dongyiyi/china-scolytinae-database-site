@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
+    "summary": "Fujian",
     "narrative": "Alonso-Zarazaga et al. (2023) reports Fujian under Orthotomicus proximus (Eichhoff, 1868). This source-level record has not been confirmed as an accepted mainland occurrence; Candidate and In review remain unchanged.",
     "reference_ids": [
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "福建"
   },
   "hosts": [],
   "host_note": "The linked Catalogue 2023 Source Record contains no named host; no host is promoted.",

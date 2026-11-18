@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Taiwan (Taichung)",
+    "summary": "Taiwan",
     "narrative": "Lin & Beaver (2024) described Indocryphalus chiyui from Taichung City, Heping District, Taiwan. Taiwan occurrence is confirmed from the type series; no mainland-China occurrence is reported.",
     "reference_ids": [
       "src_linbeaver2024_indocryphalustaiwan"
-    ]
+    ],
+    "summary_zh": "台湾"
   },
   "hosts": [
     {

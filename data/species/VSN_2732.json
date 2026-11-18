@@ -15,7 +15,7 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Chongqing; Guangdong; Hainan; Yunnan; Hong Kong; Taiwan",
+    "summary": "Guangdong; Chongqing; Hainan; Yunnan; Hong Kong; Taiwan",
     "narrative": "Smith et al. (2020) records Chongqing, Guangdong, Hainan, Yunnan, Hong Kong and Taiwan. Beaver & Liu (2010) independently accepts Taiwan occurrence, with records from Nantou and Taichung. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
     "reference_ids": [
       "src_lau2025",
@@ -23,7 +23,8 @@
       "src_smith2020",
       "src_co2015",
       "src_ef1984"
-    ]
+    ],
+    "summary_zh": "广东；重庆；海南；云南；香港；台湾"
   },
   "hosts": [
     {
