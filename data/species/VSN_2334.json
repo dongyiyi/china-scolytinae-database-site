@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
+    "summary": "Hainan; Yunnan",
     "narrative": "Alonso-Zarazaga et al. (2023) lists Hainan and Yunnan for Diamerus curvifer in the second-edition catalogue. These are unadjudicated, source-level literature reports; Mainland China remains Candidate and the Checklist Review Status remains In review. No provinces are promoted as a reviewed distribution.",
     "reference_ids": [
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "海南；云南"
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",

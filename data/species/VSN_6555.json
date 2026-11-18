@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Xizang; Yunnan",
+    "summary": "Xizang (Tibet); Yunnan",
     "narrative": "Accepted for mainland China from the original type series: Xizang (holotype and two paratypes) and Yunnan (one paratype).",
     "reference_ids": [
       "orig_a1c105b2651e"
-    ]
+    ],
+    "summary_zh": "西藏；云南"
   },
   "hosts": [
     {

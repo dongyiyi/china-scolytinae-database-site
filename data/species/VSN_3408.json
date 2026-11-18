@@ -15,13 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Heilongjiang; Inner Mongolia",
+    "summary": "Heilongjiang; Neimenggu (Inner Mongolia)",
     "narrative": "Baseline records support Heilongjiang; Wang et al. (2021) adds Inner Mongolia from Chifeng/Baiyinaobao. The current synthesis retains both rather than replacing the historical distribution with the 2021 sampling subset.",
     "reference_ids": [
       "src_wangetal2021",
       "src_co2015",
       "src_ef1984"
-    ]
+    ],
+    "summary_zh": "黑龙江；内蒙古"
   },
   "hosts": [
     {

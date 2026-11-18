@@ -15,7 +15,7 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Anhui; Chongqing; Fujian; Guangdong; Guangxi; Guizhou; Hainan; Hebei; Hong Kong; Hubei; Hunan; Jiangsu; Jiangxi; Shaanxi; Shandong; Shanghai; Sichuan; Xizang; Yunnan; Zhejiang; Taiwan",
+    "summary": "Fujian; Sichuan; Hunan; Yunnan; Xizang (Tibet); Anhui; Chongqing; Guangdong; Guangxi; Guizhou; Hebei; Hong Kong; Hubei; Jiangsu; Jiangxi; Shaanxi; Shandong; Shanghai; Zhejiang; Hainan; Taiwan",
     "narrative": "Baseline sources record Fujian, Sichuan, Hunan, Yunnan, Xizang, Taiwan and Hainan. Smith et al. (2020) expands the province summary to Anhui, Guangdong, Guangxi, Guizhou, Hebei, Hong Kong, Hubei, Jiangsu, Jiangxi, Shaanxi, Shandong, Shanghai and Zhejiang; its locality detail additionally records Chongqing, Peng Shui, which is included in the synthesis despite omission from the source province summary. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
     "reference_ids": [
       "src_ef1984",
@@ -23,7 +23,8 @@
       "src_smith2020",
       "src_beaverliu2010",
       "src_lau2025"
-    ]
+    ],
+    "summary_zh": "福建；四川；湖南；云南；西藏；安徽；重庆；广东；广西；贵州；河北；香港；湖北；江苏；江西；陕西；山东；上海；浙江；海南；台湾"
   },
   "hosts": [
     {

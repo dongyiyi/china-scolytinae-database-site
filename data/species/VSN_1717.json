@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Fujian; Guangdong; Guangxi; Hainan; Yunnan; Hong Kong; Taiwan",
+    "summary": "Hainan; Fujian; Guangdong; Guangxi; Yunnan; Taiwan; Hong Kong",
     "narrative": "Johnson et al. (2020) described Cryphalus itinerans from southern China, Hong Kong and Taiwan. Guangxi is retained from examined material even though it is omitted from the publication's abbreviated distribution statement. Lau (2025) supplies additional secondary checklist evidence for Hong Kong.",
     "reference_ids": [
       "src_johnsonetal2020_cryphaluseastasia",
       "src_lau2025"
-    ]
+    ],
+    "summary_zh": "海南；福建；广东；广西；云南；台湾；香港"
   },
   "hosts": [
     {

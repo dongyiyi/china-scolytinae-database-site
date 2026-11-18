@@ -15,14 +15,15 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Fujian; Guangdong; Hainan; Jiangxi; Xizang; Taiwan",
+    "summary": "Fujian; Jiangxi; Xizang (Tibet); Guangdong; Hainan; Taiwan",
     "narrative": "Smith et al. (2020) and Lin et al. (2024) support Fujian, Guangdong, Hainan, Jiangxi, Xizang and Taiwan. Beaver & Liu (2010), under the source name Cyclorhipidion formosanum, adds earlier Taiwan locality evidence. Smith et al. (2022) independently supports Fujian, Jiangxi, Xizang and Taiwan; it adds no new region to the current synthesis.",
     "reference_ids": [
       "src_smith2020",
       "src_linetal2024_xylosandruschina",
       "src_beaverliu2010",
       "src_smith2022"
-    ]
+    ],
+    "summary_zh": "福建；江西；西藏；广东；海南；台湾"
   },
   "hosts": [
     {

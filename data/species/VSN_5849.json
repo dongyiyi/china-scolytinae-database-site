@@ -15,13 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Heilongjiang; Beijing; Hebei; Hubei; Jilin; Inner Mongolia; Qinghai; Sichuan; Shaanxi; Shanxi; Yunnan; Zhejiang; Taiwan",
+    "summary": "Heilongjiang; Beijing; Hebei; Hubei; Jilin; Neimenggu (Inner Mongolia); Qinghai; Sichuan; Shaanxi; Shanxi; Yunnan; Zhejiang; Taiwan",
     "narrative": "Yin et al. (1984) report Dailing, Heilongjiang, and Beijing; Huang & Lu (2015) list Heilongjiang and Beijing. These are literature-based records; the regional occurrence assessment is unchanged. Alonso-Zarazaga et al. (2023) list Hebei, Hubei, Jilin, Inner Mongolia, Qinghai, Sichuan, Shaanxi, Shanxi, Yunnan, Zhejiang, Taiwan as catalogue-reported mainland Chinese and Taiwan distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015",
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "黑龙江；北京；河北；湖北；吉林；内蒙古；青海；四川；陕西；山西；云南；浙江；台湾"
   },
   "hosts": [
     {

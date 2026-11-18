@@ -20,7 +20,8 @@
     "reference_ids": [
       "src_linetal2021_xyleborusmainlandchina",
       "src_beaverliu2010"
-    ]
+    ],
+    "summary_zh": "广东；台湾"
   },
   "hosts": [],
   "host_note": "The probable Litchi chinensis association from Lin et al. (2021) remains questionable. Beaver & Liu (2010) characterizes the species as strongly polyphagous but enumerates no host taxon in the curated record, so no additional host is promoted.",

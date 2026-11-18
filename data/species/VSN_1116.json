@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Hainan; Xizang; Yunnan",
+    "summary": "Hainan; Xizang (Tibet); Yunnan",
     "narrative": "Huang & Lu (2015) recorded Hainan and Yunnan; Smith et al. (2020) documented those areas and Xizang.",
     "reference_ids": [
       "src_co2015",
       "src_smith2020"
-    ]
+    ],
+    "summary_zh": "海南；西藏；云南"
   },
   "hosts": [
     {

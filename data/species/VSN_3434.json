@@ -15,14 +15,15 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Heilongjiang; Jilin; Liaoning; Xinjiang; Henan; Inner Mongolia; Shaanxi; Shandong; Shanxi",
+    "summary": "Heilongjiang; Jilin; Liaoning; Xinjiang; Henan; Neimenggu (Inner Mongolia); Shaanxi; Shandong; Shanxi",
     "narrative": "Baseline records support Heilongjiang and Jilin; Wang et al. (2021) adds Liaoning and Xinjiang. The synthesis is the union of validated source evidence. Alonso-Zarazaga et al. (2023) list Henan, Inner Mongolia, Shaanxi, Shandong, Shanxi as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_wangetal2021",
       "src_co2015",
       "src_ef1984",
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "黑龙江；吉林；辽宁；新疆；河南；内蒙古；陕西；山东；山西"
   },
   "hosts": [
     {

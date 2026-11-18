@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Fujian; Xizang",
+    "summary": "Fujian; Xizang (Tibet)",
     "narrative": "Lin et al. (2024) adds Xizang to the previously known Fujian occurrence. Smith et al. (2022) independently supports Fujian and adds locality evidence from Fujian, Sanming City; it adds no new province to the current synthesis.",
     "reference_ids": [
       "src_linetal2024_xylosandruschina",
       "src_smith2022"
-    ]
+    ],
+    "summary_zh": "福建；西藏"
   },
   "hosts": [
     {

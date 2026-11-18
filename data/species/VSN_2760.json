@@ -15,13 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Taiwan; Hong Kong; Hainan",
+    "summary": "Hainan; Taiwan; Hong Kong",
     "narrative": "Beaver & Liu (2010) accepts Ficicis porcatus as occurring in Taiwan. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence. Alonso-Zarazaga et al. (2023) list Hainan as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_lau2025",
       "src_beaverliu2010",
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "海南；台湾；香港"
   },
   "hosts": [],
   "host_note": "The source states that hosts are usually Moraceae, especially Ficus and Artocarpus. Because no individual species is given, these host statements are retained as family/genus-level ecological context rather than expanded into species.",

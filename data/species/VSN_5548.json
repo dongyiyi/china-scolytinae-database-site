@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Yunnan; Xizang",
+    "summary": "Yunnan; Xizang (Tibet)",
     "narrative": "Yin et al. (1984) report Lijiang, Yunnan, and Bomi and Zayu, Xizang. Huang & Lu (2015) list Yunnan and Xizang. These are literature-based records; the regional occurrence assessment remains unchanged.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015"
-    ]
+    ],
+    "summary_zh": "云南；西藏"
   },
   "hosts": [
     {

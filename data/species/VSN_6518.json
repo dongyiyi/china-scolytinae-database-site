@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Fujian; Guizhou; Hunan; Jiangxi; Shanghai; Yunnan",
+    "summary": "Fujian; Guizhou; Jiangxi; Shanghai; Yunnan; Hunan",
     "narrative": "Lin et al. (2024) adds Hunan to the prior reviewed range.",
     "reference_ids": [
       "src_smith2020",
       "src_linetal2024_xylosandruschina"
-    ]
+    ],
+    "summary_zh": "福建；贵州；江西；上海；云南；湖南"
   },
   "hosts": [
     {

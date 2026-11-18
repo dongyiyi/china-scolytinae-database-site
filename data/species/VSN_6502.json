@@ -15,7 +15,7 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Chongqing; Fujian; Guangdong; Guangxi; Guizhou; Hunan; Hubei; Jiangxi; Shanghai; Sichuan; Zhejiang; Taiwan; Hong Kong",
+    "summary": "Chongqing; Guangxi; Guizhou; Hubei; Jiangxi; Zhejiang; Shanghai; Sichuan; Hunan; Fujian; Guangdong; Taiwan; Hong Kong",
     "narrative": "Lin et al. (2024) adds Zhejiang and reports the reviewed mainland range through explicit specimen evidence. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence.",
     "reference_ids": [
       "src_ef1984",
@@ -24,7 +24,8 @@
       "src_linetal2024_xylosandruschina",
       "src_beaverliu2010",
       "src_lau2025"
-    ]
+    ],
+    "summary_zh": "重庆；广西；贵州；湖北；江西；浙江；上海；四川；湖南；福建；广东；台湾；香港"
   },
   "hosts": [
     {

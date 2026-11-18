@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Xizang; Gansu; Ningxia; Qinghai; Sichuan; Yunnan",
+    "summary": "Xizang (Tibet); Gansu; Ningxia; Qinghai; Sichuan; Yunnan",
     "narrative": "Yin et al. (1984) recorded Xizang with a locality transcribed provisionally as Zhada–Diya; the precise source-locality interpretation remains unresolved. Huang & Lu (2015) retained Xizang and additionally listed Gansu, Ningxia, Qinghai, Sichuan, and Yunnan, without specific localities in the current source extraction. The added regions are retained as published evidence only; they require primary or later literature verification before any occurrence-status promotion. Mainland China remains Candidate.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015"
-    ]
+    ],
+    "summary_zh": "西藏；甘肃；宁夏；青海；四川；云南"
   },
   "hosts": [
     {

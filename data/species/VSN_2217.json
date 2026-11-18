@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Xizang; Yunnan",
+    "summary": "Xizang (Tibet); Yunnan",
     "narrative": "Smith et al. (2020) records Xizang and Yunnan, including Jinghong in Yunnan. The source's general polyphagy statement is not evidence for particular host species.",
     "reference_ids": [
       "src_smith2020"
-    ]
+    ],
+    "summary_zh": "西藏；云南"
   },
   "hosts": [],
   "host_note": "No confirmed host is promoted from the reviewed record.",

@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "China (NE, broad source wording); Taiwan; Heilongjiang",
+    "summary": "Northeast China; Taiwan; Heilongjiang",
     "narrative": "Beaver & Liu (2010) reports China (NE) and Taiwan. The broad northeastern-China wording supports Mainland China = Present but is not expanded into provinces; Taiwan is accepted directly. Alonso-Zarazaga et al. (2023) list Heilongjiang as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_beaverliu2010",
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "中国东北地区；台湾；黑龙江"
   },
   "hosts": [],
   "host_note": "The source describes the species as polyphagous but explicitly states that no hosts were recorded in Taiwan. No host taxon is promoted from this source.",

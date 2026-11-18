@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Liaoning; Shandong; Fujian",
+    "summary": "Shandong; Anhui; Fujian; Liaoning",
     "narrative": "Huang & Lu (2015) reported Liaoning, Shandong, Fujian. Literature-based occurrence records; the regional occurrence assessment remains Candidate pending independent review.",
     "reference_ids": [
       "src_co2015"
-    ]
+    ],
+    "summary_zh": "山东；安徽；福建；辽宁"
   },
   "hosts": [
     {

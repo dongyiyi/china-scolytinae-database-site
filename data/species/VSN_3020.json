@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
+    "summary": "Heilongjiang; Jilin; Liaoning; Shaanxi",
     "narrative": "Notion source-level records report Heilongjiang; Jilin; Liaoning; Shaanxi. Mainland China remains Candidate and Review Status remains In review. These are literature reports, not confirmed distribution records.",
     "reference_ids": [
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "黑龙江；吉林；辽宁；陕西"
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",

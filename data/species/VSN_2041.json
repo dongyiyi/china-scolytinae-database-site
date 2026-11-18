@@ -19,7 +19,8 @@
     "narrative": "Smith et al. (2022) documented Yunnan, including Xishuangbanna.",
     "reference_ids": [
       "src_smith2022"
-    ]
+    ],
+    "summary_zh": "云南"
   },
   "hosts": [],
   "host_note": "The Smith et al. (2022) curated host field contains the unusual exact string 'Cyclorhipidion pruinosulum'. It is retained as questionable source-level evidence, not a confirmed host, and is not inferred to be a host plant or an ecological association.",

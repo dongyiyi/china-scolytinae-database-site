@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Yunnan; northeastern China (province unspecified); Taiwan",
+    "summary": "Northeast China; only at regional resolution; Taiwan; Yunnan",
     "narrative": "Smith et al. (2020) reported Yunnan (Xishuangbanna) and an unspecified province in northeastern China. Lin & Smith (2022) listed China without provincial precision and reported a new Taiwan record. No northeastern province is inferred.",
     "reference_ids": [
       "src_smith2020",
       "src_linsmith2022"
-    ]
+    ],
+    "summary_zh": "中国东北地区；仅有区域级记录；台湾；云南"
   },
   "hosts": [
     {

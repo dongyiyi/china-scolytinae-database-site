@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Mainland China (broad regional record; provinces not specified); Taiwan",
+    "summary": "Northeast China; Southwest China; Western Plateau; Taiwan",
     "narrative": "Beaver & Liu (2010) listed mainland China as \"China (SE, SW, WP)\" and reported the first Taiwan records from Ilan (Fushan) and Nantou (Neimoupu). No specific mainland provinces are inferred from the broad regional codes.",
     "reference_ids": [
       "src_beaverliu2010"
-    ]
+    ],
+    "summary_zh": "中国东北地区；中国西南地区；西部高原；台湾"
   },
   "hosts": [],
   "host_note": "The source states only that the species is polyphagous on angiosperms; no individual host taxon is inferred.",

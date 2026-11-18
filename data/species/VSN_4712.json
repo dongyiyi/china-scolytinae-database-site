@@ -15,13 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Sichuan; Yunnan; Hainan; Xizang",
+    "summary": "Sichuan; Yunnan; Hainan; Xizang (Tibet)",
     "narrative": "Yin et al. (1984) reported Sichuan (Dechang), Yunnan (Lijiang, Yongsheng, Simao, Xishuangbanna). Huang & Lu (2015) reported Sichuan, Yunnan. These are literature-based records; the regional occurrence assessment remains Candidate pending independent checklist review. Alonso-Zarazaga et al. (2023) list Hainan, Xizang as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015",
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "四川；云南；海南；西藏"
   },
   "hosts": [
     {

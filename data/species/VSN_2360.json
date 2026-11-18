@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
+    "summary": "Yunnan",
     "narrative": "Alonso-Zarazaga et al. (2023) reports Yunnan for Diamerus striatus in the second-edition catalogue. The source-reported province is preserved while Mainland China remains Candidate and Review Status remains In review; it has not been promoted to a confirmed public distribution.",
     "reference_ids": [
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "云南"
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record.",

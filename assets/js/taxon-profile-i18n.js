@@ -200,6 +200,15 @@
     }
   }
 
+  function translateManuscriptDistributions() {
+    for (const el of document.querySelectorAll('#distribution .distribution-summary[data-en][data-zh]')) {
+      const desired = language === 'zh' ? el.dataset.zh : el.dataset.en;
+      if (el.textContent !== desired) el.textContent = desired;
+      if (language === 'zh') el.setAttribute('lang', 'zh-CN');
+      else el.removeAttribute('lang');
+    }
+  }
+
   function render() {
     if (applying) return;
     applying = true;
@@ -226,6 +235,7 @@
       for (const el of document.querySelectorAll(
         '.profile-content .resource-tabs, .profile-pager, .profile-sidebar'
       )) translateAttrs(el);
+      translateManuscriptDistributions();
       translateReviewedDisplays();
       translatePortCitationButtons();
     } finally {

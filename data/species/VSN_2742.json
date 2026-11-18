@@ -19,7 +19,8 @@
     "narrative": "Smith et al. (2020) describes the species from Yunnan.",
     "reference_ids": [
       "src_smith2020"
-    ]
+    ],
+    "summary_zh": "云南"
   },
   "hosts": [],
   "host_note": "No host is present in the integrated Smith record; erroneous staging host tag was removed during QA.",

@@ -15,14 +15,15 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Sichuan; Fujian; Hainan; Guangxi; Yunnan; Xizang; Taiwan; Chongqing",
+    "summary": "Fujian; Hainan; Guangxi; Xizang (Tibet); Sichuan; Yunnan; Taiwan; Chongqing",
     "narrative": "Huang & Lu (2015) reports Sichuan, Fujian, Hainan, Guangxi, Yunnan and Xizang under the historical species usage Dryocoetiops coffeae. Beaver & Liu (2010) separately reports Taiwan under the same historical usage. Beaver et al. (2019), using the current accepted name Dryocoetiops moestus, independently reports Sichuan, Yunnan and Taiwan, supporting a subset of the already reviewed distribution rather than replacing the earlier records. Alonso-Zarazaga et al. (2023) list Chongqing as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_co2015",
       "src_beaverliu2010",
       "src_beaveretal2019_dryocoetiopsreview",
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "福建；海南；广西；西藏；四川；云南；台湾；重庆"
   },
   "hosts": [
     {

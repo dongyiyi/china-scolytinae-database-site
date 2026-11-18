@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Qinghai; Sichuan; Yunnan; Tibet",
+    "summary": "Qinghai; Sichuan; Yunnan; Xizang (Tibet)",
     "narrative": "Yin et al. (1984) reported Qinghai (Guide, Yushu), Sichuan (Shuajingsi), Yunnan (Lijiang). Huang & Lu (2015) reported Qinghai, Sichuan, Yunnan, Tibet. These are literature-based reports; the mainland-China occurrence assessment remains Candidate pending checklist review.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015"
-    ]
+    ],
+    "summary_zh": "青海；四川；云南；西藏"
   },
   "hosts": [
     {

@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Southwest China; Taiwan",
+    "summary": "Southwest China; no specific regions provided; Taiwan",
     "narrative": "Smith et al. (2020) reports only 'Southwest China' for mainland occurrence; no province-level inference is promoted. Beaver & Liu (2010) independently reports China (SW) and Taiwan and directly confirms Taiwan, including Nantou, Neimoupu. Taiwan is therefore promoted to Present while mainland geography remains coarse.",
     "reference_ids": [
       "src_beaverliu2010",
       "src_smith2020"
-    ]
+    ],
+    "summary_zh": "中国西南地区；未提供具体地区；台湾"
   },
   "hosts": [],
   "host_note": "No specific host taxon is promoted. Beaver & Liu (2010) characterizes the species as polyphagous, but this broad host-use statement remains contextual.",

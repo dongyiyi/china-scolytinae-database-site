@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Sichuan; Xizang; Yunnan",
+    "summary": "Sichuan; Xizang (Tibet); Yunnan",
     "narrative": "Yang (2020) listed Sichuan, Xizang and Yunnan. No specific localities are asserted beyond the province-level evidence.",
     "reference_ids": [
       "src_yangcryphaluschecklistal2020"
-    ]
+    ],
+    "summary_zh": "四川；西藏；云南"
   },
   "hosts": [],
   "host_note": "No host information is reported in the currently linked Yang (2020) Source Record; host absence is not inferred.",

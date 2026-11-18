@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Taiwan (Nantou)",
+    "summary": "Taiwan",
     "narrative": "Beaver & Liu (2010) treated the earlier Taiwan attribution as doubtful, probably based on Shiraki material. Lin & Beaver (2021) later confirmed occurrence with 47 specimens from Yuchi Township, Nantou. The historical doubt is retained as provenance but is superseded for current occurrence assessment.",
     "reference_ids": [
       "src_beaverliu2010",
       "src_linbeaver2021_taiwanbarkbeetles"
-    ]
+    ],
+    "summary_zh": "台湾"
   },
   "hosts": [
     {

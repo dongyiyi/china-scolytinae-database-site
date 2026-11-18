@@ -15,14 +15,15 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Chongqing; Fujian; Guangdong; Guangxi; Hainan; Jiangxi; Xizang; Yunnan; Hong Kong",
+    "summary": "Fujian; Guangdong; Xizang (Tibet); Chongqing; Guangxi; Jiangxi; Yunnan; Hong Kong; Hainan",
     "narrative": "Yin et al. (1984) records Fujian, Guangdong and Xizang; Huang & Lu (2015) adds Hainan. Smith et al. (2020) confirms those areas and adds Chongqing, Guangxi, Jiangxi and Yunnan. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides secondary checklist evidence for Hong Kong occurrence.",
     "reference_ids": [
       "src_lau2025",
       "src_smith2020",
       "src_co2015",
       "src_ef1984"
-    ]
+    ],
+    "summary_zh": "福建；广东；西藏；重庆；广西；江西；云南；香港；海南"
   },
   "hosts": [
     {

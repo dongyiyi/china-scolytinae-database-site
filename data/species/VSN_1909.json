@@ -19,7 +19,8 @@
     "narrative": "Smith et al. (2022) reported Yunnan, including Xishuangbanna. No finer locality is inferred from the integrated record.",
     "reference_ids": [
       "src_smith2022"
-    ]
+    ],
+    "summary_zh": "云南"
   },
   "hosts": [],
   "host_note": "No host is given in the linked Smith et al. (2022) record; this is not evidence of biological host absence.",

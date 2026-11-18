@@ -15,14 +15,15 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Fujian; Guangxi; Guizhou; Hainan; Hubei; Hong Kong; Xizang; Taiwan",
+    "summary": "Hubei; Fujian; Guizhou; Hainan; Guangxi; Xizang (Tibet); Hong Kong; Taiwan",
     "narrative": "Huang & Lu (2015) recorded Fujian, Guizhou, Hainan, and Hubei. Smith et al. (2020) confirms part of the baseline range and adds Guangxi, Hong Kong, and Xizang. Beaver & Liu (2010) provides the first Taiwan record, including Nantou, Neimoupu material; its broad China (SW, WP) wording is retained only as regional source context and is not converted into provinces. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
     "reference_ids": [
       "src_co2015",
       "src_smith2020",
       "src_beaverliu2010",
       "src_lau2025"
-    ]
+    ],
+    "summary_zh": "湖北；福建；贵州；海南；广西；西藏；香港；台湾"
   },
   "hosts": [
     {

@@ -15,7 +15,7 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Fujian; Guangxi; Xizang; Yunnan; Taiwan",
+    "summary": "Xizang (Tibet); Yunnan; Fujian; Guangxi; Taiwan",
     "narrative": "Lin et al. (2024) adds Fujian and Guangxi; Xizang, Yunnan and Taiwan are retained. Beaver & Liu (2010) reports China (WP) and Taiwan. The broad China (WP) wording is retained as source-level context and is not expanded into mainland provinces.",
     "reference_ids": [
       "src_ef1984",
@@ -23,7 +23,8 @@
       "src_smith2020",
       "src_linetal2024_xylosandruschina",
       "src_beaverliu2010"
-    ]
+    ],
+    "summary_zh": "西藏；云南；福建；广西；台湾"
   },
   "hosts": [
     {

@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "China (CE, NO, SE, SW; broad source wording); Taiwan; Fujian; Jiangxi; Yunnan",
+    "summary": "Fujian; Jiangxi; Yunnan; Central China; North China; Southeast China; Southwest China; Taiwan",
     "narrative": "Beaver & Liu (2010) reports China (CE, NO, SE, SW) and Taiwan. Broad mainland regions are retained as source-scale evidence and are not converted into provinces. Alonso-Zarazaga et al. (2023) list Fujian, Jiangxi, Yunnan as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_beaverliu2010",
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "福建；江西；云南；中国华中地区；中国华北地区；中国东南地区；中国西南地区；台湾"
   },
   "hosts": [
     {

@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Xizang",
+    "summary": "Xizang (Tibet)",
     "narrative": "Smith et al. (2020) described Anisandrus paragogus from Xizang.",
     "reference_ids": [
       "src_smith2020"
-    ]
+    ],
+    "summary_zh": "西藏"
   },
   "hosts": [
     {

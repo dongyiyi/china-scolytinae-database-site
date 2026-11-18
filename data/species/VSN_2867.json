@@ -15,7 +15,7 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Fujian; Guangdong; Guangxi; Guizhou; Hainan; Hunan; Jiangxi; Sichuan; Xizang; Yunnan; Zhejiang; Hong Kong; Taiwan",
+    "summary": "Xizang (Tibet); Fujian; Guangdong; Guangxi; Hainan; Hunan; Jiangxi; Sichuan; Yunnan; Zhejiang; Hong Kong; Guizhou; Taiwan",
     "narrative": "Yin et al. (1984) records Xizang; Huang & Lu (2015) expands the baseline to Hunan, Jiangxi, Sichuan, Guizhou, Fujian, Hainan and Guangxi. Smith et al. (2020) confirms much of this range and adds Guangdong, Hong Kong, Yunnan, Zhejiang and Taiwan. Beaver & Liu (2010) independently accepts Taiwan occurrence. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, provides additional secondary checklist evidence for Hong Kong occurrence.",
     "reference_ids": [
       "src_lau2025",
@@ -23,7 +23,8 @@
       "src_smith2020",
       "src_co2015",
       "src_ef1984"
-    ]
+    ],
+    "summary_zh": "西藏；福建；广东；广西；海南；湖南；江西；四川；云南；浙江；香港；贵州；台湾"
   },
   "hosts": [
     {

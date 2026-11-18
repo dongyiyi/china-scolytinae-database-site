@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Xizang",
+    "summary": "Xizang (Tibet)",
     "narrative": "Wang et al. (2021) reports Ips schmutzenhoferi from Yadong, Xizang as a new record for China.",
     "reference_ids": [
       "src_wangetal2021"
-    ]
+    ],
+    "summary_zh": "西藏"
   },
   "hosts": [
     {

@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Taiwan (Nantou)",
+    "summary": "Taiwan",
     "narrative": "Sittichaya et al. (2024) described Eccoptopterus formosanus from Nantou County, Taiwan, with type material from Ren’ai and Lugu townships. Taiwan occurrence is therefore confirmed; no mainland-China occurrence is reported in this source.",
     "reference_ids": [
       "src_sittichayaetal2024_eccoptopterusformosanus"
-    ]
+    ],
+    "summary_zh": "台湾"
   },
   "hosts": [
     {

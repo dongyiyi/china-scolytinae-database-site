@@ -15,14 +15,15 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Fujian; Guangdong; Guangxi; Guizhou; Hunan; Sichuan; Zhejiang; Hong Kong; Taiwan",
+    "summary": "Fujian; Guangxi; Hunan; Sichuan; Zhejiang; Guizhou; Guangdong; Hong Kong; Taiwan",
     "narrative": "Smith et al. (2020) supports Guangdong, Hong Kong and Taiwan. Lin et al. (2024) adds Fujian, Guangxi, Guizhou, Hunan, Sichuan and Zhejiang. Smith et al. (2022) independently supports Guangdong, Guizhou, Hong Kong and Taiwan and provides locality evidence from Guizhou, Guiyang; it adds no new region to the current synthesis. Lau (2025) provides additional secondary checklist evidence for Hong Kong occurrence.",
     "reference_ids": [
       "src_smith2020",
       "src_linetal2024_xylosandruschina",
       "src_lau2025",
       "src_smith2022"
-    ]
+    ],
+    "summary_zh": "福建；广西；湖南；四川；浙江；贵州；广东；香港；台湾"
   },
   "hosts": [
     {

@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Heilongjiang；Liaoning；Taiwan",
+    "summary": "Heilongjiang; Liaoning; Taiwan",
     "narrative": "MandelshtamPetrov2019_Hylastini reports Heilongjiang, Liaoning, Taiwan. Published geographic evidence only; original regional occurrence assessment remains unchanged and requires separate review.",
     "reference_ids": [
       "src_mandelshtampetrov2019_hylastini"
-    ]
+    ],
+    "summary_zh": "黑龙江；辽宁；台湾"
   },
   "hosts": [
     {

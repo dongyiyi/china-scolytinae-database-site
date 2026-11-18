@@ -15,14 +15,15 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Fujian; Guangxi; Guizhou; Hunan; Jiangxi; Sichuan; Taiwan; Yunnan; Zhejiang; Hong Kong",
+    "summary": "Fujian; Guangxi; Guizhou; Jiangxi; Zhejiang; Hunan; Yunnan; Sichuan; Taiwan; Hong Kong",
     "narrative": "Cognato et al. (2024) provides modern specimen and molecular evidence from Fujian, Guangxi, Guizhou, Jiangxi and Zhejiang, and Nantou, Taiwan. Older baseline records from Hunan, Sichuan and Yunnan are retained. Guangdong and Hainan are moved to historical/questionable for S. niisimai because verified southern material is S. pilosus. Beaver & Liu (2010) independently accepted Taiwan occurrence under the same species concept; it is retained as earlier supporting evidence and does not override the 2024 revision. Lau (2025), Checklist of Insects of Hong Kong, 2nd edition, adds secondary checklist evidence for Hong Kong occurrence.",
     "reference_ids": [
       "src_co2015",
       "src_cognatoetal2024_sueusrevision",
       "src_beaverliu2010",
       "src_lau2025"
-    ]
+    ],
+    "summary_zh": "福建；广西；贵州；江西；浙江；湖南；云南；四川；台湾；香港"
   },
   "hosts": [
     {

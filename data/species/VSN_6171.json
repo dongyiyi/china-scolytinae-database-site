@@ -20,7 +20,8 @@
     "reference_ids": [
       "src_caoetal2026_xyleborusbidentatus",
       "src_smithetal2020_xyleborini"
-    ]
+    ],
+    "summary_zh": "广东；广西；台湾"
   },
   "hosts": [],
   "host_note": "No specific host taxa established by this source set; none inferred. Non-taxonomic host terms retained in source evidence: Polyphagous; Polyphagous.",

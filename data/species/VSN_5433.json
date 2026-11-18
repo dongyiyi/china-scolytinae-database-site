@@ -19,7 +19,8 @@
     "narrative": "Gebhardt et al. (2021) described Scolytoplatypus peniculatus from Ailoshan and Dajianshan localities in Yunnan. The source states the species is montane and known above 2000 m.",
     "reference_ids": [
       "src_gebhardtetal2021_scolytoplatypusyunnan"
-    ]
+    ],
+    "summary_zh": "云南"
   },
   "hosts": [],
   "host_note": "The original description explicitly states Host plants: Unknown. No host is promoted.",

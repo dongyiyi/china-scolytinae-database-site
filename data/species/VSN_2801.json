@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Xizang",
+    "summary": "Xizang (Tibet)",
     "narrative": "Wood & Yin (1986) described Gnatharus tibetensis from Tibet (Xizang), China, as the type species of the new genus Gnatharus.",
     "reference_ids": [
       "orig_c868c0d57a2c"
-    ]
+    ],
+    "summary_zh": "西藏"
   },
   "hosts": [],
   "host_note": "The submitted source record has no host information; host associations have not been independently consolidated for this new China checklist profile.",

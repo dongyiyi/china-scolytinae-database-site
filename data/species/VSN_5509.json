@@ -15,11 +15,12 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "",
+    "summary": "Xinjiang",
     "narrative": "Cao et al. (2022) reported Scolytus jaroschewskii from Xinjiang at species rank, without identifying a subspecies. Its subspecific identity remains unresolved, and the Chinese occurrence is still under review.",
     "reference_ids": [
       "src_caoetal2022_scolytuschina"
-    ]
+    ],
+    "summary_zh": "新疆"
   },
   "hosts": [],
   "host_note": "Host information has not yet been reviewed for this checklist record. IMPORTANT: Cao et al. (2022) reports the species only; tentative record mapping to VSN_5509 does not establish the nominate subspecies S. j. jaroschewskii.",

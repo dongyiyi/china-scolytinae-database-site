@@ -15,7 +15,7 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Liaoning; Taiwan; Shandong",
+    "summary": "Liaoning; Shandong; Taiwan",
     "narrative": "Yin et al. (1984) and Huang & Lu (2015) reported Liaoning, including Anshan in the 1984 source. Beaver & Liu (2010) documented Taiwan material from Hsinchu, Kinmen and Taipei (Xizhi) and used the broad mainland term China (NE); Yang (2020) also lists Liaoning and Taiwan. No further province is inferred from China (NE). Alonso-Zarazaga et al. (2023) list Shandong as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_ef1984",
@@ -23,7 +23,8 @@
       "src_beaverliu2010",
       "src_yangcryphaluschecklistal2020",
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "辽宁；山东；台湾"
   },
   "hosts": [
     {

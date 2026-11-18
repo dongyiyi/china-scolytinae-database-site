@@ -15,13 +15,14 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Yunnan; Taiwan (Nantou; Taichung)",
+    "summary": "Yunnan; Taiwan",
     "narrative": "Yin et al. (1984) and Huang & Lu (2015) report Yunnan; the 1984 source specifies Menghai in Xishuangbanna. Lin & Beaver (2021) documents the first Taiwan record, with Nantou trap collections and a Taichung breeding series from Cinnamomum subavenium.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015",
       "src_linbeaver2021_taiwanbarkbeetles"
-    ]
+    ],
+    "summary_zh": "云南；台湾"
   },
   "hosts": [
     {

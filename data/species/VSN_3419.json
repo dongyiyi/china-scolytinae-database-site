@@ -15,14 +15,15 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Gansu; Qinghai; Xinjiang; Sichuan; Yunnan; Xizang; Guizhou; Heilongjiang; Inner Mongolia",
+    "summary": "Gansu; Qinghai; Xinjiang; Sichuan; Yunnan; Xizang (Tibet); Guizhou; Heilongjiang; Neimenggu (Inner Mongolia)",
     "narrative": "Current distribution retains the broader baseline synthesis (Gansu, Qinghai, Xinjiang, Sichuan, Yunnan, Xizang). Wang et al. (2021) provides examined material from Xizang, Qinghai and Gansu and does not justify dropping unsampled baseline provinces. Alonso-Zarazaga et al. (2023) list Guizhou, Heilongjiang, Inner Mongolia as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_wangetal2021",
       "src_co2015",
       "src_ef1984",
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "甘肃；青海；新疆；四川；云南；西藏；贵州；黑龙江；内蒙古"
   },
   "hosts": [
     {

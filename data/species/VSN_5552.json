@@ -19,7 +19,8 @@
     "narrative": "Cao et al. (2024) reports Scolytus pubescens as a new record for China based on specimens collected in Shandong (Jinan, Panlongshan Forest Park) and Heilongjiang (Yichun, Liangshui Experimental Forest Farm). These records establish confirmed mainland-China occurrence.",
     "reference_ids": [
       "src_caoetal2024_scolytuspubescens"
-    ]
+    ],
+    "summary_zh": "山东；黑龙江"
   },
   "hosts": [
     {

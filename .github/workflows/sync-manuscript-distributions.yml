@@ -1,0 +1,40 @@
+name: Sync Notion 2026 manuscript distributions (review branch)
+on:
+  push:
+    branches:
+      - sync-manuscript-distributions-2026-11-17
+    paths:
+      - data/manuscript-distributions-2026.json
+      - scripts/sync-manuscript-distributions.mjs
+      - .github/workflows/sync-manuscript-distributions.yml
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Verify and regenerate species distribution files
+        run: node scripts/sync-manuscript-distributions.mjs
+      - name: Verify no species profiles or taxon URLs were removed
+        run: |
+          test "$(find data/species -maxdepth 1 -type f -name 'VSN_*.json' | wc -l)" -eq 577
+          test "$(find taxa -mindepth 2 -maxdepth 2 -type f -name index.html | wc -l)" -eq 577
+          node --check assets/js/taxon-profile-i18n.js
+          node --check assets/js/app.js
+      - name: Commit regenerated distribution data to review branch
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/species data/region-index.json taxa assets/js/app.js assets/js/taxon-profile-i18n.js index.html
+          if ! git diff --cached --quiet; then
+            git commit -m "Regenerate 577 bilingual species distributions and static pages"
+            git push
+          fi

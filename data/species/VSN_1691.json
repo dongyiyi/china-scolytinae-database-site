@@ -15,14 +15,15 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Anhui; Beijing; Guizhou; Hebei; Jiangsu; Shandong; Sichuan; Taiwan; Zhejiang",
+    "summary": "Anhui; Beijing; Guizhou; Hebei; Jiangsu; Shandong; Sichuan; Zhejiang; Taiwan",
     "narrative": "Yin et al. (1984) and Huang & Lu (2015), under the historical misspelling Cryphalus exignus, reported Anhui, Beijing, Guizhou, Jiangsu, Shandong, Sichuan and Zhejiang. Beaver & Liu (2010) documented Taiwan; Yang (2020) additionally listed Hebei. Broad geographic wording has not been expanded into unsupported provinces.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015",
       "src_beaverliu2010",
       "src_yangcryphaluschecklistal2020"
-    ]
+    ],
+    "summary_zh": "安徽；北京；贵州；河北；江苏；山东；四川；浙江；台湾"
   },
   "hosts": [
     {

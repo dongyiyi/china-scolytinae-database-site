@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Yunnan; Hunan; Fujian; Xizang",
+    "summary": "Yunnan; Hunan; Fujian; Xizang (Tibet)",
     "narrative": "Yin et al. (1984) reported Yunnan (Yongsheng, Lijiang). Huang & Lu (2015) reported Yunnan, Hunan, Fujian, Xizang. These are literature-based reports; the mainland-China occurrence assessment remains Candidate pending checklist review.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015"
-    ]
+    ],
+    "summary_zh": "云南；湖南；福建；西藏"
   },
   "hosts": [
     {

@@ -15,7 +15,7 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Guizhou; Shaanxi; Sichuan; Yunnan; Hainan; Shanxi",
+    "summary": "Guizhou; Sichuan; Shaanxi; Yunnan; Hainan; Shanxi",
     "narrative": "Johnson et al. (2020) documented Guizhou, Shaanxi, Sichuan and Yunnan. The Hainan entry in Huang & Lu (2015) is not promoted to the current reviewed occurrence. Alonso-Zarazaga et al. (2023) list Hainan, Shanxi as catalogue-reported mainland Chinese distribution for this taxon. These literature-based distribution records do not change the existing occurrence assessment.",
     "reference_ids": [
       "src_johnsonetal2020_cryphaluseastasia",
@@ -23,7 +23,8 @@
       "src_co2015",
       "src_yangcryphaluschecklistal2020",
       "src_alonsozarazagaetal2023_palaearcticcatalogue2ed"
-    ]
+    ],
+    "summary_zh": "贵州；四川；陕西；云南；海南；山西"
   },
   "hosts": [
     {

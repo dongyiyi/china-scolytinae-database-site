@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Fujian; Guangdong; Jiangxi; Yunnan",
+    "summary": "Fujian; Jiangxi; Guangdong; Yunnan",
     "narrative": "Smith et al. (2020) describes/records the species from Fujian and Jiangxi, including Xunwu, Xiangshan. Smith et al. (2022) records Fujian, Guangdong, Jiangxi and Yunnan and adds locality evidence from Guangdong, Quangzhou.",
     "reference_ids": [
       "orig_4cb5c2c867dd",
       "src_smith2022"
-    ]
+    ],
+    "summary_zh": "福建；江西；广东；云南"
   },
   "hosts": [
     {

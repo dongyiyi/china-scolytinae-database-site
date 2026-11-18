@@ -15,12 +15,13 @@
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Tibet",
+    "summary": "Xizang (Tibet)",
     "narrative": "Yin et al. (1984) reported Tibet (Gyirong, Purang). Huang & Lu (2015) reported Tibet. These are literature-based records; the regional occurrence assessment remains Candidate pending independent checklist review.",
     "reference_ids": [
       "src_ef1984",
       "src_co2015"
-    ]
+    ],
+    "summary_zh": "西藏"
   },
   "hosts": [
     {
