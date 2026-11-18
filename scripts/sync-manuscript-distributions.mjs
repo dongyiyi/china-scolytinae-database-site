@@ -23,8 +23,22 @@ for(const id of ids){
 
   const hp='taxa/'+id+'/index.html',original=await read(hp);
   let html=original,count=0,one=0;
-  html=html.replace(/(<meta (?:name="description"|property="og:description") content="[^"\n]*?reviewed China distribution: )([^"\n]*?)(\. Taxon profile in the China Scolytinae Database\.)/g,(_m,a,_b,c)=>{count++;return a+esc(d.en)+c});
-  html=html.replace(/(<dt>China distribution<\/dt><dd>)([^<]*)(<\/dd>)/g,(_m,a,_b,c)=>{one++;return a+esc(d.en)+c});
+  html=html.replace(/(<meta (?:name="description"|property="og:description") content=")([^"\\n]*)((">))/g,(_m,a,b,c)=>{
+    if(!b.includes('Taxon profile in the China Scolytinae Database.'))return _m;
+    const cleaned=b.replace(/\\sreviewed China distribution: .*?(?=\\. Taxon profile in the China Scolytinae Database\\.)/,'');
+    const updated=cleaned.replace('. Taxon profile in the China Scolytinae Database.', '. reviewed China distribution: '+esc(d.en)+'. Taxon profile in the China Scolytinae Database.');
+    count++;return a+updated+c;
+  });
+  html=html.replace(/<noscript>([\\s\\S]*?)<\\/noscript>/,(_all,inside)=>{
+    if(inside.includes('<dt>China distribution</dt>')){
+      inside=inside.replace(/(<dt>China distribution<\\/dt><dd>)([^<]*)(<\\/dd>)/,(_m,a,_b,c)=>a+esc(d.en)+c);
+      one++;
+    }else if(inside.includes('</dl>')){
+      inside=inside.replace('</dl>','<dt>China distribution</dt><dd>'+esc(d.en)+'</dd></dl>');
+      one++;
+    }
+    return '<noscript>'+inside+'</noscript>';
+  });
   if(count!==2||one!==1)throw Error('Unexpected generated HTML structure '+id+' metadata '+count+' fallback '+one);
   meta+=count;noscript+=one;
   html=html.replace(/assets\/js\/app\.js\?v=[0-9-]+/g,'assets/js/app.js?v=20261117-1');
