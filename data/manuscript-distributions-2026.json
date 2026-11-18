@@ -1,0 +1,2316 @@
+{
+  "source": "Notion: China Checklist Synthesis → Manuscript Distribution (2026), derived from Scolytinae — Manuscript Checklist (2026) → Distribution in China",
+  "synced_date": "2026-11-17",
+  "species_count": 577,
+  "translation_note": "English preserves Notion manuscript text verbatim. Chinese translates regions and qualifiers; source spelling Yannan is flagged without silently correcting the English.",
+  "distributions": {
+    "VSN_5958": {
+      "en": "Heilongjiang",
+      "zh": "黑龙江"
+    },
+    "VSN_5953": {
+      "en": "Heilongjiang",
+      "zh": "黑龙江"
+    },
+    "VSN_5952": {
+      "en": "Taiwan (doubtful)",
+      "zh": "台湾（存疑）"
+    },
+    "VSN_5951": {
+      "en": "Heilongjiang; Gansu",
+      "zh": "黑龙江；甘肃"
+    },
+    "VSN_5950": {
+      "en": "No specific regions provided",
+      "zh": "未提供具体地区"
+    },
+    "VSN_3389": {
+      "en": "Mainland; no specific regions provided; Taiwan",
+      "zh": "中国大陆；未提供具体地区；台湾"
+    },
+    "VSN_3387": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_3383": {
+      "en": "Yunnan; Xizang (Tibet)",
+      "zh": "云南；西藏"
+    },
+    "VSN_3382": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_6551": {
+      "en": "Shandong; Shanghai; Zhejiang",
+      "zh": "山东；上海；浙江"
+    },
+    "VSN_6549": {
+      "en": "Hainan; Yunnan",
+      "zh": "海南；云南"
+    },
+    "VSN_6548": {
+      "en": "Guizhou; Yunnan",
+      "zh": "贵州；云南"
+    },
+    "VSN_6547": {
+      "en": "Yunnan; Hong Kong",
+      "zh": "云南；香港"
+    },
+    "VSN_6540": {
+      "en": "Guangdong",
+      "zh": "广东"
+    },
+    "VSN_6539": {
+      "en": "Yunnan; Taiwan",
+      "zh": "云南；台湾"
+    },
+    "VSN_6535": {
+      "en": "Yunnan; Hong Kong; Taiwan",
+      "zh": "云南；香港；台湾"
+    },
+    "VSN_6532": {
+      "en": "Chongqing; Gansu; Guangdong; Guangxi; Hainan; Xizang (Tibet); Yunnan; Fujian; Hong Kong; Taiwan",
+      "zh": "重庆；甘肃；广东；广西；海南；西藏；云南；福建；香港；台湾"
+    },
+    "VSN_6531": {
+      "en": "Guangdong",
+      "zh": "广东"
+    },
+    "VSN_6530": {
+      "en": "Fujian; Xizang (Tibet)",
+      "zh": "福建；西藏"
+    },
+    "VSN_6527": {
+      "en": "Anhui; Chongqing; Fujian; Guangdong; Guangxi; Guizhou; Hainan; Henan; Hubei; Hunan; Jiangsu; Jiangxi; Shaanxi; Shanxi; Sichuan; Xizang (Tibet); Yunnan; Zhejiang; Shandong; Heilongjiang; Hong Kong; Taiwan",
+      "zh": "安徽；重庆；福建；广东；广西；贵州；海南；河南；湖北；湖南；江苏；江西；陕西；山西；四川；西藏；云南；浙江；山东；黑龙江；香港；台湾"
+    },
+    "VSN_6525": {
+      "en": "Fujian; Jiangxi; Xizang (Tibet); Guangdong; Hainan; Taiwan",
+      "zh": "福建；江西；西藏；广东；海南；台湾"
+    },
+    "VSN_6522": {
+      "en": "Fujian; Guizhou; Taiwan",
+      "zh": "福建；贵州；台湾"
+    },
+    "VSN_6523": {
+      "en": "Guangdong; Guangxi; Hainan; Yunnan; Hong Kong",
+      "zh": "广东；广西；海南；云南；香港"
+    },
+    "VSN_6521": {
+      "en": "Fujian; Guangdong; Sichuan; Yunnan; Chongqing; Guizhou; Hainan; Jiangxi; Shanghai; Hunan; Guangxi; Hong Kong; Taiwan",
+      "zh": "福建；广东；四川；云南；重庆；贵州；海南；江西；上海；湖南；广西；香港；台湾"
+    },
+    "VSN_6519": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_6514": {
+      "en": "Fujian; Sichuan; Hunan; Yunnan; Xizang (Tibet); Anhui; Chongqing; Guangdong; Guangxi; Guizhou; Hebei; Hong Kong; Hubei; Jiangsu; Jiangxi; Shaanxi; Shandong; Shanghai; Zhejiang; Hainan; Taiwan",
+      "zh": "福建；四川；湖南；云南；西藏；安徽；重庆；广东；广西；贵州；河北；香港；湖北；江苏；江西；陕西；山东；上海；浙江；海南；台湾"
+    },
+    "VSN_6518": {
+      "en": "Fujian; Guizhou; Jiangxi; Shanghai; Yunnan; Hunan",
+      "zh": "福建；贵州；江西；上海；云南；湖南"
+    },
+    "VSN_6512": {
+      "en": "Guangdong; Fujian; Hainan; Yunnan; Guangxi; Guizhou; Hubei; Hunan; Jiangsu; Jiangxi; Sichuan; Zhejiang; Hong Kong; Taiwan; Henan; Shandong; Shanghai",
+      "zh": "广东；福建；海南；云南；广西；贵州；湖北；湖南；江苏；江西；四川；浙江；香港；台湾；河南；山东；上海"
+    },
+    "VSN_6510": {
+      "en": "Xizang (Tibet); Yunnan; Fujian; Guangxi; Taiwan",
+      "zh": "西藏；云南；福建；广西；台湾"
+    },
+    "VSN_6508": {
+      "en": "Fujian; Guangxi; Hunan; Sichuan; Zhejiang; Guizhou; Guangdong; Hong Kong; Taiwan",
+      "zh": "福建；广西；湖南；四川；浙江；贵州；广东；香港；台湾"
+    },
+    "VSN_6507": {
+      "en": "Guangdong; Yunnan; Hainan",
+      "zh": "广东；云南；海南"
+    },
+    "VSN_6506": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_6502": {
+      "en": "Chongqing; Guangxi; Guizhou; Hubei; Jiangxi; Zhejiang; Shanghai; Sichuan; Hunan; Fujian; Guangdong; Taiwan; Hong Kong",
+      "zh": "重庆；广西；贵州；湖北；江西；浙江；上海；四川；湖南；福建；广东；台湾；香港"
+    },
+    "VSN_6400": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_6404": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_6378": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_6320": {
+      "en": "Fujian; Sichuan; Hunan; Jiangxi; Yunnan",
+      "zh": "福建；四川；湖南；江西；云南"
+    },
+    "VSN_6316": {
+      "en": "Guangxi; Yunnan; Hainan; Shanxi; Hong Kong; Taiwan",
+      "zh": "广西；云南；海南；山西；香港；台湾"
+    },
+    "VSN_6288": {
+      "en": "Fujian; Sichuan",
+      "zh": "福建；四川"
+    },
+    "VSN_6289": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_6228": {
+      "en": "Fujian; Guangdong; Guangxi; Hunan; Jiangxi; Sichuan; Yunnan; Hong Kong; Taiwan",
+      "zh": "福建；广东；广西；湖南；江西；四川；云南；香港；台湾"
+    },
+    "VSN_6251": {
+      "en": "Sichuan",
+      "zh": "四川"
+    },
+    "VSN_6220": {
+      "en": "Fujian; Guangdong; Guangxi; Guizhou; Yunnan; Taiwan",
+      "zh": "福建；广东；广西；贵州；云南；台湾"
+    },
+    "VSN_6219": {
+      "en": "Guangdong; Taiwan",
+      "zh": "广东；台湾"
+    },
+    "VSN_6171": {
+      "en": "Guangdong; Guangxi; Taiwan",
+      "zh": "广东；广西；台湾"
+    },
+    "VSN_6140": {
+      "en": "Guangdong; Guangxi; Fujian; Hainan; Yunnan; Taiwan",
+      "zh": "广东；广西；福建；海南；云南；台湾"
+    },
+    "VSN_6132": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_6129": {
+      "en": "Chongqing; Guizhou; Sichuan; Yunnan",
+      "zh": "重庆；贵州；四川；云南"
+    },
+    "VSN_6121": {
+      "en": "Sichuan; Yunnan",
+      "zh": "四川；云南"
+    },
+    "VSN_6125": {
+      "en": "Yunnan; Taiwan",
+      "zh": "云南；台湾"
+    },
+    "VSN_6117": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_6110": {
+      "en": "Guizhou; Sichuan; Taiwan",
+      "zh": "贵州；四川；台湾"
+    },
+    "VSN_6111": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_6109": {
+      "en": "Heilongjiang; Jilin; Shaanxi; Anhui; Fujian; Sichuan; Hunan; Yunnan; Xizang (Tibet); Chongqing; Guangxi; Guizhou; Hebei; Hong Kong; Jiangsu; Jiangxi; Ningxia; Shanghai; Shanxi; Zhejiang; Taiwan",
+      "zh": "黑龙江；吉林；陕西；安徽；福建；四川；湖南；云南；西藏；重庆；广西；贵州；河北；香港；江苏；江西；宁夏；上海；山西；浙江；台湾"
+    },
+    "VSN_6099": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "VSN_6097": {
+      "en": "Sichuan; Taiwan",
+      "zh": "四川；台湾"
+    },
+    "VSN_6084": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_6081": {
+      "en": "Fujian; Jiangxi; Guangdong; Yunnan",
+      "zh": "福建；江西；广东；云南"
+    },
+    "VSN_6073": {
+      "en": "Jiangxi; Yunnan; Taiwan",
+      "zh": "江西；云南；台湾"
+    },
+    "VSN_6072": {
+      "en": "Fujian",
+      "zh": "福建"
+    },
+    "VSN_6070": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "VSN_6059": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_6049": {
+      "en": "Chongqing; Shaanxi; Taiwan",
+      "zh": "重庆；陕西；台湾"
+    },
+    "VSN_6048": {
+      "en": "Chongqing; Fujian; Guangdong; Guangxi; Hainan; Shanghai; Yunnan; Hong Kong; Taiwan",
+      "zh": "重庆；福建；广东；广西；海南；上海；云南；香港；台湾"
+    },
+    "VSN_6044": {
+      "en": "Fujian; Yunnan; Hong Kong; Taiwan",
+      "zh": "福建；云南；香港；台湾"
+    },
+    "VSN_6555": {
+      "en": "Xizang (Tibet); Yunnan",
+      "zh": "西藏；云南"
+    },
+    "VSN_6005": {
+      "en": "Xizang (Tibet); Yunnan",
+      "zh": "西藏；云南"
+    },
+    "VSN_5934": {
+      "en": "Fujian",
+      "zh": "福建"
+    },
+    "VSN_5936": {
+      "en": "Fujian",
+      "zh": "福建"
+    },
+    "VSN_5915": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_5912": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_5913": {
+      "en": "Guizhou",
+      "zh": "贵州"
+    },
+    "VSN_5910": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "VSN_5687": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_5686": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_5682": {
+      "en": "Fujian; Yunnan",
+      "zh": "福建；云南"
+    },
+    "VSN_5673": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_5018": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_4669": {
+      "en": "Hainan; Jiangxi; Yunnan; Taiwan",
+      "zh": "海南；江西；云南；台湾"
+    },
+    "VSN_3703": {
+      "en": "Jiangxi; Yunnan",
+      "zh": "江西；云南"
+    },
+    "VSN_3702": {
+      "en": "Guizhou; Jiangxi; Sichuan; Zhejiang; Hong Kong; Taiwan",
+      "zh": "贵州；江西；四川；浙江；香港；台湾"
+    },
+    "VSN_3697": {
+      "en": "Fujian; Guizhou; Hunan; Jiangxi; Sichuan; Xizang (Tibet); Yunnan; Hong Kong; Taiwan",
+      "zh": "福建；贵州；湖南；江西；四川；西藏；云南；香港；台湾"
+    },
+    "VSN_3693": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_3686": {
+      "en": "Fujian; Guizhou; Hainan; Jiangxi; Yunnan; Hong Kong; Taiwan",
+      "zh": "福建；贵州；海南；江西；云南；香港；台湾"
+    },
+    "VSN_3692": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "VSN_3685": {
+      "en": "Fujian; Yunnan; Taiwan",
+      "zh": "福建；云南；台湾"
+    },
+    "VSN_3680": {
+      "en": "Chongqing; Sichuan; Yunnan",
+      "zh": "重庆；四川；云南"
+    },
+    "VSN_3684": {
+      "en": "Fujian; Guangdong; Guangxi; Guizhou; Hunan; Jiangxi; Yunnan; Zhejiang; Hong Kong; Taiwan",
+      "zh": "福建；广东；广西；贵州；湖南；江西；云南；浙江；香港；台湾"
+    },
+    "VSN_3674": {
+      "en": "Guangxi; Yunnan",
+      "zh": "广西；云南"
+    },
+    "VSN_3672": {
+      "en": "Guangxi; Yunnan",
+      "zh": "广西；云南"
+    },
+    "VSN_3664": {
+      "en": "Fujian; Guizhou; Yunnan; Taiwan; Hong Kong",
+      "zh": "福建；贵州；云南；台湾；香港"
+    },
+    "VSN_3669": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_3471": {
+      "en": "Guangxi; Jiangxi; Taiwan; Yunnan",
+      "zh": "广西；江西；台湾；云南"
+    },
+    "VSN_3467": {
+      "en": "Jiangxi; Yunnan",
+      "zh": "江西；云南"
+    },
+    "VSN_3378": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_2909": {
+      "en": "Shaanxi; Sichuan; Shanxi",
+      "zh": "陕西；四川；山西"
+    },
+    "VSN_2869": {
+      "en": "Fujian; Guangdong; Xizang (Tibet); Chongqing; Guangxi; Jiangxi; Yunnan; Hong Kong; Hainan",
+      "zh": "福建；广东；西藏；重庆；广西；江西；云南；香港；海南"
+    },
+    "VSN_2867": {
+      "en": "Xizang (Tibet); Fujian; Guangdong; Guangxi; Hainan; Hunan; Jiangxi; Sichuan; Yunnan; Zhejiang; Hong Kong; Guizhou; Taiwan",
+      "zh": "西藏；福建；广东；广西；海南；湖南；江西；四川；云南；浙江；香港；贵州；台湾"
+    },
+    "VSN_2868": {
+      "en": "Yunnan; Taiwan",
+      "zh": "云南；台湾"
+    },
+    "VSN_2766": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "VSN_2765": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_2745": {
+      "en": "Anhui; Fujian; Chongqing; Hubei; Yunnan; Taiwan",
+      "zh": "安徽；福建；重庆；湖北；云南；台湾"
+    },
+    "VSN_2746": {
+      "en": "Xizang (Tibet); Yunnan",
+      "zh": "西藏；云南"
+    },
+    "VSN_2742": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_2732": {
+      "en": "Guangdong; Chongqing; Hainan; Yunnan; Hong Kong; Taiwan",
+      "zh": "广东；重庆；海南；云南；香港；台湾"
+    },
+    "VSN_2717": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_2731": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_2715": {
+      "en": "Hainan",
+      "zh": "海南"
+    },
+    "VSN_2711": {
+      "en": "Taiwan (doubtful)",
+      "zh": "台湾（存疑）"
+    },
+    "VSN_2699": {
+      "en": "Hunan; Guangdong; Yunnan; Sichuan; Anhui; Chongqing; Fujian; Gansu; Guizhou; Hainan; Hubei; Jiangsu; Jiangxi; Xizang (Tibet); Hong Kong; Taiwan",
+      "zh": "湖南；广东；云南；四川；安徽；重庆；福建；甘肃；贵州；海南；湖北；江苏；江西；西藏；香港；台湾"
+    },
+    "VSN_2703": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_2695": {
+      "en": "Yunnan; Taiwan",
+      "zh": "云南；台湾"
+    },
+    "VSN_2690": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_2686": {
+      "en": "Guangdong; Sichuan; Yunnan; Taiwan; Chongqing; Guizhou; Hong Kong; Fujian; Guangxi; Hainan; Xizang (Tibet)",
+      "zh": "广东；四川；云南；台湾；重庆；贵州；香港；福建；广西；海南；西藏"
+    },
+    "VSN_2685": {
+      "en": "Sichuan; Taiwan",
+      "zh": "四川；台湾"
+    },
+    "VSN_2681": {
+      "en": "Southwest China; no specific regions provided; Taiwan",
+      "zh": "中国西南地区；未提供具体地区；台湾"
+    },
+    "VSN_2667": {
+      "en": "Jiangxi; Yunnan; Hong Kong",
+      "zh": "江西；云南；香港"
+    },
+    "VSN_2491": {
+      "en": "Yunnan; Taiwan",
+      "zh": "云南；台湾"
+    },
+    "VSN_2490": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_2488": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_2486": {
+      "en": "Guizhou; Sichuan",
+      "zh": "贵州；四川"
+    },
+    "VSN_2400": {
+      "en": "Guizhou; Jiangsu; Hong Kong",
+      "zh": "贵州；江苏；香港"
+    },
+    "VSN_2393": {
+      "en": "Fujian; Guangdong; Guangxi; Hainan; Jiangxi; Yunnan; Hong Kong; Taiwan",
+      "zh": "福建；广东；广西；海南；江西；云南；香港；台湾"
+    },
+    "VSN_2396": {
+      "en": "Fujian",
+      "zh": "福建"
+    },
+    "VSN_2389": {
+      "en": "Hainan; Xizang (Tibet); Yunnan; Taiwan",
+      "zh": "海南；西藏；云南；台湾"
+    },
+    "VSN_2386": {
+      "en": "Chongqing; Guizhou; Taiwan",
+      "zh": "重庆；贵州；台湾"
+    },
+    "VSN_2220": {
+      "en": "Guangxi; Sichuan",
+      "zh": "广西；四川"
+    },
+    "VSN_2218": {
+      "en": "Jiangxi; Yunnan",
+      "zh": "江西；云南"
+    },
+    "VSN_2217": {
+      "en": "Xizang (Tibet); Yunnan",
+      "zh": "西藏；云南"
+    },
+    "VSN_2193": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_2207": {
+      "en": "Fujian; Shaanxi; Sichuan; Xizang (Tibet); Guangxi; Guizhou; Hubei; Hunan; Shanxi; Yunnan; Taiwan",
+      "zh": "福建；陕西；四川；西藏；广西；贵州；湖北；湖南；山西；云南；台湾"
+    },
+    "VSN_2192": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_2066": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_2064": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_2065": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_2062": {
+      "en": "Fujian",
+      "zh": "福建"
+    },
+    "VSN_2057": {
+      "en": "Fujian; Yunnan",
+      "zh": "福建；云南"
+    },
+    "VSN_2041": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_2028": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_2027": {
+      "en": "Fujian; Yunnan",
+      "zh": "福建；云南"
+    },
+    "VSN_2025": {
+      "en": "Hainan; Yunnan",
+      "zh": "海南；云南"
+    },
+    "VSN_2023": {
+      "en": "Sichuan; Yunnan; Shanxi; Taiwan",
+      "zh": "四川；云南；山西；台湾"
+    },
+    "VSN_2021": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_2017": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_2012": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_2011": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_2010": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_2007": {
+      "en": "Fujian; Sichuan; Guangxi; Yunnan",
+      "zh": "福建；四川；广西；云南"
+    },
+    "VSN_1998": {
+      "en": "Northeast China; only at regional resolution; Taiwan; Yunnan",
+      "zh": "中国东北地区；仅有区域级记录；台湾；云南"
+    },
+    "VSN_1997": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_1987": {
+      "en": "Beijing; Fujian; Jiangxi; Yunnan; Hong Kong; Taiwan",
+      "zh": "北京；福建；江西；云南；香港；台湾"
+    },
+    "VSN_1994": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_1986": {
+      "en": "Jiangxi",
+      "zh": "江西"
+    },
+    "VSN_1978": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_1977": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_1971": {
+      "en": "Fujian; Heilongjiang; Guizhou; Jiangxi; Yunnan; Hong Kong; Taiwan",
+      "zh": "福建；黑龙江；贵州；江西；云南；香港；台湾"
+    },
+    "VSN_1969": {
+      "en": "Yunnan; Taiwan",
+      "zh": "云南；台湾"
+    },
+    "VSN_1966": {
+      "en": "Fujian; Yunnan; Jiangxi; Sichuan; Taiwan",
+      "zh": "福建；云南；江西；四川；台湾"
+    },
+    "VSN_1909": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_1377": {
+      "en": "Guizhou; Yunnan; Taiwan",
+      "zh": "贵州；云南；台湾"
+    },
+    "VSN_1373": {
+      "en": "No specific regions provided",
+      "zh": "未提供具体地区"
+    },
+    "VSN_1366": {
+      "en": "Yunnan; Hong Kong",
+      "zh": "云南；香港"
+    },
+    "VSN_1364": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_1137": {
+      "en": "Yunnan; Taiwan",
+      "zh": "云南；台湾"
+    },
+    "VSN_1136": {
+      "en": "Guizhou; Yunnan",
+      "zh": "贵州；云南"
+    },
+    "VSN_1129": {
+      "en": "Fujian; Yunnan",
+      "zh": "福建；云南"
+    },
+    "VSN_1124": {
+      "en": "Fujian; Hainan; Sichuan; Yunnan; Taiwan",
+      "zh": "福建；海南；四川；云南；台湾"
+    },
+    "VSN_1122": {
+      "en": "Anhui; Zhejiang; Fujian; Sichuan; Yunnan; Guizhou; Hainan; Hong Kong; Jiangsu; Jiangxi; Shaanxi; Shanghai; Taiwan",
+      "zh": "安徽；浙江；福建；四川；云南；贵州；海南；香港；江苏；江西；陕西；上海；台湾"
+    },
+    "VSN_1116": {
+      "en": "Hainan; Xizang (Tibet); Yunnan",
+      "zh": "海南；西藏；云南"
+    },
+    "VSN_1112": {
+      "en": "Xizang (Tibet); Yunnan",
+      "zh": "西藏；云南"
+    },
+    "VSN_1109": {
+      "en": "Fujian; Yunnan",
+      "zh": "福建；云南"
+    },
+    "VSN_1110": {
+      "en": "Chongqing; Fujian; Hainan; Hong Kong; Hubei; Hunan; Shaanxi; Sichuan; Xizang (Tibet); Yunnan; Taiwan",
+      "zh": "重庆；福建；海南；香港；湖北；湖南；陕西；四川；西藏；云南；台湾"
+    },
+    "VSN_2708": {
+      "en": "Chongqing; Jiangxi; Yunnan; Taiwan",
+      "zh": "重庆；江西；云南；台湾"
+    },
+    "VSN_0681": {
+      "en": "Chongqing; Jiangxi; Yunnan; Hong Kong; Taiwan",
+      "zh": "重庆；江西；云南；香港；台湾"
+    },
+    "VSN_0669": {
+      "en": "Fujian; Jiangxi; Sichuan; Xizang (Tibet); Yunnan; Taiwan",
+      "zh": "福建；江西；四川；西藏；云南；台湾"
+    },
+    "VSN_0666": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_0661": {
+      "en": "Fujian; Guangxi; Hainan",
+      "zh": "福建；广西；海南"
+    },
+    "VSN_0656": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_0647": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_0645": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_0634": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_0401": {
+      "en": "Chongqing; Sichuan; Fujian",
+      "zh": "重庆；四川；福建"
+    },
+    "VSN_0400": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_0399": {
+      "en": "Fujian; Guangdong; Guangxi; Jiangxi; Yunnan; Taiwan",
+      "zh": "福建；广东；广西；江西；云南；台湾"
+    },
+    "VSN_0387": {
+      "en": "Sichuan; Yunnan",
+      "zh": "四川；云南"
+    },
+    "VSN_0395": {
+      "en": "Chongqing; Shaanxi; Sichuan",
+      "zh": "重庆；陕西；四川"
+    },
+    "VSN_0386": {
+      "en": "Xizang (Tibet)",
+      "zh": "西藏"
+    },
+    "VSN_0380": {
+      "en": "Heilongjiang; Shanghai",
+      "zh": "黑龙江；上海"
+    },
+    "VSN_0378": {
+      "en": "Sichuan; Yunnan",
+      "zh": "四川；云南"
+    },
+    "VSN_0379": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_0377": {
+      "en": "Fujian",
+      "zh": "福建"
+    },
+    "VSN_0376": {
+      "en": "Xizang (Tibet)",
+      "zh": "西藏"
+    },
+    "VSN_0375": {
+      "en": "Fujian; Guangxi; Jiangxi; Sichuan; Xizang (Tibet); Yunnan; Taiwan",
+      "zh": "福建；广西；江西；四川；西藏；云南；台湾"
+    },
+    "VSN_0372": {
+      "en": "Fujian",
+      "zh": "福建"
+    },
+    "VSN_0374": {
+      "en": "Sichuan",
+      "zh": "四川"
+    },
+    "VSN_0371": {
+      "en": "Hunan; Guizhou; Fujian; Xizang (Tibet); Yunnan",
+      "zh": "湖南；贵州；福建；西藏；云南"
+    },
+    "VSN_0370": {
+      "en": "Heilongjiang; Shaanxi",
+      "zh": "黑龙江；陕西"
+    },
+    "VSN_0369": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_0368": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_0366": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_0362": {
+      "en": "Fujian",
+      "zh": "福建"
+    },
+    "VSN_0359": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_0360": {
+      "en": "Anhui; Guangxi; Sichuan; Xizang (Tibet); Henan; Shaanxi; Taiwan; Guizhou; Hainan; Jiangxi; Shanxi; Yunnan",
+      "zh": "安徽；广西；四川；西藏；河南；陕西；台湾；贵州；海南；江西；山西；云南"
+    },
+    "VSN_0357": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_0282": {
+      "en": "Fujian; Jiangxi; Taiwan; Yunnan",
+      "zh": "福建；江西；台湾；云南"
+    },
+    "VSN_0281": {
+      "en": "Guizhou; Hong Kong; Taiwan",
+      "zh": "贵州；香港；台湾"
+    },
+    "VSN_0277": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_0273": {
+      "en": "Guizhou",
+      "zh": "贵州"
+    },
+    "VSN_0272": {
+      "en": "Anhui; Chongqing; Fujian; Guangxi; Guizhou; Hunan; Jiangxi; Sichuan; Yunnan; Taiwan",
+      "zh": "安徽；重庆；福建；广西；贵州；湖南；江西；四川；云南；台湾"
+    },
+    "VSN_0265": {
+      "en": "Fujian; Yunnan",
+      "zh": "福建；云南"
+    },
+    "VSN_0264": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_0260": {
+      "en": "Fujian; Chongqing; Shanxi; Taiwan",
+      "zh": "福建；重庆；山西；台湾"
+    },
+    "VSN_0229": {
+      "en": "Chongqing; Jiangsu; Jiangxi; Sichuan; Yunnan; Zhejiang; Guangxi; Taiwan",
+      "zh": "重庆；江苏；江西；四川；云南；浙江；广西；台湾"
+    },
+    "VSN_0246": {
+      "en": "Anhui; Beijing; Chongqing; Fujian; Guangdong; Guangxi; Guizhou; Hebei; Heilongjiang; Hong Kong; Hunan; Jiangxi; Shaanxi; Shandong; Sichuan; Xizang (Tibet); Yunnan; Zhejiang; Taiwan",
+      "zh": "安徽；北京；重庆；福建；广东；广西；贵州；河北；黑龙江；香港；湖南；江西；陕西；山东；四川；西藏；云南；浙江；台湾"
+    },
+    "VSN_0226": {
+      "en": "Sichuan; Guangdong; Yunnan; Xizang (Tibet); Guangxi; Guizhou; Hainan; Hong Kong; Taiwan",
+      "zh": "四川；广东；云南；西藏；广西；贵州；海南；香港；台湾"
+    },
+    "VSN_0208": {
+      "en": "Hubei; Fujian; Guizhou; Hainan; Guangxi; Xizang (Tibet); Hong Kong; Taiwan",
+      "zh": "湖北；福建；贵州；海南；广西；西藏；香港；台湾"
+    },
+    "VSN_0199": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_0189": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_0198": {
+      "en": "Fujian; Yunnan",
+      "zh": "福建；云南"
+    },
+    "VSN_0188": {
+      "en": "Guangdong; Yunnan; Hong Kong",
+      "zh": "广东；云南；香港"
+    },
+    "VSN_0187": {
+      "en": "Hainan",
+      "zh": "海南"
+    },
+    "VSN_0178": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_0159": {
+      "en": "Guangdong; Jiangxi; Taiwan",
+      "zh": "广东；江西；台湾"
+    },
+    "VSN_5968": {
+      "en": "Xinjiang; Xizang (Tibet)",
+      "zh": "新疆；西藏"
+    },
+    "VSN_5960": {
+      "en": "Sichuan; Xinjiang; Yunnan",
+      "zh": "四川；新疆；云南"
+    },
+    "VSN_3333": {
+      "en": "Taiwan (doubtful)",
+      "zh": "台湾（存疑）"
+    },
+    "VSN_3356": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_3331": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_3330": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_3253": {
+      "en": "Yunnan; Taiwan; Guizhou; Guangxi; Hainan; Hubei; Hunan; Sichuan",
+      "zh": "云南；台湾；贵州；广西；海南；湖北；湖南；四川"
+    },
+    "VSN_3247": {
+      "en": "Guangdong; Yunnan; Guangxi; Guizhou",
+      "zh": "广东；云南；广西；贵州"
+    },
+    "VSN_3238": {
+      "en": "Hainan; Taiwan; Hong Kong",
+      "zh": "海南；台湾；香港"
+    },
+    "VSN_3235": {
+      "en": "Guangxi",
+      "zh": "广西"
+    },
+    "VSN_3232": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_3223": {
+      "en": "Hebei; Shandong; Hunan; Sichuan; Fujian; Yunnan; Taiwan; Hong Kong; Guangdong; Guangxi",
+      "zh": "河北；山东；湖南；四川；福建；云南；台湾；香港；广东；广西"
+    },
+    "VSN_3216": {
+      "en": "Guangdong",
+      "zh": "广东"
+    },
+    "VSN_3222": {
+      "en": "Hebei; Henan; Shaanxi; Yunnan; Anhui; Gansu; Guizhou; Hubei; Jiangsu; Liaoning; Sichuan; Shandong; Shanxi",
+      "zh": "河北；河南；陕西；云南；安徽；甘肃；贵州；湖北；江苏；辽宁；四川；山东；山西"
+    },
+    "VSN_3202": {
+      "en": "Sichuan; Fujian; Yunnan; Taiwan; Hong Kong; Guizhou",
+      "zh": "四川；福建；云南；台湾；香港；贵州"
+    },
+    "VSN_3182": {
+      "en": "Sichuan; Guizhou; Yunnan; Taiwan; Hong Kong; Guangxi; Hunan",
+      "zh": "四川；贵州；云南；台湾；香港；广西；湖南"
+    },
+    "VSN_3173": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_3171": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_3164": {
+      "en": "Yunnan; Taiwan",
+      "zh": "云南；台湾"
+    },
+    "VSN_1612": {
+      "en": "Guizhou; Fujian; Taiwan",
+      "zh": "贵州；福建；台湾"
+    },
+    "VSN_1604": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_1605": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_5451": {
+      "en": "Beijing; Shaanxi; Sichuan",
+      "zh": "北京；陕西；四川"
+    },
+    "VSN_5450": {
+      "en": "Fujian; Jiangxi",
+      "zh": "福建；江西"
+    },
+    "VSN_5447": {
+      "en": "Northeast China; Taiwan; Heilongjiang",
+      "zh": "中国东北地区；台湾；黑龙江"
+    },
+    "VSN_5445": {
+      "en": "Sichuan; Xizang (Tibet)",
+      "zh": "四川；西藏"
+    },
+    "VSN_5444": {
+      "en": "Fujian; Jiangxi",
+      "zh": "福建；江西"
+    },
+    "VSN_5443": {
+      "en": "Chongqing; Fujian; Jiangxi; Sichuan; Yunnan; Zhejiang; Taiwan",
+      "zh": "重庆；福建；江西；四川；云南；浙江；台湾"
+    },
+    "VSN_5442": {
+      "en": "Taiwan (doubtful)",
+      "zh": "台湾（存疑）"
+    },
+    "VSN_5441": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_5439": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_5435": {
+      "en": "Sichuan; Yunnan; Taiwan",
+      "zh": "四川；云南；台湾"
+    },
+    "VSN_5437": {
+      "en": "Shaanxi; Sichuan; Yunnan; Xizang; Taiwan; Hunan",
+      "zh": "陕西；四川；云南；西藏；台湾；湖南"
+    },
+    "VSN_5433": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_5432": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_5424": {
+      "en": "Sichuan; Yunnan; Taiwan",
+      "zh": "四川；云南；台湾"
+    },
+    "VSN_5423": {
+      "en": "Sichuan; Fujian; Taiwan; Hainan; Guangxi; Shaanxi",
+      "zh": "四川；福建；台湾；海南；广西；陕西"
+    },
+    "VSN_5407": {
+      "en": "Hunan; Sichuan; Xizang (Tibet); Yunnan",
+      "zh": "湖南；四川；西藏；云南"
+    },
+    "VSN_5414": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_5405": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_5404": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_5400": {
+      "en": "Fujian; Sichuan; Yunnan; Taiwan",
+      "zh": "福建；四川；云南；台湾"
+    },
+    "VSN_5399": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_5397": {
+      "en": "Yunnan; Taiwan",
+      "zh": "云南；台湾"
+    },
+    "VSN_5580": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_5578": {
+      "en": "Heilongjiang",
+      "zh": "黑龙江"
+    },
+    "VSN_5567": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_5565": {
+      "en": "Ningxia; Sichuan; Yunnan; Xizang (Tibet); Gansu; Hebei; Neimenggu (Inner Mongolia); Qinghai",
+      "zh": "宁夏；四川；云南；西藏；甘肃；河北；内蒙古；青海"
+    },
+    "VSN_5563": {
+      "en": "Heilongjiang; Beijing; Shaanxi; Hebei; Jilin; Shanxi",
+      "zh": "黑龙江；北京；陕西；河北；吉林；山西"
+    },
+    "VSN_5561": {
+      "en": "Heilongjiang; Hebei; Henan; Shaanxi; Ningxia; Gansu; Guizhou; Jiangsu; Jilin; Liaoning; Qinghai; Neimenggu (Inner Mongolia); Sichuan; Shanxi; Xinjiang; Yunnan",
+      "zh": "黑龙江；河北；河南；陕西；宁夏；甘肃；贵州；江苏；吉林；辽宁；青海；内蒙古；四川；山西；新疆；云南"
+    },
+    "VSN_5560": {
+      "en": "Xinjiang; Gansu",
+      "zh": "新疆；甘肃"
+    },
+    "VSN_5555": {
+      "en": "Sichuan; Yunnan",
+      "zh": "四川；云南"
+    },
+    "VSN_5557": {
+      "en": "Heilongjiang; Jilin",
+      "zh": "黑龙江；吉林"
+    },
+    "VSN_5552": {
+      "en": "Shandong; Heilongjiang",
+      "zh": "山东；黑龙江"
+    },
+    "VSN_5548": {
+      "en": "Yunnan; Xizang (Tibet)",
+      "zh": "云南；西藏"
+    },
+    "VSN_5546": {
+      "en": "Sichuan",
+      "zh": "四川"
+    },
+    "VSN_5543": {
+      "en": "Shanxi; Jilin",
+      "zh": "山西；吉林"
+    },
+    "VSN_5534": {
+      "en": "Xizang (Tibet); Gansu; Ningxia; Qinghai; Sichuan; Yunnan",
+      "zh": "西藏；甘肃；宁夏；青海；四川；云南"
+    },
+    "VSN_5526": {
+      "en": "Heilongjiang; Liaoning",
+      "zh": "黑龙江；辽宁"
+    },
+    "VSN_5531": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_5523": {
+      "en": "Jilin; Liaoning",
+      "zh": "吉林；辽宁"
+    },
+    "VSN_5516": {
+      "en": "Liaoning; Jilin",
+      "zh": "辽宁；吉林"
+    },
+    "VSN_5511": {
+      "en": "Jiangxi",
+      "zh": "江西"
+    },
+    "VSN_5509": {
+      "en": "Xinjiang",
+      "zh": "新疆"
+    },
+    "VSN_5508": {
+      "en": "Jilin; Liaoning; Neimenggu (Inner Mongolia); Beijing; Hebei; Shaanxi; Sichuan; Taiwan; Chongqing; Heilongjiang; Shanxi; Shanghai",
+      "zh": "吉林；辽宁；内蒙古；北京；河北；陕西；四川；台湾；重庆；黑龙江；山西；上海"
+    },
+    "VSN_5507": {
+      "en": "Heilongjiang; Liaoning",
+      "zh": "黑龙江；辽宁"
+    },
+    "VSN_5497": {
+      "en": "Heilongjiang; Jilin; Hebei; Shaanxi",
+      "zh": "黑龙江；吉林；河北；陕西"
+    },
+    "VSN_5501": {
+      "en": "Northeast China; Taiwan",
+      "zh": "中国东北地区；台湾"
+    },
+    "VSN_5495": {
+      "en": "Heilongjiang; Jilin; Liaoning; Beijing; Hebei; Shandong; Henan; Shaanxi; Ningxia; Gansu; Jiangsu",
+      "zh": "黑龙江；吉林；辽宁；北京；河北；山东；河南；陕西；宁夏；甘肃；江苏"
+    },
+    "VSN_5488": {
+      "en": "Heilongjiang; Jilin",
+      "zh": "黑龙江；吉林"
+    },
+    "VSN_5484": {
+      "en": "Heilongjiang; Beijing; Shaanxi",
+      "zh": "黑龙江；北京；陕西"
+    },
+    "VSN_5483": {
+      "en": "No specific regions provided",
+      "zh": "未提供具体地区"
+    },
+    "VSN_5475": {
+      "en": "Beijing; Shaanxi; Hebei; Heilongjiang; Neimenggu (Inner Mongolia)",
+      "zh": "北京；陕西；河北；黑龙江；内蒙古"
+    },
+    "VSN_5482": {
+      "en": "Shanxi; Henan",
+      "zh": "山西；河南"
+    },
+    "VSN_5465": {
+      "en": "Heilongjiang; Jilin",
+      "zh": "黑龙江；吉林"
+    },
+    "VSN_5461": {
+      "en": "Xinjiang",
+      "zh": "新疆"
+    },
+    "VSN_5459": {
+      "en": "Sichuan; Ningxia; Shaanxi; Shanxi; Yunnan",
+      "zh": "四川；宁夏；陕西；山西；云南"
+    },
+    "VSN_4773": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_4763": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_4770": {
+      "en": "Yunnan; Xizang (Tibet)",
+      "zh": "云南；西藏"
+    },
+    "VSN_4762": {
+      "en": "Sichuan; Yunnan; Guizhou",
+      "zh": "四川；云南；贵州"
+    },
+    "VSN_4758": {
+      "en": "Heilongjiang; Jilin",
+      "zh": "黑龙江；吉林"
+    },
+    "VSN_4757": {
+      "en": "Liaoning",
+      "zh": "辽宁"
+    },
+    "VSN_4750": {
+      "en": "Heilongjiang",
+      "zh": "黑龙江"
+    },
+    "VSN_4754": {
+      "en": "Shaanxi; Sichuan; Chongqing; Shanxi",
+      "zh": "陕西；四川；重庆；山西"
+    },
+    "VSN_4747": {
+      "en": "Guizhou; Yunnan; Xizang (Tibet); Liaoning; Gansu; Qinghai",
+      "zh": "贵州；云南；西藏；辽宁；甘肃；青海"
+    },
+    "VSN_4746": {
+      "en": "Shaanxi; Gansu; Ningxia; Qinghai; Sichuan",
+      "zh": "陕西；甘肃；宁夏；青海；四川"
+    },
+    "VSN_4742": {
+      "en": "Shandong; Anhui; Fujian; Liaoning",
+      "zh": "山东；安徽；福建；辽宁"
+    },
+    "VSN_4740": {
+      "en": "Heilongjiang; Jilin",
+      "zh": "黑龙江；吉林"
+    },
+    "VSN_4720": {
+      "en": "Xizang (Tibet)",
+      "zh": "西藏"
+    },
+    "VSN_4737": {
+      "en": "Neimenggu (Inner Mongolia); Shaanxi; Gansu; Qinghai; Sichuan; Shanxi; Xizang (Tibet); Yunnan",
+      "zh": "内蒙古；陕西；甘肃；青海；四川；山西；西藏；云南"
+    },
+    "VSN_4712": {
+      "en": "Sichuan; Yunnan; Hainan; Xizang (Tibet)",
+      "zh": "四川；云南；海南；西藏"
+    },
+    "VSN_4709": {
+      "en": "Northeast China; Taiwan",
+      "zh": "中国东北地区；台湾"
+    },
+    "VSN_4702": {
+      "en": "Jilin",
+      "zh": "吉林"
+    },
+    "VSN_4684": {
+      "en": "Sichuan; Yunnan",
+      "zh": "四川；云南"
+    },
+    "VSN_4700": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_4682": {
+      "en": "Hunan",
+      "zh": "湖南"
+    },
+    "VSN_4677": {
+      "en": "Northeast China",
+      "zh": "中国东北地区"
+    },
+    "VSN_0802": {
+      "en": "Heilongjiang; Liaoning",
+      "zh": "黑龙江；辽宁"
+    },
+    "VSN_0789": {
+      "en": "Northeast China",
+      "zh": "中国东北地区"
+    },
+    "VSN_4052": {
+      "en": "Shaanxi; Jiangxi; Hunan; Sichuan; Fujian; Henan; Anhui; Zhejiang; Guangxi; Yunnan; Guangdong; Guizhou; Hubei; Jiangsu; Shanxi",
+      "zh": "陕西；江西；湖南；四川；福建；河南；安徽；浙江；广西；云南；广东；贵州；湖北；江苏；山西"
+    },
+    "VSN_4050": {
+      "en": "Shaanxi; Shanxi; Yunnan",
+      "zh": "陕西；山西；云南"
+    },
+    "VSN_4043": {
+      "en": "Guizhou",
+      "zh": "贵州"
+    },
+    "VSN_4034": {
+      "en": "Sichuan; Fujian; Anhui; Zhejiang; Guizhou; Yunnan; Henan; Hunan; Shanxi; Taiwan",
+      "zh": "四川；福建；安徽；浙江；贵州；云南；河南；湖南；山西；台湾"
+    },
+    "VSN_4035": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_4029": {
+      "en": "Hubei",
+      "zh": "湖北"
+    },
+    "VSN_4028": {
+      "en": "Fujian; Hunan",
+      "zh": "福建；湖南"
+    },
+    "VSN_4027": {
+      "en": "Guizhou; Jilin; Southeast China; Taiwan",
+      "zh": "贵州；吉林；中国东南地区；台湾"
+    },
+    "VSN_4020": {
+      "en": "Beijing; Shaanxi; Ningxia; Sichuan; Hebei; Hunan; Shanxi",
+      "zh": "北京；陕西；宁夏；四川；河北；湖南；山西"
+    },
+    "VSN_4016": {
+      "en": "South China",
+      "zh": "中国华南地区"
+    },
+    "VSN_4014": {
+      "en": "Anhui; Fujian",
+      "zh": "安徽；福建"
+    },
+    "VSN_4002": {
+      "en": "Yunnan; Taiwan",
+      "zh": "云南；台湾"
+    },
+    "VSN_4000": {
+      "en": "Beijing; Shandong; Jiangsu; Shaanxi; Sichuan; Yunnan",
+      "zh": "北京；山东；江苏；陕西；四川；云南"
+    },
+    "VSN_3997": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_3994": {
+      "en": "Yunnan; Hubei",
+      "zh": "云南；湖北"
+    },
+    "VSN_3991": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_3987": {
+      "en": "Taiwan; Hong Kong",
+      "zh": "台湾；香港"
+    },
+    "VSN_2953": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_2955": {
+      "en": "Hainan; Yunnan; Sichuan",
+      "zh": "海南；云南；四川"
+    },
+    "VSN_4963": {
+      "en": "Gansu; Hebei; Heilongjiang; Liaoning; Shanxi",
+      "zh": "甘肃；河北；黑龙江；辽宁；山西"
+    },
+    "VSN_4819": {
+      "en": "Qinghai; Sichuan",
+      "zh": "青海；四川"
+    },
+    "VSN_4817": {
+      "en": "Qinghai; Sichuan; Xizang (Tibet)",
+      "zh": "青海；四川；西藏"
+    },
+    "VSN_4225": {
+      "en": "Xinjiang",
+      "zh": "新疆"
+    },
+    "VSN_4224": {
+      "en": "Heilongjiang; Sichuan; Jilin; Shaanxi; Yunnan; Liaoning",
+      "zh": "黑龙江；四川；吉林；陕西；云南；辽宁"
+    },
+    "VSN_4223": {
+      "en": "Xizang (Tibet); Yunnan",
+      "zh": "西藏；云南"
+    },
+    "VSN_4213": {
+      "en": "Guizhou; Sichuan; Shaanxi; Shanxi; Xizang (Tibet); Yunnan",
+      "zh": "贵州；四川；陕西；山西；西藏；云南"
+    },
+    "VSN_4222": {
+      "en": "Liaoning; Gansu; Qinghai; Xinjiang",
+      "zh": "辽宁；甘肃；青海；新疆"
+    },
+    "VSN_4207": {
+      "en": "Hebei; Liaoning",
+      "zh": "河北；辽宁"
+    },
+    "VSN_4206": {
+      "en": "Heilongjiang; Sichuan; Jilin; Liaoning; Neimenggu (Inner Mongolia); Shaanxi; Xinjiang",
+      "zh": "黑龙江；四川；吉林；辽宁；内蒙古；陕西；新疆"
+    },
+    "VSN_4203": {
+      "en": "Northeast China",
+      "zh": "中国东北地区"
+    },
+    "VSN_3896": {
+      "en": "Heilongjiang; Sichuan; Yunnan; Liaoning; Qinghai; Shaanxi; Xinjiang",
+      "zh": "黑龙江；四川；云南；辽宁；青海；陕西；新疆"
+    },
+    "VSN_3897": {
+      "en": "Liaoning; Jilin; Shaanxi; Sichuan; Yunnan; Shanxi; Xinjiang",
+      "zh": "辽宁；吉林；陕西；四川；云南；山西；新疆"
+    },
+    "VSN_3893": {
+      "en": "Fujian",
+      "zh": "福建"
+    },
+    "VSN_3890": {
+      "en": "Jiangsu",
+      "zh": "江苏"
+    },
+    "VSN_3885": {
+      "en": "Hebei; Shaanxi; Heilongjiang; Shanxi",
+      "zh": "河北；陕西；黑龙江；山西"
+    },
+    "VSN_3888": {
+      "en": "Qinghai; Sichuan; Yunnan; Xizang (Tibet)",
+      "zh": "青海；四川；云南；西藏"
+    },
+    "VSN_3884": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_3883": {
+      "en": "Heilongjiang; Jilin",
+      "zh": "黑龙江；吉林"
+    },
+    "VSN_3882": {
+      "en": "Henan; Shaanxi; Jiangsu; Jiangxi; Hunan; Sichuan; Fujian; Yunnan; Chongqing; Guangdong; Guangxi; Anhui; Hubei; Liaoning; Shandong; Shanxi; Zhejiang",
+      "zh": "河南；陕西；江苏；江西；湖南；四川；福建；云南；重庆；广东；广西；安徽；湖北；辽宁；山东；山西；浙江"
+    },
+    "VSN_3879": {
+      "en": "Fujian; Jiangxi; Yunnan; Central China; North China; Southeast China; Southwest China; Taiwan",
+      "zh": "福建；江西；云南；中国华中地区；中国华北地区；中国东南地区；中国西南地区；台湾"
+    },
+    "VSN_3437": {
+      "en": "Heilongjiang; Jilin; Xinjiang; Gansu; Henan; Neimenggu (Inner Mongolia); Qinghai",
+      "zh": "黑龙江；吉林；新疆；甘肃；河南；内蒙古；青海"
+    },
+    "VSN_3434": {
+      "en": "Heilongjiang; Jilin; Liaoning; Xinjiang; Henan; Neimenggu (Inner Mongolia); Shaanxi; Shandong; Shanxi",
+      "zh": "黑龙江；吉林；辽宁；新疆；河南；内蒙古；陕西；山东；山西"
+    },
+    "VSN_3433": {
+      "en": "Xizang (Tibet); Xinjiang",
+      "zh": "西藏；新疆"
+    },
+    "VSN_3432": {
+      "en": "Xizang (Tibet); Qinghai; Gansu; Sichuan; Shaanxi; Yunnan",
+      "zh": "西藏；青海；甘肃；四川；陕西；云南"
+    },
+    "VSN_3431": {
+      "en": "Heilongjiang; Jilin; Shaanxi; Sichuan; Yunnan; Gansu; Hebei; Hubei; Liaoning; Neimenggu (Inner Mongolia); Shanxi",
+      "zh": "黑龙江；吉林；陕西；四川；云南；甘肃；河北；湖北；辽宁；内蒙古；山西"
+    },
+    "VSN_3430": {
+      "en": "Xizang (Tibet)",
+      "zh": "西藏"
+    },
+    "VSN_3419": {
+      "en": "Gansu; Qinghai; Xinjiang; Sichuan; Yunnan; Xizang (Tibet); Guizhou; Heilongjiang; Neimenggu (Inner Mongolia)",
+      "zh": "甘肃；青海；新疆；四川；云南；西藏；贵州；黑龙江；内蒙古"
+    },
+    "VSN_3417": {
+      "en": "Xinjiang; Xizang (Tibet)",
+      "zh": "新疆；西藏"
+    },
+    "VSN_3411": {
+      "en": "Xinjiang",
+      "zh": "新疆"
+    },
+    "VSN_3410": {
+      "en": "Guangdong",
+      "zh": "广东"
+    },
+    "VSN_3408": {
+      "en": "Heilongjiang; Neimenggu (Inner Mongolia)",
+      "zh": "黑龙江；内蒙古"
+    },
+    "VSN_3405": {
+      "en": "Heilongjiang; Hebei; Sichuan; Qinghai; Yunnan",
+      "zh": "黑龙江；河北；四川；青海；云南"
+    },
+    "VSN_3404": {
+      "en": "Taiwan (doubtful); Jilin",
+      "zh": "台湾（存疑）；吉林"
+    },
+    "VSN_3401": {
+      "en": "Guangdong",
+      "zh": "广东"
+    },
+    "VSN_3393": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "VSN_3392": {
+      "en": "Heilongjiang; Jilin; Neimenggu (Inner Mongolia); Shaanxi; Hunan; Sichuan; Yunnan; Qinghai; Fujian; Gansu; Hebei; Henan; Liaoning; Shandong; Shanxi; Xinjiang; Taiwan",
+      "zh": "黑龙江；吉林；内蒙古；陕西；湖南；四川；云南；青海；福建；甘肃；河北；河南；辽宁；山东；山西；新疆；台湾"
+    },
+    "VSN_0100": {
+      "en": "Shanghai; Jiangsu; Zhejiang; Fujian; Jiangxi",
+      "zh": "上海；江苏；浙江；福建；江西"
+    },
+    "VSN_0097": {
+      "en": "Yunnan; Southwest China; Taiwan",
+      "zh": "云南；中国西南地区；台湾"
+    },
+    "VSN_0049": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_0083": {
+      "en": "Sichuan; Yunnan",
+      "zh": "四川；云南"
+    },
+    "VSN_5734": {
+      "en": "Guangdong; Hainan; Hong Kong",
+      "zh": "广东；海南；香港"
+    },
+    "VSN_5732": {
+      "en": "Fujian; Guangxi; Guizhou; Jiangxi; Zhejiang; Hunan; Yunnan; Sichuan; Taiwan; Hong Kong",
+      "zh": "福建；广西；贵州；江西；浙江；湖南；云南；四川；台湾；香港"
+    },
+    "VSN_5730": {
+      "en": "Guangxi",
+      "zh": "广西"
+    },
+    "VSN_4849": {
+      "en": "Sichuan",
+      "zh": "四川"
+    },
+    "VSN_4851": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_4848": {
+      "en": "Xizang (Tibet); Yunnan",
+      "zh": "西藏；云南"
+    },
+    "VSN_3149": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_3148": {
+      "en": "Sichuan",
+      "zh": "四川"
+    },
+    "VSN_3145": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_3142": {
+      "en": "Sichuan",
+      "zh": "四川"
+    },
+    "VSN_6444": {
+      "en": "Heilongjiang",
+      "zh": "黑龙江"
+    },
+    "VSN_6443": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_6441": {
+      "en": "Fujian",
+      "zh": "福建"
+    },
+    "VSN_6423": {
+      "en": "Heilongjiang",
+      "zh": "黑龙江"
+    },
+    "VSN_6427": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_6420": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_5852": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_5850": {
+      "en": "Liaoning; Henan; Shaanxi; Jiangsu; Zhejiang; Hunan; Sichuan; Yunnan; Chongqing; Fujian; Taiwan; Anhui; Gansu; Guizhou; Hebei; Heilongjiang; Hubei; Jilin; Neimenggu (Inner Mongolia); Shandong; Shanxi",
+      "zh": "辽宁；河南；陕西；江苏；浙江；湖南；四川；云南；重庆；福建；台湾；安徽；甘肃；贵州；河北；黑龙江；湖北；吉林；内蒙古；山东；山西"
+    },
+    "VSN_5849": {
+      "en": "Heilongjiang; Beijing; Hebei; Hubei; Jilin; Neimenggu (Inner Mongolia); Qinghai; Sichuan; Shaanxi; Shanxi; Yunnan; Zhejiang; Taiwan",
+      "zh": "黑龙江；北京；河北；湖北；吉林；内蒙古；青海；四川；陕西；山西；云南；浙江；台湾"
+    },
+    "VSN_5848": {
+      "en": "Henan; Shaanxi; Jiangxi; Sichuan; Yunnan; Anhui; Fujian; Gansu; Guizhou; Guangxi; Hebei; Heilongjiang; Hubei; Hunan; Jiangsu; Jilin; Liaoning; Neimenggu (Inner Mongolia); Qinghai; Shanxi; Zhejiang; Taiwan",
+      "zh": "河南；陕西；江西；四川；云南；安徽；福建；甘肃；贵州；广西；河北；黑龙江；湖北；湖南；江苏；吉林；辽宁；内蒙古；青海；山西；浙江；台湾"
+    },
+    "VSN_5845": {
+      "en": "Fujian; Yunnan",
+      "zh": "福建；云南"
+    },
+    "VSN_5844": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_5027": {
+      "en": "Shanxi",
+      "zh": "山西"
+    },
+    "VSN_5024": {
+      "en": "Xizang (Tibet)",
+      "zh": "西藏"
+    },
+    "VSN_5026": {
+      "en": "Sichuan; Shaanxi",
+      "zh": "四川；陕西"
+    },
+    "VSN_5023": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_5021": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_5020": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_3137": {
+      "en": "Shandong",
+      "zh": "山东"
+    },
+    "VSN_2299": {
+      "en": "Hebei; Henan; Shaanxi; Shanxi; Liaoning",
+      "zh": "河北；河南；陕西；山西；辽宁"
+    },
+    "VSN_2288": {
+      "en": "Heilongjiang; Liaoning; Qinghai; Sichuan; Xizang (Tibet); Gansu; Neimenggu (Inner Mongolia); Xinjiang",
+      "zh": "黑龙江；辽宁；青海；四川；西藏；甘肃；内蒙古；新疆"
+    },
+    "VSN_2281": {
+      "en": "Shaanxi; Sichuan; Gansu; Guizhou; Heilongjiang; Henan; Hubei; Hunan; Shanxi; Yunnan",
+      "zh": "陕西；四川；甘肃；贵州；黑龙江；河南；湖北；湖南；山西；云南"
+    },
+    "VSN_3876": {
+      "en": "Liaoning",
+      "zh": "辽宁"
+    },
+    "VSN_3020": {
+      "en": "Heilongjiang; Jilin; Liaoning; Shaanxi",
+      "zh": "黑龙江；吉林；辽宁；陕西"
+    },
+    "VSN_3019": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_3018": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_3012": {
+      "en": "Heilongjiang",
+      "zh": "黑龙江"
+    },
+    "VSN_3006": {
+      "en": "Heilongjiang",
+      "zh": "黑龙江"
+    },
+    "VSN_3008": {
+      "en": "Northeast China",
+      "zh": "中国东北地区"
+    },
+    "VSN_3002": {
+      "en": "Heilongjiang",
+      "zh": "黑龙江"
+    },
+    "VSN_2997": {
+      "en": "Heilongjiang; Jilin",
+      "zh": "黑龙江；吉林"
+    },
+    "VSN_2996": {
+      "en": "Heilongjiang",
+      "zh": "黑龙江"
+    },
+    "VSN_2760": {
+      "en": "Hainan; Taiwan; Hong Kong",
+      "zh": "海南；台湾；香港"
+    },
+    "VSN_2754": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_2188": {
+      "en": "Yunnan; Taiwan (doubtful)",
+      "zh": "云南；台湾（存疑）"
+    },
+    "VSN_0146": {
+      "en": "Jilin; Taiwan",
+      "zh": "吉林；台湾"
+    },
+    "VSN_3135": {
+      "en": "Sichuan",
+      "zh": "四川"
+    },
+    "VSN_3134": {
+      "en": "Sichuan; Yunnan",
+      "zh": "四川；云南"
+    },
+    "VSN_3133": {
+      "en": "Northeast China; Taiwan",
+      "zh": "中国东北地区；台湾"
+    },
+    "VSN_3127": {
+      "en": "Heilongjiang; Shaanxi",
+      "zh": "黑龙江；陕西"
+    },
+    "VSN_3126": {
+      "en": "Yunnan; Hunan; Fujian; Xizang (Tibet)",
+      "zh": "云南；湖南；福建；西藏"
+    },
+    "VSN_3125": {
+      "en": "Heilongjiang; Liaoning; Shaanxi; Sichuan; Gansu; Guangxi; Shanxi; Yunnan",
+      "zh": "黑龙江；辽宁；陕西；四川；甘肃；广西；山西；云南"
+    },
+    "VSN_3122": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_3121": {
+      "en": "Heilongjiang; Jilin; Liaoning; Gansu",
+      "zh": "黑龙江；吉林；辽宁；甘肃"
+    },
+    "VSN_3117": {
+      "en": "Sichuan; Yunnan; Shaanxi",
+      "zh": "四川；云南；陕西"
+    },
+    "VSN_3118": {
+      "en": "Heilongjiang; Taiwan; Jilin",
+      "zh": "黑龙江；台湾；吉林"
+    },
+    "VSN_2941": {
+      "en": "Sichuan; Yunnan",
+      "zh": "四川；云南"
+    },
+    "VSN_2939": {
+      "en": "Western China",
+      "zh": "中国西部地区"
+    },
+    "VSN_2933": {
+      "en": "Heilongjiang; Jilin; Liaoning; Taiwan; Shaanxi; Shandong; Sichuan",
+      "zh": "黑龙江；吉林；辽宁；台湾；陕西；山东；四川"
+    },
+    "VSN_2932": {
+      "en": "Heilongjiang; Taiwan; Gansu; Jilin; Liaoning; Sichuan; Shaanxi",
+      "zh": "黑龙江；台湾；甘肃；吉林；辽宁；四川；陕西"
+    },
+    "VSN_2931": {
+      "en": "Shandong; Mandelshtam and Petrov also reported the species from mainland China without specifying a locality",
+      "zh": "山东；Mandelshtam 和 Petrov 亦报告该种分布于中国大陆，但未提供具体地点"
+    },
+    "VSN_2919": {
+      "en": "Sichuan; Hubei; Liaoning; Qinghai; Shaanxi; Xinjiang; Yunnan",
+      "zh": "四川；湖北；辽宁；青海；陕西；新疆；云南"
+    },
+    "VSN_2918": {
+      "en": "Northeast China",
+      "zh": "中国东北地区"
+    },
+    "VSN_2915": {
+      "en": "Heilongjiang; Liaoning; Taiwan",
+      "zh": "黑龙江；辽宁；台湾"
+    },
+    "VSN_2914": {
+      "en": "Heilongjiang",
+      "zh": "黑龙江"
+    },
+    "VSN_4811": {
+      "en": "Heilongjiang; Jilin",
+      "zh": "黑龙江；吉林"
+    },
+    "VSN_2652": {
+      "en": "Guangdong; Shanghai",
+      "zh": "广东；上海"
+    },
+    "VSN_2641": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_2640": {
+      "en": "Guangdong",
+      "zh": "广东"
+    },
+    "VSN_2602": {
+      "en": "Fujian",
+      "zh": "福建"
+    },
+    "VSN_2562": {
+      "en": "Jiangsu",
+      "zh": "江苏"
+    },
+    "VSN_2576": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_2561": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_2554": {
+      "en": "Yannan; Hubei",
+      "zh": "云南（原文拼写为 Yannan）；湖北"
+    },
+    "VSN_2547": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_2552": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_2543": {
+      "en": "Guangdong",
+      "zh": "广东"
+    },
+    "VSN_2536": {
+      "en": "Yunnan; Taiwan",
+      "zh": "云南；台湾"
+    },
+    "VSN_5978": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_5977": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_5750": {
+      "en": "Sichuan; Hubei; Yunnan",
+      "zh": "四川；湖北；云南"
+    },
+    "VSN_2459": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_2455": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_2454": {
+      "en": "Fujian; Hainan; Guangxi; Xizang (Tibet); Sichuan; Yunnan; Taiwan; Chongqing",
+      "zh": "福建；海南；广西；西藏；四川；云南；台湾；重庆"
+    },
+    "VSN_2449": {
+      "en": "Yunnan; Taiwan",
+      "zh": "云南；台湾"
+    },
+    "VSN_2445": {
+      "en": "Shaanxi; Shanxi",
+      "zh": "陕西；山西"
+    },
+    "VSN_2444": {
+      "en": "Heilongjiang; Hubei",
+      "zh": "黑龙江；湖北"
+    },
+    "VSN_2442": {
+      "en": "Northeast China; Jilin; Shanxi",
+      "zh": "中国东北地区；吉林；山西"
+    },
+    "VSN_2438": {
+      "en": "Liaoning",
+      "zh": "辽宁"
+    },
+    "VSN_2430": {
+      "en": "Northeast China",
+      "zh": "中国东北地区"
+    },
+    "VSN_2427": {
+      "en": "Heilongjiang; Shaanxi; Qinghai; Sichuan; Yunnan; Fujian; Xizang (Tibet); Taiwan; Gansu; Shanxi",
+      "zh": "黑龙江；陕西；青海；四川；云南；福建；西藏；台湾；甘肃；山西"
+    },
+    "VSN_2414": {
+      "en": "Heilongjiang; Hubei; Neimenggu (Inner Mongolia)",
+      "zh": "黑龙江；湖北；内蒙古"
+    },
+    "VSN_2413": {
+      "en": "Heilongjiang; Shaanxi; Taiwan; Gansu; Hainan; Liaoning; Shanxi",
+      "zh": "黑龙江；陕西；台湾；甘肃；海南；辽宁；山西"
+    },
+    "VSN_2140": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "VSN_2132": {
+      "en": "Fujian",
+      "zh": "福建"
+    },
+    "VSN_2121": {
+      "en": "Henan; Shaanxi; Jiangsu; Jiangxi; Hunan; Sichuan; Fujian; Guangdong; Guangxi; Yunnan; Chongqing; Hainan; Taiwan; Shandong; Anhui; Guizhou; Hubei; Shanxi; Zhejiang; Hong Kong",
+      "zh": "河南；陕西；江苏；江西；湖南；四川；福建；广东；广西；云南；重庆；海南；台湾；山东；安徽；贵州；湖北；山西；浙江；香港"
+    },
+    "VSN_2083": {
+      "en": "Hong Kong",
+      "zh": "香港"
+    },
+    "VSN_1267": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_1265": {
+      "en": "Taiwan (doubtful)",
+      "zh": "台湾（存疑）"
+    },
+    "VSN_1259": {
+      "en": "Taiwan (doubtful)",
+      "zh": "台湾（存疑）"
+    },
+    "VSN_1241": {
+      "en": "Taiwan (doubtful)",
+      "zh": "台湾（存疑）"
+    },
+    "VSN_1238": {
+      "en": "No specific regions provided",
+      "zh": "未提供具体地区"
+    },
+    "VSN_1236": {
+      "en": "Fujian",
+      "zh": "福建"
+    },
+    "VSN_1222": {
+      "en": "Taiwan (doubtful)",
+      "zh": "台湾（存疑）"
+    },
+    "VSN_1220": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_1216": {
+      "en": "Taiwan (doubtful)",
+      "zh": "台湾（存疑）"
+    },
+    "VSN_1198": {
+      "en": "Northeast China; Southwest China; Western Plateau; Taiwan",
+      "zh": "中国东北地区；中国西南地区；西部高原；台湾"
+    },
+    "VSN_1192": {
+      "en": "Taiwan (doubtful)",
+      "zh": "台湾（存疑）"
+    },
+    "VSN_1191": {
+      "en": "Fujian",
+      "zh": "福建"
+    },
+    "VSN_1184": {
+      "en": "Mainland; no specific regions provided; Taiwan",
+      "zh": "中国大陆；未提供具体地区；台湾"
+    },
+    "VSN_1168": {
+      "en": "Yunnan; Hong Kong",
+      "zh": "云南；香港"
+    },
+    "VSN_1167": {
+      "en": "Anhui; Sichuan; Guizhou; Fujian; Guangxi; Yunnan; Xizang (Tibet); Taiwan",
+      "zh": "安徽；四川；贵州；福建；广西；云南；西藏；台湾"
+    },
+    "VSN_1156": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_1154": {
+      "en": "Southeast China; Taiwan",
+      "zh": "中国东南地区；台湾"
+    },
+    "VSN_5640": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_5638": {
+      "en": "Shaanxi; Sichuan; Shanxi",
+      "zh": "陕西；四川；山西"
+    },
+    "VSN_5637": {
+      "en": "Shaanxi; Sichuan; Yunnan",
+      "zh": "陕西；四川；云南"
+    },
+    "VSN_5630": {
+      "en": "Anhui; Hebei; Sichuan; Shanxi; Yunnan",
+      "zh": "安徽；河北；四川；山西；云南"
+    },
+    "VSN_5628": {
+      "en": "Yunnan; Hainan; Sichuan; Shanxi",
+      "zh": "云南；海南；四川；山西"
+    },
+    "VSN_5626": {
+      "en": "Hebei; Sichuan; Yunnan; Xizang (Tibet); Taiwan",
+      "zh": "河北；四川；云南；西藏；台湾"
+    },
+    "VSN_5619": {
+      "en": "Sichuan; Yunnan",
+      "zh": "四川；云南"
+    },
+    "VSN_5616": {
+      "en": "Anhui; Shaanxi; Sichuan; Shanxi",
+      "zh": "安徽；陕西；四川；山西"
+    },
+    "VSN_5605": {
+      "en": "Hebei; Shanxi; Anhui; Hunan; Sichuan; Beijing; Heilongjiang; Henan; Shaanxi",
+      "zh": "河北；山西；安徽；湖南；四川；北京；黑龙江；河南；陕西"
+    },
+    "VSN_2360": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_2358": {
+      "en": "Taiwan (doubtful)",
+      "zh": "台湾（存疑）"
+    },
+    "VSN_2348": {
+      "en": "Xizang (Tibet)",
+      "zh": "西藏"
+    },
+    "VSN_2336": {
+      "en": "Yunnan; Xizang (Tibet)",
+      "zh": "云南；西藏"
+    },
+    "VSN_2334": {
+      "en": "Hainan; Yunnan",
+      "zh": "海南；云南"
+    },
+    "VSN_2328": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_0001": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_1933": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_1931": {
+      "en": "Heilongjiang; Sichuan; Xizang (Tibet); Yunnan; Taiwan (doubtful); Hong Kong; Jilin",
+      "zh": "黑龙江；四川；西藏；云南；台湾（存疑）；香港；吉林"
+    },
+    "VSN_1927": {
+      "en": "Heilongjiang; Liaoning",
+      "zh": "黑龙江；辽宁"
+    },
+    "VSN_1922": {
+      "en": "Heilongjiang; Jilin",
+      "zh": "黑龙江；吉林"
+    },
+    "VSN_1875": {
+      "en": "Shaanxi; Shanxi (unconfirmed)",
+      "zh": "陕西；山西（待确认）"
+    },
+    "VSN_1869": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_1861": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_1860": {
+      "en": "Hebei; Shanxi; Shaanxi; Sichuan; Guizhou; Liaoning; Yunnan; Zhejiang",
+      "zh": "河北；山西；陕西；四川；贵州；辽宁；云南；浙江"
+    },
+    "VSN_1859": {
+      "en": "Sichuan",
+      "zh": "四川"
+    },
+    "VSN_1852": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_1848": {
+      "en": "Sichuan; Xizang (Tibet); Yunnan",
+      "zh": "四川；西藏；云南"
+    },
+    "VSN_1835": {
+      "en": "Sichuan; Chongqing; Gansu; Yunnan",
+      "zh": "四川；重庆；甘肃；云南"
+    },
+    "VSN_1827": {
+      "en": "Liaoning; Heilongjiang",
+      "zh": "辽宁；黑龙江"
+    },
+    "VSN_1826": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_1821": {
+      "en": "Hainan",
+      "zh": "海南"
+    },
+    "VSN_1820": {
+      "en": "Sichuan; Guangxi; Yunnan",
+      "zh": "四川；广西；云南"
+    },
+    "VSN_1811": {
+      "en": "Sichuan; Hubei; Yunnan",
+      "zh": "四川；湖北；云南"
+    },
+    "VSN_1800": {
+      "en": "Beijing; Shaanxi; Sichuan; Hebei",
+      "zh": "北京；陕西；四川；河北"
+    },
+    "VSN_1799": {
+      "en": "Shaanxi; Shanxi",
+      "zh": "陕西；山西"
+    },
+    "VSN_1798": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_1793": {
+      "en": "Sichuan; Yunnan",
+      "zh": "四川；云南"
+    },
+    "VSN_1788": {
+      "en": "Heilongjiang",
+      "zh": "黑龙江"
+    },
+    "VSN_1787": {
+      "en": "China; no specific regions provided",
+      "zh": "中国；未提供具体地区"
+    },
+    "VSN_1783": {
+      "en": "Fujian; Guangdong",
+      "zh": "福建；广东"
+    },
+    "VSN_1759": {
+      "en": "Hebei; Shandong; Shanghai; Taiwan",
+      "zh": "河北；山东；上海；台湾"
+    },
+    "VSN_1756": {
+      "en": "Sichuan; Qinghai; Xizang (Tibet); Yunnan",
+      "zh": "四川；青海；西藏；云南"
+    },
+    "VSN_1750": {
+      "en": "Fujian; Guizhou; Hunan",
+      "zh": "福建；贵州；湖南"
+    },
+    "VSN_1749": {
+      "en": "Jiangsu; Anhui; Fujian; Henan; Hunan; Yunnan",
+      "zh": "江苏；安徽；福建；河南；湖南；云南"
+    },
+    "VSN_1748": {
+      "en": "Sichuan; Hubei; Jiangsu; Yunnan",
+      "zh": "四川；湖北；江苏；云南"
+    },
+    "VSN_1746": {
+      "en": "Fujian; Guangdong; Hunan; Yunnan; Taiwan; Hong Kong",
+      "zh": "福建；广东；湖南；云南；台湾；香港"
+    },
+    "VSN_1745": {
+      "en": "Heilongjiang",
+      "zh": "黑龙江"
+    },
+    "VSN_1744": {
+      "en": "Liaoning; Heilongjiang",
+      "zh": "辽宁；黑龙江"
+    },
+    "VSN_1732": {
+      "en": "Guizhou; Sichuan; Shaanxi; Yunnan; Hainan; Shanxi",
+      "zh": "贵州；四川；陕西；云南；海南；山西"
+    },
+    "VSN_1731": {
+      "en": "Sichuan; Shaanxi; Yunnan",
+      "zh": "四川；陕西；云南"
+    },
+    "VSN_1730": {
+      "en": "Heilongjiang; Jilin",
+      "zh": "黑龙江；吉林"
+    },
+    "VSN_1726": {
+      "en": "Fujian; Guangdong; Jiangxi",
+      "zh": "福建；广东；江西"
+    },
+    "VSN_1718": {
+      "en": "Hebei; Heilongjiang; Hong Kong",
+      "zh": "河北；黑龙江；香港"
+    },
+    "VSN_1717": {
+      "en": "Hainan; Fujian; Guangdong; Guangxi; Yunnan; Taiwan; Hong Kong",
+      "zh": "海南；福建；广东；广西；云南；台湾；香港"
+    },
+    "VSN_1706": {
+      "en": "Guangdong; Hong Kong",
+      "zh": "广东；香港"
+    },
+    "VSN_1699": {
+      "en": "Liaoning; Shandong; Taiwan",
+      "zh": "辽宁；山东；台湾"
+    },
+    "VSN_1698": {
+      "en": "Sichuan",
+      "zh": "四川"
+    },
+    "VSN_1695": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    },
+    "VSN_1691": {
+      "en": "Anhui; Beijing; Guizhou; Hebei; Jiangsu; Shandong; Sichuan; Zhejiang; Taiwan",
+      "zh": "安徽；北京；贵州；河北；江苏；山东；四川；浙江；台湾"
+    },
+    "VSN_1688": {
+      "en": "Jiangsu",
+      "zh": "江苏"
+    },
+    "VSN_1682": {
+      "en": "Hainan; Yunnan",
+      "zh": "海南；云南"
+    },
+    "VSN_1679": {
+      "en": "Yunnan; Hainan; Taiwan (doubtful)",
+      "zh": "云南；海南；台湾（存疑）"
+    },
+    "VSN_1676": {
+      "en": "Guangdong; Yunnan; Hong Kong",
+      "zh": "广东；云南；香港"
+    },
+    "VSN_1663": {
+      "en": "Shaanxi; Sichuan; Shanxi",
+      "zh": "陕西；四川；山西"
+    },
+    "VSN_1658": {
+      "en": "No specific regions provided",
+      "zh": "未提供具体地区"
+    },
+    "VSN_1634": {
+      "en": "Hainan; Yunnan",
+      "zh": "海南；云南"
+    },
+    "VSN_4887": {
+      "en": "Xizang (Tibet)",
+      "zh": "西藏"
+    },
+    "VSN_4594": {
+      "en": "Northeast China; only at regional resolution",
+      "zh": "中国东北地区；仅有区域级记录"
+    },
+    "VSN_4554": {
+      "en": "Heilongjiang",
+      "zh": "黑龙江"
+    },
+    "VSN_4510": {
+      "en": "Heilongjiang; Liaoning",
+      "zh": "黑龙江；辽宁"
+    },
+    "VSN_4496": {
+      "en": "North China; only at regional resolution",
+      "zh": "中国华北地区；仅有区域级记录"
+    },
+    "VSN_4478": {
+      "en": "North China; Northeast China; Fujian; Yunnan",
+      "zh": "中国华北地区；中国东北地区；福建；云南"
+    },
+    "VSN_4464": {
+      "en": "Yunnan",
+      "zh": "云南"
+    },
+    "VSN_4457": {
+      "en": "Northeast China; only at regional resolution",
+      "zh": "中国东北地区；仅有区域级记录"
+    },
+    "VSN_4419": {
+      "en": "North China; only at regional resolution",
+      "zh": "中国华北地区；仅有区域级记录"
+    },
+    "VSN_4408": {
+      "en": "Northeast China; only at regional resolution",
+      "zh": "中国东北地区；仅有区域级记录"
+    },
+    "VSN_2801": {
+      "en": "Xizang (Tibet)",
+      "zh": "西藏"
+    },
+    "VSN_1390": {
+      "en": "Taiwan; Hong Kong",
+      "zh": "台湾；香港"
+    },
+    "VSN_1620": {
+      "en": "Taiwan (doubtful)",
+      "zh": "台湾（存疑）"
+    },
+    "VSN_1618": {
+      "en": "Taiwan",
+      "zh": "台湾"
+    }
+  }
+}
