@@ -9,19 +9,20 @@
   "checklist_status": "Accepted",
   "review_status": "Reviewed",
   "china_occurrence": {
-    "Mainland China": "Not assessed",
+    "Mainland China": "Candidate",
     "Taiwan": "Present",
     "Hong Kong": "Not assessed",
     "Macao": "Not assessed"
   },
   "distribution": {
-    "summary": "Taiwan",
-    "narrative": "Lin & Beaver (2024) documents modern Taiwan material from Taichung City and Nantou County, including Ren’ai and Puli townships. Taiwan occurrence is confirmed; no mainland-China occurrence is established by this source. Beaver & Liu (2010) provides earlier accepted Taiwan occurrence evidence.",
+    "summary": "Jilin; Taiwan",
+    "narrative": "Alonso-Zarazaga et al. (2023: 565) lists this species from JIL (= Jilin, p. 571) and TAI (= Taiwan). The Jilin occurrence is currently supported by a secondary catalogue record; no independent original specimen or exact locality has yet been traced, so the mainland-China occurrence is treated as Candidate rather than specimen-confirmed. Lin & Beaver (2024) documents modern Taiwan material from Taichung City and Nantou County, including Ren’ai and Puli townships; Beaver & Liu (2010) provides earlier accepted Taiwan occurrence evidence.",
     "reference_ids": [
       "src_beaverliu2010",
-      "src_linbeaver2024_indocryphalustaiwan"
+      "src_linbeaver2024_indocryphalustaiwan",
+      "src_alonsozarazaga2023_ccpcc2"
     ],
-    "summary_zh": "台湾"
+    "summary_zh": "吉林；台湾"
   },
   "hosts": [
     {
@@ -115,6 +116,14 @@
         "nomenclatural source"
       ],
       "citation": "Blandford, W.F.H. (1894c). The Rhynchophorous Coleoptera of Japan. Part III. Scolytidae. Transactions of the Entomological Society of London 1894: 53–141."
+    },
+    {
+      "id": "src_alonsozarazaga2023_ccpcc2",
+      "label": "Alonso-Zarazaga et al., 2023",
+      "role": [
+        "published distribution evidence"
+      ],
+      "citation": "Alonso-Zarazaga, M.A., Barrios, H., Borovec, R., Caldara, R., Colonnelli, E., Gültekin, L., Hlaváč, P., Korotyaev, B., Lyal, C.H.C., Machado, A., Meregalli, M., Pierotti, H., Ren, L., Sánchez-Ruiz, M., Sforzi, A., Silfverberg, H., Skuhrovec, J., Trýzna, M., Velázquez de Castro, A.J. & Yunakov, N.N. (2023). Cooperative Catalogue of Palaearctic Coleoptera Curculionoidea. Second edition. Monografías electrónicas S.E.A., 14: 1–780."
     }
   ],
   "recommended_chinese_name": "茸翅印木小蠹",
