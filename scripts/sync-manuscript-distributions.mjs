@@ -62,8 +62,8 @@ if(regionNew!==await read(regionPath))edits.set(regionPath,regionNew);
 
 const appPath='assets/js/app.js';
 let app=await read(appPath);
-const before="'<p><strong>'+esc(distLabel)+'</strong> '+esc(distSummary)+'</p><p>'";
-const after="'<p><strong>'+esc(distLabel)+'</strong> <span class=\"distribution-summary\" data-en=\"'+esc(distSummary)+'\" data-zh=\"'+esc(t.distribution?.summary_zh||'')+'\">'+esc(distSummary)+'</span></p><p>'";
+const before="<p><strong>'+esc(distLabel)+'</strong> '+esc(distSummary)+'</p><p>'";
+const after="<p><strong>'+esc(distLabel)+'</strong> <span class=\"distribution-summary\" data-en=\"'+esc(distSummary)+'\" data-zh=\"'+esc(t.distribution?.summary_zh||'')+'\">'+esc(distSummary)+'</span></p><p>'";
 if(app.includes(before))app=app.replace(before,after);
 else if(!app.includes(after))throw Error('Cannot locate exact app.js distribution renderer');
 if(app!==await read(appPath))edits.set(appPath,app);
